@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Er snc distributore Esso di Orler Ariano e Cosner A.",
+                "id": "24265",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ER S.N.C. DI ORLER ARIANO E COSNER A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.826310660387433,
+                    46.17255472974069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "impianto eni n.3500",
+                "id": "8255",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BRUGNOLO LUCIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.831677395530278,
+                    46.181951208489764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARBURANTI DOLOMITI",
+                "id": "22008",
+                "amenity": "fuel",
+                "operator": "ZUGLIANI EUGENIO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.815415193447736,
+                    46.156754826193676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MASI SAS DI MICHELI GIOVANNA E C.",
+                "id": "8987",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MASI SAS DI MICHELI GIOVANNA E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.785575449466705,
+                    46.145387619030366
+                ]
+            }
+        }
+    ]
+}

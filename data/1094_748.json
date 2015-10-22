@@ -1,0 +1,54 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "30431",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BARZOTTI PRIMO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.41356008945877,
+                    43.559256714857554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE S.P. 257",
+                "id": "30163",
+                "amenity": "fuel",
+                "operator": "UBALDI MONICA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.443768084049225,
+                    43.575524576581685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rivendita gasolio Marini Anna",
+                "id": "30612",
+                "amenity": "fuel",
+                "operator": "MARINI ANNA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.42027770800405,
+                    43.55623008547643
+                ]
+            }
+        }
+    ]
+}

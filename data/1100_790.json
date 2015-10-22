@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE ESSO",
+                "id": "22269",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "QUARTARARO ANTONINO & MAURIZIO E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.454405665397642,
+                    37.971578701450795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "21421",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F.LLI DI BENEDETTO S.A.S. DI DI BENEDETTO MARIO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.506539762020111,
+                    37.86864546822505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ERG DI TERRANO BIAGIO",
+                "id": "9479",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "TERRANO BIAGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.477988988161089,
+                    37.90858850941451
+                ]
+            }
+        }
+    ]
+}

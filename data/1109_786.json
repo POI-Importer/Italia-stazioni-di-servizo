@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP- ENI",
+                "id": "16573",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SALTALAMACCHIA SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.955892860889433,
+                    38.47573015051393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto IP Isola di Vulcano",
+                "id": "19791",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FERLAZZO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9499249458313,
+                    38.41222384691638
+                ]
+            }
+        }
+    ]
+}

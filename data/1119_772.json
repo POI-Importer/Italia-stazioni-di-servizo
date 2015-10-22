@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "metapoint",
+                "id": "22749",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LA MASSERIA - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.78380623459816,
+                    40.38087735122589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "q8",
+                "id": "21689",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SPINELLI MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.841842532157898,
+                    40.437887693082835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.S. 175 KM.40+521, SNC - 75012 BERNALDA",
+                "id": "10316",
+                "amenity": "fuel",
+                "operator": "FUEL CALOR DISTRIBUZIONI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.805300116539,
+                    40.405383552274685
+                ]
+            }
+        }
+    ]
+}

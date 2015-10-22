@@ -1,0 +1,544 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Q8 via Archi 88",
+                "id": "13491",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "LEONARDI SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.530204281210901,
+                    38.02348057229216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP Erice",
+                "id": "26357",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BASIRICO' DOMENICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.583592981100084,
+                    38.03846482432073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio",
+                "id": "23209",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "FERRARA MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.597238048911095,
+                    38.064060897560005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "btagpp53a25l331t",
+                "id": "22289",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ABITA GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.543588496705524,
+                    38.01105171440953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "10276",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ROMANO GIUSEPPE  E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.537147744041476,
+                    38.019807265315954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ENI",
+                "id": "13775",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FRATELLI MELILLO DI MELILLO VINCENZO & C. - SOCIETA' IN ACCOMANDI TA SEMPLICE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.578442469239233,
+                    38.013012588865735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TP107",
+                "id": "25822",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ADAMO IGNAZIO E FIGLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.569361180067062,
+                    38.012854413099404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "area Q8 di monticciolo giuseppe",
+                "id": "9149",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MONTICCIOLO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.546685785055162,
+                    38.000069575974216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE IP SCHIFANO & TAGLIAVIA",
+                "id": "18062",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SCHIFANO ALESSANDRO & TAGLIAVIA DAVIDE - SOCIETA'  IN NOME COLLE TTIVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.515895366668705,
+                    38.01998254997872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "pompa bianca",
+                "id": "29846",
+                "amenity": "fuel",
+                "operator": "MAGGIO GIACOMA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.532137080426082,
+                    38.01824980610024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NASSER GIACOMO",
+                "id": "20574",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "RIFORNIMENTO ERG DI NASSER GIACOMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.549836039543152,
+                    38.01910394537709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Taoil",
+                "id": "29594",
+                "amenity": "fuel",
+                "operator": "F.LLI TANTARO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.559121012069683,
+                    38.01530593029857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto ENI La Commare",
+                "id": "30867",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LA COMMARE VINCENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.537529783467111,
+                    38.011487650715566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ECOLGAS",
+                "id": "10414",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ECOLGAS SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.543818440367206,
+                    38.004712448230784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "31970",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ROMANO GIUSEPPE  E C. S.R.L. UNIPERSONALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.534910887479782,
+                    38.00526358255808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "28670",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FRATELLI MELILLO DI MELILLO VINCENZO & C. - SOCIETA' IN ACCOMANDI TA SEMPLICE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.63096883893013,
+                    38.04481493665463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "16111",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MACCARIELLO LORENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.545515000820163,
+                    38.01454128673224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rifornimento  leonardo di gesu'",
+                "id": "29193",
+                "amenity": "fuel",
+                "operator": "DI GESU' LEONARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.540828808568907,
+                    38.02149791438649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "D angelo Giovanni Battista",
+                "id": "18165",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "D'ANGELO GIOVANNI BATTISTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.534897476434708,
+                    38.005269711556515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto di Carburante Q8  Di Rizzo Daniele",
+                "id": "29151",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "RIZZO DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.607785165309902,
+                    38.033477252152224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TRAPANI - VILLA ROSINA",
+                "id": "28190",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.56224250793457,
+                    38.00973381327141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "20950",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "NOTO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.52000135440062,
+                    38.021919898606676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 DI DAIDONE FRANCESCO",
+                "id": "31065",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DAIDONE FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.530954329431097,
+                    38.01917866181635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO Bonagia",
+                "id": "23409",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "COMMERCIALE PETROLI TRAPANI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.606549505249065,
+                    38.06075432812348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "29041",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "INCANDELA SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.517483977173699,
+                    38.01445839087096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "12641",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "RUISI CATERINA MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.54046876862867,
+                    38.028250574087195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Esso",
+                "id": "20764",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ROSANO PIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.53053352236748,
+                    38.01943062352497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "sp energia siciliana (trapani piazza stazione)",
+                "id": "26051",
+                "brand": "SP Energia Siciliana",
+                "amenity": "fuel",
+                "operator": "PETROLCOKE ENERGY S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.518144798776689,
+                    38.01672661478916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LFC PETROLI",
+                "id": "24368",
+                "amenity": "fuel",
+                "operator": "DITTA LA FRANCA CARLO DI LA FRANCA BENEDETTO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.557792142033577,
+                    38.057632200722736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio IP",
+                "id": "28338",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "TODARO VINCENZO EMANUELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.624106407165526,
+                    38.01626901077366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BIOLLINO MICHELE",
+                "id": "14170",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BIOLLINO MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.542240694165232,
+                    38.033960834830594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIFORNIMENTO ERG DI NASSER GIACOMO",
+                "id": "20576",
+                "amenity": "fuel",
+                "operator": "RIFORNIMENTO ERG DI NASSER GIACOMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.519497573375702,
+                    38.021502650562425
+                ]
+            }
+        }
+    ]
+}

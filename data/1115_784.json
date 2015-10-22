@@ -1,0 +1,158 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "maco sas",
+                "id": "32213",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MA.CO. DI CUGLIARI VINCENZO S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.150650680065155,
+                    38.6998120805176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "8214",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ELLECI - S.A.S. DI COLLOCA FRANCESCO SAVERIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.128863096237183,
+                    38.71426641296303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI Curcio Antonio",
+                "id": "8902",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CURCIO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.164262890815735,
+                    38.73427804794269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 54954",
+                "id": "24922",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.126357913017273,
+                    38.7140248965428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI ARTUSA SAS DI ARTUSA ANTONINO",
+                "id": "12234",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ARTUSA E FIGLI S.A.S. DI ARTUSA ANTONINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.088544130325317,
+                    38.71070846263558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "16346",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MARCELLO S.A.S. DI MARCELLO ONOFRIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.14369183513213,
+                    38.69524688931307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "V.M.G.S.s.a.s. di Fusca Mic. & C.",
+                "id": "23438",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "V.M.G.S. S.A.S. DI FUSCA MICHELE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.122586727142334,
+                    38.686409208485976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO ESSO",
+                "id": "23418",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MARILEA S.A.S. DI FUSCA GIUSEPPE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.167154127478057,
+                    38.73532940288669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "bagnato salvatore",
+                "id": "23982",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BAGNATO SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.026854664087296,
+                    38.723914264137626
+                ]
+            }
+        }
+    ]
+}

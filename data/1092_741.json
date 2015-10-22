@@ -1,0 +1,190 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PB",
+                "id": "18634",
+                "amenity": "fuel",
+                "operator": "F.A.P. SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.983930447567104,
+                    44.4137598660133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "29906",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CFC OIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.009941563010216,
+                    44.35508911331934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "API",
+                "id": "21525",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TURINO VINCENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.982601390212949,
+                    44.41392427273053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "12730",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "FERRI GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.041187286376955,
+                    44.38480610640086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fussi Massimo",
+                "id": "13939",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FUSSI MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.070575563754232,
+                    44.358579918992106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.EUFEMIA OVEST",
+                "id": "3802",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "NOVELLI LORETTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.046518832015975,
+                    44.40188159809417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "4572",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BONAVITA MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.01080322265625,
+                    44.404186978926944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RUSSI OIL ITALIA",
+                "id": "7188",
+                "brand": "Oil Italia",
+                "amenity": "fuel",
+                "operator": "AZZALINI MARIO & C. - S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.077933549880981,
+                    44.39723640740654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip gruppo api",
+                "id": "25945",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FINOCCHIARO PIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.052828228172304,
+                    44.44771228647586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "_robgas pv2",
+                "id": "4582",
+                "amenity": "fuel",
+                "operator": "ROBGAS COMMERCIALE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.062564492225649,
+                    44.393093267093725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg Bagnacavallo",
+                "id": "23742",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "EFFEMME SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.966195514016706,
+                    44.41376602069844
+                ]
+            }
+        }
+    ]
+}

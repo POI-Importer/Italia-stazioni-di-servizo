@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "11243",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MARCONI STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.779061645269392,
+                    43.10331040983882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GAIFANA SNACK BAR",
+                "id": "30306",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CEDIS APPALTI S.R.L.*COSTRUZIONI EDILI STRADALI APPALTI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.777591794729233,
+                    43.17755796865136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE IP BONTEMPI RITA",
+                "id": "11231",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BONTEMPI RITA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.788185281779986,
+                    43.11354219233238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP ANDREA GRASSI",
+                "id": "10158",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GRASSI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.79026506668697,
+                    43.166158817998024
+                ]
+            }
+        }
+    ]
+}

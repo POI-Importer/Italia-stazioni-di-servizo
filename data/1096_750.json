@@ -1,0 +1,225 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione servizio eni",
+                "id": "7709",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SPOGLI FAUSTO & CALAMUSA EMANUELA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.748990058898926,
+                    43.288084404545344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GUALDO TADINO - VACCARA",
+                "id": "32021",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.766421457672099,
+                    43.252001953579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Total Erg",
+                "id": "14627",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MENICHETTI DANILO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.74742096662521,
+                    43.32444791554417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SACAT",
+                "id": "14667",
+                "amenity": "fuel",
+                "operator": "S.A.C.A.T. - SOCIETA' AUTONOMA CARBURANTI ED AFFINI TERNANA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.764996141195297,
+                    43.25311332792817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "29287",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PREMIER S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.763023376464846,
+                    43.30032875743444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV ENERPETROLI- GUALDO TADINO",
+                "id": "11147",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ENERPETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.786455154418945,
+                    43.21427330070536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "24887",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MAGIO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.68065273761749,
+                    43.27300593985793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.S. Esso di Perla Luciano",
+                "id": "26534",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "AUTOLAVAGGIO FLAMINIA DI PERLA LUCIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.785449326038364,
+                    43.222765484480306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "impianto eni 04580 gestione gubbiotti massimo & c",
+                "id": "8139",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GUBBIOTTI MASSIMO & C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.77787208557129,
+                    43.23497178169398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil di Berardi Mirko",
+                "id": "9266",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BERARDI MIRKO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.776237279176714,
+                    43.235883862784625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio ip n°49258",
+                "id": "9222",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "COLAGRECO GIAMMARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.766402959823608,
+                    43.252005463484494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GUALDO TADINO METANO SNC",
+                "id": "12990",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GUALDO TADINO METANO SNC DI ERCOLI NICKI & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.757186889648438,
+                    43.256899372608956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CONAD SUPERMERCATO",
+                "id": "25055",
+                "brand": "CONAD",
+                "amenity": "fuel",
+                "operator": "COMMERCIALE TADINA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.765786051750183,
+                    43.234523112894685
+                ]
+            }
+        }
+    ]
+}

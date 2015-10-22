@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MARINACCI FRANCESCO",
+                "id": "26217",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MARINACCI FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.346975028514862,
+                    41.85262824338319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "29420",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GAROFALO LEONARDO,  LUIGI & ANDREA -  S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.436080694198608,
+                    41.77660456568076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.TRIFONE OVEST",
+                "id": "3629",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SARNI ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3854,
+                    41.7802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.TRIFONE EST",
+                "id": "3827",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FINIZIO MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.385092304229827,
+                    41.78124000216648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO di MIGLIORE GUIDO RAFFAELE",
+                "id": "16489",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MIGLIORE GUIDO RAFFAELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.451089089549212,
+                    41.7845461999654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NEW PIT STOP DI SANTUCCI MICHELE PRIMIANO",
+                "id": "25476",
+                "amenity": "fuel",
+                "operator": "NEW PIT STOP DI SANTUCCI MICHELE PRIMIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.351279973983766,
+                    41.85901634370984
+                ]
+            }
+        }
+    ]
+}

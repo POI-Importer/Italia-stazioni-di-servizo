@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "3D CABELLA",
+                "id": "7919",
+                "amenity": "fuel",
+                "operator": "3D S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.09418962537302,
+                    44.674071301079
+                ]
+            }
+        }
+    ]
+}

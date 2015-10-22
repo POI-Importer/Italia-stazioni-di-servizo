@@ -1,0 +1,154 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "agip eni",
+                "id": "10462",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SASSU ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.798077896237373,
+                    44.70202033453502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Argenta Carburanti",
+                "id": "4929",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "ARGENTA CARBURANTI DI CALDERONI GIANFRANCO & C. - S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.83967877552277,
+                    44.60832811860611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STRAFORINI ANDREA distributore AGIP",
+                "id": "10195",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STRAFORINI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.791556775569916,
+                    44.68088580962142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Metano Consandolo",
+                "id": "10376",
+                "amenity": "fuel",
+                "operator": "DITTA RINALDI BRUNO DI RINALDI MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.785953640937805,
+                    44.64966893185649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO IP",
+                "id": "28957",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "TROMBINI STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.883964240550995,
+                    44.64385864688804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SISTI RAFFAELE",
+                "id": "13406",
+                "amenity": "fuel",
+                "operator": "SISTI RAFFAELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.784808337688448,
+                    44.708403145878776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ANIMOBONO M. E MONTANARI A. SNC",
+                "id": "5054",
+                "amenity": "fuel",
+                "operator": "ANIMOBONO M. E MONTANARI A. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.843591823942575,
+                    44.60207330366143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COLONNINE METANO",
+                "id": "30521",
+                "amenity": "fuel",
+                "operator": "COLONNINE METANO S.V. DI SUCCI VIVIANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.784693002700806,
+                    44.70849083266995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "21560",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CALZOLARI GILBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.836465084655742,
+                    44.61204845644076
+                ]
+            }
+        }
+    ]
+}

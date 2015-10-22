@@ -1,0 +1,191 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FOSSANO",
+                "id": "15023",
+                "amenity": "fuel",
+                "operator": "CENTRO PETROLI FOSSANO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.712951320209413,
+                    44.55473160508859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "G. E C. DI GIORDANENGO ANTONIO E COSTAMAGNA ANTONELLA SNC",
+                "id": "29243",
+                "brand": "Socogas",
+                "amenity": "fuel",
+                "operator": "G. E C. DI GIORDANENGO ANTONIO E COSTAMAGNA ANTONELLA S.N.C. ABBREVIABILE OVE POSSIBILE IN \"G. E C. S.N.C.\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.708053033065766,
+                    44.54635380971786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO via cuneo 23",
+                "id": "20369",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MERLO FABRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.720530374205055,
+                    44.54290968980079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV S.Albano Stura",
+                "id": "31644",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BECCARIA S.R.L. - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.727859680209348,
+                    44.50701174959642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO TOTAL ERG DI DALMASSO DANIELA",
+                "id": "11309",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO TOTAL ERG DI DALMASSO DANIELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.57769376039505,
+                    44.490248826752335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Centallo",
+                "id": "10841",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ARMANDO MICHELE E DOLCE ROMINA S.N.C. SIGLABILE OVE CONSENTITO \"ARMANDO E DOLCE S.N.C.\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.585705518722533,
+                    44.500302912299624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione repsol di lerda dario",
+                "id": "6828",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "LERDA DARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.718836963176727,
+                    44.541543053619925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "20821",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ARESE FLAVIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.720565646886826,
+                    44.54375143433948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "21002",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BAVA MARGHERITA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.711724060713207,
+                    44.547801197520265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Allocco e Aimetta Fossano Eni 254",
+                "id": "26572",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ALLOCCO ERMANNO & AIMETTA MARILENA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.71193027496338,
+                    44.557079465964954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "27916",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ARMANDO MICHELE E DOLCE ROMINA S.N.C. SIGLABILE OVE CONSENTITO \"ARMANDO E DOLCE S.N.C.\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.612549066543579,
+                    44.540438831831615
+                ]
+            }
+        }
+    ]
+}

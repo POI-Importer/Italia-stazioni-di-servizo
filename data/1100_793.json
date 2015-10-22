@@ -1,0 +1,88 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "20497",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CIARAVELLA GIUSEPPE VALERIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.451516926288608,
+                    37.56170013881221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pompa Bianca",
+                "id": "18512",
+                "amenity": "fuel",
+                "operator": "MICELI MICHELINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.390876672688595,
+                    37.440984645972385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DP FUEL DI D'ANNA FRANCESCO & C. SNC",
+                "id": "9498",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DP FUEL DI D'ANNA FRANCESCO & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.436181396245956,
+                    37.51986048686688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SP ENERGIA SICILIANA",
+                "id": "22153",
+                "brand": "SP Energia Siciliana",
+                "amenity": "fuel",
+                "operator": "AGOZZINO PASQUALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.391040489077572,
+                    37.44087786981091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAPODICASA SALVATORE",
+                "id": "24719",
+                "amenity": "fuel",
+                "operator": "CAPODICASA SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.526527034987678,
+                    37.51037738779058
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE IP DI PIETRELLI LORENZO",
+                "id": "23016",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PIETRELLI LORENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.124440491199493,
+                    44.23623679078563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "11242",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "T.T. DI TURCOLINI FRANCESCO E TRAMONTANA AMEDEO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.130961390174093,
+                    44.241927376660676
+                ]
+            }
+        }
+    ]
+}

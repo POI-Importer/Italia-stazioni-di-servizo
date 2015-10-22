@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore di carburante Malpeli Paolo",
+                "id": "12336",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MALPELI PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.980287849903107,
+                    44.50352788805476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TUGO OVEST",
+                "id": "27906",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DV8 S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.93914544582367,
+                    44.4865175643199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FERRARI CARBURANTI SAS",
+                "id": "24485",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FERRARI CARBURANTI DI FERRARI ANTONELLA E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.938765913248062,
+                    44.563755332175745
+                ]
+            }
+        }
+    ]
+}

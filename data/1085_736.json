@@ -1,0 +1,328 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "28016",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SIGIAN DI IANNI' FRANCESCO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.790417568817134,
+                    44.984861286533764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL DI FABOZZI GIUSEPPE",
+                "id": "13694",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "S/A TAMOIL FABOZZI GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.85772220422973,
+                    44.99744824428371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio TAMOIL",
+                "id": "8931",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "TRUZZI NARDINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.877505540847778,
+                    45.08619500625128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BITUMCALOR",
+                "id": "10680",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "BITUMCALOR S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.766636294879275,
+                    45.00639136851741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE IP \"I SALICI\"",
+                "id": "30758",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "D'ISIDORO FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.837527215480803,
+                    44.987382296479964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PO OVEST",
+                "id": "3656",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "WHITE SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.840346217155457,
+                    45.059509586555365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "total erg",
+                "id": "12719",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BONATTI FRATELLI DI BONATTI VANNI E GIANNI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.724851779901087,
+                    44.992931728656465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "16998",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "F.LLI GANZERLI S.N.C. DI GANZERLI STEFANO E FOSCHI LARA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.755387917160986,
+                    45.06047754854622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso orlandi",
+                "id": "18136",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ORLANDI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.75482130050659,
+                    45.05365106800451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni franzoni letizia",
+                "id": "21383",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FRANZONI LETIZIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.727958977222444,
+                    44.995021489705046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MOTTEGGIANA",
+                "id": "18331",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GHULAM DI GHULAM SARWAR & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.744653874204914,
+                    45.03498381820133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Energy Rete Srl - Borgoforte",
+                "id": "22482",
+                "brand": "Energy Rete",
+                "amenity": "fuel",
+                "operator": "ENERGY RETE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.769834953237478,
+                    45.08834452894962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REPSOL",
+                "id": "31473",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "STRATOS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.839836597442627,
+                    44.987058283434486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PO EST",
+                "id": "3985",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "WHITE SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.84427175053861,
+                    45.066728953299496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BAR IP",
+                "id": "13416",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PRENDI ARBEN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.837525203824043,
+                    44.987383434692546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MALAVASI LORIS",
+                "id": "9450",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "MALAVASI LORIS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.78512489795685,
+                    44.9700920933488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIVA SERGIO",
+                "id": "16473",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PIVA SERGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.860337391495706,
+                    44.994535724090284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALESSANDRO SRL, distributore IP",
+                "id": "23723",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ALESSANDRO SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.848671793937683,
+                    44.98740885480621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "57835",
+                "id": "28007",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FIORDALIGI MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.753454076782191,
+                    44.984867153548436
+                ]
+            }
+        }
+    ]
+}

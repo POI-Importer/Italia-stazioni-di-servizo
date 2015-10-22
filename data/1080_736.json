@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CADEO-FZ.ROVELETO VIA EMILIA SS.9 KM.245",
+                "id": "11751",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.849873483181,
+                    44.96631404121732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Magnani Sabrina",
+                "id": "14028",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MAGNANI SABRINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.92391586303711,
+                    45.08706612589971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "19111",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GALLI VANNI & C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.873222783207893,
+                    45.04761362705751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "20375",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BUIA  FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.928954392671585,
+                    44.98961884627419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO IP",
+                "id": "6178",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SINGH HARJINDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.853175740743609,
+                    45.04375335085488
+                ]
+            }
+        }
+    ]
+}

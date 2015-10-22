@@ -1,0 +1,175 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F. lli Corba",
+                "id": "14191",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "F.LLI CORBA S.A.S. DI CORBA MASSIMO E STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.680664807558058,
+                    46.09627828783546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CHIARANDA WALTER",
+                "id": "8420",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CHIARANDA WALTER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.661537113769555,
+                    46.152007288182354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "agip",
+                "id": "30256",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MAZZOLI STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.719670126162784,
+                    46.158439319230354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "f.lli pontello srl",
+                "id": "17054",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "F.LLI PONTELLO SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.766555845737459,
+                    46.18547289485763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI DANDOLO",
+                "id": "31382",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SOM S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.750341892242428,
+                    46.103448394071364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Del Mistro Giannina",
+                "id": "13135",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DEL MISTRO GIANNINA IN CRISTOFOLI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.685920991401645,
+                    46.16060908237446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SMP MANIAGO",
+                "id": "24034",
+                "brand": "San Marco Petroli",
+                "amenity": "fuel",
+                "operator": "SAN MARCO PETROLI DISTRIBUZIONE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.707948159050602,
+                    46.15978812506532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "f.lli pontello srl",
+                "id": "17047",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "F.LLI PONTELLO SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.709001195106568,
+                    46.16598687441715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "4803",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DA PRAT ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.794137001037598,
+                    46.163629181193734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "22957",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BUTTO' MAURIZIO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.712611410947487,
+                    46.171139350907175
+                ]
+            }
+        }
+    ]
+}

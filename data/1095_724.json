@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE ESSO SOLAGNA PAOLO",
+                "id": "22876",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SOLAGNA PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.548946659631156,
+                    46.55297094650555
+                ]
+            }
+        }
+    ]
+}

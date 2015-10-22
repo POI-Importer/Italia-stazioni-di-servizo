@@ -1,0 +1,341 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Menegatto",
+                "id": "12970",
+                "amenity": "fuel",
+                "operator": "SERVISAVENA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.347180728836065,
+                    44.64282511462405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Api-Ip",
+                "id": "17067",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MONTANARI MANUELA STAZIONE DI SERVIZIO TOTAL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.37093247063899,
+                    44.63226917424726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGRIMOTOR SRL",
+                "id": "26485",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "AGRIMOTOR S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.27412331041444,
+                    44.62756849947277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTEL BENTIVOGLIO OVEST",
+                "id": "3544",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "Nuova Sidap SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.419019941139254,
+                    44.62160909108894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BENTIVOGLIO",
+                "id": "17190",
+                "amenity": "fuel",
+                "operator": "CARBURANTI VECCHIETTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.369521245360374,
+                    44.61467085417792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP di  Pinca Marisa",
+                "id": "23836",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PINCA MARISA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.296506353303585,
+                    44.67829553499288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "21343",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BARALDI RUDY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.276996433734894,
+                    44.59228099911063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sala Bolognese",
+                "id": "26172",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.26193046569824,
+                    44.616735270059465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.LLI ROSSI DI ROSSI ERMANNO E ROSSI RAFFAELE - S.N.C.",
+                "id": "15329",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "F.LLI ROSSI DI ROSSI ERMANNO E ROSSI RAFFAELE - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.395776718854904,
+                    44.68909776267596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTEL BENTIVOGLIO EST",
+                "id": "3913",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "Bentivoglio EST di Arnosti Paolo sas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.420130262565637,
+                    44.621704545622926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO ESSO",
+                "id": "23029",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FERRI CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.401917636394503,
+                    44.697451165201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Motorbike di Pareschi S.",
+                "id": "13422",
+                "amenity": "fuel",
+                "operator": "MOTORBIKE DI PARESCHI STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.254284536770683,
+                    44.60952290510679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sala Bolognese",
+                "id": "24219",
+                "amenity": "fuel",
+                "operator": "ADRIATICA ENERGY S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.300843954086304,
+                    44.610671931373126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NONSOLOSUPER SNC",
+                "id": "27046",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "NONSOLOSUPER S.N.C. DI FRANCHI TIZIANO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.416570544242859,
+                    44.62662435594532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIEVE DI CENTO-PONTE NUOVO",
+                "id": "30182",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.302937550926229,
+                    44.711673314209484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "agip",
+                "id": "24645",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GAYA S.N.C. DI D'APOLITO LUCA E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.374602852869202,
+                    44.640613582123315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore carburanti eni 25549",
+                "id": "17945",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONE SERVIZI*INTERPORTO - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.375930247595534,
+                    44.61995916643704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio ESSO",
+                "id": "27542",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LUKU MONIKA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.300262342852761,
+                    44.71314047296468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IES",
+                "id": "28114",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "LA SOSTA S.N.C. DI ROMEO SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.384459137916565,
+                    44.66999653191528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "26956",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VERSACE GIOVAMBATTISTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.305618017977393,
+                    44.70825534887167
+                ]
+            }
+        }
+    ]
+}

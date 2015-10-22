@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore carburante Santoro Arturo",
+                "id": "26441",
+                "amenity": "fuel",
+                "operator": "CLUB DELLA SOFFERENZA DI SANTORO ARTURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.476237787828838,
+                    42.11232137375695
+                ]
+            }
+        }
+    ]
+}

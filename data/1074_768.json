@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL FRATELLI PALA",
+                "id": "16014",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "F.LLI PALA S.A.S. DI SALVATORE ANDREA PALA E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.820730000734331,
+                    40.927281785697986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "12079",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SACRIPANTI GIULIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.81790904104662,
+                    40.92678144209269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil michele suelzu",
+                "id": "15310",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SUELZU MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.856517374515533,
+                    40.91125371247457
+                ]
+            }
+        }
+    ]
+}

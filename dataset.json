@@ -1,0 +1,14 @@
+{
+	"data": {"source":"data", "zoom": 11},
+	"query":"[amenity=fuel]",
+	"icon": "fuel",
+	"dist":30,
+	"id": "id",
+	"tagmatch":
+	[
+		{"key":"amenity", "algorithm":"equality"},
+		{"key":"name", "algorithm":"equalIgnoreCase"},
+		{"key":"brand", "algorithm":"equality"},
+		{"key":"operator", "algorithm":"equalIgnoreCase"}
+	]
+}

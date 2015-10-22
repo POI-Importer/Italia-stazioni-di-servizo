@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "59331",
+                "id": "27098",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TOMASSINI MARIO - SOCIETÀ IN NOME COLLETTIVO DI TOMASSINI MAURIZI O - GIULIANO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.617907881736754,
+                    42.34103328619648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FACCHINI CARBURANTI",
+                "id": "12729",
+                "amenity": "fuel",
+                "operator": "FACCHINI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.616111585272165,
+                    42.34988435449677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "nugnez giuliano",
+                "id": "22859",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "NUGNEZ GIULIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.607069091235642,
+                    42.351427852970495
+                ]
+            }
+        }
+    ]
+}

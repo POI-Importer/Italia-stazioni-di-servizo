@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Edilizia Mastrangelo Maria Antonietta",
+                "id": "6168",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MASTRANGELO MARIA ANTONIETTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.969891309738157,
+                    41.73150863756023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianti Distribuzione Carburanti",
+                "id": "30942",
+                "amenity": "fuel",
+                "operator": "MARMORINI DONATO LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.99028892257081,
+                    41.76845968186689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil - Giangiacomo",
+                "id": "20143",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "GIANGIACOMO MARIA GABRIELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.969392418861387,
+                    41.66385143186362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DIS ERVIZIO IP COD. CBY00085B",
+                "id": "22810",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CAPPIELLO LEANDRO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.986572393485176,
+                    41.71122170376458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LICURSI MATTEO",
+                "id": "22808",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LICURSI MATTEO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.987380842909491,
+                    41.71142046060873
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,324 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "19282",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BARALDI MATTEO E MARIO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.86227890301484,
+                    44.88468839934581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ROBI",
+                "id": "23758",
+                "amenity": "fuel",
+                "operator": "GEAVIS SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.724968314170836,
+                    44.8466405136659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NOVI DI MODENA TOTALERG",
+                "id": "25238",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TOTAL SERVICE DI GHULAM ABBAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.894247329736118,
+                    44.879506854223344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Savioli",
+                "id": "10705",
+                "amenity": "fuel",
+                "operator": "SAVIOLI ODDINO S.N.C. DI SAVIOLI LAMBERTO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.855460464954376,
+                    44.91634327834995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REGGIOLO",
+                "id": "31721",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "MELIES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.777402017196662,
+                    44.89017100966071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NOVI DI MODENA - S.S. ROMANA 23 S.S.",
+                "id": "30465",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.897853468751919,
+                    44.891729452933525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Savioli",
+                "id": "10704",
+                "amenity": "fuel",
+                "operator": "SAVIOLI ODDINO S.N.C. DI SAVIOLI LAMBERTO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.80143611163942,
+                    44.91556762822194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pinotti Gino",
+                "id": "17002",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PINOTTI GINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.803041795650984,
+                    44.91985273568093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ranjha total service",
+                "id": "30121",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "RANJHA TOTAL SERVICE DI ZAHID IMRAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.897646248340608,
+                    44.84289161424024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GONZAGA - GUERRIERI GONZAGA",
+                "id": "30184",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.81535749206546,
+                    44.955683515342386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil Reggiolo",
+                "id": "7058",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SAVINI M. E PEZZONI C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.799363239147965,
+                    44.92051732414551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NI010456  Novellara",
+                "id": "24614",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CORO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.742912292480469,
+                    44.85012181038649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE ENI DI PALMA ALFREDO",
+                "id": "30974",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DI PALMA ALFREDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.816448405385017,
+                    44.95527297570583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Savioli",
+                "id": "10703",
+                "amenity": "fuel",
+                "operator": "SAVIOLI ODDINO S.N.C. DI SAVIOLI LAMBERTO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.84726631641388,
+                    44.892567298970924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP REGGIOLO",
+                "id": "29639",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "EUROPAM S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.846576988697054,
+                    44.916223997592034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FABBRICO",
+                "id": "31997",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ENERGY RETE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.801798575918609,
+                    44.872715949708926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "_gias snc",
+                "id": "6140",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GIAS  SNC DI PASINI ALESSIO E FANTONI SIMONE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8974826335907,
+                    44.84283912430487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NOVELLARA-PROVINCIALE NORD",
+                "id": "31999",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ENERGY RETE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.733355581760405,
+                    44.84912119906555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP di BULGARELLI MARIO & C. SNC",
+                "id": "7013",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BULGARELLI MARIO & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.74442986508177,
+                    44.923487579359126
+                ]
+            }
+        }
+    ]
+}

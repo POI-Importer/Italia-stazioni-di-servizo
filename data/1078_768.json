@@ -1,0 +1,158 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OLBIA",
+                "id": "5976",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.492578728836065,
+                    40.96081494901646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg",
+                "id": "9764",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "LOID SERVICE S.A.S. DI ALESSANDRO IDINI & C. IN SIGLA \"LOID SERVICE S.A.S.\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.641178846359253,
+                    40.864693081263816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OLBIA",
+                "id": "4059",
+                "brand": "Fiamma 2000",
+                "amenity": "fuel",
+                "operator": "FIAMMA 2000 - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.52649475797125,
+                    40.90819266448502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 CASSITTA G.F.",
+                "id": "9182",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SARA CARBURANTI S.N.C. DI CASSITTA GIAN FRANCO E LOVERCI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.513697475194931,
+                    40.934276964361516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio ESSO Deiana Domenica",
+                "id": "15795",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DEIANA DOMENICA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.499072059988976,
+                    40.93369358826534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "q8",
+                "id": "9429",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "EFFEMME S.N.C. DI MUREDDU PIETRO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.50578898191452,
+                    40.9109592282637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Agip",
+                "id": "31500",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SCHIRRU SERVICE S.A.S. DI STEFANO SCHIRRU"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.50391948223114,
+                    40.945804018708934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "13442",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PISANU PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.504853498672446,
+                    40.92971528761503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MURTA MARIA",
+                "id": "4057",
+                "brand": "Fiamma 2000",
+                "amenity": "fuel",
+                "operator": "FIAMMA 2000 - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.570584959352118,
+                    40.89311438696204
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,190 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "POZZI SERVICE SRL",
+                "id": "5306",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "POZZI SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.58614492416382,
+                    40.46095789014934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni sergio annunziata",
+                "id": "32061",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ANNUNZIATA SERGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.541427135467528,
+                    40.45573743803425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MIGLIORE METANAUTO",
+                "id": "30895",
+                "amenity": "fuel",
+                "operator": "MIGLIORE METANAUTO S.A.S. DI MIGLIORE MICHELE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.532742142677307,
+                    40.45479452956363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IES BRIENZA - MD2 CARBUANTI di Muro Domenico",
+                "id": "10246",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "MD2 CARBURANTI DI MURO DOMENICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.633185505867003,
+                    40.51416212243117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "15220",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "STABILE GIUSI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.482546589638789,
+                    40.4693853119944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "27022",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "COMMERCIALE MELANDRO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.640121698379518,
+                    40.52803252945561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carburanti srl- IP",
+                "id": "8357",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.49034982919693,
+                    40.54609555774426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Diano Service",
+                "id": "28455",
+                "amenity": "fuel",
+                "operator": "DIANO SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.516761541366579,
+                    40.50784049943525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 SAN PIETRO",
+                "id": "4474",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "FABIANO ENERGIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.519477954947206,
+                    40.451481385338276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Donadio Deborah Area Servizio Q8",
+                "id": "32196",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DONADIO DEBORAH"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.586180546367814,
+                    40.46096764919722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 SANT'ARSENIO",
+                "id": "4475",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "FABIANO ENERGIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.51764179308066,
+                    40.45002223278343
+                ]
+            }
+        }
+    ]
+}

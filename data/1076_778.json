@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore Q8 6462",
+                "id": "25483",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ARTIZZU FRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.187660987800998,
+                    39.600888400806
+                ]
+            }
+        }
+    ]
+}

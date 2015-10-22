@@ -1,0 +1,139 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso di  Rocca Stefano",
+                "id": "12317",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ROCCA STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.834662996600173,
+                    45.83037851039837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Berg di Ambrosini Mauro",
+                "id": "16887",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BERG DI AMBROSINI MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.81528304299161,
+                    45.837950254124365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "avia",
+                "id": "13356",
+                "amenity": "fuel",
+                "operator": "CAPONIGRO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.84251276708676,
+                    45.83347062153794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "area di servizio sodin",
+                "id": "8738",
+                "amenity": "fuel",
+                "operator": "AREA DI SERVIZIO SODIN DI PARONZINI ETTORINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.830848634243011,
+                    45.94358528506767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CUNARDO PROVINCIALE",
+                "id": "6549",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.805555499999969,
+                    45.933827292163755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI 2904",
+                "id": "19572",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "REDAELLI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.856808661376931,
+                    45.85941334106329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VARESE VIALE AGUGGIARI 175",
+                "id": "24047",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.82003208650815,
+                    45.83373424159962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE CARBURANTI",
+                "id": "8489",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ACHILLE LORENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.82190816104412,
+                    45.92923134592548
+                ]
+            }
+        }
+    ]
+}

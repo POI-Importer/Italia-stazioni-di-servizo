@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "la salica",
+                "id": "4873",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DI VIVONA EUGENIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.15299791097641,
+                    42.840484283075256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Braccagni",
+                "id": "4652",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.076123118400574,
+                    42.86825061011571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bernardini Michela",
+                "id": "6966",
+                "brand": "Aquila",
+                "amenity": "fuel",
+                "operator": "BERNARDINI MICHELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.138516664505005,
+                    42.82793291950803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Staz. Servizio IP di Vecchiarelli Tito e Piero Snc",
+                "id": "21662",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "VECCHIARELLI TITO & PIERO SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.080718588105812,
+                    42.92544663898517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "f.lli carli andrea e claudio snc",
+                "id": "6210",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "F.LLI CARLI ANDREA E CLAUDIO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.075638532827043,
+                    42.87179720989744
+                ]
+            }
+        }
+    ]
+}

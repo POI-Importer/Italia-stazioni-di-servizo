@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTELPAGANO",
+                "id": "28829",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.819831103086472,
+                    41.39480822202439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "16019",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GE.CA. DI GENOVESE MICHELA & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.811254739761354,
+                    41.45876280012019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IAROSSI LUIGI",
+                "id": "15891",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IAROSSI LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.933744782947088,
+                    41.44313727999133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP di Ruggiero Antonio",
+                "id": "21623",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "RUGGIERO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.835964988680413,
+                    41.4864069555116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ga.li. snc",
+                "id": "32040",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "GA.LI. SOCIETA' IN NOME COLLETTIVO DI MOFFA GAETANO, CIOCCA LIVIA E FIGLI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.838420152664183,
+                    41.47349621544184
+                ]
+            }
+        }
+    ]
+}

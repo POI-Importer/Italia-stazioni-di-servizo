@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SARACENA - LAPIRA",
+                "id": "31169",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.15941877546311,
+                    39.7796659618296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO Q8",
+                "id": "13221",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "D.I.P. DI DONADIO IVO MARIO E DONADIO PAOLO PIO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.13808184862137,
+                    39.84293261967325
+                ]
+            }
+        }
+    ]
+}

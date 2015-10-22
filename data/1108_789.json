@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rifornimento Esso",
+                "id": "28106",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MANGIONE GIUSEPPINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.786394648479472,
+                    38.12058084477718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Grs petroli snc",
+                "id": "25848",
+                "amenity": "fuel",
+                "operator": "FARANDA GAETANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.826377706434185,
+                    38.110882508557246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rifornimento Esso",
+                "id": "28219",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MANGIONE GIUSEPPINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.883833124908964,
+                    38.04849303911046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "G.R.S.PETROLI s.n.c.",
+                "id": "24361",
+                "amenity": "fuel",
+                "operator": "LOPIS DIEGO NATALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.909197334371585,
+                    38.056380718075836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio ESSO di Vitanza Antonino",
+                "id": "4917",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "VITANZA ANTONINO & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.819614937859344,
+                    38.04898863362165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "9348",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GIOVE S.A.S. DI VITANZA NOTARO CALOGERO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.806027584222646,
+                    38.08524923484623
+                ]
+            }
+        }
+    ]
+}

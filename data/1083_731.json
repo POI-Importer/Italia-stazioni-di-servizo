@@ -1,0 +1,327 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "KEROPETROL",
+                "id": "10664",
+                "amenity": "fuel",
+                "operator": "BRENTEGANI TIBAU"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.510611534118652,
+                    45.611526284132964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SMP SALO'",
+                "id": "5179",
+                "brand": "San Marco Petroli",
+                "amenity": "fuel",
+                "operator": "SAN MARCO PETROLI DISTRIBUZIONE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.521836578845978,
+                    45.5894231789393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE IP",
+                "id": "13510",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ARGENTI FERNANDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.388117746746843,
+                    45.65461240623141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio ESSO di Beltrami Luisa",
+                "id": "26321",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BELTRAMI LUISA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.415577253967285,
+                    45.66104649202135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione servizio esso di bianchi erik e stefania",
+                "id": "27168",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BIANCHI ERIK E STEFANIA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.504549864756086,
+                    45.64596640358473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO LEONESIO BATTISTA",
+                "id": "27205",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LEONESIO BATTISTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.420505769952344,
+                    45.65769247481215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Franzoni Giulio Distributore Carburanti",
+                "id": "13374",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FRANZONI GIULIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.421436131000519,
+                    45.65771947457158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE RIFORNIMENTO ESSO REMI MAURO",
+                "id": "16792",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "REMI MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.451122630024656,
+                    45.59969988469138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Servizio Q8 di Venni Enrico",
+                "id": "9867",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "VENNI ENRICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.483344197273254,
+                    45.61656793739434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RETITALIA",
+                "id": "30426",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "SERVIZIO VELOCE S.N.C. DI ALBERTINI NICOLO' E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.50175245204241,
+                    45.62901446374988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE IP DI SALVINI MAURO",
+                "id": "17738",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SALVINI MAURO GIANPAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.408326363195782,
+                    45.68121820650458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "70004",
+                "id": "22553",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE DI GILL BALRAJ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.511517024030582,
+                    45.61169613920334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Esso di Berardi Mauro",
+                "id": "26271",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BERARDI MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.387846018681445,
+                    45.70010078056906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BIVIO",
+                "id": "13110",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ECCOMELLI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.373759865760803,
+                    45.637865757440586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "45159",
+                "id": "25581",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE DI GILL BALRAJ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.520476698875427,
+                    45.60537107048608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE IP DI LEALI GIAN BATTISTA",
+                "id": "16430",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LEALI GIANBATTISTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.518532839001638,
+                    45.59975934164747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VOBARNO-FZ.COLLIO VIA PROVINCIALE 53",
+                "id": "11527",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.507421612349392,
+                    45.63787891570949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SALO'-VIA DESENZANO LOC. CUNETTONE",
+                "id": "11531",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.517985830688533,
+                    45.58577465889848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO Q8",
+                "id": "8014",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GUZZA GIULIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.514491349458694,
+                    45.61108948964776
+                ]
+            }
+        }
+    ]
+}

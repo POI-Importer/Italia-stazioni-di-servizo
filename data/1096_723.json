@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COSTANTIN FORNI AVOLTRI",
+                "id": "11271",
+                "brand": "Costantin",
+                "amenity": "fuel",
+                "operator": "ENERTOP S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.78182566165924,
+                    46.583788922969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "4R",
+                "id": "25602",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "4R DI QUATTRER ROBERT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.671261274966694,
+                    46.56465926444039
+                ]
+            }
+        }
+    ]
+}

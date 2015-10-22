@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENERPETROLI",
+                "id": "16600",
+                "amenity": "fuel",
+                "operator": "SASSETTI FABRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.171282610838716,
+                    42.565753476223286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FONTEBLANDA",
+                "id": "27159",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "TONINELLI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.164668202400206,
+                    42.5788400847688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GROSSETO BANDITELLA",
+                "id": "31064",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "STAR SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.141536831855774,
+                    42.674871297361726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ORBETELLO - FONTEBLANDA",
+                "id": "23997",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "STAR SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.16740942001343,
+                    42.5738722749348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Porto di Talamone",
+                "id": "19910",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MOLINARI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.135285943746567,
+                    42.55441101129027
+                ]
+            }
+        }
+    ]
+}

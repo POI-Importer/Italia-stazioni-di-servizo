@@ -1,0 +1,325 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 13365",
+                "id": "30225",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.718230545520782,
+                    45.02169832099877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto distribuzione carburanti di Vegro Daniele",
+                "id": "19477",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "VEGRO DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.774526925258556,
+                    45.07501211902853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SS IP gruppo api",
+                "id": "21632",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MARELLA DI GRANDI PAOLO & C. -S.N.C.-"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.749137840366984,
+                    45.07933461687567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "De Agostini Michele",
+                "id": "17506",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "DE AGOSTINI MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.740105979762234,
+                    45.012444082654085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORO.FLLI SPA",
+                "id": "29012",
+                "brand": "Loro",
+                "amenity": "fuel",
+                "operator": "LORO F.LLI-S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.756653189659119,
+                    45.071120260360225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TROMBETTA MIRCO & C. S.N.C.",
+                "id": "13078",
+                "amenity": "fuel",
+                "operator": "TROMBETTA MIRCO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.760351955890656,
+                    44.984257809792695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LENDINARA",
+                "id": "5882",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TotalErg SpA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.612151729335892,
+                    45.082574745071575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ADIGE EST",
+                "id": "3581",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "Adige Est s.n.c. di Mazzoni M. & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.710862273645377,
+                    45.04161321379479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 3402",
+                "id": "30226",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.609642654657364,
+                    45.083569825798854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Repsol Bosaro",
+                "id": "31585",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "PETROL SERVICE SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.76083207130432,
+                    44.99040076446243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PUNTO NORD",
+                "id": "4137",
+                "amenity": "fuel",
+                "operator": "SAN MARCO SECONDA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.773186326026917,
+                    45.08061119255113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "METANIFERA LENDINARESE SRL",
+                "id": "20343",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "METANIFERA LENDINARESE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.60782652446744,
+                    45.08505693631447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Costantin Villanova del Ghebbo",
+                "id": "25556",
+                "brand": "Costantin",
+                "amenity": "fuel",
+                "operator": "M.A.M. DI MALIN LUIGI E MALIN LIONELLO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.638256224536917,
+                    45.05949805174142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Oil Italia",
+                "id": "5314",
+                "amenity": "fuel",
+                "operator": "ZENATO GIANCARLO LIVIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.75302889362638,
+                    45.07914439845223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "23889",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PENNINI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.755345951065012,
+                    44.973013978221196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 3380",
+                "id": "30519",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7550104074096,
+                    45.07900151950235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "28133",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FOGAGNOLO ADRIANO S.N.C. DI FOGAGNOLO LUCA E DAMIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.648078685180733,
+                    45.028976353018514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ADIGE OVEST",
+                "id": "3506",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ADS ADIGE OVEST DI PROVETTI EGILIO & BORGNA LUCA S.N.C. CON SIGLA ADS ADIGE OVEST S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.70936244907375,
+                    45.04147402054118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REPSOL",
+                "id": "5042",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "TRIDELLO STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.619836390018463,
+                    45.08037577563589
+                ]
+            }
+        }
+    ]
+}

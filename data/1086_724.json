@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kostner - Ulten",
+                "id": "5322",
+                "brand": "Kostner",
+                "amenity": "fuel",
+                "operator": "KOSTNER SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.001165264057475,
+                    46.54735638468117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO REPSOL DI FANTI MILVA",
+                "id": "21327",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "FANTI MILVA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.015294204685233,
+                    46.44261596324279
+                ]
+            }
+        }
+    ]
+}

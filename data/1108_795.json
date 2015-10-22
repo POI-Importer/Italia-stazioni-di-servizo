@@ -1,0 +1,190 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FRANCOFONTE",
+                "id": "4928",
+                "brand": "Lukoil",
+                "amenity": "fuel",
+                "operator": "ND PETROLI DI DIBENNARDO NUNZIO & C. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.85401585698128,
+                    37.21879910483669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "P.ZZA ARCHIMEDE FRANCOFONTE",
+                "id": "26687",
+                "brand": "Giap",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8790734822976,
+                    37.22720602830473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IDC IP Via Roma, 50",
+                "id": "24245",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SALLEMI CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.883305855155983,
+                    37.22910813824452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "q8",
+                "id": "30623",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CAPPELLO FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.897992014884952,
+                    37.22734873814557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA ALDO MORO SCORDIA",
+                "id": "19608",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.845626312828015,
+                    37.29090600536082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SP SCORDIA MILIT",
+                "id": "12045",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.789853084655759,
+                    37.277783555770895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GF CARBURANTI SRL",
+                "id": "31609",
+                "amenity": "fuel",
+                "operator": "GF CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.844967424869536,
+                    37.298574768309834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "P.ZZA CARMINE VECCHIO",
+                "id": "27443",
+                "brand": "Giap",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.88669197071738,
+                    37.22674793690949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SP 28 SCORDIA-MILITELLO",
+                "id": "20981",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.835480495700837,
+                    37.289730624585545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "self area Eni di Lentini Salvatore e c sas",
+                "id": "22157",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LENTINI SALVATORE E C. DI LENTINI SALVATORE S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.888782650232319,
+                    37.22609721610252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "g.r.s. petroli snc",
+                "id": "25557",
+                "amenity": "fuel",
+                "operator": "MILITTO SANTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.940008159693662,
+                    37.19476410646439
+                ]
+            }
+        }
+    ]
+}

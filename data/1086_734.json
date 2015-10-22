@@ -1,0 +1,157 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso self service di Sgavioli Alessandro",
+                "id": "18892",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SGAVIOLI ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.007664085913802,
+                    45.269730796942945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Costantin Isola della Scala",
+                "id": "4812",
+                "brand": "Costantin",
+                "amenity": "fuel",
+                "operator": "DANESE MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.010017490737937,
+                    45.293237642523906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO LANZA",
+                "id": "4617",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO S.N.C. DI LANZA MASSIMILIANO E LORENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.01839929819107,
+                    45.226232605757595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CRISTANINI DAVIDE",
+                "id": "16157",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CRISTANINI DAVIDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.967994653467144,
+                    45.240549992092866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Metano Villafranca S.r.l.",
+                "id": "5380",
+                "amenity": "fuel",
+                "operator": "METANO VILLAFRANCA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.003134846687315,
+                    45.328924354278726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL7224",
+                "id": "31452",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CORDIOLI ALBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.951293110847473,
+                    45.33136212051271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "52850",
+                "id": "17070",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FIORINI RENATO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.007029145939669,
+                    45.271473757794205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BUTTAPIETRA - SS 12 VIA ISOLA 70",
+                "id": "7271",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.001831169311572,
+                    45.33174333907425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SMP VIGASIO",
+                "id": "5258",
+                "brand": "San Marco Petroli",
+                "amenity": "fuel",
+                "operator": "SAN MARCO PETROLI DISTRIBUZIONE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.941025614738463,
+                    45.31141415847831
+                ]
+            }
+        }
+    ]
+}

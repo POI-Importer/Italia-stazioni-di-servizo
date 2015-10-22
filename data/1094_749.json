@@ -1,0 +1,54 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio ip di evsei aurelia",
+                "id": "29552",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "EVSEI AURELIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.43392622692477,
+                    43.43634449931975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Robi",
+                "id": "28365",
+                "amenity": "fuel",
+                "operator": "MARCONI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.435600757598877,
+                    43.44513769284272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CoenDamaschiPetroli srl",
+                "id": "23245",
+                "amenity": "fuel",
+                "operator": "COENDAMASCHIPETROLI S.R.L. (IN BREVE CDP S.R.L.\")"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.42064288343272,
+                    43.34108587010338
+                ]
+            }
+        }
+    ]
+}

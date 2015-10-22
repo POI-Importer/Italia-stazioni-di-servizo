@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA DI SERVIZIO IP",
+                "id": "6092",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MEETING S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.64579463005066,
+                    42.16389250555079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RETEITALIA",
+                "id": "30155",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "FLORIO MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.594719335436825,
+                    42.20733209106022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PORTOBELLO",
+                "id": "4565",
+                "amenity": "fuel",
+                "operator": "ADRIATICA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.639080067855843,
+                    42.17070537304322
+                ]
+            }
+        }
+    ]
+}

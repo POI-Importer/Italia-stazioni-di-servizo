@@ -1,0 +1,852 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rifornimento eni s.p.a. di La Motta Giuseppe",
+                "id": "28153",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LA MOTTA GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.557201206684113,
+                    38.19837906562384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Agip di Mangano Carmelo",
+                "id": "22529",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MANGANO CARMELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.592132656869467,
+                    38.250837726152504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP di Micalizzi Antonio",
+                "id": "10807",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MICALIZZI ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.541914891450347,
+                    38.16183150028846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP ENI 9717",
+                "id": "25439",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CACOPARDO PIETRO & FIGLIO SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.533922314643863,
+                    38.15802226051311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Esso",
+                "id": "17652",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BRUZZESE SANTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.626331791281698,
+                    38.26401537324189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rifornimento IP di Cardia Giuseppe",
+                "id": "18646",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CARDIA GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.533760040998457,
+                    38.16817321582997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "15264",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SANTAMARIA DOMENICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.538498634864029,
+                    38.16239979928124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Capone Carmelo & C. snc",
+                "id": "8475",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CAPONE CARMELO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.543626621365549,
+                    38.1830901205177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio ENI di Casablanca Carmelo-Giovanni",
+                "id": "28552",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CASABLANCA CARMELO GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.547097325325012,
+                    38.17894836053201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 Stazione di Servizio",
+                "id": "29670",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PREVITERA VELIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.56183460658849,
+                    38.218165982776085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio ENI",
+                "id": "28551",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DE COLA CARMELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.547161784995184,
+                    38.19841284975505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gestione area servizio di pino giuseppe",
+                "id": "9756",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PINO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.56004703044891,
+                    38.187712004099645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIALE REGINA ELENA MESSINA",
+                "id": "31042",
+                "brand": "Giap",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.55860609755041,
+                    38.208755388990824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rifornimento ESSO di Calogero Rosario",
+                "id": "25468",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CALOGERO ROSARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.553271037334977,
+                    38.22360796493895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "contesse",
+                "id": "6039",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BOSSA STELLARIO & C. SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.529805123806002,
+                    38.150856409799474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP SCARAMUZZINO FRANCESCO",
+                "id": "26521",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SCARAMUZZINO FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.636708587408062,
+                    38.22381208869146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Eni di Basile Gregorio",
+                "id": "13018",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BASILE GREGORIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.561877638101578,
+                    38.21207477741211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio di sciortino a.&c.",
+                "id": "20771",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SCIORTINO ANTONINO & C. S.N.C. DI SCIORTINO ANTONINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.524069219827652,
+                    38.141421366282465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Panarello",
+                "id": "22345",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PANARELLO FORTUNATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.630742013454435,
+                    38.26563780051437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SI SERVIZIO ESSO DI MARTINE BELLE'",
+                "id": "13980",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BELLE' MARTINE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.637045968464692,
+                    38.21716285994454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TREMESTIERI OVEST",
+                "id": "24855",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONE RETE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.517555475234984,
+                    38.14370714945347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rifornimento Q8",
+                "id": "25545",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GUGLIANDOLO GIANLUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.579719484453106,
+                    38.241014325555724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE METANO ZAPPALA' ANNE MARIA- CONTRADA FORNACE ,MESSINA",
+                "id": "6909",
+                "amenity": "fuel",
+                "operator": "ZAPPALA' ANNE MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.513758808374408,
+                    38.156584905280106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "POMPA BIANCA",
+                "id": "24152",
+                "amenity": "fuel",
+                "operator": "QUARTARONE ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.563737992729216,
+                    38.21596985586101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CONTARINO SAS DI CONTARINO MAURILIO E C",
+                "id": "11071",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CONTARINO S.A.S. DI CONTARINO MAURILIO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.531328618526457,
+                    38.17085339224896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Tamoil Musolino Alessandro",
+                "id": "15004",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE TAMOIL DI MUSOLINO ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.636860501587533,
+                    38.22466794706973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio ip cardile cinzia",
+                "id": "23865",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CARDILE CINZIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5430372255164,
+                    38.171819389096775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "santamaria davide &c. snc",
+                "id": "19208",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SANTAMARIA DAVIDE & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.564414337277416,
+                    38.22534354400991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MESSINA S.S.114 KM 3+800-LOC.CONTESSE",
+                "id": "24758",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.531795546032756,
+                    38.15539531622085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Marrari Lucia",
+                "id": "9971",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MARRARI LUCIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.636938629510952,
+                    38.21678329160422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio IP di Giovanni Crupi",
+                "id": "21873",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CRUPI GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.530312061309813,
+                    38.152685306928234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rifornimento IP di Galletta Antonino",
+                "id": "14488",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GALLETTA ANTONINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.559806302189827,
+                    38.21386527281542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI- INTERDONATO MAURIZIO",
+                "id": "18681",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "INTERDONATO MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.54974254436229,
+                    38.189837664732934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO di Licandro Angelo",
+                "id": "17115",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LICANDRO ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.551013926010226,
+                    38.19852683535265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "14801",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GIACOBBE GIUSEPPE & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.551528334617613,
+                    38.189078086339464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio IP di De Cola Carmelo",
+                "id": "18088",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DE COLA CARMELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.59440344572067,
+                    38.25358624334273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni",
+                "id": "28595",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SAVASTA GAETANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.554344654083252,
+                    38.20400857214422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "6958",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "NICA PIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.602038353681564,
+                    38.25537318955442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Staz. serv. Eni del Dott. Salvatore Ruggeri",
+                "id": "15595",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RUGGERI SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.541940778493883,
+                    38.16572491187361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio IP di Raineri Mario",
+                "id": "11407",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO IP DI RAINERI MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.568300187587738,
+                    38.226126537628794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "30271",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MEGNA GRAZIELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.53896889090538,
+                    38.16503814335072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di servizio Catona",
+                "id": "14182",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SERVIZI INTEGRATI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.64311929207179,
+                    38.188353575448154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Agip di Mangano Giovanni",
+                "id": "22443",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MANGANO GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.545831153506015,
+                    38.181550322662765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "8781",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "TOPGESTIONE S.A.S. DI GIACOPPO ORAZIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.482316613197327,
+                    38.2698962890563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BN PETROLI",
+                "id": "9248",
+                "amenity": "fuel",
+                "operator": "B.N. PETROLI DI BERTUCCIO NICOLA & C.SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.607059448957443,
+                    38.25794569140852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Self Area Eni di Arena Giuseppe",
+                "id": "16439",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ARENA GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.547704845666882,
+                    38.2113687672704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "17840",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SANTAMARIA ANTONINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.558058506845098,
+                    38.202104339709315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CONTARINO SAS DI CONTARINO M.E C.ZAERA",
+                "id": "11070",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CONTARINO S.A.S. DI CONTARINO MAURILIO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.548142045736313,
+                    38.1809861409633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTR. TAMOIL di Giovanni Sottilaro",
+                "id": "16650",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SOTTILARO GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.635652389192956,
+                    38.216646129177114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio IP di Mazza Francesco",
+                "id": "18559",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MAZZA FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.555856010564979,
+                    38.200572986997315
+                ]
+            }
+        }
+    ]
+}

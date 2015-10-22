@@ -1,0 +1,224 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO VAIRANO PATENORA",
+                "id": "29974",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.112150371074677,
+                    41.318623375574326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO PIETRAVAIRANO",
+                "id": "29979",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.156184196472168,
+                    41.31492409583528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "24031",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "LOMBARI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.124406725168232,
+                    41.33552119372535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG DI LUCA CAPUANO",
+                "id": "17793",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO TOTAL ERG DI LUCA CAPUANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.234137237071993,
+                    41.321106164924686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO AILANO",
+                "id": "29969",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.19278025627136,
+                    41.37376452863632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione eni 8423",
+                "id": "19519",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DISTRIBUZIONE CARBURANTI DI FILIPPO CASO S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.109201282262804,
+                    41.312638306120974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VAIRANO GPL",
+                "id": "29046",
+                "amenity": "fuel",
+                "operator": "EWAGRILL DI SALZILLO VINCENZO & C S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.104653596878054,
+                    41.34616364467904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fulgorgas teano",
+                "id": "29659",
+                "amenity": "fuel",
+                "operator": "FULGORGAS SUD S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.117424935102463,
+                    41.280797343440696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SELF CAR WASH",
+                "id": "12743",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SELF CAR WASH S.A.S. DI NATALE LUIGI E F.LLI IN SIGLA \"SELF CAR WASH S.A.S.\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.189516502199583,
+                    41.27529975309091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMA S.A.S.",
+                "id": "14204",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "I.MA.S.A.S. DI IZZO MARCO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.182860990030122,
+                    41.27208662288011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TEANO VIALE ITALIA  36",
+                "id": "6717",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.06461505337302,
+                    41.252793616505336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SS. CASILINA -  VAIRANO",
+                "id": "28682",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.110287106745886,
+                    41.311503994318784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.E.A.R. SRL",
+                "id": "5571",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SEAR DI ROTONDO RAFFAELE & C. S.R.L. IN SIGLA : SEAR S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.183145761489868,
+                    41.31954498999248
+                ]
+            }
+        }
+    ]
+}

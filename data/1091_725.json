@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FALCADE-FR.CAVIOLA VIA PINETA SS.346",
+                "id": "11508",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.893151003674234,
+                    46.362765982776544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE IP",
+                "id": "24633",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE IP DI DE BIASIO MARZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.881361086518156,
+                    46.35901539798526
+                ]
+            }
+        }
+    ]
+}

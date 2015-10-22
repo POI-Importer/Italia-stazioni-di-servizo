@@ -1,0 +1,54 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ip di Aiello Vincenzo",
+                "id": "21368",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "AIELLO VINCENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.887994534587733,
+                    39.21151074682281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MILANO NICOLA CARBURANTI",
+                "id": "26310",
+                "amenity": "fuel",
+                "operator": "MILANO NICOLA & C.S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.009278088808063,
+                    39.182014805219254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MILANO NICOLA CARBURANTI",
+                "id": "26309",
+                "amenity": "fuel",
+                "operator": "MILANO NICOLA & C.S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.039218246936798,
+                    39.16120039836683
+                ]
+            }
+        }
+    ]
+}

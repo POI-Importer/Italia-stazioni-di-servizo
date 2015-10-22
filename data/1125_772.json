@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "basile petroli",
+                "id": "23861",
+                "amenity": "fuel",
+                "operator": "PIETRO TOTARO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.849486768245697,
+                    40.42140255720784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP CAR S.N.C.",
+                "id": "16818",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AGIPCAR S.N.C. DI EPIFANI GIROLAMO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.845419198274612,
+                    40.416438380476976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI PV 09207",
+                "id": "8404",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "COLUCCIA GIACOMO E FIGLI DI COLUCCIA CLAUDIO E COLUCCIA FIORELLA SOCIETA' IN NOME COLLETTIVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.830923199653625,
+                    40.418082664192404
+                ]
+            }
+        }
+    ]
+}

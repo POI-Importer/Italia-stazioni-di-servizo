@@ -1,0 +1,475 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PETROL - DISTRIB. LO IACONO FRANCESCA",
+                "id": "19863",
+                "amenity": "fuel",
+                "operator": "CHICCA CAFE' DI LO IACONO FRANCESCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.424940441770673,
+                    43.572949657400514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione servizio ip",
+                "id": "18699",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PETRACCINI FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.53114366531372,
+                    43.52565365905879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OSIMO",
+                "id": "5407",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "enirete oil&nonoil S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.500224898147621,
+                    43.49101801931232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio totalerg di Socci Stefano",
+                "id": "12294",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SOCCI STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.514938677246162,
+                    43.5771871678365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "13690",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LUCARELLI FABRIZIO E MARCHETTI MAURIZIO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.522822111845015,
+                    43.52302717809504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA DI SERVIZIO OSIMO",
+                "id": "5251",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GOLDENGAS - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.496924042701721,
+                    43.49904224539255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "11365",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "COLUSSI MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.507644821148688,
+                    43.5778503419964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO DANY",
+                "id": "31483",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ESSO DANY DI FERRATO DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.510469198226929,
+                    43.555833934513096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio IS - Offagna",
+                "id": "27183",
+                "amenity": "fuel",
+                "operator": "SIMONETTI MARIO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.452169941863986,
+                    43.53985950780516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio IP - Campocavallo",
+                "id": "27028",
+                "amenity": "fuel",
+                "operator": "SIMONETTI MARIO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.499147737936937,
+                    43.45994032602449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IL CONERO DI MACCIONI MAURO & C. SAS",
+                "id": "13934",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "IL CONERO DI MACCIONI MAURO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.524411991238592,
+                    43.57113732129531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di servizio Padiglione s n c di AGRICOLI e PAESANI",
+                "id": "27143",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "AREA DI SERVIZIO PADIGLIONE S.N.C. DI AGRICOLI MAURO E PAESANI DORIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.456551432609558,
+                    43.46345541127024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carburanti Discount",
+                "id": "4415",
+                "amenity": "fuel",
+                "operator": "IMPIANTI DISTRIBUZIONE PETROLI - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.51768970489502,
+                    43.5516196167256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "POLUCCI ENI",
+                "id": "31000",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "IPPOLITI MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49776450299976,
+                    43.51603178955962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VAREN SNC",
+                "id": "17708",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "VAREN DI CUPIDO CRISTIANA  &  C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.510454446077343,
+                    43.555837433368886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO di Falappa Cinzia",
+                "id": "27242",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FALAPPA CINZIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.466800153255463,
+                    43.4695092136324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Q8 Baraccola - Ancona",
+                "id": "4774",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BOMPADRE FLAVIO & TORBIDONI LUCA SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.510442376136778,
+                    43.561158948846796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Delta Motor Oil",
+                "id": "31203",
+                "amenity": "fuel",
+                "operator": "AEFFE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.512609601020811,
+                    43.55058931893127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "24018",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MARCHETTI ERMASIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.489293828606606,
+                    43.46007784327982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Auchan",
+                "id": "4317",
+                "brand": "Auchan",
+                "amenity": "fuel",
+                "operator": "AUCHAN S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.51595163345337,
+                    43.554058436320595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Possanzini Claudio",
+                "id": "16875",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "POSSANZINI CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.392435908317568,
+                    43.5515554666224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "27050",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MARCONI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.397953212261204,
+                    43.48562325585337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BAR SAN VINCENZO - STAZIONE DI SERVIZIO NEW PETROL",
+                "id": "19776",
+                "amenity": "fuel",
+                "operator": "NEW PETROL S.A.S. DI PAVONI S. & V."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.396900445222855,
+                    43.513556505522715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAMERANO VIA FARFISA",
+                "id": "6601",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.528831815344237,
+                    43.51912047066238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OSIMO S.S. 361 KM. 4+500 IMP. Q8",
+                "id": "6609",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49927153558201,
+                    43.503659801920485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 55897",
+                "id": "25202",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49945068359375,
+                    43.57793561401693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "20554",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "EREDI DI TRAVERSA FERDINANDO DI TRAVERSA IVO & C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.525840938091278,
+                    43.53205961478477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PAOLUCCI",
+                "id": "15153",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IPPOLITI MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.50074592622525,
+                    43.481400460466205
+                ]
+            }
+        }
+    ]
+}

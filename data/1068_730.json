@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VICQUERY ENRICO",
+                "id": "12509",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "VICQUERY ENRICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.736960649490356,
+                    45.71605708243892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "semeraro massimiliano",
+                "id": "21188",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SEMERARO MASSIMILIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.734465932540844,
+                    45.756422290031836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASAGRANDE",
+                "id": "30319",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CASAGRANDE DI CASAGRANDE GIUSEPPE & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.834223626435687,
+                    45.767990485223606
+                ]
+            }
+        }
+    ]
+}

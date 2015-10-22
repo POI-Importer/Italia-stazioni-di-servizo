@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nordoil",
+                "id": "23495",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "NORDOIL STEGONA SAS DI KUMAR KAMAL & CO. % NORDOIL STEGEN KG DES KUMAR KAMAL & CO."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.924491661376921,
+                    46.79797994470147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Q8 San Vigilio",
+                "id": "23654",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "WILLEIT ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.929178237915039,
+                    46.70104550360471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni Self Center",
+                "id": "8154",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SELF CENTER SAS DI J. STAGGL & CO."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.926959812441964,
+                    46.790674821731656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carlo Crosina",
+                "id": "27572",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PETROLMATIC DI CROSINA CARLO E MAIR LYDIA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.930924355644947,
+                    46.792898469344784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Tamoil San Lorenzo di Sebato",
+                "id": "6117",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MUTSCHLECHNER ALBERT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.877553598211648,
+                    46.776215097979716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV Q8 2624",
+                "id": "23827",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "REICHEGGER ALFONS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.946787609786954,
+                    46.79797491500244
+                ]
+            }
+        }
+    ]
+}

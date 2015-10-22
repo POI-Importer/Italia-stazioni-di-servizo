@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip",
+                "id": "10570",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MATIZ ALBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.119336068630219,
+                    46.527352170037865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OIL ITALIA PALUZZA",
+                "id": "29762",
+                "brand": "Oil Italia",
+                "amenity": "fuel",
+                "operator": "I.S. INDUSTRIA SERVIZI S.A.S. DI AZZALINI MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.012695461511612,
+                    46.52659887992749
+                ]
+            }
+        }
+    ]
+}

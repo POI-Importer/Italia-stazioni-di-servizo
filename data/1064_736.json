@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "roure",
+                "id": "22210",
+                "brand": "Oil Italia",
+                "amenity": "fuel",
+                "operator": "OIL ITALIA SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.140849083662032,
+                    44.9921261823106
+                ]
+            }
+        }
+    ]
+}

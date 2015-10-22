@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ditta TARANTO FRANCESCO STAZIONE DI SERVIZIO",
+                "id": "26714",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "TARANTO FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.837632924318317,
+                    38.580089319916105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "8528",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GIUFFRE' GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.871684908866882,
+                    38.55731695819608
+                ]
+            }
+        }
+    ]
+}

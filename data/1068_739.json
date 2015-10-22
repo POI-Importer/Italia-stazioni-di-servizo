@@ -1,0 +1,325 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIAZZA GIOLITTI 82 - BRA",
+                "id": "29342",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.845040142327889,
+                    44.696589409917586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione IP Cavallin",
+                "id": "30870",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CAVALLIN SIMONE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.783733010292054,
+                    44.63004810700486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIO COLORE OVEST",
+                "id": "3835",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "A.G. DI ALBERIONE BRUNO MARIA E C. SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.762301073318555,
+                    44.70384277549808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Petroltermica Bra",
+                "id": "5569",
+                "amenity": "fuel",
+                "operator": "PETROLTERMICA COMAC - OLCEA S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.829043567180634,
+                    44.68475717868651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIO COLORE EST",
+                "id": "30170",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "ELLENA SNC DI LAURA E ORNELLA ELLENA - SIGLABILE  \"ELLENA SNC\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.763645946979524,
+                    44.70475907041813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "31646",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ABIEMME S.N.C. DI BRAVO DARIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.742131948471069,
+                    44.65842447845015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "kerocarbo",
+                "id": "21183",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "D'AGOSTINO MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.867620438337327,
+                    44.650785581826206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ERRETRE",
+                "id": "12646",
+                "amenity": "fuel",
+                "operator": "ERRETRE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.852113246917726,
+                    44.667185570340756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZ.AGIP DI CHIARAMELLO MATTEO ARMANDO",
+                "id": "14149",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CHIARAMELLO MATTEO ARMANDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.844326123595237,
+                    44.69227280775086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ERRETRE",
+                "id": "12648",
+                "amenity": "fuel",
+                "operator": "ERRETRE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.866538166999817,
+                    44.64581754587524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "8289",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BROGGIO FRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.869984028593535,
+                    44.5999076462397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Socogas",
+                "id": "4966",
+                "brand": "Socogas",
+                "amenity": "fuel",
+                "operator": "MANZO MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.834268510341644,
+                    44.712858991781495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ristobar del Sole",
+                "id": "29881",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RISTOBAR DEL SOLE SRL SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.81722441315651,
+                    44.667833003795366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI00267 DI TUNINETTI GIANNI",
+                "id": "24423",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TUNINETTI GIANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.792098820209503,
+                    44.638791728557806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "7420",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PATRONE E RIVERDITI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.858499586582183,
+                    44.69382089132359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "8330",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "2 M DI MESSA GIUSEPPE E MORRUSCO ROSA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.902206182479858,
+                    44.695314212230734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PUNTO VENDITA TAMOIL",
+                "id": "18456",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "COSTAMAGNA GABRIELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.858305126428604,
+                    44.645402871658014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SHELL",
+                "id": "18253",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CHRIS CAFE' S.A.S. DI LA GRECA CLAUDIA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.805456221103671,
+                    44.666466021813584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "13828",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "Z.A. S.N.C. DI ZOCCARATO PIETRO & C. SIGLABILE IN Z.A. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.850128160574285,
+                    44.68510172934616
+                ]
+            }
+        }
+    ]
+}

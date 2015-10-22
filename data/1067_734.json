@@ -1,0 +1,342 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CDI CIRIE'",
+                "id": "31574",
+                "amenity": "fuel",
+                "operator": "CENTRO DISTRIBUZIONE IDROCARBURI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.614737534393271,
+                    45.230698352846964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "3D SAN FRANCESCO",
+                "id": "15618",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "3D S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6507936613769525,
+                    45.2335878867477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE RIFORNIMENTO DI PAPA MAURIZIO",
+                "id": "4896",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PAPA MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.609745027310739,
+                    45.248854003320886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGLIETTO s.n.c.",
+                "id": "7307",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AGLIETTO - S.N.C. DI AGLIETTO MARCO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6045392379593295,
+                    45.22696224283207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BRACCO GIULIANA",
+                "id": "18424",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "BRACCO GIULIANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.56877068220899,
+                    45.24637322312972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "26784",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CRICELLI TERESA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.666594368122901,
+                    45.27796909543223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fratelli Baima S.N.C.",
+                "id": "10145",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FRATELLI BAIMA S.N.C. - DI BAIMA BESQUET IVANO E BAIMA BESQUET FLAVIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.659763991832733,
+                    45.321891806740595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DAN-GAS",
+                "id": "6932",
+                "amenity": "fuel",
+                "operator": "DAN GAS DI MORLETTO SILVANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.730882382278423,
+                    45.31691861311569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "galda",
+                "id": "6338",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "GALDA - S.N.C. DI CANTELLA DANIELE E COTTINI ALBERTA SIGLABILE COMMERCIALMENTE GALDA - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6113393902778625,
+                    45.216669909432255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CIRIE'-VIA TORINO 18",
+                "id": "11886",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6035360343933,
+                    45.228528572890035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "19988",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CIPRIANO ONORINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.665484644036042,
+                    45.27862792552635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "27617",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PIRRELLO PIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.726269364356994,
+                    45.3277182548528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Q8 Pomatto Simone",
+                "id": "15385",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "POMATTO SIMONE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6114194330755245,
+                    45.33627012858427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EPINOT MARIO",
+                "id": "8690",
+                "amenity": "fuel",
+                "operator": "EPINOT MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.588392711639472,
+                    45.23332911252511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CIRIE' - STRADA LANZO 116",
+                "id": "30830",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.59494635581973,
+                    45.237618789876684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "18910",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DI RISIO PINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.613878101110459,
+                    45.23153658631017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IL PIAZZALE SAS",
+                "id": "20527",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "IL PIAZZALE S.A.S. DI PAOLO MARIETTA BERSANA E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.593248594421878,
+                    45.251070920315236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FERRINO CHRISTIAN",
+                "id": "22779",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "FERRINO CHRISTIAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.686437219381333,
+                    45.33022093920658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "13338",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "COSTANTINO ADRIANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.592832148075104,
+                    45.216491547687696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "agip",
+                "id": "6342",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FACELLI LUCIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5948987901210785,
+                    45.22916933194277
+                ]
+            }
+        }
+    ]
+}

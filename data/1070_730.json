@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Q8 di Bigliardi Marco",
+                "id": "5650",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BIGLIARDI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.259716429499806,
+                    45.812946006258635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "KEROPETROL",
+                "id": "27522",
+                "amenity": "fuel",
+                "operator": "D.S.E. S.A.S. DI SOLA MARIA SEVERINA E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.260061144828795,
+                    45.76531360361601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BENSINAT  DI UFFREDI CHIARA",
+                "id": "25216",
+                "amenity": "fuel",
+                "operator": "UFFREDI CHIARA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.113296031951904,
+                    45.79277169225308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI VARALLO",
+                "id": "10585",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "M. & M. DI PATTARONI MARCO E MIRCO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.245867988885495,
+                    45.816286095728564
+                ]
+            }
+        }
+    ]
+}

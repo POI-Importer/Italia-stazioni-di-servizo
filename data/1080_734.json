@@ -1,0 +1,172 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fabio Betti",
+                "id": "24162",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BETTI FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.871459901332855,
+                    45.22053893703469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO AGIP",
+                "id": "21274",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SALBED-S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.99312240081781,
+                    45.31563353106864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A.P. di Arcaini A. e Pessina R. snc - Casalbuttano",
+                "id": "26021",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "A.P. DI ARCAINI ALESSANDRO & PESSINA ROBERTO SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.963979046649229,
+                    45.24592753553046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FUSARI BRUNO CARBURANTI",
+                "id": "21369",
+                "amenity": "fuel",
+                "operator": "FUSARI BRUNO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.921946580476286,
+                    45.31403197481046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil di agosti massimo",
+                "id": "7208",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "AGOSTI MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.854416319573945,
+                    45.28410473590087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP GIRELLI MARIA TERESA",
+                "id": "31755",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GIRELLI MARIA TERESA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.866621866822245,
+                    45.28575901964335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI 1693",
+                "id": "14545",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MASINI FRATELLI DI MASINI STEVE E MIRCO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.01554012298584,
+                    45.32197063824524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "oil italia",
+                "id": "7430",
+                "amenity": "fuel",
+                "operator": "BI.CLA DI BIONDI CLAUDIO & BIONDI MARIO SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.85873818397522,
+                    45.293708733224776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MAINARDI CESARE distr. API",
+                "id": "31915",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MAINARDI CESARE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.902601993883081,
+                    45.28430544138963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "METANBACHI",
+                "id": "5212",
+                "amenity": "fuel",
+                "operator": "METAN.BA.CHI. DI CHIODELLI GIUSEPPE & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.985436232193706,
+                    45.282458301030196
+                ]
+            }
+        }
+    ]
+}

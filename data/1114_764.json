@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CERIGNOLA - S. P. 75 KM. 24,750",
+                "id": "10310",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BNA DISTRIBUZIONE SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.83829402923584,
+                    41.39388908117753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Di Noia Leonardo  IP gruppo Api",
+                "id": "26963",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DI NOIA LEONARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.954921841621397,
+                    41.458373636732155
+                ]
+            }
+        }
+    ]
+}

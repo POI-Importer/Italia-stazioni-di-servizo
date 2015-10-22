@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO STRADALE TAMOIL",
+                "id": "26140",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PASTORE PETROLI - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.125905036926268,
+                    44.824136797974155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL di Zambruno Monica e Ilaria snc",
+                "id": "28443",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ZAMBRUNO MONICA E ILARIA SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.054638743400574,
+                    44.78983927376061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "8685",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MORANDO CELESTINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.037081003189087,
+                    44.72667305902961
+                ]
+            }
+        }
+    ]
+}

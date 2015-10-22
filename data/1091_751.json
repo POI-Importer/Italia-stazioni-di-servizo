@@ -1,0 +1,205 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di rifornimento Q8",
+                "id": "17206",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "TALLI LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.827615070114122,
+                    43.13360771056472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "17232",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BERNARDI ELISA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.856487691402435,
+                    43.131044234495576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Piccini Paolo s.p.a.",
+                "id": "28654",
+                "amenity": "fuel",
+                "operator": "CASELLI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.87059611082077,
+                    43.11185112241826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "P.V. ENERPETROLI - TORRITA DI SIENA",
+                "id": "25922",
+                "brand": "Enerpetroli",
+                "amenity": "fuel",
+                "operator": "ENERPETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.784164607524872,
+                    43.172492982194896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "la poliziana petroli snc",
+                "id": "10781",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LA POLIZIANA PETROLI S.N.C. DI ANATRINI ALESSIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.788759231567383,
+                    43.109379989802086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "10816",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GEST AREA SERVICES SNC DI LAURA ROSIGNOLI E GIANFRANCO DELFINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.778011620044708,
+                    43.16934862191312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CORTONA CENTOIA CARBURANTI",
+                "id": "31600",
+                "amenity": "fuel",
+                "operator": "L'EDERA DI DOMINGO PIERONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.932987948839015,
+                    43.18966859648705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tre Berte",
+                "id": "9365",
+                "amenity": "fuel",
+                "operator": "I.C.M. SOCIETA' IN NOME COLLETTIVO DI BRUNO, CRISTIANO E FABRIZIO MAGGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.888601779937744,
+                    43.09970989229391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VANNOZZI DANIELE",
+                "id": "5738",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "VANNOZZI DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.796408891677856,
+                    43.18343536134152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTEPULCIANO OVEST",
+                "id": "3623",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "Gestioni Toscane srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.864437758922577,
+                    43.13498916117313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PETROL TRANS",
+                "id": "29168",
+                "amenity": "fuel",
+                "operator": "PETROL C DI CARLETTI OMBRETTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.870598793029785,
+                    43.11186287082949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTEPULCIANO EST",
+                "id": "3489",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "giove petroli sas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.865132186508161,
+                    43.136753376473095
+                ]
+            }
+        }
+    ]
+}

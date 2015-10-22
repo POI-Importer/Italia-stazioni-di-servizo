@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE RETITALIA",
+                "id": "26375",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "BRANCHETTI ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.036407470703125,
+                    41.73417318961958
+                ]
+            }
+        }
+    ]
+}

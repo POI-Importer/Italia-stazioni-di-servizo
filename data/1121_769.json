@@ -1,0 +1,192 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "28444",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "G. &  D. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.145527601242065,
+                    40.84155266722603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "total erg",
+                "id": "29256",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "LIUZZI MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.099098563194275,
+                    40.80231358269593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NOCI VIA T SICILIANI",
+                "id": "23187",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.117480434952995,
+                    40.799271276272144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ip via noci 42562",
+                "id": "15096",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CASULLI LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.112714797258377,
+                    40.84404481921009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "liuzzi michele",
+                "id": "23337",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "LIUZZI MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.13965892791748,
+                    40.790278211962445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP INTINI",
+                "id": "29005",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP INTINI & INTINI DI INTINI ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.116538286209106,
+                    40.786335256160626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Noci",
+                "id": "29681",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11518242955208,
+                    40.79164771287625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NOCI S.P. 237 KM. 22+010",
+                "id": "22134",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.106361985206604,
+                    40.79423900592723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Martucci S.  Stazione di servizio Esso",
+                "id": "18654",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MARTUCCI SIMONE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.12079532757798,
+                    40.79851752722194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI CASTELLANA GROTTE",
+                "id": "4959",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SEMERARO GIUSEPPE & F.LLI SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.200022041797638,
+                    40.82164414833338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NOCI - SS 377 PER MOTTOLA",
+                "id": "32090",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.116496876686483,
+                    40.786342332164914
+                ]
+            }
+        }
+    ]
+}

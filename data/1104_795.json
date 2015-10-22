@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "giap",
+                "id": "30872",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "DONZELLA VINCENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.185905619715413,
+                    37.18674841236299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BOGNANNI GAETANO DISTRIBUTORE CARBURANTI",
+                "id": "18898",
+                "amenity": "fuel",
+                "operator": "BOGNANNI GAETANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.201946705579758,
+                    37.29785091844218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AUTOMOBILE CLUB CALTANISSETTA",
+                "id": "31981",
+                "amenity": "fuel",
+                "operator": "LICATA GIUSEPPE ANTONIO & C. S.A.S. DI LICATA GIUSEPPE ANTONIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.138782024383545,
+                    37.26962900131196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIESI",
+                "id": "21548",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CONSENTINO SALVATORE & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.082894044844126,
+                    37.280195470939944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio di Patrì M. & c. s.a.s.",
+                "id": "15699",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO DI PATRI' MAURIZIO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.083530530333519,
+                    37.28010519043307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALFIERI ELVIO CLAUDIO",
+                "id": "9793",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ALFIERI ELVIO CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.185819923877716,
+                    37.18904617720728
+                ]
+            }
+        }
+    ]
+}

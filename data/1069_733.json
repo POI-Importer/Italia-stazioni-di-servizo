@@ -1,0 +1,139 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "31209",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "A.M. SERVICE DI BERTOLINO ANDREA & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.9217246174812335,
+                    45.44472620074555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ZANETTO",
+                "id": "22757",
+                "amenity": "fuel",
+                "operator": "ZANETTO GIOVANNI BRUNO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.948239594697952,
+                    45.42735950803106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG RAFFAELE IOVINE",
+                "id": "12568",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "IOVINE RAFFAELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.981950938701629,
+                    45.36905418287335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto Tamoil Rosselli Enzo",
+                "id": "14804",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ROSSELLI ENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.050905168056488,
+                    45.42345111504067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ex  IP",
+                "id": "5630",
+                "amenity": "fuel",
+                "operator": "BIDA RRAPI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.078761249780655,
+                    45.373592652151245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIVERONE NORD",
+                "id": "31053",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DISTRIBUZIONE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.012584447860718,
+                    45.40858538015164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIVERONE SUD",
+                "id": "16443",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "LA CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.01280585321365,
+                    45.40735796999486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "L'ULTIMA SPIAGGIA DI CASERIO MASSIMO",
+                "id": "19492",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "L'ULTIMA SPIAGGIA DI CASERIO MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.973039299249651,
+                    45.458591700499525
+                ]
+            }
+        }
+    ]
+}

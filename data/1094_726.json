@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EUGAS ERTO",
+                "id": "26319",
+                "amenity": "fuel",
+                "operator": "EUGAS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.344842851161957,
+                    46.27002439899068
+                ]
+            }
+        }
+    ]
+}

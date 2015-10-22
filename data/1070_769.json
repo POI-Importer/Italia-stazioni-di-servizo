@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Leoni Ugo",
+                "id": "25583",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "LEONI UGO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.188379879244167,
+                    40.74870917609008
+                ]
+            }
+        }
+    ]
+}

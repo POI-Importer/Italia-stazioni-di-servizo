@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOMA PETROLI",
+                "id": "12978",
+                "amenity": "fuel",
+                "operator": "TOMA VITO DOMENICO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.249822676181793,
+                    40.26213558001835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG SPA",
+                "id": "9643",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "LA GROTTA GIOVANNI MARIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19992328836065,
+                    40.2715933490659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO DI STIGLIANO MICHELE",
+                "id": "22812",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO \"ESSO\" DI STIGLIANO MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.296074688434604,
+                    40.26097586350533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "pluriservice di depierro domenico rosario & c.s.a.s.",
+                "id": "32105",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PLURISERVICE DI DE PIERRO DOMENICO ROSARIO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.202209587644802,
+                    40.211663139479874
+                ]
+            }
+        }
+    ]
+}

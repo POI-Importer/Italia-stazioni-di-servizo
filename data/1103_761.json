@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LA VECCHIA PESA",
+                "id": "27204",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LA VECCHIA PESA DI GABRIELE DI NATALE E C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.032859913932953,
+                    41.86539890245248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAVATONIO EMANUELE",
+                "id": "18693",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SAVATONIO EMANUELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.94197627902031,
+                    41.775255981421864
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CINIGIANO - SP.CIPRESSINO",
+                "id": "29960",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.383357084655698,
+                    42.95747589406814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "7021",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ANTONIO CASINI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.285233497619629,
+                    42.997057634401386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "8181",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CERRETANI FABRIZIO E PALAZZESI RICCARDO & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.278490424156189,
+                    43.02862447058673
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,226 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONFALCONE",
+                "id": "5945",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.511206341104526,
+                    45.81623380409652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COSTANTIN",
+                "id": "11977",
+                "brand": "Costantin",
+                "amenity": "fuel",
+                "operator": "MAV FORNITURE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.484843373298645,
+                    45.80299318358325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Areapieris 04116",
+                "id": "25804",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AREA PIERIS DI PONZALLI ROBERTO & SELLAN MATTEO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.442810475826263,
+                    45.808452854873636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A. & B. s.a.s. di Alvaro A. & C.",
+                "id": "28059",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "A. & B. SAS DI ALVARO ALESSANDRO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.390892297029497,
+                    45.80644742271518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bernardi di Bernardi G&C snc",
+                "id": "19689",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BERNARDI DI BERNARDI G. & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.509249463677408,
+                    45.805544150687155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO F.LLI MININEL",
+                "id": "18571",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO ESSO F.LLI MININEL DI MININEL ANDREA E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.513197699861168,
+                    45.81387367006722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AQUILEIA OIL ITALIA",
+                "id": "26517",
+                "brand": "Oil Italia",
+                "amenity": "fuel",
+                "operator": "OIL ITALIA SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.368077382456253,
+                    45.769825219741335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OIL ITALIA TURRIACO",
+                "id": "30039",
+                "brand": "Oil Italia",
+                "amenity": "fuel",
+                "operator": "AZZALINI MARIO & C. - S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.437718972563742,
+                    45.817750452960105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG RONCHI",
+                "id": "18967",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SCHIAVINI GIORGIO & ROBERTO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.476206064224243,
+                    45.81938705252744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "agip",
+                "id": "9674",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RIVOLDINI ALBERTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.52182298898697,
+                    45.81124642901621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL FIUMICELLO",
+                "id": "17693",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "C.M. S.N.C. DI COSOLO GIORGIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40592650631231,
+                    45.79330364672538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RUDA",
+                "id": "15517",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SINGH GURDIAL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.401228189468386,
+                    45.82792007896525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore IP Lo Franco",
+                "id": "26388",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LO FRANCO GIACOMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.527977312789973,
+                    45.79955954544296
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BADIA AL PINO EST",
+                "id": "3537",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "TICABI S.N.C. DI CANNONI VASCO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.763893933868415,
+                    43.40641196050068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore ip gualdani stefano",
+                "id": "12110",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GUALDANI STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.65325403213501,
+                    43.435708948079785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA ARETINA SS.73 KM",
+                "id": "18705",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CIRILLO LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.72786235809326,
+                    43.33660300893871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "24420",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "VALENTINI ANELIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.756486892700195,
+                    43.32844356118173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BADIA AL PINO OVEST",
+                "id": "3471",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "Mattesini Matteo & C snc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.762473472213742,
+                    43.406521721818514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Servizio  Q8",
+                "id": "13974",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "EREDI FOGGI S.N.C. DI FOGGI ALESSANDRA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.609445512294771,
+                    43.41898848745991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MANNELLI GIUSEPPE SRL",
+                "id": "5998",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MANNELLI GIUSEPPE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.768546104431152,
+                    43.40863370068234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "20855",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GARINI ARMANDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.726029068231583,
+                    43.33637436732956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "18824",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PUNTO AUTO S.N.C. DI FAVILLI R. & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.742217540740969,
+                    43.328251960389196
+                ]
+            }
+        }
+    ]
+}

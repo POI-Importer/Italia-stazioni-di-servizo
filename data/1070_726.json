@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "28548",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "VAIROLI DANILO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.246253669628572,
+                    46.206689255261715
+                ]
+            }
+        }
+    ]
+}

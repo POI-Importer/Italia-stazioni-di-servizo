@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Balatti Fermo sas",
+                "id": "8737",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BALATTI FERMO S.A.S. DI BALATTI VALENTINO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.388504028320312,
+                    46.261654328721626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ROXOIL",
+                "id": "20928",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ROSSIGNOLI WALTER & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.391125665367895,
+                    46.28710005695784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni Chiavenna",
+                "id": "7776",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STABILE GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.397081732749939,
+                    46.31306426224836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Energy - ComPaganoni",
+                "id": "22668",
+                "amenity": "fuel",
+                "operator": "ENERGY S.A.S. DI MARENGHI AMEDEO MAURIZIO  &  C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.448463469743729,
+                    46.21237667975726
+                ]
+            }
+        }
+    ]
+}

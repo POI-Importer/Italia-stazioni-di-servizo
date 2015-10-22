@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENERGIA PETROLI 2000 SRL - AVIGLIANO UMBRO",
+                "id": "31636",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ENERGIA PETROLI 2000 S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.43317067623138,
+                    42.6588645480633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENERPETROLI - PV LUGNANO",
+                "id": "24627",
+                "brand": "Enerpetroli",
+                "amenity": "fuel",
+                "operator": "ENERPETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.333045991401605,
+                    42.57647805427885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip castel dell' aquila",
+                "id": "29694",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MARCO BARCHERINI PROIETTI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.40533471107483,
+                    42.63870627695746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Montagnetti Snc",
+                "id": "9973",
+                "amenity": "fuel",
+                "operator": "MONTAGNETTI S.N.C. DI MONTAGNETTI MASSIMO E MONTAGNETTI GIANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.322443723678589,
+                    42.57172401693192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 55442",
+                "id": "26236",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.427031099796297,
+                    42.555225237324514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "suadoni roberto",
+                "id": "16395",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SUADONI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.419568523764609,
+                    42.554344624035615
+                ]
+            }
+        }
+    ]
+}

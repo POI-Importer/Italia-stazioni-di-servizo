@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "01532",
+                "id": "19202",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "F.LLI BONETTI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.668064144952382,
+                    45.92806338960868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EL PICO'S di Bottagisi Paolo Tiziano",
+                "id": "23555",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BOTTAGISI PAOLO TIZIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.685252904891968,
+                    45.9481840271766
+                ]
+            }
+        }
+    ]
+}

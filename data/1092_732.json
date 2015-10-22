@@ -1,0 +1,595 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "8613",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PAVANETTO GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.11124926805496,
+                    45.57097020412327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI  FRATELLI LONGHIN SNC",
+                "id": "14151",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FRATELLI LONGHIN SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.97058898836053,
+                    45.49571427910611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE API-IPI PIONCA DI VIGONZA (PD)",
+                "id": "24978",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "S.A.V.C.A. SOCIETA' ADRIESE VENDITA CARBURANTI ED AFFINI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.962311192880634,
+                    45.46579107124498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio di L. MION",
+                "id": "12429",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "MION LUCIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.122327893254122,
+                    45.51049817761225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 3695",
+                "id": "25869",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.119770646095278,
+                    45.54234694978553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SMP BORGORICCO",
+                "id": "5195",
+                "brand": "San Marco Petroli",
+                "amenity": "fuel",
+                "operator": "SAN MARCO PETROLI DISTRIBUZIONE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.963312595245384,
+                    45.531390515747475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Staz. F.lli Vianello S.r.l. - Viale Treviso, 42 - Scorzè (Ve)",
+                "id": "23448",
+                "amenity": "fuel",
+                "operator": "F.LLI VIANELLO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.11056436071317,
+                    45.57339156163605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NOALOIL PV1",
+                "id": "4481",
+                "brand": "Noaloil",
+                "amenity": "fuel",
+                "operator": "NOALOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.073034003179941,
+                    45.57548077115256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio ESSO F.lli. Cecchin",
+                "id": "7005",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F.LLI CECCHIN ANDREA & MAURO - SOCIETA' IN NOME COLLETTIVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.09062173962593,
+                    45.523856708209486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BOLGAN",
+                "id": "14227",
+                "amenity": "fuel",
+                "operator": "BOLGAN ALDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.110269966270378,
+                    45.51920206343987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "31260",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "P.M. CARBURANTI SNC DI MALVICA ALVARO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.003665864467619,
+                    45.57225072229707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di Servizio Q8 Due Bi snc",
+                "id": "19577",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DUE BI DI BERTOLDO COSTANTINO E PAOLO SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.027558982372282,
+                    45.47436287743583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vega Borgoricco",
+                "id": "4327",
+                "brand": "Vega",
+                "amenity": "fuel",
+                "operator": "BRAGAGNOLO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.984336391857143,
+                    45.52754144894498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VEGA MIRANO",
+                "id": "31532",
+                "brand": "Vega",
+                "amenity": "fuel",
+                "operator": "VEGA CARBURANTI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.122041733204696,
+                    45.4858539891626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fiorin snc",
+                "id": "17194",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FIORIN S.N.C. DI FIORIN ROBERTO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.027196884155273,
+                    45.47179735195283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Agip Canaia Rinaldo MIRANO (VE)",
+                "id": "26085",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CANAIA RINALDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0547217130661,
+                    45.50071406678036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO",
+                "id": "25410",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CAPTARI VITALIE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.071952223777771,
+                    45.55183217999113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP MIRANO",
+                "id": "12906",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "EUROPAM S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.119456827640535,
+                    45.4918630774028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COSTANTIN VILLANOVA",
+                "id": "30666",
+                "brand": "Costantin",
+                "amenity": "fuel",
+                "operator": "S.E. S.A.S. DI DE LUCIA SERENA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.977763772010803,
+                    45.488575728483816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOSON EGIDIO",
+                "id": "26145",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TOSON EGIDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.070026397705078,
+                    45.54430851898068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AESSE",
+                "id": "7929",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AESSE DI RIZZO A. E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.107405662536621,
+                    45.46585707274378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni iclera snc 3716",
+                "id": "31657",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ICLERA S.N.C. DI CANCELLARA MICHELE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.113564503041061,
+                    45.568674315539184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sia Fuel Noale",
+                "id": "31214",
+                "brand": "Sia fuel",
+                "amenity": "fuel",
+                "operator": "S.I.A. ENGINEERING CONSTRUCTION S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.07670509815216,
+                    45.56144989422905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP DISTRIBUTORE DI FAMENGO RENZO",
+                "id": "21464",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AGIP DISTRIBUTORE DI FAMENGO RENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.121470899999961,
+                    45.4923221604831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE Q8",
+                "id": "23909",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ROCCO MORENO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.064339478504166,
+                    45.539894661798854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SANTA MARIA DI SALA S.S.515",
+                "id": "6480",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.023563657147179,
+                    45.506951504952035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO ENI AGOSTINI FABIO",
+                "id": "10596",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AGOSTINI FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9945716349182,
+                    45.46074391114659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EREDI DI CARMINATO RINO S.A.S. DI CARMINATO GIGLIOLA & C.",
+                "id": "30931",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "EREDI DI CARMINATO RINO S.A.S. DI CARMINATO GIGLIOLA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.966658216671703,
+                    45.556942455105556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Staz.F.lli Vianello S.r.l.- Via della Vittoria,86 - Mirano (Ve)",
+                "id": "23479",
+                "amenity": "fuel",
+                "operator": "F.LLI VIANELLO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.117719754054406,
+                    45.49132263338538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI RIDA S.N.C",
+                "id": "26630",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RIDA S.N.C. DI CANAIA R. E LUNARDI D."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.084952890872957,
+                    45.57740179048208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EURO PETROL",
+                "id": "17759",
+                "amenity": "fuel",
+                "operator": "BERTO CARBURANTI  SNC DI BERTO GIANNINA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.975719258189203,
+                    45.509311037467306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trivengas Srl",
+                "id": "8107",
+                "brand": "Trivengas",
+                "amenity": "fuel",
+                "operator": "CALLEGARI GABRIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1013323042298,
+                    45.48832547323573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CORBIN MARINO",
+                "id": "21218",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "CORBIN MARINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.998012049737556,
+                    45.46857706625403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Staz. F.lli Vianello S.r.l. - Viale Venezia,2 - Mirano (Ve)",
+                "id": "23445",
+                "amenity": "fuel",
+                "operator": "F.LLI VIANELLO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.126796620761523,
+                    45.486664407744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio Esso",
+                "id": "31506",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "I CHERUBINI S.N.C. DI VENTRONI VALENTINA E MARONESE SIMONE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.009458096295132,
+                    45.55507394701919
+                ]
+            }
+        }
+    ]
+}

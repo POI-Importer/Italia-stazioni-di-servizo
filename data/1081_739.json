@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto metano per auto",
+                "id": "4775",
+                "amenity": "fuel",
+                "operator": "EMILGAS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.110167828279259,
+                    44.69563970750171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "9689",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PETROL SERVICE S.N.C. DI ORLANDAZZI ROMANO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.097063183784485,
+                    44.68674787701989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OZZANO TARO",
+                "id": "32001",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ENERGY RETE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.13289213180542,
+                    44.705863983788795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "r.m.service snc",
+                "id": "10538",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "R.M. SERVICE S.N.C. DI SESENNA MARCO E TRIANI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.09397864341736,
+                    44.70279167755258
+                ]
+            }
+        }
+    ]
+}

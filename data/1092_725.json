@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "21805",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CARLO ALIPRANDI CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.117241322994232,
+                    46.38427445483939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MOVE 2 CENCENIGHE",
+                "id": "24490",
+                "brand": "MOVE 2",
+                "amenity": "fuel",
+                "operator": "MOVE 2 FACTORY S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.98234311589124,
+                    46.33692128194148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "beyfin-alleghe",
+                "id": "9596",
+                "amenity": "fuel",
+                "operator": "ZANONA FLORIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.005497813224792,
+                    46.426669109067674
+                ]
+            }
+        }
+    ]
+}

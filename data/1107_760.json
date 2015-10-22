@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP -CH- TUFILLO",
+                "id": "24792",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ITALA PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.661517739295958,
+                    41.918149468203445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "9538",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PETROL ABRUZZO SRL SOCIETA' UNIPERSONALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.672203660011293,
+                    41.97539415691512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore dogliola",
+                "id": "30010",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DOGLIOLA CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.666359126567842,
+                    41.94737013251216
+                ]
+            }
+        }
+    ]
+}

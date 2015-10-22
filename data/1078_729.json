@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "i REDONDI SRL",
+                "id": "16712",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "I REDONDI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.658157229423523,
+                    45.8646720196169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TALEGGIO",
+                "id": "29642",
+                "amenity": "fuel",
+                "operator": "CALOR SYSTEMS S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.56364557147026,
+                    45.892892100935185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "17493",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "POZZI MARCO E PESENTI DANIELE S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.666652815006614,
+                    45.83102992712372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RI.VE.IN.  SNC DI MILESI A. E C.",
+                "id": "17358",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "RI.VE.IN. S.N.C DI MILESI ANTONIO E C. - RIPARAZIONE VEICOLI INDUSTRIALI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.657267580356574,
+                    45.866873852249604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rifornimento IP",
+                "id": "29868",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "AVOGADRO GIANLUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.652845759353568,
+                    45.86958532028001
+                ]
+            }
+        }
+    ]
+}

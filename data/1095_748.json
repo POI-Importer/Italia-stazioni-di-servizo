@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ANGELI SABRINA",
+                "id": "10464",
+                "amenity": "fuel",
+                "operator": "ANGELI SABRINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.61630117893219,
+                    43.54944003009641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE AGIP CAFE' NR.6148",
+                "id": "31395",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TARDUCCI PAOLO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.652112635346382,
+                    43.554552013920045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "METANO ACQUALAGNA",
+                "id": "24958",
+                "amenity": "fuel",
+                "operator": "METANO STATION DI LELLI EUGENIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.65205294994621,
+                    43.554593850450736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio esso",
+                "id": "14835",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PATRIZI EDOARDO E RADICCHI LOREDANA SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.650305971267926,
+                    43.54975786987992
+                ]
+            }
+        }
+    ]
+}

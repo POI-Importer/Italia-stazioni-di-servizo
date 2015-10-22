@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore acquaro sas di colaci angelo & c",
+                "id": "5172",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE ACQUARO S.A.S. DI COLACI ANGELO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.190510988235474,
+                    38.56122880066817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "4491",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SCHIAVELLO CARBURANTI DI SCHIAVELLO MAURIZIO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.324750185012817,
+                    38.57601515567205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "16880",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ANDREACCHI ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.335775405168533,
+                    38.60782020495415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGP S.IRENE",
+                "id": "13988",
+                "amenity": "fuel",
+                "operator": "PRESTANICOLA LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.172470450401303,
+                    38.6263789011165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 DI COCCIOLO MARIA ROSARIA",
+                "id": "18968",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "COCCIOLO MARIA ROSARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.226997077465057,
+                    38.598039309806786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "4492",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SCHIAVELLO CARBURANTI DI SCHIAVELLO MAURIZIO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32993757724762,
+                    38.57219869346838
+                ]
+            }
+        }
+    ]
+}

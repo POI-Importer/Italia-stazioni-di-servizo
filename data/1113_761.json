@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "piazzale matteotti",
+                "id": "28877",
+                "amenity": "fuel",
+                "operator": "FRATELLI DI NAUTA - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.77463984489441,
+                    41.82855166379511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PETROLGAS",
+                "id": "26233",
+                "amenity": "fuel",
+                "operator": "TENACE PETROL SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.69878429174423,
+                    41.84577594896859
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "K8",
+                "id": "26308",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MAMONE ROBERTO VINCENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.299794378402456,
+                    38.48455654300702
+                ]
+            }
+        }
+    ]
+}

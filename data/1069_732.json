@@ -1,0 +1,630 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NOVA COOP",
+                "id": "20209",
+                "amenity": "fuel",
+                "operator": "NOVA COOP SOCIETA' COOPERATIVA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.075541257858276,
+                    45.5493291633965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Serena",
+                "id": "26730",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SERENA S.N.C. DI FOSCI EMANUELE, CONDELLI MICHELA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.012296065699047,
+                    45.560406317577765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BIELLA-C.SO EUROPA 6",
+                "id": "11501",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.068803548812866,
+                    45.55344783064022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CONAD SUPERMERCATO",
+                "id": "25209",
+                "brand": "CONAD",
+                "amenity": "fuel",
+                "operator": "IL QUADRIFOGLIO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.912785451916989,
+                    45.47017380312816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BIELLA VIA POLLONE",
+                "id": "6415",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.031966090202332,
+                    45.550980948965126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso extras",
+                "id": "21275",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F.LLI GRANO DI GRANO VINCENZO E C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.068916872143745,
+                    45.545765093040984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio aci/agip 111",
+                "id": "7372",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO ACI DI IVANO SANTOLIN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.05542210178305,
+                    45.55431322131485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE CARBURANTI EREDI CAMPIDONICO SPA OCCHIEPPO INF.",
+                "id": "20920",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "EREDI CAMPIDONICO - S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.026348203420639,
+                    45.5558945081259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BIELLA Via Torino",
+                "id": "22106",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.062221944705243,
+                    45.556291484214924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio ESSO Enoch&c snc",
+                "id": "11352",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ENOCH & C. S.N.C. DI ENOCH DAVIDE, ENOCH SARA E ENOCH EMANUELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.045518841139256,
+                    45.55982489511139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BIELLA VIA MILANO 32 LOC.CHIAVAZZA",
+                "id": "9955",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.06793192701832,
+                    45.570056129366016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COMBIGAS",
+                "id": "15727",
+                "amenity": "fuel",
+                "operator": "COMBIGAS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.04143562912941,
+                    45.53156179259388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Repsol",
+                "id": "17824",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "BOTTIGELLA FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.070062635669615,
+                    45.5538730504302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BIELLA-VIA MACALLE' 20",
+                "id": "11499",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.058625305557257,
+                    45.55443614236867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio aci/agip 169",
+                "id": "7371",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO ACI DI IVANO SANTOLIN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.051021844148634,
+                    45.57902571714567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GAGLIANICO",
+                "id": "5553",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.070123131282799,
+                    45.54383738383883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore q8",
+                "id": "16247",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MANNO GAETANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.04812103509903,
+                    45.55791701697055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 Socogas",
+                "id": "5702",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "VIOTTO IGOR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.958162426948547,
+                    45.46559371465181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BIELLA-VIA CANDELO",
+                "id": "11503",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.085340037941933,
+                    45.55089004003186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Tamoil",
+                "id": "18035",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PAPA SERGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.024793863296509,
+                    45.56160914263739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BIELLA-VIA TROSSI",
+                "id": "11500",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.067472419643423,
+                    45.555753986013876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OIL SERVICE SNC DI MEDRI FABRIZIO & ROSSI MAURIZIO",
+                "id": "6228",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "OIL SERVICE SNC DI MEDRI FABRIZIO & ROSSI MAURIZIO."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.937876880168914,
+                    45.47008530653909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore IP di Zampese Davide",
+                "id": "12152",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ZAMPESE DAVIDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.007591326389273,
+                    45.51976408907792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "30780",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DELPIANO ENRICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.041024700663797,
+                    45.57598998070768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO MAXEMY SNC",
+                "id": "29692",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MAXEMY SNC DI BORTOLAN EMILE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.054051399230957,
+                    45.5530060763059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "16913",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TURBO S.N.C. DI BOTTOSTEGLIA A. E FAUSTINO V."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.03650975227356,
+                    45.54588568983972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore IP di Zampese Davide",
+                "id": "12154",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ZAMPESE DAVIDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.075765101852426,
+                    45.522047774427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Enrico Delpiano",
+                "id": "12672",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DELPIANO ENRICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.042626071094446,
+                    45.55861549761264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BIELLA - COTTOLENGO",
+                "id": "31975",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.065216093254094,
+                    45.55225116578859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "7046",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BALANGERO PIERA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.08592140674591,
+                    45.4977286090809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAMBURZANO-SS 338 KM 4+778",
+                "id": "11502",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.013263046741486,
+                    45.54378103231463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIETRO ALESSI",
+                "id": "13179",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ALESSI PIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.069871738553047,
+                    45.569652854656375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "B.F.C. service",
+                "id": "16876",
+                "brand": "Socogas",
+                "amenity": "fuel",
+                "operator": "B.F.C. SERVICE S.N.C. DI BIANCALANA MASSIMILIANO, BIANCALANA FEDE RICO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.08094322681427,
+                    45.50926047416191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 109",
+                "id": "26238",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.010552674531937,
+                    45.52565788144383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni 00125",
+                "id": "17501",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GIARRATANA FABRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.072226047515871,
+                    45.54919955796878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Biella",
+                "id": "10098",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.06793987751007,
+                    45.555327313698605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 114",
+                "id": "26237",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.074696362018585,
+                    45.527260379224856
+                ]
+            }
+        }
+    ]
+}

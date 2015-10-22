@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EUM GmbH",
+                "id": "30879",
+                "amenity": "fuel",
+                "operator": "EUM SRL % EUM GMBH"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.168636282384115,
+                    46.830706546956186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni Folie",
+                "id": "7732",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FOLIE HERBERT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.245434880256655,
+                    46.8078799144915
+                ]
+            }
+        }
+    ]
+}

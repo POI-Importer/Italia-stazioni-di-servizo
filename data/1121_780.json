@@ -1,0 +1,88 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CIRO' MARINA",
+                "id": "26656",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ZETA GAS S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.10886985063553,
+                    39.33788138905368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IPPOLITO PETROLI SRL",
+                "id": "25051",
+                "amenity": "fuel",
+                "operator": "IPPOLITO PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.123125791549683,
+                    39.36439772328434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP RICCI",
+                "id": "25457",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RICCI ADELINA & C.  S.N.C.  DI CAPARRA ELISABETTA E ARIOSTO COLONNA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11991786956787,
+                    39.36743063701257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Agip",
+                "id": "24116",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CAIAZZA PIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.112869024276733,
+                    39.36464117404158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DELTA ENERGIA",
+                "id": "25119",
+                "amenity": "fuel",
+                "operator": "DELTA ENERGIA SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11524948477745,
+                    39.367510263240916
+                ]
+            }
+        }
+    ]
+}

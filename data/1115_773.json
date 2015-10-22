@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP GRESIA",
+                "id": "14029",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GRESIA UMBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.105330735445023,
+                    40.18664094178568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni distributore carburanti Di Bitetto Rosalba",
+                "id": "16703",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DI BITETTO ROSALBA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.16393432021141,
+                    40.26690298113583
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CHESINI DOMENICA",
+                "id": "23522",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CHESINI DOMENICA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.09326026256565,
+                    45.92822151413779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE IP DI CALLIANO",
+                "id": "16121",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ADAMI MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.096140439183273,
+                    45.93332090800863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "pvb",
+                "id": "17705",
+                "amenity": "fuel",
+                "operator": "TECNOBENZ DI VALLE GIOVANNI E GUIDO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.166905537292678,
+                    45.9145550227414
+                ]
+            }
+        }
+    ]
+}

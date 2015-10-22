@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BARI VIA AMENDOLA",
+                "id": "5462",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "enirete oil&nonoil S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.880847170639072,
+                    41.11359682371464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Japigia",
+                "id": "24844",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI RETE OIL&NONOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.897606998682022,
+                    41.11315950550799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BARI VIA OBERDAN",
+                "id": "6749",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.884314195106523,
+                    41.11761166253736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BARI",
+                "id": "5514",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.884855186508165,
+                    41.1175659276419
+                ]
+            }
+        }
+    ]
+}

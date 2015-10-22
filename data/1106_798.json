@@ -1,0 +1,138 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA DUILIO MARINA DI RAGUSA",
+                "id": "12335",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.55726423039994,
+                    36.78693516736575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VITAL CARBURANTI",
+                "id": "10919",
+                "amenity": "fuel",
+                "operator": "VITALE LUCIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.523645490407942,
+                    36.83527711236098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "iblea petroli",
+                "id": "15227",
+                "amenity": "fuel",
+                "operator": "SAVARINO MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.569843475822609,
+                    36.78130056681323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Agip di Gurrieri Sandra",
+                "id": "19978",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GURRIERI SANDRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.552009850740435,
+                    36.79310557590122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SP M. RG-S.C.CAM",
+                "id": "5069",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.526211259910607,
+                    36.82281282544885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "P.ZZA CARDUCCI S.CROCE CAMERINA",
+                "id": "24886",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.525245525089419,
+                    36.83105782243001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PETROLCOKE ENERGY S.C.CAMERINA",
+                "id": "31437",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PETROLCOKE ENERGY S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.517982006072998,
+                    36.82000948224202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENERGY POINT DI PISANA CARMELO",
+                "id": "14286",
+                "amenity": "fuel",
+                "operator": "PISANA CARMELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.516989588737486,
+                    36.831488882512126
+                ]
+            }
+        }
+    ]
+}

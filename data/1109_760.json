@@ -1,0 +1,259 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "spegne lino",
+                "id": "28791",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SPEGNE LINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.012125372886658,
+                    41.9713349591273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "impianto totalerg CB037",
+                "id": "30063",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MED OIL - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.96301144361496,
+                    41.917606200498845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE Q8 TERMOLI",
+                "id": "30009",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SARNI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.993066266179085,
+                    41.9593183689577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "_METANO TERMOLI",
+                "id": "4554",
+                "amenity": "fuel",
+                "operator": "METANO PUGLIA DI CARDINALI MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.993079006671906,
+                    41.959322557496044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni Scafa Group sas di Nicola Scafa",
+                "id": "20549",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SCAFA GROUP S.A.S. DI NICOLA SCAFA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.995283899999997,
+                    42.0005331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "9762",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CADET DI CANNONE DOMENICO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.997866749763492,
+                    41.99352697299123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "20026",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FIARDI TRADING - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.076975822448732,
+                    41.93850769404562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "20152",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FIARDI PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.970738887786867,
+                    42.00747496720288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIO VIVO EST",
+                "id": "31338",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97813642024994,
+                    41.998471389858594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "8441",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DFM CARBURANTI S.R.L. SOCIETA' A RESPONSABILITA' LIMITATA A CAPIT ALE RIDOTTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.084882974624634,
+                    41.937099869071375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto Eni Dommar s.a.s.",
+                "id": "7100",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DOMMAR S.A.S DI DOMEZIO FORTUNATO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.990528225898744,
+                    41.98500630108446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MASCIO DONATO",
+                "id": "21431",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MASCIO DONATO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.006588697433472,
+                    41.91168385506149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIT STOP",
+                "id": "21027",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DE SANCTIS ANGELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.986445903778078,
+                    41.93459499713357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Esso",
+                "id": "8070",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CO.IM.PE. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.010328076057476,
+                    41.97559386876473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PETROLADRIATICASNC",
+                "id": "5759",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PETROL ADRIATICA S.N.C. DI SCARCELLI NUNZIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.049366235457908,
+                    41.95202741400314
+                ]
+            }
+        }
+    ]
+}

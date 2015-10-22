@@ -1,0 +1,223 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto IP Castelnovo Bariano",
+                "id": "20761",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CHIOZZINI F.LLI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.293703195106447,
+                    45.02497666750847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MASSARI MARCO",
+                "id": "14445",
+                "amenity": "fuel",
+                "operator": "MASSARI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.34924251324469,
+                    44.971696064009336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LA ROSTA SNC",
+                "id": "21508",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LA ROSTA S.N.C. DI BASCHIROTTO LORIS IMPIANTO AGIP"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.333277225494385,
+                    45.014673997795406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CHIOZZINI ENRICO DITTA",
+                "id": "31368",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CHIOZZINI ENRICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.293703195106447,
+                    45.02498045907078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EUGAS SALARA",
+                "id": "26315",
+                "amenity": "fuel",
+                "operator": "EUGAS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.421087384223936,
+                    44.97392473357875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORO F.LLI SPA",
+                "id": "5664",
+                "brand": "Loro",
+                "amenity": "fuel",
+                "operator": "LORO F.LLI-S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.375774145126343,
+                    45.01098174913466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "METAN GAS AUTO SRL",
+                "id": "31864",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "METAN GAS AUTO  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.290911734104155,
+                    45.03633271937783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio ENI",
+                "id": "29573",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CAMPANA SIMONE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.276378855109213,
+                    45.009918514994595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RACCANELLI MAX",
+                "id": "19590",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RACCANELLI MAX"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2991526,
+                    45.0039927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "H6 Castelmassa",
+                "id": "23568",
+                "amenity": "fuel",
+                "operator": "PETROL SERVICE SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.311888061769537,
+                    45.017012713672294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SERMIDE-VIA CURIEL 2  S.P.FERRARESE",
+                "id": "11717",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.288182586431503,
+                    45.00564205464031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CALTO",
+                "id": "4797",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "IES ITALIANA ENERGIA E SERVIZI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.357667893171312,
+                    44.997701187884466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sia Fuel Castelmassa",
+                "id": "29849",
+                "brand": "Sia fuel",
+                "amenity": "fuel",
+                "operator": "S.I.A. ENGINEERING CONSTRUCTION S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.31367027759552,
+                    45.02769205233247
+                ]
+            }
+        }
+    ]
+}

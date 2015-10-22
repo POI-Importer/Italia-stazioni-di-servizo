@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FURCO",
+                "id": "30332",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FURCO TERESA DI FURCO VINCENZO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88912609219551,
+                    38.016765597189725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distribution Motisi sas",
+                "id": "12543",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTION MOTISI S.A.S. DI DI MARIA I. & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.881247103214266,
+                    38.02093763492807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Grillo carburanti",
+                "id": "20472",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GRILLO CARBURANTI DI FRANCESCO GRILLO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.883898278083391,
+                    38.01861628860778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LFC PETROLI",
+                "id": "24367",
+                "amenity": "fuel",
+                "operator": "DITTA LA FRANCA CARLO DI LA FRANCA BENEDETTO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88418278098106,
+                    38.022515610761886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GP PETROLI",
+                "id": "12859",
+                "amenity": "fuel",
+                "operator": "GP SERVICE DI PECORELLA GASPARE & C. SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.885944358266444,
+                    38.02663155410556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LFC PETROLI",
+                "id": "21378",
+                "amenity": "fuel",
+                "operator": "DITTA LA FRANCA CARLO DI LA FRANCA BENEDETTO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.892033585319496,
+                    38.01569483302723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GRS (exQ8)",
+                "id": "21514",
+                "amenity": "fuel",
+                "operator": "TRIPOLI NICOLO'"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.007200250018741,
+                    38.0510641287214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MESSANA ANTONELLA",
+                "id": "27328",
+                "amenity": "fuel",
+                "operator": "MESSANA ANTONELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.95833647251129,
+                    37.99679594749618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TP052",
+                "id": "24788",
+                "amenity": "fuel",
+                "operator": "FUEL SERVICE S.A.S. DI BADALUCCO PIETRO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.885220125317574,
+                    38.020847620773836
+                ]
+            }
+        }
+    ]
+}

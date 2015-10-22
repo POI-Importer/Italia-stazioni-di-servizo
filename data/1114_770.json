@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Esso n. 4496 Potenza Sud",
+                "id": "31692",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FERRARA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.829670220386106,
+                    40.63646116821202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio TOTALERG Elle2Bi di Barbato Salvatore & c. s.n.c.",
+                "id": "24732",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ELLE2BI DI BARBATO SALVATORE & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.84104400350043,
+                    40.69007073046526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FUELS SERVICE SRL 08793",
+                "id": "31046",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FUELS SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.829641222953795,
+                    40.63648825764177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BETLEMME",
+                "id": "5428",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "enirete oil&nonoil S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.830761982803326,
+                    40.64370316756183
+                ]
+            }
+        }
+    ]
+}

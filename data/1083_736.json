@@ -1,0 +1,172 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ARIETE",
+                "id": "8345",
+                "amenity": "fuel",
+                "operator": "SARZI SARTORI GIANFRANCO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.417412495813778,
+                    44.99552768411966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASALMETANO",
+                "id": "4414",
+                "amenity": "fuel",
+                "operator": "CASALMETANO - S.A.S. DI ZILIANI GIORGIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.436282872769198,
+                    44.97710574760925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Retitalia Sabbioneta",
+                "id": "30727",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "BRIXIA FINANZIARIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.49479372103724,
+                    44.99642216217211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASALMAGGIORE",
+                "id": "28483",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.42284831404686,
+                    44.98039512462531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL ERG",
+                "id": "20403",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MAFFEZZONI CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4379753023386,
+                    45.06886435052632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Simar snc di Marinoni A. & C.",
+                "id": "20118",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SIMAR S.N.C. DI MARINONI A. & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.43069377541542,
+                    44.978653036699576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "12841",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BETTONI FRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.398069934457453,
+                    45.012337866433825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DODO",
+                "id": "18993",
+                "amenity": "fuel",
+                "operator": "DODO CARBURANTI S.A.S. DI GALETTI GIANLUCA E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.379416736878966,
+                    45.00730618192056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ROCRIS",
+                "id": "28113",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ROCRIS DI GHERCA ROBERT & GHERCA CRISTINA PARASCHIVA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.41855927182769,
+                    44.994042664595455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "cremona",
+                "id": "4447",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ZAFFANELLA ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.436291545629501,
+                    44.98322462393198
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SPINA ANTONIO",
+                "id": "30122",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SPINA ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.164626076817513,
+                    40.45797648608533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "16153",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MASALA ANGELO EMANUELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.187310189008713,
+                    40.460596675644105
+                ]
+            }
+        }
+    ]
+}

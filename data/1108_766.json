@@ -1,0 +1,426 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rubino UGA",
+                "id": "6155",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "RUBINO GIANPIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.82681824014742,
+                    41.14062960495157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "nadia errico",
+                "id": "21317",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE  API DI ERRICO NADIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.911030232906345,
+                    41.12454012213595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "4305",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AUTOSERVICE DI BUONANNO ADDOLORATO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.794190526008604,
+                    41.13556625549392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SUD PETROLI",
+                "id": "4109",
+                "amenity": "fuel",
+                "operator": "SUD ME.T.A.N.O. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.832320809364322,
+                    41.142620739876676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "12814",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "LPR CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.813869893550871,
+                    41.23444978676846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REPSOL",
+                "id": "24648",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "FADDIMM  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.775075763463972,
+                    41.12474418819204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Q8 di Francesco Messina",
+                "id": "15665",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MESSINA FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.793111607432365,
+                    41.116682894379025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Benevento",
+                "id": "29568",
+                "brand": "Beneco",
+                "amenity": "fuel",
+                "operator": "BENECO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.77944969259033,
+                    41.15125264601356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO ENI N. 08350",
+                "id": "8237",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MICCO ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.794799387454983,
+                    41.12985775512544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "UGA",
+                "id": "6018",
+                "amenity": "fuel",
+                "operator": "GES  CAR   S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.768452048301693,
+                    41.1464952021128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ni.ma.ger",
+                "id": "25991",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NI.MA.GER. S.N.C. DI CAVALLUZZO NICOLA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.831821918487549,
+                    41.18983308892496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "agip",
+                "id": "7998",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GOMES HENRIQUES TANIA EMIDDIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.899950027465819,
+                    41.1694492485505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni f.lli de lucia s.n.c.",
+                "id": "21099",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FRATELLI DE LUCIA S.N.C. DI DE LUCIA RODRIGO E GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.769505616671722,
+                    41.12143962858234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TRE V s.n.c.",
+                "id": "30662",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "TRE V DI VISCIONE ALBERTO E VISCIONE MASSIMO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.777458906173706,
+                    41.128360396109834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "All Rent Benevento",
+                "id": "10584",
+                "amenity": "fuel",
+                "operator": "ALL RENT SERVICE S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.803792834281921,
+                    41.1155787740574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MINISHOP ROMOLO SNC",
+                "id": "18597",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ROMOLO S.N.C. DI ROMOLO MARIO &  C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.779234528541565,
+                    41.11640322877169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BENEVENTO - CRETAZZO",
+                "id": "29611",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.767681224536888,
+                    41.12043434996332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REPSOL",
+                "id": "20608",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "ENERFUEL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.802239835262299,
+                    41.121025237273294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "08380",
+                "id": "23617",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MICCO VINCENZO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.80052590370178,
+                    41.12164878141026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mp free",
+                "id": "27301",
+                "amenity": "fuel",
+                "operator": "CU.MA. SERVICE S.A.S. DI MAZZEO MARCO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.883420632990918,
+                    41.16714421986559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO ENI N. 54592",
+                "id": "8238",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MICCO ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.794583347221305,
+                    41.12235943729407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BENEVENTO",
+                "id": "25884",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ENERGY PLANTS MANAGEMENT SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.798280013217324,
+                    41.1151298494175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MP OIL SRL",
+                "id": "21648",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MP OIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.797002014680515,
+                    41.1265445137183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C.DA PIANA FERRARA - PADULI-SS 90 BIS KM 18+600",
+                "id": "11510",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.934708804893493,
+                    41.206104035891755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Service Center sas",
+                "id": "23862",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SERVICE CENTER DI DE PALMA GIANCARLO & C. SOCIETA' IN ACCOMANDITA SEMPLICE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.86232236040064,
+                    41.23868346583446
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "27861",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DELVECCHIO ROSARIANNA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.139570474624634,
+                    41.3816544979255
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GIAVENO - SP 190 VIA AVIGLIANA",
+                "id": "7280",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.36367292702198,
+                    45.048962873500194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.D.L. Sn.c.",
+                "id": "27506",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "F.D.L. DI FULVIO SECCATICCI & C. S.N.C. SIGLABILE F.D.L. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.362701178356929,
+                    45.04135505237126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE TAMOIL",
+                "id": "11278",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "GUGLIELMINO GIAN PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3046985268592834,
+                    45.04994238373642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GIAVENO-VIA TORINO 41",
+                "id": "11871",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.358782390213036,
+                    45.0409198497899
+                ]
+            }
+        }
+    ]
+}

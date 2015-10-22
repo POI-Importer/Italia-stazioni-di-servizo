@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IES",
+                "id": "29000",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "RA.IN. TECNOLOGY SOCIETA' SEMPLIFICATA A RESPONSABILITA' LIMITATA SOCIETA' CON UNICO SOCIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.739363431930542,
+                    40.40144520124623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore q8 8771",
+                "id": "25601",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BONTEMPI ALFONSO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.79037577909844,
+                    40.3177257060554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA PIP. PATERNO PZ 85050",
+                "id": "10385",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PATERNO PETROLI S.A.S. DI FORTUNATO MICHELINA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.747281312942507,
+                    40.381751215805046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Marsico nuovo",
+                "id": "25514",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SASSANO MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.736260150849148,
+                    40.42624899150059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "27247",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "V.D. PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.780336555908207,
+                    40.376911500310825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "P.V. ENI della G.M.C. s.n.c. di Berardone Prospero G.&C.",
+                "id": "22131",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "G.M.C. S.N.C. DI BERARDONE PROSPERO GIUSEPPE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.781763792037964,
+                    40.36469113464553
+                ]
+            }
+        }
+    ]
+}

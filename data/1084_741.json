@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio CORIANI  totaleerg",
+                "id": "15752",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CORIANI & RUGGI DI CORIANI ROSSANO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.622138696272486,
+                    44.35722095527704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OK",
+                "id": "11320",
+                "amenity": "fuel",
+                "operator": "MONTERMINI WILLIAM E MONTERMINI MARISA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.585417002439499,
+                    44.45562196517411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pontesecchia",
+                "id": "24478",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BRAZZIOLI STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.627158880233765,
+                    44.413945896859396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "12366",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PIETRI GIORGIO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.693126048903425,
+                    44.437471937235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore ip",
+                "id": "17542",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "TENEGGI LAURA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.56580200791359,
+                    44.375123999343096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COSTI ROSANNA",
+                "id": "15521",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "COSTI ROSANNA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.617857649922373,
+                    44.401673983673135
+                ]
+            }
+        }
+    ]
+}

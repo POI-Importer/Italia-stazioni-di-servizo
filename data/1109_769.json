@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE BAGNOLI",
+                "id": "12512",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BRANCA ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.072814264418074,
+                    40.83267980586942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTELLA VIA ROMA",
+                "id": "6710",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.02192653068846,
+                    40.84160715780953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore IP di Vece Sergio",
+                "id": "27977",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VECE SERGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.054223857334138,
+                    40.734263190926264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ELIA PETROLI SRL",
+                "id": "19029",
+                "amenity": "fuel",
+                "operator": "ELIA PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.94390942156315,
+                    40.715353329256956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "26054",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "*\"EFFECI CARBURANTI DI CONTE ALBA ED ALDO SOCIETA' IN  NOME COL- LETTIVO\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.020504593849179,
+                    40.843351279109775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALP S.A.S.",
+                "id": "13549",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ALP DI PASQUALE GIUSEPPE E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.114961937069888,
+                    40.80851438242077
+                ]
+            }
+        }
+    ]
+}

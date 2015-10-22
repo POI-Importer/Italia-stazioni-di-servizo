@@ -1,0 +1,158 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BIG BAR S.N.C.",
+                "id": "7072",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BIG BAR DI COTTI COTTINI CLAUDIO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.329766273498535,
+                    45.98225284184576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO SALVETTI GIAN MARIO",
+                "id": "9395",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SALVETTI GIAN MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.35023494385041,
+                    46.055162500392775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "V.Z DI VAIRA DARIO & ENRICO SNC",
+                "id": "9840",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "V.Z. DI VAIRA DARIO E ENRICO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.345894794965146,
+                    46.02763138632917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "API-IP",
+                "id": "26967",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "AZ. AGR. LA MARTINA DI VAIRA WILIAMS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.304902495700846,
+                    45.9580296244231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LT DI BACCANELLI LUCA & C. S.N.C.",
+                "id": "25322",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LT DI BACCANELLI LUCA & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.319541692733765,
+                    45.97264067868716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Retitalia",
+                "id": "19864",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "FEDRIGA VITTORIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.296940713583352,
+                    45.9535773445161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MPA SERVICE DI MONDONI PIERANTONIO",
+                "id": "18101",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "M.P.A SERVICE DI MONDONI PIERANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.33224999743436,
+                    45.98801322502472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 BRENO",
+                "id": "9995",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BEATRICI GIAN PIERO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.312792682208965,
+                    45.96121424593499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vicardi Luca",
+                "id": "9178",
+                "brand": "Oil Italia",
+                "amenity": "fuel",
+                "operator": "VICARDI LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.295415117707307,
+                    45.953672541892004
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AUTOSERVICE SRL",
+                "id": "25060",
+                "amenity": "fuel",
+                "operator": "AUTOSERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.44179637895968,
+                    39.678710637072825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Q8",
+                "id": "31428",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE DI TEGAS ANTONIO VASILE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.440141916275024,
+                    39.676668578191084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AUTOSERVICE SRL",
+                "id": "25061",
+                "amenity": "fuel",
+                "operator": "AUTOSERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.44179637895968,
+                    39.678710637072825
+                ]
+            }
+        }
+    ]
+}

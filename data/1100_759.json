@@ -1,0 +1,188 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione erg",
+                "id": "22918",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MONTE SIRENTE S.A.S. DI CAMPANA FRANCESCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.516453206539156,
+                    42.14167406102724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "impianto totalerg AQ003",
+                "id": "30059",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MED OIL - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.434143587946892,
+                    42.03727522633524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "conad self h 24",
+                "id": "32156",
+                "brand": "CONAD",
+                "amenity": "fuel",
+                "operator": "PINGUE SUPERMERCATI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.451959490776064,
+                    42.0462444296933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Unione Gas Auto",
+                "id": "13461",
+                "amenity": "fuel",
+                "operator": "MARSILI AMERIGO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.508201390504837,
+                    42.06304550421021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cappelle dei Marsi",
+                "id": "18588",
+                "amenity": "fuel",
+                "operator": "DIBEOL ECOLOGICA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.385125547647474,
+                    42.06399783327526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Total Erg",
+                "id": "10659",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PINARDI LUIGI & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.454479900000022,
+                    42.04720153135967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "f.lli di felice",
+                "id": "25787",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "F.LLI DI FELICE LUCIANO E PAOLO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.412235975265503,
+                    42.04063521542342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "X FUEL CAPPELLE DEI MARSI",
+                "id": "25640",
+                "amenity": "fuel",
+                "operator": "X FUEL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.378391861915587,
+                    42.07071560382101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AVEZZANO - XX SETTEMBRE",
+                "id": "29613",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.435280466270456,
+                    42.03742390516908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CMM",
+                "id": "18007",
+                "amenity": "fuel",
+                "operator": "C.M.M. CENTRALE METANO MARSICA S.N.C. DI MALANDRA GABRIELE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.452698439359663,
+                    42.03876111761665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AVEZZANO",
+                "id": "5442",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "enirete oil&nonoil S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41420749206543,
+                    42.03896009435219
+                ]
+            }
+        }
+    ]
+}

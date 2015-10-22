@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "9676",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PL CARBURANTI S.A.S. - DI PUGLIESE GIANFRANCO E LUCIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.949206054210661,
+                    39.49936711750928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VATTIMODISTRIBUZIONISRL",
+                "id": "18575",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "VATTIMO DISTRIBUZIONI - SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.975239240851467,
+                    39.4679629894976
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "30185",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "F.LLI PIRRERA DI PIRRERA SALVATORE E PIRRERA ANGELO-S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.425706884586361,
+                    37.33632599462071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Angelo Cuffaro s.r.l.",
+                "id": "10302",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ANGELO CUFFARO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.532358705997467,
+                    37.39378646445569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "q8",
+                "id": "9373",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ALONGE LUIGI & C. S.A.S. DI ALONGE GERLANDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.532240688800815,
+                    37.390393895042074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cuffaro Angelo",
+                "id": "10299",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CUFFARO ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.534808903932573,
+                    37.39707361548874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "sp energia siciliana",
+                "id": "25473",
+                "amenity": "fuel",
+                "operator": "PETROLCOKE ENERGY S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.518440723419188,
+                    37.3526847016027
+                ]
+            }
+        }
+    ]
+}

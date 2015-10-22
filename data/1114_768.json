@@ -1,0 +1,70 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio ungaro donato",
+                "id": "27067",
+                "amenity": "fuel",
+                "operator": "UNGARO DONATO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.854349732398987,
+                    40.8567808860668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VENUSIA CARBURANTI",
+                "id": "4493",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VENUSIA CARBURANTI S.N.C. DI CIAVATTA CESARE E A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.825395286083225,
+                    40.96652585449064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO PUPINO",
+                "id": "7606",
+                "amenity": "fuel",
+                "operator": "PUPINO CARMELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.847390741109848,
+                    40.861503892999224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pompa Bianca",
+                "id": "26292",
+                "amenity": "fuel",
+                "operator": "GRIECO DONATO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.82652268038248,
+                    40.91035917871049
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Granruaz Alfredo",
+                "id": "27434",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GRANRUAZ ALFREDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.903236324617069,
+                    46.58783718219937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Auto Alta Badia - Tamoil",
+                "id": "19890",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "AUTO ALTA BADIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.896135934344784,
+                    46.60645635101752
+                ]
+            }
+        }
+    ]
+}

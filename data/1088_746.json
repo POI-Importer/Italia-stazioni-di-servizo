@@ -1,0 +1,718 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FIRENZE - GIANNOTTI",
+                "id": "25344",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.287302682208974,
+                    43.75728934487765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO LE.SA.",
+                "id": "19251",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LE.SA. DI LACOPPOLA LEONARDO E SALMI SANDRO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.293365284800531,
+                    43.75660424515518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BALLONI S.N.C. DI BALLONI ALBERTO & C.",
+                "id": "17850",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BALLONI S.N.C. DI BALLONI ALBERTO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.307609476584275,
+                    43.83116691277085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg",
+                "id": "20477",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ETRURIA DI CITERNESI ALESSANDRO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.26140758902716,
+                    43.79391716181826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI LEPRI PAOLO E GUIDI CLAUDIO SNC",
+                "id": "27035",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LEPRI PAOLO & GUIDI CLAUDIO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.29134625196457,
+                    43.73825058043405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg BP di Pelacchi M. e Baldini F. s.n.c",
+                "id": "27961",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BP DI PELACCHI MASSIMO E BALDINI FABRIZIO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.314723044633865,
+                    43.730268081849864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione eni vanni duccio",
+                "id": "20811",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VANNI DUCCIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.269057095050812,
+                    43.77746106077351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FIRENZE VIALE EUROPA",
+                "id": "6579",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.30420604418032,
+                    43.75601480262551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CHIANTI OVEST",
+                "id": "3673",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "Carlesi Carlo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.333702738761872,
+                    43.729213567428864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 d'Annunzio snc",
+                "id": "15700",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "Q8 D'ANNUNZIO S.N.C. DI POLI SIMONE E SCARPETTI ANTONELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.290200005304767,
+                    43.7754445374173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di rifornimento TotalErg Plotegher Giovanni",
+                "id": "27733",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PLOTEGHER GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.294626985225818,
+                    43.8069700324888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio ESSO di Reggi Alessandro",
+                "id": "20661",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "REGGI ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.338310618524133,
+                    43.7455724822617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVZIO ENI",
+                "id": "7432",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "NESTI RAFFAELE E FRANCO  E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.299908693917816,
+                    43.75651776237648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Piazza Ferrucci carburanti s.n.c. di Pepino Duccio",
+                "id": "15369",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PIAZZA FERRUCCI CARBURANTI DI PEPINO DUCCIO SOCIETA' IN NOME COLLETTIVO IN FORMA ABBREVIATA \"PIAZZA FERRUCCI CARBURANTI DI PEPINO DUCCIO S.N.C.\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.270565740544953,
+                    43.764044177720116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Q8 di Poli Emanuele",
+                "id": "15719",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE Q8 DI POLI EMANUELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.29093066595419,
+                    43.77542199417143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PRONTERA GABRIELE STAZIONE DI SERVIZIO",
+                "id": "15336",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PRONTERA GABRIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.268177260950097,
+                    43.778188983651106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FIRENZE",
+                "id": "5493",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "enirete oil&nonoil S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.298588901452833,
+                    43.7662243307795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ve.pi di picchi alfredo e c. s.a.s.",
+                "id": "30111",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "VE.PI. DI PICCHI ALFREDO E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.296876957974975,
+                    43.76816535417311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "petrolio viola sas",
+                "id": "30195",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PETROLIO VIOLA  DI CAMPANALE MATTIA, ROFRANO DIEGO & C. SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.298261359771686,
+                    43.75723103534339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "shell",
+                "id": "24842",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "EPPI' DI PATRIZIA NENCIONI E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.282973327519585,
+                    43.778577866094835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FIRENZE VIA ARETINA  371",
+                "id": "6591",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.304911703041057,
+                    43.767482188836084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BAGNO A RIPOLI LOC. PONTE A EMA GOFFREDO DELLA TORRE",
+                "id": "6582",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.288914812164307,
+                    43.74305002870874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE IP",
+                "id": "16899",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MARTINI STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.298816840930272,
+                    43.75505716038883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO Q8",
+                "id": "14370",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "STAZIONE SERVIZIO Q8 DI CHIARACANE SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.281172633171082,
+                    43.76968096865669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PINI E SETTESOLDI SNC",
+                "id": "13623",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PINI LEONARDO E SETTESOLDI IACOPO - SOCIETA' IN NOME COLLETTIVO ( IN FORMA ABBREVIATA PINI E SETTESOLDI - SNC)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.27921139444277,
+                    43.78041060340574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Firenze De Nicola",
+                "id": "24794",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI RETE OIL&NONOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.301458179950714,
+                    43.76611164942626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BEYFIN",
+                "id": "28011",
+                "amenity": "fuel",
+                "operator": "T.R.T DI FAINI ANDREA & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.316769079744406,
+                    43.76869743273213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "sarti alessandro",
+                "id": "13474",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SARTI ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.286486528570324,
+                    43.77419723683547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "M&Z snc",
+                "id": "7025",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "M & Z S.N.C. DI MARUCELLI FRANCA E ZANIERI JACOPO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.277016799405601,
+                    43.80047842820756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE Q8",
+                "id": "28211",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ROMANO FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.286970238111508,
+                    43.7747602562891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Esso",
+                "id": "7250",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ABC S.N.C. DI ALDINUCCI PIERO, BALLINI ALESSANDRO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.401340961456299,
+                    43.78466880759294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FIRENZE-VIA GIOVANNI AGNELLI",
+                "id": "11590",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.287371955680783,
+                    43.746975232809554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zanieri Paolo",
+                "id": "9593",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ZANIERI PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.274837255477905,
+                    43.80638361958496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CHIANTI EST",
+                "id": "3486",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "LA CONCHIGLIA SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.332406880950884,
+                    43.73003797836094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "11019",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PASSARELLI LUCA & C. SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2928504694504,
+                    43.75661573034039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "lingui leonardo 59178",
+                "id": "28102",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LINGUI LEONARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.292368173599243,
+                    43.78142260597204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "30192",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DI.SA. S.N.C. DI SASSETTI ROBERTO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.281087143171817,
+                    43.76978557647796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO 43550",
+                "id": "11248",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ROMANO LEONARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.267402811270584,
+                    43.789191053116376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "28290",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "AUTOCARROZZERIA DUE T CAR LIFTING SERVICE DI TIZIANO TRALLORI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.292230039834976,
+                    43.77527697291198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BAGNO A RIPOLI",
+                "id": "5798",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TotalErg SpA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.36367906994053,
+                    43.778804524489956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio agip manni andrea",
+                "id": "28164",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MANNI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.30188465118408,
+                    43.76743073837222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto ENI",
+                "id": "19230",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CELLAI DANIELE & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.284522199999968,
+                    43.76019842655871
+                ]
+            }
+        }
+    ]
+}

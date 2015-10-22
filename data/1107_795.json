@@ -1,0 +1,192 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "31138",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "IPPOLITO SEBASTIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.636642932891846,
+                    37.20847481987099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA DEI GALLI VIZZINI",
+                "id": "12375",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.756556408563597,
+                    37.16358535118034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "20577",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "NAFA DI NOLFO FRANCESCO E GALLINA GRAZIELLA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.692782238125798,
+                    37.265219875035704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SIDA SRL AREA DI SERVIZIO ENI",
+                "id": "14164",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SIDA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.63664319444274,
+                    37.20846248153079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "cannizzo giuseppe",
+                "id": "15118",
+                "brand": "EOS",
+                "amenity": "fuel",
+                "operator": "CANNIZZO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.634688943624498,
+                    37.22003793260137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SS 514 VIZZINI",
+                "id": "20505",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.705074673610625,
+                    37.187790084732285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GRAMMICHELE S.P.33 KM 6'992",
+                "id": "19752",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.634304046630861,
+                    37.2208284222702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA ALDO MORO GR",
+                "id": "12025",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.629600820762676,
+                    37.222836986745506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GIAP",
+                "id": "31489",
+                "brand": "Giap",
+                "amenity": "fuel",
+                "operator": "NAFA DI NOLFO FRANCESCO E GALLINA GRAZIELLA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.692171223576683,
+                    37.264897154196476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ERG",
+                "id": "5925",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "EASYSTATOIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.59466099739075,
+                    37.26877648222432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO \"A.S.V. DI ANTIVIGILIA SNC\"",
+                "id": "13915",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "A.S.V. DI ANTIVIGILIA SERGIO DARIO MARIA & C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.752985396355145,
+                    37.16247257745805
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg Bonapace",
+                "id": "9532",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BONAPACE MIRKO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.735919752689938,
+                    46.099891261870184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.LLI BONAPACE SNC - TOTALERG",
+                "id": "31671",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "F.LLI BONAPACE MANLIO E MIRKO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.735918509400335,
+                    46.099919633941894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Frizzi Adolfo",
+                "id": "9035",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FRIZZI ADOLFO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.76630253139922,
+                    46.15430632713843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni Piera Bonapace",
+                "id": "7991",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BONAPACE PIERA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.765696902897277,
+                    46.16237740620511
+                ]
+            }
+        }
+    ]
+}

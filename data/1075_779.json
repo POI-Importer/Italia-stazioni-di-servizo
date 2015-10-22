@@ -1,0 +1,174 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Retitalia Nuraminis",
+                "id": "31074",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "PASCHINA GIAMBATTISTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0164253115654,
+                    39.43768409013766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sanna Marcello",
+                "id": "21833",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SANNA MARCELLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.982103384647417,
+                    39.48458431230797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Car Ges sas",
+                "id": "26869",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CAR.GES. S.A.S. DI CARIA DIEGO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.046103954315186,
+                    39.378953098318654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AUTOSERVICE GARDEN E C. S.A.S.",
+                "id": "28941",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AUTOSERVICE GARDEN DI ALEX PICCI E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.023894781407193,
+                    39.45878036350483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto ENI Fois Matteo",
+                "id": "31011",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FOIS MATTEO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.043814622753871,
+                    39.39832557844548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SCM ENI NURAMINIS",
+                "id": "16037",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "S.C.M. S.A.S. DI SPANU CORRADO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.01901364326477,
+                    39.428369324622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "27606",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LECIS ANTONELLO E FIGLIE S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.980397880077362,
+                    39.484199281968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "beyfin",
+                "id": "5180",
+                "amenity": "fuel",
+                "operator": "MUSIO STEFANO E ROBERTO DI MUSIO STEFANO E MUSIO ROBERTO S.N.C. \" MUSIO STEFANO E ROBERTO S.N.C. \""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.034917801618576,
+                    39.40028656670808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP Sanna Paola",
+                "id": "13101",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SANNA PAOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.969779685139654,
+                    39.49439888670002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore ESSO",
+                "id": "7097",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F.LLI MURA S.N.C. DI ALESSANDRO MURA E GIUSEPPE COCCODI O, CON RAGIONE SOCIALE ABBREVIATA F.LLI MURA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.04684692621231,
+                    39.37190822614411
+                ]
+            }
+        }
+    ]
+}

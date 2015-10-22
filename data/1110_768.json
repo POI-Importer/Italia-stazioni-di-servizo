@@ -1,0 +1,154 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LIONI PETROLI",
+                "id": "27988",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LIONI PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.195089578628542,
+                    40.87650646626415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Soriano Carburanti",
+                "id": "25950",
+                "amenity": "fuel",
+                "operator": "SORIANO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.200100671129348,
+                    40.87144818292146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO LIONI",
+                "id": "31234",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SANTORIELLO ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.17648711800575,
+                    40.87437695125808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SANTORO PETROLI S.R.L.-LIONI (AV)",
+                "id": "23317",
+                "amenity": "fuel",
+                "operator": "SANTORO PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.159062147140501,
+                    40.89812953447487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SORIANO E DI PAOLO SRL",
+                "id": "25777",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SORIANO E DI PAOLO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.17999411694473,
+                    40.87901963143658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dipri Rocca San Felice",
+                "id": "11295",
+                "amenity": "fuel",
+                "operator": "DIPRI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.170500427484512,
+                    40.97054112492307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "6804",
+                "amenity": "fuel",
+                "operator": "GERVASIO PIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.253650139533875,
+                    40.85194517744642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTELLANO GIUSEPPINA",
+                "id": "26683",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CASTELLANO GIUSEPPINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.208127193206677,
+                    40.95977496833235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 F.lli Bravoco snc",
+                "id": "5329",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "F.LLI BRAVOCO E C. S.N.C. DI BRAVOCO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.169423520565033,
+                    40.88578183453746
+                ]
+            }
+        }
+    ]
+}

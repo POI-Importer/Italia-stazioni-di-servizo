@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP MANTUANO",
+                "id": "15955",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MANTUANO                 ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.730903744697573,
+                    41.68614706977064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "31801",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "NDG FUEL DI TOMMASO CLEMENTE & C. SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.714202970266346,
+                    41.70474089376602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "19211",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LA SALA MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.714204311370846,
+                    41.70467441118614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FOGGIA - CORSO ROMA",
+                "id": "30828",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.728533001223354,
+                    41.70195488642425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni Station",
+                "id": "10482",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CASSANO CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.731495539123097,
+                    41.69993081839862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN GIOVANNI ROTONDO - SP 45 BIS",
+                "id": "22887",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.718654419643372,
+                    41.69765604883792
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI P.G.CIARDIELLO S.N.C.",
+                "id": "29174",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "P.G. CIARDIELLO DI CIARDIELLO PINA E MARIA GABRIELLA -SOCIETA' IN NOME COLLETTIVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.507454574108124,
+                    42.93691589029844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ACI",
+                "id": "26900",
+                "amenity": "fuel",
+                "operator": "AMICI PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.531491190195084,
+                    42.92442223406304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIOMBINO STAZ.SERV.Q8 LUNGOM.MARCONI",
+                "id": "6565",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.509274295631371,
+                    42.93412275498225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIOMBINO - DELLA PACE",
+                "id": "27106",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.524383906745923,
+                    42.93731570915095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL DI TESTI LUCA",
+                "id": "8876",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "TESTI LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.52033454179764,
+                    42.92885691001217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "10787",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FEOLA MARIO & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.50224170088768,
+                    42.93643832720935
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil - Senesi Lia",
+                "id": "7921",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SENESI LIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.039579559524554,
+                    42.970207047380924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione Q8",
+                "id": "27441",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MARTINI SIMONE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.035397523313577,
+                    42.970427958462956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GAVORRANO-LOC.LA MENGA VARIANTE AURELIA",
+                "id": "11614",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.908896559524463,
+                    42.95140417254458
+                ]
+            }
+        }
+    ]
+}

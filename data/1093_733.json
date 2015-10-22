@@ -1,0 +1,276 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione Esso",
+                "id": "29182",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CAMPAS S.N.C. DI CAMPAGNARO MARCO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.190971225500105,
+                    45.43440153757959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "_SMP MIRA",
+                "id": "30363",
+                "brand": "San Marco Petroli",
+                "amenity": "fuel",
+                "operator": "SAN MARCO PETROLI DISTRIBUZIONE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.183498591184613,
+                    45.42873553232314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "9771",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "AGIOLLO ENNIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.20289699733257,
+                    45.44924128258157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NOAOIL versuro",
+                "id": "17593",
+                "brand": "Noaloil",
+                "amenity": "fuel",
+                "operator": "VERSURO DORIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.153613418340683,
+                    45.41981430826917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fra.Ro.Ma (Nautico)",
+                "id": "26981",
+                "amenity": "fuel",
+                "operator": "FRA.RO.MA. S.A.S. DI ROMBOLOTTO MARCO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.257879935204981,
+                    45.41834401057598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "13010",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ZANCANARO ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.176914028558372,
+                    45.424928050707884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "6964",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PREO & RIGON - SOCIETA' IN NOME COLLETTIVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.145289182662964,
+                    45.399338921326695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "22044",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "VANZETTO VITO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.129913847885064,
+                    45.435491817745145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di servizio TAMOIL",
+                "id": "14327",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "STURARO ANNA REGINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.153686835308918,
+                    45.40620260958856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil di Marini Valter - Malcontenta",
+                "id": "18211",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MARINI VALTER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.194125159521946,
+                    45.44871600188506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SMP MALCONTENTA",
+                "id": "5246",
+                "brand": "San Marco Petroli",
+                "amenity": "fuel",
+                "operator": "SAN MARCO PETROLI DISTRIBUZIONE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.209726457247823,
+                    45.44191250492924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VEGA ROMEA",
+                "id": "31450",
+                "brand": "Vega",
+                "amenity": "fuel",
+                "operator": "VEGA CARBURANTI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.20480740070343,
+                    45.44505175636951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MIRA S.S. 11 KM. 408.729 DISTR.Q8",
+                "id": "6479",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.14904730185242,
+                    45.44271797602183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "8594",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MARIN MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.168438814155593,
+                    45.45031303023963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO ENI 52816 DI MASUTTI ANTONIO",
+                "id": "30686",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "IMPIANTO ENI 52816 DI MASUTTI ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.13297193320466,
+                    45.437585993934654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VEGA ROMEA PIP",
+                "id": "31542",
+                "brand": "Vega",
+                "amenity": "fuel",
+                "operator": "VEGA CARBURANTI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.205971479415895,
+                    45.445770606641965
+                ]
+            }
+        }
+    ]
+}

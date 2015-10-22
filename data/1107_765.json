@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN LUPO",
+                "id": "28832",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.648377597332003,
+                    41.261533039353345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil p.v. 8320",
+                "id": "31926",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FALATO ANGELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.604939222335815,
+                    41.254978735432175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fuel Fragneto",
+                "id": "31297",
+                "amenity": "fuel",
+                "operator": "FUEL TRADING S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.760126702919822,
+                    41.247172932660675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ROSATO PIETRO",
+                "id": "26167",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ROSATO PIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.69119369983673,
+                    41.28993521503565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.LLI GOLIA SAS",
+                "id": "10207",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "F.LLI GOLIA S.A.S. DI GOLIA DAVIDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.756408929824829,
+                    41.319603408795146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA SERVIZIO MOLISANNIO",
+                "id": "21884",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BARBIERI MARIO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.731366485357286,
+                    41.26385570136073
+                ]
+            }
+        }
+    ]
+}

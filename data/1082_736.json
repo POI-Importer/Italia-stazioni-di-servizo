@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "20230",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "AZZONI SERENA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.355213060975075,
+                    45.07948201566012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "repsol",
+                "id": "20172",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "DITTA CAZACU ALA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.337472259998322,
+                    45.01158361406402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI di Agnani Manrico",
+                "id": "10654",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AGNANI MANRICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.204740464687346,
+                    44.99488681866562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil di Magni Adriana",
+                "id": "19215",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MAGNI ADRIANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.252560898661612,
+                    44.98623477406475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV Gussola",
+                "id": "31841",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "TRUSSARDI PETROLI SPA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.35539328339769,
+                    45.01009738571669
+                ]
+            }
+        }
+    ]
+}

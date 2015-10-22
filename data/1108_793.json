@@ -1,0 +1,276 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "31679",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "REITANO SANTI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.898123443126675,
+                    37.56018394470775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "17368",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "TRADING OIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.898564918404759,
+                    37.56510722615124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "26171",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CARBOMIX - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.939319491386415,
+                    37.550948334633006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "concarb snc paternò",
+                "id": "14997",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CONCARB DI CONSENTINO GERLANDINA ERMINIA E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9063041806221,
+                    37.57377331107727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "METANO SINERGIE",
+                "id": "5612",
+                "amenity": "fuel",
+                "operator": "METANO SINERGIE S.R.L. IL REGISTRO IMPRESE NON GARANTISCE LA CORRISPONDENZA DEGLI ASSETTI PROPRIETARI CON LA REALE COMPAGINE SOCIALE,POICHE' LA SOCIETA' NON HA PROVVEDUTO ALL'AGGIORNAMENTO DATI PREVISTO DALLA L. 2 -28/01/2009 ART.16 CO.12 UNDECIES"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.848025143146515,
+                    37.52672180140497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "P.ZZA PURGATORIO PATERNO'",
+                "id": "20984",
+                "brand": "Giap",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.904828100168745,
+                    37.566037979686655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LOC.SFERRO PATERNO'",
+                "id": "20361",
+                "brand": "Giap",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.797699703041076,
+                    37.50090967426804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distribuzione carburanti mendolaro gaetano",
+                "id": "9734",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MENDOLARO GAETANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.898799359798431,
+                    37.533346814884986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio eni di chiarenza salvatore",
+                "id": "31247",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CHIARENZA SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.896020591259003,
+                    37.57703172013042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "26039",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "REITANO SANTI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.898123443126675,
+                    37.56018394470775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUZIONE CARBURANTI DI MENDOLARO GIUSEPPE & C. S.A.S.",
+                "id": "9657",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DISTRIBUZIONE CARBURANTI DI MENDOLARO GIUSEPPE & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.911527782678602,
+                    37.56935186750983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REI PETROLI & C SAS",
+                "id": "26407",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "REI PETROLI S.A.S. DI REITANO SANTI & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.897731840610502,
+                    37.57472270302436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni Station Palumbo Maria Anna",
+                "id": "29430",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PALUMBO MARIA ANNA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.89838697016239,
+                    37.56088602028576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA CIRCONVALLAZIONE PATERNO'",
+                "id": "20362",
+                "brand": "Giap",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.907119540269946,
+                    37.56844049662694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.LLI REITANO SRL",
+                "id": "26408",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F.LLI REITANO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.897737205028532,
+                    37.574731206256715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LA CAVA GRAZIELLA",
+                "id": "26387",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "LA CAVA GRAZIELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.850557980261215,
+                    37.52417159012463
+                ]
+            }
+        }
+    ]
+}

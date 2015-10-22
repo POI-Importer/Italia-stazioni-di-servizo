@@ -1,0 +1,205 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAROIL",
+                "id": "24246",
+                "amenity": "fuel",
+                "operator": "VALVA GIORGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.076647025141028,
+                    40.4256754086356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "impianto ENI spa",
+                "id": "10001",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PICCIRILLO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.060904026031492,
+                    40.32013245972658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "M PETROLI",
+                "id": "21649",
+                "amenity": "fuel",
+                "operator": "SALERNO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.014221617840576,
+                    40.33498336520981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Agropoli",
+                "id": "20113",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.99716132879257,
+                    40.35534557475659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TRENTINARA",
+                "id": "28825",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.114977359771729,
+                    40.411890048042586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "18722",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SARNICOLA GERMANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.000240504741667,
+                    40.36273571722099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Diperoil",
+                "id": "27808",
+                "amenity": "fuel",
+                "operator": "DI PERNA CARMELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.018061101436615,
+                    40.40457269808979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GIUNGANO",
+                "id": "28817",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.076106786727905,
+                    40.391652451352726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE ESSO MORLANO SRL",
+                "id": "28029",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MORLANO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.996788501739502,
+                    40.35276972828928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OGLIASTRO CILENTO",
+                "id": "28820",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.035355985164639,
+                    40.35304199349086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO IP PALUMBO GIOVANNI",
+                "id": "4445",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PALUMBO GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.003397464752197,
+                    40.335553467399386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio ERG",
+                "id": "16362",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PERRUSIO GELSOMINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.005757250654597,
+                    40.43033828237643
+                ]
+            }
+        }
+    ]
+}

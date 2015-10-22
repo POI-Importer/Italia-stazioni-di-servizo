@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COCINA",
+                "id": "8792",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "COCINA VITO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.57522967457771,
+                    40.69311056255328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "sileo giuseppe impiant kuwait n°8767",
+                "id": "21629",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SILEO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.544523745775221,
+                    40.70127856121109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EURO CARBURANTI",
+                "id": "19260",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "EUROCARBURANTI DI PACELLA ROCCO E C. -  S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.550033673644068,
+                    40.655335346451274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BASILE PETROLI",
+                "id": "25537",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONE DISTRIBUTORE CARBURANTI FABIO ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.507756024599072,
+                    40.59819484051849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "la quercia",
+                "id": "21457",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DISTRIBUZIONE CARBURANTI LOSASSO DI LOSASSO VITO E FIGLIA S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.555732697248459,
+                    40.693469710377514
+                ]
+            }
+        }
+    ]
+}

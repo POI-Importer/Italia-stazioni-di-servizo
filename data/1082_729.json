@@ -1,0 +1,173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "zenia & giusy s.n.c.",
+                "id": "24208",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ZENIA & GIUSY S.N.C. DI SIGNORINI ZENIA & RIBOLA GIUSEPPINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.218272209167479,
+                    45.90309297582245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio ESSO di Damioli Elena",
+                "id": "7893",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DAMIOLI ELENA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.250721573829653,
+                    45.93733454998962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Toroselle",
+                "id": "8344",
+                "amenity": "fuel",
+                "operator": "INTEGRA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.219693779945374,
+                    45.90313105181083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AUTOSERVICE",
+                "id": "27333",
+                "amenity": "fuel",
+                "operator": "AUTOSERVICE DI COMENSOLI MARIANGELA &. C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.271250614155631,
+                    45.93058174445098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg di Moscardi Aurelio",
+                "id": "18153",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MOSCARDI AURELIO GIANLUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.198481757602622,
+                    45.90367829428943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore carburanti chiminelli mauro e c snc",
+                "id": "11987",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE CARBURANTI CHIMINELLI MAURO E C. - SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.280842781066896,
+                    45.94262586012915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BIASINI LUCA",
+                "id": "22222",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BIASINI LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.263828188180923,
+                    45.92571793551632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sia Fuel Borno",
+                "id": "29280",
+                "brand": "Sia fuel",
+                "amenity": "fuel",
+                "operator": "S.I.A. ENGINEERING CONSTRUCTION S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.211801624797658,
+                    45.94808906362269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "m. g. di gheza manuel",
+                "id": "5270",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "M. G. DI GHEZA MANUEL  &  C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.219150017860443,
+                    45.90301959870074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE IP",
+                "id": "27687",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BERTONI ENRICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.20710349082947,
+                    45.9479151734416
+                ]
+            }
+        }
+    ]
+}

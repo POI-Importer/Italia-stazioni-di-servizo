@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Staz. Serv. Q8",
+                "id": "13897",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MACCIONI CESARE E UGO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.362171570148803,
+                    39.33782807338675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO Q8 DI MATZUZZI FERNANDO ANTONIO",
+                "id": "27896",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO Q8 DI MATZUZZI FERNANDO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.322065711021423,
+                    39.27772970947659
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,358 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gallesio giancarlo",
+                "id": "7217",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GALLESIO GIANCARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.818188346078615,
+                    44.39204613992355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP VILLANOVA MONDOVI'",
+                "id": "24518",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GONELLA & SOMA' S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.778715938329699,
+                    44.35129627915337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "13294",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "F.LLI MICHELOTTI DI MICHELOTTI GIOVANNI & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.90105752646923,
+                    44.3683864507674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE TAMOIL DI GAMBINO GIANPAOLO",
+                "id": "4872",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "GAMBINO GIANPAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.83356174826622,
+                    44.362382954770496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg di Mondino Claudio",
+                "id": "7402",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MONDINO CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.750496216864008,
+                    44.39792076601225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CENTRO CALOR MAGLIANO",
+                "id": "10526",
+                "amenity": "fuel",
+                "operator": "CENTRO CALOR S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.830163098484604,
+                    44.46456982429472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FAZIO GIUSEPPE",
+                "id": "8598",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FAZIO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.82270014286041,
+                    44.397811341284516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "wiracarservice",
+                "id": "7098",
+                "brand": "Socogas",
+                "amenity": "fuel",
+                "operator": "WIRA CAR SERVICE S.A.S. DI OLIVERO ANDREA  &  C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.802504249662775,
+                    44.41099512845682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mondovicino Power",
+                "id": "12764",
+                "amenity": "fuel",
+                "operator": "FILEA S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.8501713275909415,
+                    44.42064735984841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP MONDOVI' VIA CUNEO 107",
+                "id": "21783",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GONELLA & SOMA' S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.788379937410353,
+                    44.41161189085924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kerotris - Mondovì",
+                "id": "13140",
+                "amenity": "fuel",
+                "operator": "KEROTRIS - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.831284352392571,
+                    44.41702831666464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TEALDI PETROLI SAS",
+                "id": "10191",
+                "amenity": "fuel",
+                "operator": "TEALDI PETROLI DI TEALDI RENZO & C.S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.775865928030272,
+                    44.446998617174046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "14831",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FRESIA MATTEO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.813580632209777,
+                    44.39712371973345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ivan Cordischi Distributore ENI",
+                "id": "27851",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CORDISCHI IVAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.806740999221801,
+                    44.4059903132368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA DI SERVIZIO IP",
+                "id": "21056",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "D'ACUNTO FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.830442339181902,
+                    44.40412182714143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONDOVI EST",
+                "id": "3725",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "VIVOCAFFE' S.A.S. DI DAMIANO GIUSEPPE E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.849944184950914,
+                    44.43466592544404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONDOVI' - QUADRONE",
+                "id": "30318",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "EUROPAM S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.818726450204849,
+                    44.394514977203976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONDOSERVICE SAS",
+                "id": "5028",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "MONDOSERVICE S.A.S. DI D'ANGELO GABRIELE E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.823810982803365,
+                    44.398486659634216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENGI SNC",
+                "id": "22559",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "EN.GI. DI GARELLI SERGIO & C. S.N.C. SIGLABILE \"EN.GI. S.N.C.\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.813493271163908,
+                    44.40351302511334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONDOVI OVEST",
+                "id": "3779",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CHIERA & C. S.A.S. DI CHIERA ALESSANDRO E LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.855355112891856,
+                    44.42390263983494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Luigi Specchio",
+                "id": "26756",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SPECCHIO LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.782531201883104,
+                    44.451796329004935
+                ]
+            }
+        }
+    ]
+}

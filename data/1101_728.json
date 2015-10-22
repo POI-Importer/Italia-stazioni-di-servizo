@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "pierre rifornimenti",
+                "id": "19963",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PIERRE RIFORNIMENTI DI PONZALLI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61571129388733,
+                    45.955424221192324
+                ]
+            }
+        }
+    ]
+}

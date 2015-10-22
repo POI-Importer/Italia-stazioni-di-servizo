@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NAUTILUS MARINE SRL",
+                "id": "29562",
+                "amenity": "fuel",
+                "operator": "NAUTILUS MARINE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.85238653421402,
+                    35.86357710208189
+                ]
+            }
+        }
+    ]
+}

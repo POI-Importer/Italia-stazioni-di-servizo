@@ -1,0 +1,208 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CENTRO CALOR VILLAREGGIA",
+                "id": "10558",
+                "amenity": "fuel",
+                "operator": "CENTRO CALOR S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.986746728420257,
+                    45.2802934524368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN ROCCO",
+                "id": "3891",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DEMARCHI MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.973708510398865,
+                    45.24177176754096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "13666",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "REINERI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.93719157576561,
+                    45.294310638671384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "12033",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BELLUCCI PETROLI SNC DI BELLUCCI TEODORO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.9477500915527335,
+                    45.22616006404652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CONAD SUPERMERCATO",
+                "id": "31837",
+                "brand": "CONAD",
+                "amenity": "fuel",
+                "operator": "LACADE' SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.075787580009433,
+                    45.27445311554681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VEROLENGO",
+                "id": "23912",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SIRTAM S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.947766184806822,
+                    45.226172154376556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BONINO ALDO SRL",
+                "id": "12632",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BONINO ALDO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.020815149459848,
+                    45.23191425646079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Repsol_Villareggia_(TO014)",
+                "id": "25058",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "REPSOL ITALIA S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.984002828598022,
+                    45.31033293713473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CIGLIANO NORD",
+                "id": "3487",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PINO DI PINO DOMENICO & C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.034026026725769,
+                    45.287171892802654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA SERVIZIO IP DI BERNUZZO ANDREA",
+                "id": "28123",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "AREA SERVIZIO IP DI BERNUZZO ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.0792017209709,
+                    45.27311354803455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LIVORNO FERRARIS-BIVIO CRESCENTINO-SALUGGIA",
+                "id": "11937",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.07974099140165,
+                    45.277705630412775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "10380",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BORDIN DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.9788936456513975,
+                    45.21766242536324
+                ]
+            }
+        }
+    ]
+}

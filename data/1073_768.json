@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "essepi snc distributore esso",
+                "id": "26477",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ESSEPI S.N.C. DI PINTUS MAURIZIO E SERRA GIOVANNA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.761298954486847,
+                    40.89571727292946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "10792",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LEPORI NICOLO' COSTANZO EREDI DI MELA GIUSEPPINA E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.707147174279385,
+                    40.913619272846624
+                ]
+            }
+        }
+    ]
+}

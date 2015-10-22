@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORO F.LLI SPA",
+                "id": "29014",
+                "brand": "Loro",
+                "amenity": "fuel",
+                "operator": "LORO F.LLI-S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.376885720665088,
+                    44.83929716767885
+                ]
+            }
+        }
+    ]
+}

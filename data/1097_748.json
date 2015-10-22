@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EWA PERGOLA",
+                "id": "29987",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.849187513783704,
+                    43.573023521657475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MARINELLI GIGLIOLA",
+                "id": "6291",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MARINELLI GIGLIOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.978195548057556,
+                    43.53390770794812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil Arcevia",
+                "id": "10960",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "A.S.I.A. DI CALCATELLI I. E MORICO S. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.948313057422638,
+                    43.5043847269517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio IP di Rossini Donatella",
+                "id": "30865",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ROSSINI DONATELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8362440077384,
+                    43.55543077234518
+                ]
+            }
+        }
+    ]
+}

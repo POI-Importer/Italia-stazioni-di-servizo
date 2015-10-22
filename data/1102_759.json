@@ -1,0 +1,122 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI 16555 - 2D di De Stephanis Giuseppina & c.",
+                "id": "23146",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "2D - S.N.C. DI DE STEPHANIS GIUSEPPINA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.875597715377808,
+                    42.10768586610924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SHEIK OIL",
+                "id": "21977",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SHEIKH  JASIM  UDDIN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.843999207019806,
+                    42.10190335993158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DOTTO LUCA",
+                "id": "24397",
+                "amenity": "fuel",
+                "operator": "DOTTO LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.81948783993721,
+                    42.1052097825848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione IP Tito",
+                "id": "29946",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "POTENA TITO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.815191984595685,
+                    42.102830912649566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "area di servizio eni n°16512",
+                "id": "20240",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "COLAIACOVO NICOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.875481635332108,
+                    42.092426314763856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributote IP",
+                "id": "30013",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BAR KOMODO DI FRANZESE FULVIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.741656264865128,
+                    42.14278180415786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Più",
+                "id": "6301",
+                "amenity": "fuel",
+                "operator": "PETROLBITUMI - SOCIETA A RESPONSABILITA LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.87726705653074,
+                    42.117007159281066
+                ]
+            }
+        }
+    ]
+}

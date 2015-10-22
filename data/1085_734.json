@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE COGHI",
+                "id": "15783",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE CARBURANTI DI COGHI NICOLA E COGHI FABIO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.772942304611206,
+                    45.26217920659192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PASQUETTO FIORENZO Impianto Distribuzione Carburanti",
+                "id": "31623",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PASQUETTO FIORENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.822069644927977,
+                    45.31429008407038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DOCA Pizzoletta",
+                "id": "25388",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "D'O.CA. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.834912061691284,
+                    45.330902030379754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A.F. PETROLI SPA",
+                "id": "31097",
+                "brand": "AF Petroli",
+                "amenity": "fuel",
+                "operator": "A.F. PETROLI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.80739662051201,
+                    45.29622707057341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ip Spitti Alessandro",
+                "id": "20285",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SPITTI ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.752365738153458,
+                    45.21785154195306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "POVEGLIANO",
+                "id": "3657",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "WOLF S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.89790642261505,
+                    45.297285731334206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SPERANZINI DANIELA",
+                "id": "13529",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SPERANZINI DANIELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.767897325196373,
+                    45.27043821002527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "POVEGLIANO",
+                "id": "3996",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "WOLF S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.896479487419128,
+                    45.297187620669064
+                ]
+            }
+        }
+    ]
+}

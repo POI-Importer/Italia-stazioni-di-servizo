@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO",
+                "id": "26918",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FORASTIERI W. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.70249625224949,
+                    40.257400455334725
+                ]
+            }
+        }
+    ]
+}

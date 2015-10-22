@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gromo Cars Services",
+                "id": "13727",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GROMO CARS SERVICES DI FORNONI ANGIOLINO E LUCA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.926552474498749,
+                    45.960778071804846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FLLI.SCOLARI SNC",
+                "id": "10990",
+                "amenity": "fuel",
+                "operator": "F.LLI SCOLARI S.N.C. DI  SCOLARI MARCO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.943919067459092,
+                    45.98913773452
+                ]
+            }
+        }
+    ]
+}

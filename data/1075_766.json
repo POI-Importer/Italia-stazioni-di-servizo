@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "3768",
+                "id": "30630",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "T.D.M. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.071076661348343,
+                    41.12461524274908
+                ]
+            }
+        }
+    ]
+}

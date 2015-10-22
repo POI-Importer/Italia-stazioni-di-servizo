@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso PV2406",
+                "id": "25041",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "KASSLATTER LEONHARD"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.522723448279976,
+                    46.580020867612895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI CHIUSA",
+                "id": "17308",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LEWISCH*FLEDERSBACHER RENATE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.561128199100493,
+                    46.63771288561305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 Finktankstelle",
+                "id": "8134",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "STEINER NORBERT & MANFRED SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.573125720024109,
+                    46.645249780557016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore IP Lajon Tankstelle",
+                "id": "21927",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "KNOTTNER FRANZ & CO. KG -SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.559228725984214,
+                    46.60198935327804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ISARCO EST",
+                "id": "3917",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BIZZO DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.523158848285673,
+                    46.570291983378105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GNP VELTURNO",
+                "id": "4401",
+                "amenity": "fuel",
+                "operator": "GRUPPO NORD PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.60119971704137,
+                    46.67091372314714
+                ]
+            }
+        }
+    ]
+}

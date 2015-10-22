@@ -1,0 +1,326 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Lizzi & C. sas",
+                "id": "3981",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LIZZI & C. S.A.S. DI BERTUZZI GRAZIELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.090751767158508,
+                    46.09711675785054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Venier snc di Venier Sonia e c.",
+                "id": "15693",
+                "amenity": "fuel",
+                "operator": "VENIER SNC DI VENIER SONIA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.043756783008574,
+                    46.17919451432989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COSEANO",
+                "id": "15948",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SAINI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.029979616403581,
+                    46.08529962765536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "19451",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CELOTTI FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.06679654232789,
+                    46.173750229935166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LEDRA OVEST",
+                "id": "3640",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SOCIETA LEDRA SAS DI FATTORI DINO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.11956553869254,
+                    46.18584587329601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SINGH KULVIR",
+                "id": "30719",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SINGH KULVIR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.172821998596191,
+                    46.10073832551653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio ESSO di Ornella Michele",
+                "id": "10193",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ORNELLA MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.008729544814514,
+                    46.15252215638055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL ERG",
+                "id": "7000",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "AGROFRIUL SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.158417699350252,
+                    46.18890377456155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore carburanti di d'angelo ivan",
+                "id": "12383",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "D'ANGELO IVAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.031027019023897,
+                    46.11174924213166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO IP di ZARBO GUGLIELMO",
+                "id": "22829",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ZARBO GUGLIELMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.068499700000002,
+                    46.18472589999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EMMEVU",
+                "id": "28686",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "EMMEVU DI PIERRO VINCENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.180691599845888,
+                    46.08376742660193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "marco franzin",
+                "id": "27141",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FRANZIN MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.062502029430334,
+                    46.1850764815029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "14306",
+                "id": "11076",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAZIONE ENI DI MAZZA GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.093640506267548,
+                    46.10480746966995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LEDRA EST",
+                "id": "31589",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.116044998168947,
+                    46.18814982818791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MARTIGNACCO - VIA SPILIMBERGO 188",
+                "id": "7267",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.144830101852447,
+                    46.089770365056495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MAJANO - S.P. JULIENSE",
+                "id": "31170",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.059155568122831,
+                    46.18583899598643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "(0)",
+                "id": "23426",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LIZZI & C. S.A.S. DI BERTUZZI GRAZIELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.090156034393319,
+                    46.10954330469644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LB",
+                "id": "9179",
+                "amenity": "fuel",
+                "operator": "LB DI LAUZZANA RITA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.073003963298786,
+                    46.09265460589632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MARTIGNACCO",
+                "id": "15972",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SAINI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.173688279762246,
+                    46.082491626460765
+                ]
+            }
+        }
+    ]
+}

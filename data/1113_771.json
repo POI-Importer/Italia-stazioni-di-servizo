@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IES SASSO - MD2 Carburanti di Muro Domenico",
+                "id": "10247",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "MD2 CARBURANTI DI MURO DOMENICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.665307641029356,
+                    40.451792645812
+                ]
+            }
+        }
+    ]
+}

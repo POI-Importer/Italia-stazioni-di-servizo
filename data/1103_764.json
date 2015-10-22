@@ -1,0 +1,157 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di serv.eni francesco masi",
+                "id": "9688",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MASI FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.05340194702148,
+                    41.486727386684585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PROPANGAS",
+                "id": "27893",
+                "amenity": "fuel",
+                "operator": "PROPAN GAS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.054092356188903,
+                    41.47141580041548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BELVEDERE",
+                "id": "20935",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MDS GLOBAL OIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.060411900281908,
+                    41.50541931570246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Over Srl",
+                "id": "4609",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "OVER S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.93343891506652,
+                    41.44515164600186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MAVILA SRL",
+                "id": "21936",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MAVILA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.062112104330708,
+                    41.44461706695394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE TOTALERG OREFICE ANTONIO",
+                "id": "14931",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "OREFICE ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.888862332780604,
+                    41.40704024373757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI 06659",
+                "id": "8780",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MASCIO FRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.91493558883667,
+                    41.444671835383154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "27405",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ENERGY DI NERI ANGELO & PIROZZI MARCO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.044583469836423,
+                    41.484389389223296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VENAFRO SS.85 KM.19+404",
+                "id": "6713",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.049775040475424,
+                    41.47510849628028
+                ]
+            }
+        }
+    ]
+}

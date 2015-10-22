@@ -1,0 +1,123 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ranzato Jacopo",
+                "id": "14082",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "RANZATO  JACOPO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.549787633360324,
+                    45.01417753692847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COM.PET VALENZA SRL",
+                "id": "26988",
+                "amenity": "fuel",
+                "operator": "COM.PET VALENZA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.610180616378784,
+                    45.05781802928634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Retitalia Brixia - Occimiano",
+                "id": "20414",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "BRIXIA FINANZIARIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.512168675661087,
+                    45.05573307084276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "10176",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ALEMANNI PIER LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.565653487102509,
+                    44.98046296556001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONFERRATO OVEST",
+                "id": "23131",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.509563236770646,
+                    45.07372869026294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "5386",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "RANZATO ANTONELLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.610463589429855,
+                    44.96713745728949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "17109",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GE.MA. DI DAGA GIOVANNA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.493894785642624,
+                    45.06904222756787
+                ]
+            }
+        }
+    ]
+}

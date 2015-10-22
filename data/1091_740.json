@@ -1,0 +1,172 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VISTOLI GIANLUCA",
+                "id": "6950",
+                "amenity": "fuel",
+                "operator": "VISTOLI GIANLUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.945106609192637,
+                    44.48008774504039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ditta Maurizio Bellettini",
+                "id": "15442",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BELLETTINI MAURIZIO E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9266589730978,
+                    44.587375385311205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ditta Maurizio Bellettini",
+                "id": "15443",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BELLETTINI MAURIZIO E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.926667331738258,
+                    44.5873791447518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "carburanti LG",
+                "id": "14086",
+                "amenity": "fuel",
+                "operator": "LOLLINI GIORGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.888545453548431,
+                    44.51489365368802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Melandri Giulio, Spazzate Sassatelli",
+                "id": "18800",
+                "amenity": "fuel",
+                "operator": "MELANDRI GIULIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.780303567647934,
+                    44.52460826805285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione GRUPPO IP",
+                "id": "27826",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PERNISA ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.830980954596273,
+                    44.51429401356195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "b & g snc",
+                "id": "8232",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "B & G DI GIACOMETTI GIAMPIERO E ALBONETTI BRUNORA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.881241798400879,
+                    44.53645152988296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "18568",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "G.B.S. CARBURANTI DI STEFANO BELTRAMINI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.929749548435211,
+                    44.53879354840667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione TOTALERG",
+                "id": "27827",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TAGLIAFERRI MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.832305595180513,
+                    44.51407980464548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LUGO - GIOVECCA DI LUGO",
+                "id": "31199",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.881194635582004,
+                    44.53644206160979
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 di Ferracci Gaspare",
+                "id": "14020",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "FERRACCI GASPARE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.324196726083755,
+                    40.80959035769969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 CASSITTA",
+                "id": "9491",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GT OIL S.N.C. DI GIAN FRANCO E SEBASTIANO CASSITTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.408245086669922,
+                    40.842963315127015
+                ]
+            }
+        }
+    ]
+}

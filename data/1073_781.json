@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE CARBURANTI IP DI STEFANO PISCHEDDA",
+                "id": "25662",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PISCHEDDA STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.669060111091994,
+                    39.16723594241595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore carburanti F.LLI COLLU SNC",
+                "id": "9536",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FRATELLI COLLU DI ANDREA COLLU S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.688169866800308,
+                    39.106173671380404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE Q8",
+                "id": "10881",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PILLONI ANTONELLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.740792125463486,
+                    39.15812194336227
+                ]
+            }
+        }
+    ]
+}

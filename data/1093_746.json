@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MAE",
+                "id": "29990",
+                "amenity": "fuel",
+                "operator": "MAE DI FATTORI ELENA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.160769551992416,
+                    43.79041037024559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PARTISANI STEFANO",
+                "id": "30118",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PARTISANI STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.266934550902985,
+                    43.818956237912424
+                ]
+            }
+        }
+    ]
+}

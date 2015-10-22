@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BORSANA",
+                "id": "25201",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BORSANA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.360230922698975,
+                    44.22541266241955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VALLEGGIA",
+                "id": "3559",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.423718810081482,
+                    44.27463254173117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG SPOTORNO",
+                "id": "21703",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DAMONTE BRUNO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.41456241905689,
+                    44.22138078083992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dell'Apa Salvatore",
+                "id": "8624",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DELL'APA SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.434443789431613,
+                    44.26825513559988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "P.V.01397 ENI",
+                "id": "15721",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ROLANDO UGO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.432665318250656,
+                    44.27932482269386
+                ]
+            }
+        }
+    ]
+}

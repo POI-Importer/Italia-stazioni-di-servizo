@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DITTA GRECO CARMELA",
+                "id": "24380",
+                "amenity": "fuel",
+                "operator": "GRECO CARMELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.360550135241164,
+                    40.450115240535425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASCIANO CIRO",
+                "id": "23660",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CASCIANO CIRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.372931878837107,
+                    40.532043650837736
+                ]
+            }
+        }
+    ]
+}

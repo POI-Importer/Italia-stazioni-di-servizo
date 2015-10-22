@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore IES-Enotria Cafè di Luisi Vincenzo",
+                "id": "12647",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE IES-ENOTRIA CAFE' DI LUISI VINCENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.083260178565975,
+                    40.35304362872027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MAST DI DONNOLI CARMELO & C sas",
+                "id": "13894",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MAST DI DONNOLI CARMELO & C. -  SOCIETA' IN ACCOMANDITA SEMPLICE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.041907522802376,
+                    40.38388268723421
+                ]
+            }
+        }
+    ]
+}

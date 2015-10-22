@@ -1,0 +1,208 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENNA VIA OTTAVIO CATALANO",
+                "id": "6780",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.277989694512145,
+                    37.56311772114018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Salvatore Grillo s.r.l.",
+                "id": "19501",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SALVATORE GRILLO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.295166283845901,
+                    37.560111877730485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO IP di Lagona Alfonso",
+                "id": "12493",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LAGONA ALFONSO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.39362272620201,
+                    37.49671788465292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "fla en oil enna",
+                "id": "21085",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FLA.EN.OIL DI PICCOLO FLAVIA E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.277449151902376,
+                    37.57111664801862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "16116",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BONASERA DI BONASERA ROBERTO  &  C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.29739713668823,
+                    37.56365704927848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FERRARA LUIGI",
+                "id": "18066",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FERRARA LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.26880872883612,
+                    37.56773685153714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENNA VIA PERGUSA-S.P. 1 KM.0,400",
+                "id": "21250",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.280390452778647,
+                    37.56048769553349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 LAGO PERGUSA-ENNA",
+                "id": "25591",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SARRA CARBURANTI DEI F.LLI SARRA GIAMBATTISTA E ROSARIO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.305916563449953,
+                    37.52306033502965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SACCHITELLO SUD",
+                "id": "26374",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MAENZA.C S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.341058135032652,
+                    37.577252797000924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fratelli Grillo",
+                "id": "11999",
+                "amenity": "fuel",
+                "operator": "FRATELLI GRILLO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.272841771503638,
+                    37.57001475569824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SACCHITELLO NORD",
+                "id": "3751",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GULISANO  S.N.C. DI GULISANO ALFIO & FIGLIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.340181052684784,
+                    37.578517174003075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SP ENERGIA SICILIANA",
+                "id": "23805",
+                "brand": "SP Energia Siciliana",
+                "amenity": "fuel",
+                "operator": "RIGGIO BARTOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.270863499750476,
+                    37.560991373921645
+                ]
+            }
+        }
+    ]
+}

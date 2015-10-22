@@ -1,0 +1,54 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "KALOROIL MANCIANO",
+                "id": "18329",
+                "amenity": "fuel",
+                "operator": "KALOROIL DI BARTOLINI MARIO E FIGLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.520582373584261,
+                    42.59242182647769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE TOTAL",
+                "id": "27271",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BALESTRELLI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.517041325802438,
+                    42.588935027267446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "KALOROIL SATURNIA",
+                "id": "18330",
+                "amenity": "fuel",
+                "operator": "KALOROIL DI BARTOLINI MARIO E FIGLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.511208960499177,
+                    42.65511063947189
+                ]
+            }
+        }
+    ]
+}

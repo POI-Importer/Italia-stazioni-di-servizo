@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "palermo giorgio",
+                "id": "24960",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PALERMO GIORGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.853085130453112,
+                    36.73213716088727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FIMAR",
+                "id": "11391",
+                "amenity": "fuel",
+                "operator": "FIMAR S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.833239580356574,
+                    36.72475384369368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIALE EUROPA POZZALLO",
+                "id": "25244",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.851680994033815,
+                    36.733797087551615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore carburanti AGIP",
+                "id": "6881",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GIUNTA MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.935103058815006,
+                    36.71033681452691
+                ]
+            }
+        }
+    ]
+}

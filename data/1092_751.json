@@ -1,0 +1,190 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "19701",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SACCO MARCO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.044326812028885,
+                    43.12381336141305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CORTONA-SS71 KM110 330 FR TERONTOLA",
+                "id": "7276",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.013595402240753,
+                    43.18393095321763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP PETITO AGNESE",
+                "id": "21907",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PETITO AGNESE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.954269632697104,
+                    43.12350326318158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Perugia - Castiglione del Lago",
+                "id": "5280",
+                "amenity": "fuel",
+                "operator": "BEYFIN S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.021662145853043,
+                    43.14950650741144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GIULIACCI NICOLA",
+                "id": "15233",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GIULIACCI NICOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.054438716602363,
+                    43.089516225801454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "26972",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MAS S.A.S. DI FRANCESCA TULLI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.126942873001099,
+                    43.19233036925875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Terontola",
+                "id": "9991",
+                "amenity": "fuel",
+                "operator": "I.C.M. SOCIETA' IN NOME COLLETTIVO DI BRUNO, CRISTIANO E FABRIZIO MAGGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.013226598501204,
+                    43.19670191052098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OASI SELF AREA 24H",
+                "id": "19415",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "OASI S.N.C. DI DEBOLI M., NAPPINI G., POMERANI R."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.046144393254053,
+                    43.12509268859813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZ.SERVIZIO IP DI GIAMBINI ROBERTO",
+                "id": "19944",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GIAMBINI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.055950164794922,
+                    43.0750487361764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FRATELLI TRENTINI",
+                "id": "4142",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FRATELLI TRENTINI DI TRENTINI MASSIMO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.042105942964554,
+                    43.104582339736716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTIGLIONE DEL LAGO - POZZUOLO",
+                "id": "32019",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.973044256448702,
+                    43.12067243814255
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione servizio carburanti  Benenati",
+                "id": "17196",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BENENATI GIUSEPPE E C. SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.221496776968365,
+                    40.9362793951976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IB PETROLI",
+                "id": "23959",
+                "amenity": "fuel",
+                "operator": "IB PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.237776011228561,
+                    40.86488557981219
+                ]
+            }
+        }
+    ]
+}

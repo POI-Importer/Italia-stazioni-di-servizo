@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio",
+                "id": "20611",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "KADILLI ZAMIR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.623939737677575,
+                    43.84683060182428
+                ]
+            }
+        }
+    ]
+}

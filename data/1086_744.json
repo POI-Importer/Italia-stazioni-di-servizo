@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Staz.Serv. Tamoil",
+                "id": "16003",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "AUTERI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.94953909393996,
+                    44.0390484649768
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stagno di collesalvetti",
+                "id": "16484",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "VENTURI GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.348477363586426,
+                    43.591216351927976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE ESSO PISORNO",
+                "id": "4965",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PISORNO DI FRESIA ANNA & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.298038906082184,
+                    43.63134988669869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso di ceccanti gabriele",
+                "id": "10952",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CECCANTI GABRIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.348231941461561,
+                    43.6717600364794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTAGNOLO",
+                "id": "3563",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.359388589859009,
+                    43.667839791040905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "impianto carburanti Q8 di Ferroni F.",
+                "id": "9485",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "FERRONI FULVIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.291724503040314,
+                    43.626509638794325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EURPETROLI SAS",
+                "id": "30730",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "EURPETROLI DI MAMELI SIMONE S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.346935591926579,
+                    43.58938249203168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Staz.Servizio Eni Pani Mario",
+                "id": "4288",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PANI MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.364862978458405,
+                    43.654293222453575
+                ]
+            }
+        }
+    ]
+}

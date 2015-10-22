@@ -1,0 +1,122 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rifornimento Cirma Salvatore",
+                "id": "29778",
+                "amenity": "fuel",
+                "operator": "CIRMA SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.853624497777671,
+                    37.12418707614762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C.SO UMBERTO GIA",
+                "id": "12351",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.794313091926595,
+                    37.045989873513925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "12873",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "AVVEDUTO SANTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.796237051486967,
+                    37.04808919436791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BONAIUTO ENERGY SRL",
+                "id": "18060",
+                "amenity": "fuel",
+                "operator": "BONAIUTO ENERGY S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.910994286508185,
+                    37.05951958946061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP Costanzo Giuseppe",
+                "id": "10687",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "COSTANZO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.935562461614609,
+                    37.12112537593818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore ESSO",
+                "id": "17334",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DIBENEDETTO ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.853278279762206,
+                    37.124907921258114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SS 124 KM 72+700",
+                "id": "7688",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.88343303802867,
+                    37.07145922815007
+                ]
+            }
+        }
+    ]
+}

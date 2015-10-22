@@ -1,0 +1,292 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP-LT-PONTINA",
+                "id": "19372",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MONDONAUTICA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.708327770233154,
+                    41.54709058510176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Q8, via inghilterra",
+                "id": "7828",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "TRIOLA RAFFAELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.668877840042114,
+                    41.580354585132476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Metano Aprilia",
+                "id": "4742",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LAZIO GAS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.670445833065738,
+                    41.57585706754683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio FREE",
+                "id": "13175",
+                "amenity": "fuel",
+                "operator": "SEMENTILLI VITO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.829504211639462,
+                    41.57767399050685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Q8, via guardapasso",
+                "id": "7830",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "TRIOLA ARTURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.669522911310194,
+                    41.57117784002119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 gierre carburanti",
+                "id": "8261",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GIERRE CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.659699619086267,
+                    41.59503415281009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAMPOVERDE SERVICE DI LAERA FRANCESCO & C SNC",
+                "id": "30616",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CAMPOVERDE SERVICE DI LAERA FRANCESCO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.731240540742874,
+                    41.53917594837835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "7480",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CAPONERA ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.803940474987026,
+                    41.61484876180804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "repsol",
+                "id": "27553",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "D.C. SERVICE S.A.S. DI CIAFFONI DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.683455646038057,
+                    41.62385188189468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG 2082",
+                "id": "22416",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SOSSAI S.A.S DI SOSSAI MARA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.778387069702148,
+                    41.511361142909294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE Q8",
+                "id": "28014",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "COCCO E M. S.A.S. DI COCCO CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.800885438919067,
+                    41.544982626869945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Petrol Velletri",
+                "id": "26929",
+                "amenity": "fuel",
+                "operator": "RECINE & C. DI RECINE FABRIZIO S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.793322993362382,
+                    41.63208612507039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VECCIA CARBURANTI",
+                "id": "13237",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VECCIA DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.677388489281041,
+                    41.599065406589695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONDIAL TRASPORTI di De Marzi",
+                "id": "12860",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MONDIAL TRASPORTI DI DE MARZI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.760899066925049,
+                    41.6063716468189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SELCIATELLA - REPSOL",
+                "id": "30200",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "T. PETROL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.681844979559285,
+                    41.52850968257359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "APRILIA",
+                "id": "5815",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TotalErg SpA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.66363972883607,
+                    41.57898005123367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ERG",
+                "id": "16517",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MORO LAURETTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.819487228989598,
+                    41.574218439659134
+                ]
+            }
+        }
+    ]
+}

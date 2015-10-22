@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "5331",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "NOA SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.697440862655641,
+                    40.70179545846623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA DI SERVIZIO DI VENTRONI PIERO",
+                "id": "9556",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VENTRONI PIERO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.697351277136477,
+                    40.70175038169231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "karenake di Ruiu Mauro & c snc",
+                "id": "24979",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "KARENAKE DI RUIU MAURO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.746172577142715,
+                    40.60653553813085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto Q8",
+                "id": "26437",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ANELLI ISABELLA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.701749831438065,
+                    40.7068231029546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Karenake di Ruiu Mauro& c. snc",
+                "id": "24969",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "KARENAKE DI RUIU MAURO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.714976908320637,
+                    40.631403610054605
+                ]
+            }
+        }
+    ]
+}

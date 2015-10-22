@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG DI RUIU GIOVANNI",
+                "id": "9200",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "RUIU GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.734142127782889,
+                    45.99747231175501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LUINO-VIA DANTE ALIGHIERI 47/A",
+                "id": "11917",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.734885015869168,
+                    45.99821614078769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AL PORTO DI BAROZZI MARCELLO",
+                "id": "32044",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "AL PORTO DI BAROZZI MARCELLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.679450489559713,
+                    45.96108167151037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "9540",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GARAGE ALTO VERBANO S.A.S. DI PASSERA ANDREA PIETRO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.698983192443848,
+                    46.05921738870889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "47.78.36",
+                "id": "31024",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BRUN-LAC DI BRUNO ANTONIO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6795,
+                    45.961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "agip",
+                "id": "8702",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ARNABOLDI MARCO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.76203014312091,
+                    45.95627651205739
+                ]
+            }
+        }
+    ]
+}

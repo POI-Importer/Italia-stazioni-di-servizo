@@ -1,0 +1,258 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE ESSO",
+                "id": "29734",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "VILLANI GIANANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.258632808923721,
+                    45.06499391945289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL 4282",
+                "id": "13083",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CARBURANTI OLII LUBRIFICANTI BRONESE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.232677072286606,
+                    45.04916544721013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI di La Gaccia",
+                "id": "8658",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LA GACCIA PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.270047961729233,
+                    45.07238839009917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni2604",
+                "id": "8031",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MIOTTI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.30145720171356,
+                    45.0787986584582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BAISA SNC IMPIANTO 2556",
+                "id": "8094",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BAISA S.N.C. DI TIOZZO S., DISTASI D. E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.265559114819325,
+                    45.06835601904363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE CASTAGNA GABRIELE",
+                "id": "12580",
+                "amenity": "fuel",
+                "operator": "CASTAGNA GABRIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.300793671164001,
+                    44.99100465635624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STRADELLA NORD",
+                "id": "3935",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAZIONE AGIP DI PIETRALUNGA P. & F. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.315570741891861,
+                    45.08366300263687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "elma q8",
+                "id": "14401",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ELMA DI GUARNIERI ELENA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.257735610008242,
+                    45.087379725674836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VEGA STRADELLA",
+                "id": "31519",
+                "brand": "Vega",
+                "amenity": "fuel",
+                "operator": "VEGA CARBURANTI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.314316809177399,
+                    45.07306979177213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "3D MONTU' BECCARIA",
+                "id": "24655",
+                "amenity": "fuel",
+                "operator": "3D S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.299575271163917,
+                    45.03721143064717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio agip di kabashi denis",
+                "id": "22956",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DENIS KABASHI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.297808208212928,
+                    44.99499291317094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "7833",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "RICCHINI PAOLO E MAURIZIO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.277535676956177,
+                    45.075494300829114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.S. 15 BRONESE",
+                "id": "7683",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.258803046627007,
+                    45.08085493233074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil p&jsnc",
+                "id": "17214",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "P & J DI BIANI PIERO E POZZI JENNIFER S.N.C. DENOMINAZIONE ABBREVIATA \"P & J DI BIANI E POZZI S.N.C.\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.258269369602203,
+                    45.043888063469545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione q8 dei flli. cassi",
+                "id": "10565",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "F.LLI CASSI DI CASSI MAURIZIO ANTONIO E CASSI GABRIELE MARCO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.303132121972794,
+                    45.060302359165576
+                ]
+            }
+        }
+    ]
+}

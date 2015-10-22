@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio Moretto di Moretto Luigi e c. s.n.c.",
+                "id": "15566",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO MORETTO DI MORETTO LUIGI & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.853829562664034,
+                    45.590493244710814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OTTAVA PRESA",
+                "id": "27063",
+                "amenity": "fuel",
+                "operator": "P.R.R. DI PAPESSO GIANLUCA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.83315448731082,
+                    45.65295547539813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL CONCORDIA",
+                "id": "18047",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FAVA PATRIZIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.864617407321933,
+                    45.70395326237224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "25135",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CAV. FRANCESCO CAMPAGNER DI RENZO CAMPAGNER & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.884171000000038,
+                    45.602506876559495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAORLE-SP. 54 VL. PANAMA 49",
+                "id": "11945",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.871005447885182,
+                    45.60169342801975
+                ]
+            }
+        }
+    ]
+}

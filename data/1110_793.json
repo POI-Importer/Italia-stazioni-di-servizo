@@ -1,0 +1,157 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ACICASTELLOCARBURANTI",
+                "id": "27726",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ACICASTELLO CARBURANTI MARCHESE RAGONA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.143852680921553,
+                    37.550616389306114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SS 114 ACITREZZA",
+                "id": "30498",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.153425484895708,
+                    37.55957733076006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FICARAZZI",
+                "id": "27773",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "RIFORNIMENTO CARBURANTI Q8 DI SERRANO MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.126070638623107,
+                    37.55951481957921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A.Z.SERVICE S.R.L. ACI CATENA",
+                "id": "6910",
+                "amenity": "fuel",
+                "operator": "A.Z.SERVICE - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.137797594070431,
+                    37.57037699906157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SICILCAR",
+                "id": "19476",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SICILCAR SICULA INDUSTRIALE LUBRIFICANTI CARBURANTI  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.13848586749805,
+                    37.574493493520905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CATANIA VIALE LAINO'",
+                "id": "6930",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.118336826562881,
+                    37.538806169933615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Q8",
+                "id": "27147",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CASTORINA SANTO E TOMARCHIO GIOVANNI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.167317986488344,
+                    37.57546290579068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di servizio Cannizzaro",
+                "id": "30236",
+                "brand": "SP Energia Siciliana",
+                "amenity": "fuel",
+                "operator": "SERVIZI INTEGRATI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.121590524820476,
+                    37.54202685969711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DBS Serv. Petr. srl Vittorio Emanuele Valverde",
+                "id": "23771",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DBS SERVIZI PETROLIFERI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.122440413491855,
+                    37.57841703414081
+                ]
+            }
+        }
+    ]
+}

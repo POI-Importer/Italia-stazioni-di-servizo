@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "31865",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PIREDDA MARCELLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.797480985536138,
+                    40.21354382175048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto Eni",
+                "id": "19337",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PISANU ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.962026089429855,
+                    40.30046892005842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "santumarche",
+                "id": "7038",
+                "amenity": "fuel",
+                "operator": "SANTU MARCHE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.938912153244019,
+                    40.2956337156677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "santu marche",
+                "id": "7036",
+                "amenity": "fuel",
+                "operator": "SANTU MARCHE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.812499642372131,
+                    40.26861169731668
+                ]
+            }
+        }
+    ]
+}

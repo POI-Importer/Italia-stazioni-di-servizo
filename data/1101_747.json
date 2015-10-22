@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Rifornimento di Fabrizio Cesanelli",
+                "id": "31576",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CESANELLI FABRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.543618029430379,
+                    43.600632405655
+                ]
+            }
+        }
+    ]
+}

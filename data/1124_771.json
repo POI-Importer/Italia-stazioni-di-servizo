@@ -1,0 +1,342 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EP EUROPETROLI",
+                "id": "26613",
+                "amenity": "fuel",
+                "operator": "EUROPETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.59938955307007,
+                    40.52789878990219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "POLITO COSIMO",
+                "id": "20799",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "POLITO COSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.73582011461258,
+                    40.45828771419981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TORRE S. SUSANNA VIA PROV. S. PANCRAZIO",
+                "id": "6758",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.746176373016397,
+                    40.46391547562411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Agip di Adriano Luigi",
+                "id": "25740",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ADRIANO LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.58107767391084,
+                    40.533841516763864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAVALLO",
+                "id": "26409",
+                "amenity": "fuel",
+                "operator": "F.LLI CAVALLO DI CAVALLO COSIMO & C.SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.74489939212799,
+                    40.47165548822759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG DI SPINELLI GIOVANNI",
+                "id": "16048",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SPINELLI GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.717014602377276,
+                    40.55659805686458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "16477",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BREAK AND PETROL SERVICE DI MORETTO DEBORAH & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.728639841079712,
+                    40.46588245779149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "09216 Francavilla Fontana",
+                "id": "29626",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI RETE OIL&NONOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.592616975307465,
+                    40.52623354294866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FRANCAVILLA FONTANA S.S. 7 KM. 687+200",
+                "id": "23081",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.647265857394355,
+                    40.5367685537983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 Z-GAS",
+                "id": "16264",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "F.G. FUEL S.A.S. DI GALASSO GIOVANNI COSIMO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.596116417703797,
+                    40.5480058589117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore carburanti",
+                "id": "31977",
+                "amenity": "fuel",
+                "operator": "GALIANO MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.583817083204167,
+                    40.52456129214518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FRANCAVILLA FONTANA",
+                "id": "5524",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.60508534276744,
+                    40.530170376859694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gestione agip di itta vittorio",
+                "id": "15849",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ITTA VITTORIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.59983479976654,
+                    40.52157112163754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Servizio Esso",
+                "id": "14046",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DI SUMMA FRANCESCO E FIGLI  S.A.S.DI FAUSTO GAROFALI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.588508550262418,
+                    40.526361413776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "11402",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PATISSO MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.63401943726501,
+                    40.5027636409662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL di RIBEZZI COSIMO",
+                "id": "12610",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "RIBEZZI COSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.71342318657764,
+                    40.549978568197965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ORIA - CELLINO",
+                "id": "22123",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.630826411045064,
+                    40.50202831605053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ASSETS MANAGEMENT - ENI 29190",
+                "id": "31497",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ASSETS MANAGEMENT DI ERARIO LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.643207999536912,
+                    40.48901917696229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "16100",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TEO SAS DI COSI TEODORO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.725625103959032,
+                    40.55310345021106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ORIA",
+                "id": "5523",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.64918831779096,
+                    40.50417635496934
+                ]
+            }
+        }
+    ]
+}

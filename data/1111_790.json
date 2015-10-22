@@ -1,0 +1,189 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIFORNIMENTO GIORGINO DI GIORGINO ANTONINO E C. S.N.C.",
+                "id": "4835",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "RIFORNIMENTO GIORGINO DI GIORGINO ANTONINO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.375568717718124,
+                    37.95460870644021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "vittorio onofrio nicolò",
+                "id": "4424",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VITTORIO ONOFRIO NICOLO'"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.351954396852763,
+                    37.92793080927811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "9314",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SEMINARA GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.30302166938782,
+                    37.8781028179842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.TERESA RIVA VIA NAZ.SS.114 KM.34+139",
+                "id": "6777",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.360964089632036,
+                    37.93861480843158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Comangas",
+                "id": "9527",
+                "amenity": "fuel",
+                "operator": "GRASSO CARMELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.382823733421331,
+                    37.96936876240771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Flli Puglisi s.a.s. agip",
+                "id": "7251",
+                "amenity": "fuel",
+                "operator": "F.LLI PUGLISI S.A.S DI PASQUALE PATRIZIA&.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.384607762098309,
+                    37.964713296803396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BRIGUGLIO NATALE",
+                "id": "4352",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BRIGUGLIO NATALE S.N.C. DI BRIGUGLIO JOSE' DAMIANO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.406519635813199,
+                    37.987721034851624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP DI FERRARO COSIMO",
+                "id": "7843",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FERRARO COSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.386907756328581,
+                    37.9667485962656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA DI SERVIZIO GP",
+                "id": "6974",
+                "amenity": "fuel",
+                "operator": "CENTRO PER L'AUTO DI PALELLA ANTONIO & C. SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.344323109458857,
+                    37.93109094763015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto Carburante ESSO",
+                "id": "28869",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CHIARELLO ROSARIA BENEDETTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.361842772542554,
+                    37.984558592772444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S. TERESA DI RIVA",
+                "id": "3903",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CACOPARDO ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.354884862899778,
+                    37.93813588537944
+                ]
+            }
+        }
+    ]
+}

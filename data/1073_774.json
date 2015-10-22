@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "15208",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "IRRANCA GIOVANNI ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.65947993767145,
+                    40.14137682887752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "impianto ip",
+                "id": "21753",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ACCAREDDU ENOS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.655994087457657,
+                    40.09188596925724
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "20244",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MORETTI GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.215304166078568,
+                    46.39501217301158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "7412",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VARNERIN LAURETTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.296058773994446,
+                    46.40549439549573
+                ]
+            }
+        }
+    ]
+}

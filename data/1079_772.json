@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FARRIS SALVATORE",
+                "id": "4106",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FARRIS SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.698765873908997,
+                    40.379055827178796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Q8 di Pala Piermario",
+                "id": "8966",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PALA PIERMARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.694954454898834,
+                    40.37669992999542
+                ]
+            }
+        }
+    ]
+}

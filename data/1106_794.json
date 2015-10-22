@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "q8",
+                "id": "19087",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GUADAGNINO FRANCESCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.447010755538939,
+                    37.32752198391916
+                ]
+            }
+        }
+    ]
+}

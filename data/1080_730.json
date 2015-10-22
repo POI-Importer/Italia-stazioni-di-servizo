@@ -1,0 +1,207 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LUZZANA-VIA NAZIONALE 1033",
+                "id": "11485",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.883485830688414,
+                    45.71547752667875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Esso",
+                "id": "27518",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "VALENTI GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.908417967965761,
+                    45.7496771077155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE IP CAMPANA TOMMASO",
+                "id": "7321",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE I.P. DI CAMPANA TOMMASO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.895094880116972,
+                    45.808379900745955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ENI",
+                "id": "4504",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "P. & K. NEW ELECTRIC S.N.C. DI PEZZOLI PAOLO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.858056970078678,
+                    45.8131854331084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Tamoil di Carrara Gianfranco",
+                "id": "10730",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CARRARA GIANFRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.899572826741405,
+                    45.80968168303396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE API",
+                "id": "21595",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ARRIGHETTI CRISTOFORO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.976903103895552,
+                    45.7905337480169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OCCHIO AL PREZZO",
+                "id": "24262",
+                "amenity": "fuel",
+                "operator": "OIL INVEST 2000 SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.999953364418047,
+                    45.78718718515067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Total Erg Casnigo",
+                "id": "16808",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BERTOCCHI GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.865627437829971,
+                    45.80446510377936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "8771",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "TAMOIL DISTRIBUTORE DI LANFRANCHI ALEXANDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.86488074781573,
+                    45.81399661570424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MERLA MANUEL",
+                "id": "22235",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MERLA MANUEL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.882158279924624,
+                    45.800616145095006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Carburanti di Coronini Stefano",
+                "id": "8862",
+                "amenity": "fuel",
+                "operator": "CORONINI STEFANO ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.995116928082552,
+                    45.788168261788854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "total erg",
+                "id": "17995",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CANTAMESSI FAUSTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.91202898323536,
+                    45.75501445824076
+                ]
+            }
+        }
+    ]
+}

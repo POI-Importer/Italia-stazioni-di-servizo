@@ -1,0 +1,531 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE Q8 ALMADORI ROMOLO",
+                "id": "13561",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ALMADORI ROMOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.649459317326546,
+                    42.569897070352674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "METANO TERNI SNC - IP",
+                "id": "4335",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "METANO TERNI S.N.C. DI ROMANELLI BRUNO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.533211708068848,
+                    42.55589383923586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL",
+                "id": "13712",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BARBERI DANILO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.603680714964867,
+                    42.590082756899605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REPSOL",
+                "id": "8309",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "S.C. SERVICE S.N.C. - DI SOLI GRAZIANO E CESARONI COSTANTINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.63209670782089,
+                    42.56906249210792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Terni",
+                "id": "10091",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.64089971780777,
+                    42.56028738686933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Total Erg",
+                "id": "14579",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "B.I.G. BARTOLINI IMMOBILIARE GESTIONI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.633306909578662,
+                    42.56695693980266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "7520",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DESANTIS ENRICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.553033232688904,
+                    42.63214326953147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TERNI NORD",
+                "id": "5330",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "B M S.N.C. - DI BARTOLINI MARCO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.60888602408454,
+                    42.57019097986222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "total erg",
+                "id": "19516",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GARGAGLI VALENTINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.574496269226074,
+                    42.57615713728701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FELTRI SAURO",
+                "id": "27088",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "FELTRI SAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.573680877685547,
+                    42.59115677788781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TERNI SUD",
+                "id": "5298",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SIBRENE S.N.C. - DI BARTOLINI VALERIA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.609851495700807,
+                    42.569821753225376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RISTO PETROLI",
+                "id": "13066",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "RISTO - PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.625715732574463,
+                    42.5672897911909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP OTTAVI",
+                "id": "11204",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "OTTAVI MORENO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.637838596086906,
+                    42.555988557902204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "20356",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SENSI PETROLI S.A.S. DI CUTINI NATALE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.554154396057129,
+                    42.68156545537341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ACQUASPARTA",
+                "id": "7845",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "G.P.M. S.N.C. DI LATTANZI GIANFRANCO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.553167343139648,
+                    42.675671920644994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "soc. AL.EM sas di Strinati Alessandro",
+                "id": "15308",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AL.EM. S.A.S. DI STRINATI ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.628183364868166,
+                    42.56723052915088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Centenario",
+                "id": "14275",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "B.R. CARBURANTI DI RAFFAELE BARTOLINI E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.624071538448337,
+                    42.5778120697448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TERNI SS.79 LOC.COLLEROLLETTA",
+                "id": "20829",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.616386908598315,
+                    42.58265365747226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORENZETTI DANIELE",
+                "id": "13289",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LORENZETTI DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.63248347141109,
+                    42.56786167237055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg",
+                "id": "14303",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BARTOLINI RAFFAELE CARBURANTI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.63300918437801,
+                    42.56717818566016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ITAGEST",
+                "id": "30036",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ITAGEST S.R.L. IN LIQUIDAZIONE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.578072806921455,
+                    42.56399609844005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "21736",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "M.C. DI CARDAIOLI JESSICA & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.549098504087855,
+                    42.56237254436714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Terni Viale Campofregoso",
+                "id": "23287",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.653608024120333,
+                    42.56243682887526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZ.DI SERVIZIO IP-GRUPPO API",
+                "id": "9106",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PROIETTI MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.605674266815187,
+                    42.58461166463942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eredi Giubilei A.snc",
+                "id": "15534",
+                "amenity": "fuel",
+                "operator": "EREDI GIUBILEI AUGUSTO DI GIUBILEI MAURIZIO E C.SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.653485746536829,
+                    42.56501358189066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTECASTRILLI",
+                "id": "30702",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.496368885040281,
+                    42.65617676152043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TERNI V.XX SETTEMBRE 29",
+                "id": "6615",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.641096156483401,
+                    42.55531820353325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio ip f.lli mariani snc",
+                "id": "12998",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FRATELLI MARIANI  DI MARIANI LUCA E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.639327943325043,
+                    42.55743570582555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "7857",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GUELFI GIANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.644326239824293,
+                    42.555749608352436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip Casteltodino",
+                "id": "29809",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FOSCHI FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.512247562408447,
+                    42.65499043745996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TERNI - BORZACCHINI",
+                "id": "24432",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.633073177909864,
+                    42.56750395079137
+                ]
+            }
+        }
+    ]
+}

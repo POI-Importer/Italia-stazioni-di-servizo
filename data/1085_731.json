@@ -1,0 +1,88 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "B-PETROL SRL",
+                "id": "30957",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "B PETROL SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.795108652778596,
+                    45.60325876522279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP CAPRINO VERONESE",
+                "id": "19597",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ATESINA LUBRIFICANTI CARBURANTI E AFFINI - ALCEA - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.78392058610916,
+                    45.60045527086229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "scap",
+                "id": "23614",
+                "amenity": "fuel",
+                "operator": "BONETTI SILVANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.74611485004425,
+                    45.68229605030785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DB COSTERMANO",
+                "id": "24679",
+                "amenity": "fuel",
+                "operator": "DALLA BERNARDINA F.LLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.74300616979599,
+                    45.58549092009987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAPRINO VERONESE-VIA GIULIO SANDRI 8",
+                "id": "11957",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.796036765175472,
+                    45.606430165311245
+                ]
+            }
+        }
+    ]
+}

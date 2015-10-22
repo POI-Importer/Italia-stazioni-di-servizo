@@ -1,0 +1,192 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "blatti laura",
+                "id": "28808",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BLATTI ANNE LAURE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.750793307409708,
+                    37.33019952605315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SP RAMACCA-PALAG",
+                "id": "12050",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.700018167495728,
+                    37.38026386030079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SS 385 KM 33 + 493 MINEO",
+                "id": "31845",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.725516587495804,
+                    37.311224213525826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "area servizio",
+                "id": "18369",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "F.LLI BRANCATO SNC DI BRANCATO ANGELO E CARMELO."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.736810028553009,
+                    37.338639896168765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "28353",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LA SORGENTE CARBURANTI DI SILLITTI SIMONA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.741684272885324,
+                    37.33384219135508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MAZZURCO MASI MARIA CATENA",
+                "id": "21603",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MAZZURCO MASI MARIA CATENA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.72615486871723,
+                    37.42405526020392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FE.SA.PI. di Fede Salvatore e Fede Pietro S.N.C.",
+                "id": "14891",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FE.SA.PI. DI FEDE SALVATORE E FEDE PIETRO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.694907869940609,
+                    37.38949162354992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "26372",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SILVA GIACOMO & C.  S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.65993523597717,
+                    37.30998261819935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Palermo autoricambi e carburanti s.a.s. di Paolo Palermo & c.",
+                "id": "22281",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PALERMO AUTORICAMBI E CARBURANTI DI PAOLO PALERMO & C. S.A.S"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.74883571267128,
+                    37.37905708190562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO PALERMO CARMELO",
+                "id": "30880",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PALERMO CARMELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.748820364475252,
+                    37.379052831214615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SIPALA SALVINA",
+                "id": "26419",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SIPALA SALVINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.725520610809326,
+                    37.311222506873165
+                ]
+            }
+        }
+    ]
+}

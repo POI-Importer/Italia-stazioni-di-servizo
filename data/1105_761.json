@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio ESSO",
+                "id": "22756",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LA ROCCA NICOLINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.37691390514374,
+                    41.809610231926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI 7271",
+                "id": "29865",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CICCORELLI CANDIDO E DI PASQUO ANTONIO - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.373386793778991,
+                    41.811397323026064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio IP - Mario Di Lullo",
+                "id": "22761",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DI LULLO MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.262839348026546,
+                    41.8323015298335
+                ]
+            }
+        }
+    ]
+}

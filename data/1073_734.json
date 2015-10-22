@@ -1,0 +1,191 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "METANO PER AUTO C.M.G.",
+                "id": "21779",
+                "amenity": "fuel",
+                "operator": "METANO PER AUTO C.M.G. SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.731003403663635,
+                    45.24457511856951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mirko Cedrino",
+                "id": "30605",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CEDRINO MIRKO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.76068197340237,
+                    45.326468707740496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "15827",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "EDELVISI SANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.718170374631883,
+                    45.24950123297949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "14064",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "DI PALMA CARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.721147626638412,
+                    45.249031036587695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio IP",
+                "id": "19033",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ODELLI LUCIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.74594397842884,
+                    45.295501411469125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore esso",
+                "id": "27485",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SAIJA ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.777928650379181,
+                    45.27399836742741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore del Rondò",
+                "id": "17971",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GAMMA PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.74343041330576,
+                    45.249167729125425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RETITALIA 70438",
+                "id": "12884",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "RUBIN ROSA ANGELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6873938364929,
+                    45.23282914348045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ghibriali Carburanti",
+                "id": "15490",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GHIBRIALI MARCO NARDINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.744816109538078,
+                    45.25288143412587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MORTARA-C/O CENTRO COMM.LE LOMELLINA",
+                "id": "11791",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.748520910739899,
+                    45.24192058801382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "29254",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DAM SAS CARBURANTI DI CUTRONA G. E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.76098245382309,
+                    45.263841297937674
+                ]
+            }
+        }
+    ]
+}

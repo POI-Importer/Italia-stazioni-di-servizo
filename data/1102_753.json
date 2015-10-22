@@ -1,0 +1,341 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil Spinetoli",
+                "id": "19073",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FORLINI GUIDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.765300512313843,
+                    42.873133574992764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN BENEDETTO DEL TRONTO - TORINO",
+                "id": "29971",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.879989271163936,
+                    42.90901178727693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "16799",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "E&R DISTRIBUZIONE S.A.S. DI CABRAL DA SILVA ROBERTO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.712951838970184,
+                    42.859118979586526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "X FUEL MONTEPRANDONE",
+                "id": "25629",
+                "amenity": "fuel",
+                "operator": "X FUEL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.855501851296028,
+                    42.89931226866482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO PAGLIARE",
+                "id": "4494",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LUIGI CELANI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.766368031501772,
+                    42.862612310264154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LA SOSTA",
+                "id": "14777",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "C.I.S.PE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.883585929870604,
+                    42.89610348660061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio San Giacomo",
+                "id": "27172",
+                "amenity": "fuel",
+                "operator": "MI.SI.MA. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.847786486148838,
+                    42.918365184347536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FACILE OIL SERVICE",
+                "id": "19756",
+                "amenity": "fuel",
+                "operator": "FANESI LEONARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.743641480880797,
+                    42.86916382436338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AUTOSERVICE",
+                "id": "16082",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "AUTOSERVICE F.LLI ANASTASI DI ANASTASI R. & F. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.736491575837135,
+                    42.834104082420076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio IP - Corropoli",
+                "id": "32182",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SIMONETTI MARIO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.866492517132542,
+                    42.81822224586317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTORANO",
+                "id": "6973",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PIERANTOZZI*CARBURANTI DI PIERANTOZZI SILVIO & C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72733087731558,
+                    42.865791148093194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CELANI CARBURANTI",
+                "id": "4160",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CELANI CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.765901327133179,
+                    42.862368522784976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PETROL SERVICES SRL",
+                "id": "24714",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PETROL SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.885171115398407,
+                    42.92823788142313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTEPRANDONE",
+                "id": "5927",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.861229813491834,
+                    42.90218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "7659",
+                "id": "28702",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "T.D.M. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.836003541946411,
+                    42.88665210368768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VULCANGAS",
+                "id": "6204",
+                "amenity": "fuel",
+                "operator": "COSTANTINI LORIANO GAS AUTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.884719163179396,
+                    42.930074720631765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Agip Sud",
+                "id": "26793",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "F.LLI MERLI S.N.C. DI MERLI LUCIANO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.88068106375431,
+                    42.93938926588814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DE BERARDINIS FABIO",
+                "id": "26347",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DE BERARDINIS FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.795358687639236,
+                    42.864393109255204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP Monteprandone",
+                "id": "13680",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ACEMA S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.853818774223326,
+                    42.89095665562659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARBURANTI IP",
+                "id": "22682",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "TONELLI GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.836161110708533,
+                    42.825843233233144
+                ]
+            }
+        }
+    ]
+}

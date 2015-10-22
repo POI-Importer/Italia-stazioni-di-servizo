@@ -1,0 +1,259 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FAGGIANO - S.P. 110",
+                "id": "29609",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.364402682208944,
+                    40.44189591733369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A & C CARBURANTI SAS",
+                "id": "29717",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "A&C CARBURANTI DI PORCHEDDU GIOVANNA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.289258593917793,
+                    40.401176509703326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "27135",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "TAMBURRINO CATALDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.30330854654312,
+                    40.38328847063839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "15666",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GRECO S.A.S. DI GRECO FRANCESCO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.258510291576382,
+                    40.43790157498113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FANELLI STEFANIA",
+                "id": "31182",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "FANELLI STEFANIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.35657051205635,
+                    40.3768143553526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni / GasNatural",
+                "id": "10350",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PRAS S.R.L"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.307350635528564,
+                    40.396341464706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio ENI",
+                "id": "16138",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERMON GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.267054468393326,
+                    40.40814896131015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "HI MATIC",
+                "id": "24562",
+                "amenity": "fuel",
+                "operator": "BARBI UMBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.247859239578244,
+                    40.4209471997053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Eni di Capobianco Francesco",
+                "id": "28655",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CAPOBIANCO FRANCESCO PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.343734800815582,
+                    40.38315362518263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MV CARBURANTI S.R.L.",
+                "id": "19437",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MV CARBURANTI  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.260208129882812,
+                    40.4406517662349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "G.G. Oil",
+                "id": "31329",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "G.G. OIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.262241213283573,
+                    40.44122032164025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TARANTO - VIA ANCONA",
+                "id": "21838",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.259183906745875,
+                    40.444620412507916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "I 4 Pini",
+                "id": "13090",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ITALIANA CARBURANTI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.26225197315216,
+                    40.41578163597581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 - Talsano",
+                "id": "13098",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ITALIANA CARBURANTI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.265093103051186,
+                    40.41437398375508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "9025",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DI SANTIS NUNZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.263984680175785,
+                    40.416191693604276
+                ]
+            }
+        }
+    ]
+}

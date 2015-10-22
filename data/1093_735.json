@@ -1,0 +1,173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PAPER",
+                "id": "20768",
+                "amenity": "fuel",
+                "operator": "PAPER DI BOTTI ALBERTO & C. - SOCIETA' IN NOME COLLETTIVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.18814202031626,
+                    45.115109414771396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "18950",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CAR SERVICE S.A.S.DI PASOTTI MICHELE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.289095148444177,
+                    45.19721970386989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Q8",
+                "id": "9405",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BOSCOLO AGOSTINI CRISTINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.276368418610446,
+                    45.2044265783193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CHIOGGIA PADRE ERMINIO VENTURINI 43",
+                "id": "6476",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.282079791401657,
+                    45.19431217548433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "volta celeste",
+                "id": "16297",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "VOLTA CELESTE DI BOSCOLO ANTONIO E MORETTO ROBERTA & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.286795824766159,
+                    45.19705507864672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BOSCOLO LUCIO GIOACHINA",
+                "id": "10251",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BOSCOLO LUCIO GIOACHINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.291307202516236,
+                    45.19738458336634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "flli cegion",
+                "id": "16013",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F.LLI CEGION DI BOSCOLO DENIS CEGION E C. SOCIETA' IN NOME COLLET TIVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.290740013122559,
+                    45.21077762932328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.Anna di Chioggia (ve)",
+                "id": "15654",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "AUTOSTAZIONE F.LLI GNOLO S.N.C. DI BOSCOLO PIERGIORGIO E LORIS GNOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.271967232227325,
+                    45.156210294398576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "vallicarburanti s.anna",
+                "id": "14467",
+                "amenity": "fuel",
+                "operator": "VALLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.274249792098999,
+                    45.16819237989503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Total erg",
+                "id": "18415",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PENZO FRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.254377305507658,
+                    45.120616842490804
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Di Lorenzo Fabio",
+                "id": "17707",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DI LORENZO FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.297295168717255,
+                    37.81696393051799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "17011",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MAJURI LUCIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.297047168016435,
+                    37.81508527736418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "taoil",
+                "id": "16626",
+                "amenity": "fuel",
+                "operator": "VENTURA VINCENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.270493969321253,
+                    37.755889656211124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GRS Petroli",
+                "id": "30077",
+                "amenity": "fuel",
+                "operator": "CACIOPPO DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.185673132538794,
+                    37.73097229585588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Amato Vito Antonio",
+                "id": "31421",
+                "amenity": "fuel",
+                "operator": "AMATO VITO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.29422921593857,
+                    37.82130233751242
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "31123",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PAGNOTTA GIACOMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.060863733291626,
+                    39.224258048886036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Q8",
+                "id": "15375",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MAVI SNC DI MANNARINO ALFREDO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.075591457672086,
+                    39.11722832404019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "9457",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "FALSETTI MICHELE E FIGLI S.N.C. DI FALSETTI VINCENZO E GIANCARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.065675616264343,
+                    39.15520225732009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio ESSO",
+                "id": "19301",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SOCIEVOLE FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.071184873580933,
+                    39.13364091685257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AMANTEA - C.DA ACQUICELLA",
+                "id": "24177",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.06748342514038,
+                    39.14225251576927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MIMMO METALLO CARBURANTI 24H",
+                "id": "25888",
+                "amenity": "fuel",
+                "operator": "METALLO ANTONIA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.14484877238499,
+                    39.17495349963853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pompa Bianca Amantea - Cav. Metallo srl",
+                "id": "23303",
+                "amenity": "fuel",
+                "operator": "CAV. METALLO - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.076455414295197,
+                    39.11664680227925
+                ]
+            }
+        }
+    ]
+}

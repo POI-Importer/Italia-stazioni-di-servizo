@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area servizio Agip Milo",
+                "id": "27058",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SFILIO ROSARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.11699963624369,
+                    37.72083528643735
+                ]
+            }
+        }
+    ]
+}

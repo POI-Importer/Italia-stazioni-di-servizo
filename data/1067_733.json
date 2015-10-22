@@ -1,0 +1,225 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "26422",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CHIARABAGLIO IVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.71397217553249,
+                    45.3739465078076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PUNTO CARBURANTI",
+                "id": "10595",
+                "amenity": "fuel",
+                "operator": "MAINELLI GIUSEPPE S.A.S. DI MAINELLI SAVINO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.630204789618687,
+                    45.381572937776355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG DI TATULLO EDOARDO",
+                "id": "14869",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TATULLO EDOARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.664126604795454,
+                    45.38191493354965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTELLAMONTE",
+                "id": "32042",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SIRTAM S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7275487780570975,
+                    45.36211519463175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ip",
+                "id": "26519",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PERONA* DI TREVISAN JAMES"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.724053859710693,
+                    45.3884144743946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "12519",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PREMAR S.N.C. DI MARGURIO LETTERIO E PREIATO FRANCESCO."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7275,
+                    45.36209999999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "15248",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "TATULLO LEONARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.734157741069794,
+                    45.35660025726336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LE DUE ROTONDE",
+                "id": "15243",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LE DUE ROTONDE - S.N.C. DI BELLANDI ORLANDO E OLDRA' CLAUDIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6771328736800815,
+                    45.36313647485912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "22530",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "TRANSPORT SERVICE SOCIETA' IN NOME COLLETTIVO DI BENEDETTO ANTONELLA E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.719094455896994,
+                    45.368814184590484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Economy S.r.l - Rivarolo",
+                "id": "25285",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ECONOMY S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.712670298546755,
+                    45.34156837288537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Elettro design",
+                "id": "13427",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ELETTRO DESIGN DI PORTACOLONE WALTER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.59525677308136,
+                    45.42016556563202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "17372",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "RIFORNIMENTI CANAVESANI DI MUNARO LORENZO E C. - S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.70064715586159,
+                    45.38208075543479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MARIETTI E VALLERO - S.N.C.",
+                "id": "13662",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MARIETTI E VALLERO - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5967270285070745,
+                    45.338989050927886
+                ]
+            }
+        }
+    ]
+}

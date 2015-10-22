@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SANTA VITTORIA IN MATENANO",
+                "id": "28836",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.495695590972902,
+                    43.02350204742696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Amoil via Roma 02",
+                "id": "16568",
+                "brand": "Amoil",
+                "amenity": "fuel",
+                "operator": "AMOIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.412725545507781,
+                    42.96000827827279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL - VULCANGAS",
+                "id": "18944",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MARIOTTI UGO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.440460860729216,
+                    42.9656355185977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Amoil Garibaldi 01",
+                "id": "16581",
+                "brand": "Amoil",
+                "amenity": "fuel",
+                "operator": "AMOIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.413391963563752,
+                    42.95672460572365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Massacci A",
+                "id": "19897",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MASSACCI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.410978019237518,
+                    42.95303893228356
+                ]
+            }
+        }
+    ]
+}

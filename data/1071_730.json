@@ -1,0 +1,276 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Retitalia Borgosesia",
+                "id": "29780",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "BRIXIA FINANZIARIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.286242231877168,
+                    45.706947499658995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area 88 - Esso",
+                "id": "28526",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "AREA 88 SNC DI ZOPPIS CARLO E GUIDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.391731644180254,
+                    45.77314590409656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIT STOP",
+                "id": "27299",
+                "amenity": "fuel",
+                "operator": "COTTURA SERGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.319251835206385,
+                    45.72154988124546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Francesco Re La Rocca",
+                "id": "6246",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "RE LA ROCCA FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.292548425131258,
+                    45.7106050211722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL  (Punto vendita 6251)",
+                "id": "7455",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BIELLA CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.282619097682073,
+                    45.709163121837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE Q8 DI MARAZZA EZIO",
+                "id": "19765",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MARAZZA EZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.269618644180355,
+                    45.8100169101011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "12299",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "S. & F. S.A.S. DI SAVOINI RENATA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.430174485464704,
+                    45.801788621583924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio \"I MURAGLIONI\"",
+                "id": "27251",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ANTONIOLI PIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.409175872802734,
+                    45.765547117169625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BORGOSESIA-VIA V. VENETO 56",
+                "id": "11935",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.28096507472992,
+                    45.71376446489996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GOZZANO",
+                "id": "28175",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.435453474521637,
+                    45.74276521133685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PETTENASCO CORSO ROMA 52",
+                "id": "6421",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.408403037434368,
+                    45.816538251193236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni",
+                "id": "19929",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CAPRINO ARTURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.283116644180268,
+                    45.71275574769251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TRAPELLA ALESSANDRO",
+                "id": "5657",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "TRAPELLA ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.3233317732811,
+                    45.72306300443579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip",
+                "id": "22518",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "VECCHIO PAOLO STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.266513397483777,
+                    45.7261413620255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil p.v 2771",
+                "id": "14735",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ERCOLE ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.418233101852364,
+                    45.79778879029355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE ENI 165 DONATI ELISABETTA",
+                "id": "4033",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DONATI ELISABETTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.266963227465794,
+                    45.75574721414363
+                ]
+            }
+        }
+    ]
+}

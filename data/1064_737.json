@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PEROSA ARGENTINA-SS. 23 KM.53+400",
+                "id": "11855",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.200274343585988,
+                    44.95522467517217
+                ]
+            }
+        }
+    ]
+}

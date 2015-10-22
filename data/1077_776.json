@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NORMA LOI",
+                "id": "30938",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LOI NORMA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.327580332756042,
+                    39.83470566689287
+                ]
+            }
+        }
+    ]
+}

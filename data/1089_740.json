@@ -1,0 +1,254 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARBURANTI ZANARINI-AVIA",
+                "id": "12777",
+                "amenity": "fuel",
+                "operator": "CARBURANTI ZANARINI DI GUALANDI SERGIO & C.-S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.449584034918189,
+                    44.55615505914575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AVIA",
+                "id": "29132",
+                "amenity": "fuel",
+                "operator": "MARABINI GOMME DI QUARTIERI MATTEO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.543135941028595,
+                    44.53675838741764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONDIALGAS",
+                "id": "14427",
+                "amenity": "fuel",
+                "operator": "MONDIALGAS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.489817649126055,
+                    44.501111755555954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BUDRIO SERVICE",
+                "id": "21429",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BUDRIO SERVICE DI GJONZENELI KRENAR BARDHO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.516006737947464,
+                    44.51337503109398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vulcangas Castenaso",
+                "id": "27150",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CARESERVICE SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.461274032334925,
+                    44.50311561956338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ponte Rizzoli",
+                "id": "21504",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SUPERGAS - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.499177217483531,
+                    44.46915544509922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lovoleto",
+                "id": "5626",
+                "amenity": "fuel",
+                "operator": "CARBURANTI VECCHIETTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.431392431259155,
+                    44.58917898499063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REL Villanova di Castenaso",
+                "id": "25230",
+                "amenity": "fuel",
+                "operator": "RAG. ELIO LAGHI - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.42787739634514,
+                    44.49558163011268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI COMPLANARE",
+                "id": "30544",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PETROLI ASSISTANCE DI LEO ENRICO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.477322578430174,
+                    44.46905380642303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO IP SCARSELLI",
+                "id": "9772",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SCARSELLI FLORIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.564732644180367,
+                    44.58749723772638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN LAZZARO DI SAVENA VIA GUELFA 10 S.P.COLUNGA",
+                "id": "6535",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.46581657230854,
+                    44.47690396738653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "31463",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "POCATERRA MASSIMILIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.46299935330353,
+                    44.51078169336361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Budrio",
+                "id": "10093",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.501859426498411,
+                    44.50010127360475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NATALI GINO S.R.L.",
+                "id": "4032",
+                "amenity": "fuel",
+                "operator": "NATALI GINO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.426355242729185,
+                    44.522028737534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "32103",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "STEFANONI CARLA SNC - DI STEFANONI CARLA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.54569610953331,
+                    44.537720055256024
+                ]
+            }
+        }
+    ]
+}

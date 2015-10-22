@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CALLIANO",
+                "id": "25261",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAR SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.229854106903076,
+                    44.99265199201223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTELL'ALFERO",
+                "id": "30382",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SIRTAM S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.228256851434708,
+                    44.97548557215979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LISTAUTO S.N.C.",
+                "id": "8958",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LISTAUTO  SNC  DI LISTA VINCENZO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.113885283622722,
+                    44.99604581376337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "6014",
+                "id": "16334",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "GAMARINO S.A.S. DI GAMARINO SERGIO ACHILLE E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.129347711801529,
+                    45.08799555801813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE Q8",
+                "id": "27680",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "FERRO LAURA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.183211185319577,
+                    45.00866633366716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Servizio Tamoil",
+                "id": "22868",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "AUTORIPARAZIONI DI GIANUZZI MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.127908706665037,
+                    44.98375127370835
+                ]
+            }
+        }
+    ]
+}

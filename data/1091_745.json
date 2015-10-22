@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.lli Bresciani",
+                "id": "23920",
+                "amenity": "fuel",
+                "operator": "F.LLI BRESCIANI DI BRESCIANI FRANCESCO E C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.911592726319894,
+                    43.956156244001114
+                ]
+            }
+        }
+    ]
+}

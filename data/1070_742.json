@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "10112",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ARZARELLO LORENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.116667568683624,
+                    44.236897474783795
+                ]
+            }
+        }
+    ]
+}

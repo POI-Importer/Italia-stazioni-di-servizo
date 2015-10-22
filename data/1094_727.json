@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bortoluzzi Giacomo di Bortoluzzi Danilo & C snc",
+                "id": "21281",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BORTOLUZZI GIACOMO DI BORTOLUZZI  DANILO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.420748096161219,
+                    46.126179301724314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SZ SNC",
+                "id": "7249",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "S.Z. S.N.C. DI SAVIANE ROBY & ZANNE OMAR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.353558337434379,
+                    46.13866951385678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "14959",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DE PICCOLI MORENO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.323200942327844,
+                    46.13265901492174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REPSOL",
+                "id": "16873",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "GUERRINO FUEL S.A.S. DI ZOPPE' GUERRINO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.351589947938919,
+                    46.12684778540061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Staz.VIOIL Pieve d'Alpago (BL)",
+                "id": "12284",
+                "amenity": "fuel",
+                "operator": "F.LLI VIANELLO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.356520275271915,
+                    46.16516861053355
+                ]
+            }
+        }
+    ]
+}

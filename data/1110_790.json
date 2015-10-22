@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ditta Monaco Letizia carburanti",
+                "id": "18757",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MONACO LETIZIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.19954338669777,
+                    37.85998017626838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "30947",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GOLE ALCANTARA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.17075389623642,
+                    37.884272264710496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SP ENERGIA SICILIANA",
+                "id": "31907",
+                "brand": "SP Energia Siciliana",
+                "amenity": "fuel",
+                "operator": "CRISAFULLI FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.222904421389101,
+                    37.887909502298946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIFORNIMENTO IP VITALE DANIELA",
+                "id": "10205",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "VITALE DANIELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.13418734073639,
+                    37.90154405092512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio esso",
+                "id": "20059",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SILVESTRO FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.141385048627852,
+                    37.90369221027684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "D.G.Service srl",
+                "id": "29825",
+                "amenity": "fuel",
+                "operator": "D.G. SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.24707790651587,
+                    37.976805501059125
+                ]
+            }
+        }
+    ]
+}

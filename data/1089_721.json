@@ -1,0 +1,88 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SADOBRE",
+                "id": "3817",
+                "amenity": "fuel",
+                "operator": "Autoplose sadobre srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.43543372724082,
+                    46.8804304652852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TRENS",
+                "id": "30513",
+                "amenity": "fuel",
+                "operator": "AUTO - PLOSE SADOBRE SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.484768390655518,
+                    46.86793012080337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kofler",
+                "id": "14655",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "KOFLER INGRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.434758603572847,
+                    46.89903483142183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Repsol",
+                "id": "29084",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "TIGER G.M.B.H."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.430599626983621,
+                    46.88967422986828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GSCHNITZER SAS",
+                "id": "9510",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GSCHNITZER K.G. DI GSCHNITZER PETER PAUL & CO. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.441067159175873,
+                    46.8887754051758
+                ]
+            }
+        }
+    ]
+}

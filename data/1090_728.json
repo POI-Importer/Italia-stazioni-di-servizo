@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TROVATORI SERGIO",
+                "id": "18346",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "TROVATORI SERGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.757185608148575,
+                    46.03151133582518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARSIE'",
+                "id": "20358",
+                "amenity": "fuel",
+                "operator": "MORES BEPPINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.756811147082544,
+                    45.9834736388537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL GRIGNO",
+                "id": "7483",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FAMBRI CAMILLO S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.682866057334534,
+                    45.97252209587229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore IP F.lli Pasqualin Snc",
+                "id": "20913",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FRATELLI PASQUALIN S.N.C. DI PASQUALIN GIANLUCA E CLARA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.62550926208496,
+                    46.06860832537428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE TAMOIL",
+                "id": "23533",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MASCARELLO GINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.612417229122459,
+                    46.067889597585136
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "30307",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "AZARA NATALINA E FIGLI S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.520728886127474,
+                    41.099113781432735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "59037 ARZACHENA",
+                "id": "27555",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI RETE OIL&NONOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.517113268375397,
+                    41.058716146867326
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Botta Federica & C. S.n.c.",
+                "id": "7665",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BOTTA FEDERICA & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.388393281023696,
+                    44.42030649988798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NE - GARIBALDI",
+                "id": "27524",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.378757084655717,
+                    44.347377682608354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "agip carasco",
+                "id": "8497",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DEVOTO LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.34762917459011,
+                    44.34953978546197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kerotris - NE",
+                "id": "13112",
+                "amenity": "fuel",
+                "operator": "KEROTRIS - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.398704779133254,
+                    44.34453632276855
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI STATION DI COLOGNA UMBERTO",
+                "id": "30446",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI STATION DI COLOGNA UMBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.88180214166641,
+                    41.92796062134483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vico Agricalor Sas",
+                "id": "17628",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VICO AGRICALOR DI DI SPALDRO ANTONIO ELIA & C SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.964226424694061,
+                    41.90232734831074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "16185",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "IACOVONE DOMENICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.898495385180697,
+                    41.90460472554396
+                ]
+            }
+        }
+    ]
+}

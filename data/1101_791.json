@@ -1,0 +1,123 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE IP",
+                "id": "16751",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LORIA ANTONINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.599169743164678,
+                    37.74898901340758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO",
+                "id": "18410",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SANTANGELO FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.599449470639229,
+                    37.748947461688886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "18624",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FARRUGGIA GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.709708428977704,
+                    37.776737307506764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE CARBURANTE AGIP DI FARRUGGIA VIVIANA",
+                "id": "14257",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE CARBURANTE DI FARRUGGIA VIVIANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.63730916802433,
+                    37.80448306206841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO",
+                "id": "18406",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SANTANGELO FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.599478086834553,
+                    37.748947874509454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Taoil",
+                "id": "27041",
+                "amenity": "fuel",
+                "operator": "MEZZOJUSO CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.535323214257803,
+                    37.836204411896276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio esso di Palazzolo Salvatore",
+                "id": "8750",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PALAZZOLO SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.59820827841759,
+                    37.75126888017339
+                ]
+            }
+        }
+    ]
+}

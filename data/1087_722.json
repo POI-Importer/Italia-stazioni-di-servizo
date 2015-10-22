@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kostner - St. Martin in Passeier",
+                "id": "29122",
+                "brand": "Kostner",
+                "amenity": "fuel",
+                "operator": "KOSTNER SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.229662150144577,
+                    46.78521770203644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SMP Tankstelle Rohrer",
+                "id": "19654",
+                "brand": "Som/Omv",
+                "amenity": "fuel",
+                "operator": "ROHRER GEORG KARL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.15636133292651,
+                    46.687973767637146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "15507",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PIRCHER PETER SNC % PIRCHER PETER OHG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.20498448610306,
+                    46.744425635012
+                ]
+            }
+        }
+    ]
+}

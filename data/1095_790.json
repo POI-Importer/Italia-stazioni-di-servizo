@@ -1,0 +1,242 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "16750",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "IMPICCICHE' SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.490108609199524,
+                    37.86149342541187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ECOLGAS",
+                "id": "10415",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ECOLGAS SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.525362223386763,
+                    37.97291526204189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "nicolò nolfo",
+                "id": "30172",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "NOLFO NICOLO'"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.550255805253983,
+                    37.930958012219136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione servizio Esso 24H",
+                "id": "23843",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "D'ANTONI FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.509399056434631,
+                    37.938632577587754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip",
+                "id": "31752",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PIACENTINO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.531230000000003,
+                    37.983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip",
+                "id": "30157",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "VANELLA PIA MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.510868071891766,
+                    37.94313109605196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO PACECO",
+                "id": "28262",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "COMMERCIALE PETROLI TRAPANI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.556991577148438,
+                    37.98156684767343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Rifornimento IP",
+                "id": "23395",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DAMBRA GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.556263518792095,
+                    37.96285537267788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "30202",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DAIDONE MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.514067441225052,
+                    37.95063551568709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip",
+                "id": "17470",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MODICA GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.545775175094608,
+                    37.92439386521195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP Stazione di servizio di Simeti Anna Maria",
+                "id": "29592",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SIMETI ANNA MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.515486306939692,
+                    37.8606239243407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENERGY POWER",
+                "id": "16001",
+                "amenity": "fuel",
+                "operator": "CIOTTA ANTONINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.55995145497741,
+                    37.978992251831116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "22633",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "OTERI VITO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.509295791387556,
+                    37.93694237194945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Di Bernardo Salvatore",
+                "id": "17460",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DI BERNARDO SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.553158592590309,
+                    37.99016175334804
+                ]
+            }
+        }
+    ]
+}

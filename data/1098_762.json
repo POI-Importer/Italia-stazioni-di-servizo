@@ -1,0 +1,242 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "27838",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ZANGRILLI GIANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.115264475345612,
+                    41.7305758580999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "42552",
+                "id": "27673",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DI PALMA ANTONELLA E SAVO SARDARO LORENZO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.143231868743896,
+                    41.728843975030365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "26328",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BOCCARDELLI GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.048287034034729,
+                    41.69293471912203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ANAGNI VIA C.NAVICELLA KM.2+730",
+                "id": "6677",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.128455579280855,
+                    41.75194351655798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "28124",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "GE.CA. SNC DI QUISTINI MICHELE E MARCOCCIA MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.15038934350014,
+                    41.726330539651734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "25946",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "NAVARRA FRANCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.01580011844635,
+                    41.687530776746904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "17005",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FRA. MAR. - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.020807802677155,
+                    41.73887351656727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ANAGNI",
+                "id": "23158",
+                "amenity": "fuel",
+                "operator": "EWAGRILL DI SALZILLO VINCENZO & C S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.120948076248169,
+                    41.74549710311131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazioneservizioipsauriniandrea",
+                "id": "20486",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SAURINI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.155517535384547,
+                    41.743416608501704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "27971",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LISI DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.13749462366104,
+                    41.72964546717873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stirpe claudio",
+                "id": "26966",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STIRPE CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.017233340475515,
+                    41.73030581529751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ANAGNI-SP MOROLENSE LOC.SANT'ANNA",
+                "id": "11596",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.145041018724445,
+                    41.710389875799144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "temofonte",
+                "id": "26043",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TEMOFONTE & QUATRANA S.N.C. DI TEMOFONTE SIMONE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.042844831943512,
+                    41.65686953539609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARBURANTI TOTALERG DI MASSIMILIANO PALONE",
+                "id": "13977",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PALONE MASSIMILIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.00798684358597,
+                    41.733543891277556
+                ]
+            }
+        }
+    ]
+}

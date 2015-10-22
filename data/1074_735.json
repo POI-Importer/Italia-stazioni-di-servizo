@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL  Sannazzaro",
+                "id": "20838",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "TASSI PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.907271474599838,
+                    45.09578568019962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "21360",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SIGARESCO DI PELIZZARI FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.9413583278656,
+                    45.19100047134797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto carburanti Totalerg Ottobiano (PV) - Faraz Haroon",
+                "id": "24826",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "FARAZ HAROON"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.82564514875412,
+                    45.15014982960939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "19440",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CALVI MIRELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.907467275857925,
+                    45.09695391765586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "7932",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TA S.N.C. DI ALBINI CLAUDIA - TARINI CHIARA E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.900046944618225,
+                    45.101914021161896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "13835",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MANGIAROTTI DARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.905723839998245,
+                    45.098536017425474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA CAVOUR GARLA",
+                "id": "12177",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.929055143516507,
+                    45.19396497111396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "V. MATTEOTTI LOMELLO",
+                "id": "12178",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.796474583991994,
+                    45.12124077472689
+                ]
+            }
+        }
+    ]
+}

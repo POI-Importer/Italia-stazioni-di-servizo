@@ -1,0 +1,120 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.S. IP",
+                "id": "21776",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FACCHINI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.394474387168884,
+                    41.969354321236864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AVEZZANO PERTINI",
+                "id": "18589",
+                "amenity": "fuel",
+                "operator": "DIBEOL ECOLOGICA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.428672552108765,
+                    42.01546773362369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip",
+                "id": "32054",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CARBUNUCLEO S.N.C. DI LEONIO ARMIDA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.431802690029146,
+                    42.00094066389908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Innocenzi Corrado",
+                "id": "17997",
+                "amenity": "fuel",
+                "operator": "INNOCENZI CORRADO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.427933557008375,
+                    42.03167669111623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "impianto ENI 06538",
+                "id": "15338",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CICIARELLI MARCELO ISAIAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42854432244485,
+                    41.91203636790255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "X FUEL AVEZZANO",
+                "id": "25630",
+                "amenity": "fuel",
+                "operator": "X FUEL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.444701033567185,
+                    42.01922673144239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di servizio \"Le onde\"",
+                "id": "18197",
+                "amenity": "fuel",
+                "operator": "C.M.M. CENTRALE METANO MARSICA S.N.C. DI MALANDRA GABRIELE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.428441882133484,
+                    42.00650714180942
+                ]
+            }
+        }
+    ]
+}

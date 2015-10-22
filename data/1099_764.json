@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 Amaseno",
+                "id": "29790",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "APPONI FUEL DI APPONI VALENTINO S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.333153855990078,
+                    41.4748656293115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO PROSSEDI PERFILI TONINO",
+                "id": "5722",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO DI PERFILI TONINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.248037844896315,
+                    41.50650640833881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL LUNGARINI ALBERTO",
+                "id": "19173",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "LUNGARINI ALBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.334014713764187,
+                    41.46968655846059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "giuseppe carpentieri",
+                "id": "20772",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CARPENTIERI GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.194905295968056,
+                    41.46216099399077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LA SOSTA",
+                "id": "25054",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "LA SOSTA DI RUGGERI LORETO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.204729557037355,
+                    41.405523865195676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ROCCASECCA D.V.",
+                "id": "4054",
+                "brand": "Fiamma 2000",
+                "amenity": "fuel",
+                "operator": "FIAMMA 2000 - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.200289124145455,
+                    41.46487847415597
+                ]
+            }
+        }
+    ]
+}

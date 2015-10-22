@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARBURANTI DISCOUNT",
+                "id": "27169",
+                "amenity": "fuel",
+                "operator": "P.L.C. - PIELLECI - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.599210381507874,
+                    39.890565122731196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione Esso N&G service sas di demontis",
+                "id": "27934",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STAZIONE SERVIZIO ESSO N. & G. SERVICE  SASDI DEMONTIS BENIGNO AN TONELLO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.609436638653277,
+                    39.871017004061834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ORISTANO VIA SOLFERINO 33",
+                "id": "6693",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.595446679167935,
+                    39.90363764864987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ORISTANO VIA CAGLIARI, 462",
+                "id": "23459",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.595713750331923,
+                    39.89608209059705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sennedy s.n.c. Esso",
+                "id": "25214",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SENNEDY DI SANNA DIEGO E NICOLA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.58824952394252,
+                    39.9045494331711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DGR SERVICE DI DENTI GIOVANNA RITA",
+                "id": "14886",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DGR SERVICE DI DENTI GIOVANNA RITA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.596870154142382,
+                    39.894336474283385
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "8220",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "VIOLA CAIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.253845088135563,
+                    40.68141227266193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "25018",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FORLENZA LUCIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.245364904403685,
+                    40.63889977057852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CLEMENTE ANTONIO PIETRO CARBURANTI",
+                "id": "26291",
+                "amenity": "fuel",
+                "operator": "CLEMENTE ANTONIO PIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.23356318473816,
+                    40.701182989663685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAMPAGNA OVEST",
+                "id": "22473",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CAFARELLI E FIGLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.182493925094603,
+                    40.62401652867121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAMPAGNA EST",
+                "id": "24030",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CAFARELLI S.N.C. DI  ALESSANDRA CAFARELLI DI TROLIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.181329846382141,
+                    40.62339438763412
+                ]
+            }
+        }
+    ]
+}

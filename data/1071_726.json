@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Varzo (VB)",
+                "id": "24156",
+                "amenity": "fuel",
+                "operator": "PETROLGAS DI CAORSI, SARRA E C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.268908730810606,
+                    46.19701381388365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL  CRODO",
+                "id": "22145",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "IARDELLA DAVIDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.319048265080937,
+                    46.20657316434903
+                ]
+            }
+        }
+    ]
+}

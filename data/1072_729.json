@@ -1,0 +1,293 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "9987",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SISTINO DOMENICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.506629914045334,
+                    45.94102236746237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore ENI di Bettinelli e Melis",
+                "id": "6378",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BETTINELLI CORRADO E MELIS PINUCCIO - S.N.C"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.555720801713505,
+                    45.92801361230537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE AGIP di Stoto Massimiliano",
+                "id": "26365",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STOTO MASSIMILIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.473755419254303,
+                    45.92714631151195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VERBANIA",
+                "id": "5910",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TotalErg SpA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.456705957651138,
+                    45.93813682177193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "11413",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TOTALERG DI ROCCO MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.460288792848587,
+                    45.92532633033546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2000 SAS",
+                "id": "9598",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "2000 S.A.S. DI PELLIZZERI DANIELE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.569079156111115,
+                    45.930568466124434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "cantiere semprinia totalerg",
+                "id": "13258",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CANTIERE NAUTICO SEMPRINIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.488099202513695,
+                    45.92473208096535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FERRI BARBARA",
+                "id": "15364",
+                "amenity": "fuel",
+                "operator": "FERRI BARBARA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.513492120376554,
+                    45.86547623528868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Eni Bellani Giorgio",
+                "id": "22089",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BELLANI GIORGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.504168454220009,
+                    45.91096575760062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni 00488",
+                "id": "8575",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BILARDELLO PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.548774123191833,
+                    45.95048131561386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO MORIGGIA NICOLA",
+                "id": "23366",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE ESSO VERBANIA PALLANZA DI MORIGGIA NICOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.563038110733032,
+                    45.927579518480805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore q8",
+                "id": "9414",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PIOGGIA MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.561943769454954,
+                    45.9274265344619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eredi Cozzi",
+                "id": "28899",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "EREDI COZZI LUIGI DI COZZI EMANUELA E MASSIMO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.579049444110751,
+                    45.9376981734216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI - RAMONI IVANA",
+                "id": "8739",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RAMONI IVANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.522931968261673,
+                    45.88932333509552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "9394",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SACCHI ILARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.551697752639711,
+                    45.92900329837734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "27807",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ROSSI ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.543086683166964,
+                    45.88319534840408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "19671",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "RUBINETTO STEFANO S.N.C. DI RUBINETTO ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.49262073636055,
+                    45.945899474896315
+                ]
+            }
+        }
+    ]
+}

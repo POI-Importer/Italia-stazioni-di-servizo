@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kostner - Schnals",
+                "id": "5324",
+                "brand": "Kostner",
+                "amenity": "fuel",
+                "operator": "KOSTNER SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.902705653219984,
+                    46.70982006843352
+                ]
+            }
+        }
+    ]
+}

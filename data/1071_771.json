@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI PETROLCAR",
+                "id": "24859",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PETROL CAR S.A.S. DI TAGLIARINI LORENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.325659930706024,
+                    40.56313734533169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Esso",
+                "id": "15917",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FALCHI GIUSEPPE & C. SOCIETA' IN ACCOMANDITA SEMPLICE *"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.322989941139213,
+                    40.562283390815686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Pitalis Marco",
+                "id": "25237",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PITALIS MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.318417108174229,
+                    40.560137248078966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "carburanti nieddu",
+                "id": "14657",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CARBURANTI DI RAFFAELE NIEDDU E GIOVANNI MARCO NIEDDU SOCIETA' IN NOME COLLETTIVO *"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.315142840444878,
+                    40.55991611500155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "16542",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PONZIANI S.N.C. DI AUGUSTO E MASSIMO PONZIANI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.319207444728931,
+                    40.567414142958604
+                ]
+            }
+        }
+    ]
+}

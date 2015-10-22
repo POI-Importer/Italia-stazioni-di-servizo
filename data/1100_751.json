@@ -1,0 +1,172 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COCCETTI GILFREDO",
+                "id": "28017",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "COCCETTI GILFREDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.470976035581998,
+                    43.1379338781038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GOLDENGAS FALERONE",
+                "id": "23624",
+                "amenity": "fuel",
+                "operator": "GOLDENGAS - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49536031484604,
+                    43.093936088496605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIB. Retitalia MC ripe san ginesio",
+                "id": "7818",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "PETROLIFERA ADRIATICA S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.378147723749974,
+                    43.14609380878065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rifornimento metano Perroni",
+                "id": "30258",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PERRONI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.48825101429884,
+                    43.18694474719355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VITALI MAURO",
+                "id": "19421",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VITALI MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.515884827647369,
+                    43.103916151500435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PETROL PICENA SRL - MONTAPPONE",
+                "id": "31735",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PETROL PICENA  SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.46864572883601,
+                    43.133722790564285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SERI SRL",
+                "id": "18222",
+                "amenity": "fuel",
+                "operator": "SERI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.37597921490669,
+                    43.176008433325435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio IS - Montegiorgio",
+                "id": "25623",
+                "amenity": "fuel",
+                "operator": "SIMONETTI MARIO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.52710124009366,
+                    43.10297126939332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "R.A.L. SERVICE SNC DI POMPEI LUISA E C.",
+                "id": "13501",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "R.A.L. SERVICE SNC DI POMPEI LUISA E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.487647622823715,
+                    43.18705696168643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "13199",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "LUCIANI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.492755219340324,
+                    43.082364123150874
+                ]
+            }
+        }
+    ]
+}

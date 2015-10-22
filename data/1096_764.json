@@ -1,0 +1,192 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio fabio sepe",
+                "id": "29546",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SEPE FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.68817566335201,
+                    41.50448647442453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CISTERNA DI LATINA-BORGO BAINSIZZA SS.148 KM 63+400",
+                "id": "11629",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.82297644295693,
+                    41.49723716542817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "17204",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PONGELLI ERNESTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.673947215080261,
+                    41.45690822351294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZ. SERVIZIO TAMOIL DI BOTTAN Giuliana",
+                "id": "25268",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BOTTAN GIULIANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.828037440776823,
+                    41.43737827998755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione servizio IP di mammola marco",
+                "id": "15760",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MAMMOLA MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.683623284101486,
+                    41.49900324939006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GEG SRL",
+                "id": "30261",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "GEG SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.687809411639362,
+                    41.47089304150122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP-RM-NETTUNO",
+                "id": "19371",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MONDONAUTICA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.659181654453281,
+                    41.45381928901043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Azzurra snc",
+                "id": "13837",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AZZURRA DI DE MARCO ANTONIO E C.- SOCIETA IN NOME COLLETTIVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.66849160194397,
+                    41.46326052088338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio fabio sepe",
+                "id": "16197",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SEPE FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.699312865734102,
+                    41.49198663165097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "29441",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "NI.VA. SNC DI BATTISTA NICOLA E VALENTINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.819631397724152,
+                    41.46467795383741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PALUMBO CARBURANTI",
+                "id": "20541",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PALUMBO CARBURANTI DI PALUMBO FILIPPO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.664339542388918,
+                    41.46913667598209
+                ]
+            }
+        }
+    ]
+}

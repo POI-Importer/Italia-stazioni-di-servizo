@@ -1,0 +1,88 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTOGGIO",
+                "id": "18769",
+                "brand": "Oil Italia",
+                "amenity": "fuel",
+                "operator": "OIL ITALIA SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.046510660118884,
+                    44.51449957030598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE OIL ITALIA",
+                "id": "26741",
+                "amenity": "fuel",
+                "operator": "TORRE CARLA ROSANNA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.998147353540844,
+                    44.53500535801606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Castelli Attilio",
+                "id": "26259",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CASTELLI ATTILIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.97816594229562,
+                    44.55698216635316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kerotris-Davagna",
+                "id": "13079",
+                "amenity": "fuel",
+                "operator": "KEROTRIS - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.086615359741245,
+                    44.46530638503219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cortino",
+                "id": "26320",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DI MODUGNO ENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.988589346408844,
+                    44.52288164556239
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NI003684",
+                "id": "24028",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CORO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.69846260547638,
+                    42.18832267271157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NEROLA-LOC.ACQUAVIVA S.S. 4 KM. 44+800",
+                "id": "11806",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.74731743435859,
+                    42.16534572590539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL DI IMPERATORI SIMONE & AMEDEO",
+                "id": "22272",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "IMPERATORI SIMONE & AMEDEO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.687000855803488,
+                    42.26735819901105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENERPETROLI - PV FRASSO SABINO",
+                "id": "24629",
+                "brand": "Enerpetroli",
+                "amenity": "fuel",
+                "operator": "ENERPETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8153184056282,
+                    42.22501755981456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "21162",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "T. E T. SERVICE DI TULLI AUGUSTA CLARA MARIA S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.815754264593123,
+                    42.204387640879546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV7",
+                "id": "26361",
+                "brand": "D Amico",
+                "amenity": "fuel",
+                "operator": "GRUPPO D'AMICO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.700631336192941,
+                    42.16454529094218
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso Costa Saracena",
+                "id": "9375",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FRAZZETTO VITO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.118611752986904,
+                    37.30386607527438
+                ]
+            }
+        }
+    ]
+}

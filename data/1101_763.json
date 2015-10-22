@@ -1,0 +1,191 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP Roccasecca",
+                "id": "20679",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LION PETROL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.638272897766003,
+                    41.5407781366199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ARCE SS.6 KM 111",
+                "id": "6676",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.562445044517519,
+                    41.580249852965615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg",
+                "id": "27097",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CERRITO BIAGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.632595120331416,
+                    41.54382587031124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "_NI003680 ARCE",
+                "id": "8647",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CORO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.574171420122415,
+                    41.584956022978815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "9249",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "RAPONI ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.575947015869135,
+                    41.58436112362865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "4610",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BATTISTA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.657982647418976,
+                    41.54382246445392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI SPA",
+                "id": "24376",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VALENTE MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.550190031528475,
+                    41.516730854882056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil - Visca Salvatore",
+                "id": "19457",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "VISCA SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.537097888682524,
+                    41.612654967001355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Adam",
+                "id": "9037",
+                "amenity": "fuel",
+                "operator": "CERVINI ELEUTERIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.554261624813082,
+                    41.596834739409395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Sette di Fraioli Alessandro",
+                "id": "17096",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FRAIOLI ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.646616276582336,
+                    41.53215941849726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "12138",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "VITIELLO ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.578873574733732,
+                    41.58305629469168
+                ]
+            }
+        }
+    ]
+}

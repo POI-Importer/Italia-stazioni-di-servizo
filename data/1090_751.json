@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni Station Pienza",
+                "id": "7727",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CIOLFI SIMONE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.677262485027311,
+                    43.079504878616156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "15286",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "LEONE FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.77484393119812,
+                    43.08696488562909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "carburanti passe partout",
+                "id": "11182",
+                "amenity": "fuel",
+                "operator": "PASSEPARTOUT DI BIANCHI LETIZIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.668811035606268,
+                    43.18734847278795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio FELIX Q8 -Zgas",
+                "id": "15383",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "FELIX S.N.C. DI PINSUTI LEONARDO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.772057116031649,
+                    43.17874483683644
+                ]
+            }
+        }
+    ]
+}

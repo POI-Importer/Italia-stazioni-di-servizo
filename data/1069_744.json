@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "17138",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BARLA FULVIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.970425603789408,
+                    43.97680494028911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ferrari Battistina Stazione IP",
+                "id": "18725",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FERRARI BATTISTINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.91821580850376,
+                    44.04401361344627
+                ]
+            }
+        }
+    ]
+}

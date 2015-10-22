@@ -1,0 +1,88 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LENNE",
+                "id": "8982",
+                "amenity": "fuel",
+                "operator": "SCARCIA DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.035555542222486,
+                    40.57645721601827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PETROLTECH",
+                "id": "13036",
+                "amenity": "fuel",
+                "operator": "CARANGELO GABRIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.04057611525059,
+                    40.57790152521366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG DI D'ANGELO MAURIZIO",
+                "id": "28208",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "D'ANGELO MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.926353573799133,
+                    40.48483699955441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "agip-eni",
+                "id": "28916",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GENERAL SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.926090717315674,
+                    40.53721753520452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GENERAL PETROLEUM SRL",
+                "id": "27945",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PIZZULLI GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.92793607711792,
+                    40.49203057115427
+                ]
+            }
+        }
+    ]
+}

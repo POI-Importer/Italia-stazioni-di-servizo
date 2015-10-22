@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Metano Pineto",
+                "id": "4550",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CARDINALI ELVIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.06823456287384,
+                    42.60255497280549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "12744",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DI COSTANZO A. & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.113480746746063,
+                    42.55454003155322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "aninima petroli italiana spa",
+                "id": "18786",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FREZZA ARIODANTE IVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.079912550926226,
+                    42.59356249241936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SILVI MARINA SS 16 C/O C/COMMERCIALE UNIVERSO",
+                "id": "6614",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.097891747951508,
+                    42.57250364792621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "9283",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PAGLIARICCI & MIRABILIO DI ROSA MIRABILIO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.102546721696857,
+                    42.5669047840711
+                ]
+            }
+        }
+    ]
+}

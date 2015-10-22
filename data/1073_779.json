@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto Q8",
+                "id": "9062",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CABRIOLU OMAR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.747884386076294,
+                    39.46871545765362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "29795",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "LILLIU FABRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.745567798614502,
+                    39.46595988389703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto Q8",
+                "id": "9061",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CABRIOLU OMAR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.747884386076294,
+                    39.46871545765362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE ENI 07562",
+                "id": "11153",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LEO ADRIANA, ANGELO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.743970044319212,
+                    39.45896505816685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ZUDDAS LAZZARO & C sas",
+                "id": "16282",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ZUDDAS LAZZARO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.75059224665165,
+                    39.44670825807857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto Eni Frongia Roberto",
+                "id": "5766",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FRONGIA ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.657313734292984,
+                    39.501583913482236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VINCENZA LAMPIS",
+                "id": "9381",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "LAMPIS VINCENZA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.757259547710419,
+                    39.48662211853496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GONNOSFANADIGA - SS 196",
+                "id": "29831",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.665594635582009,
+                    39.49681862778078
+                ]
+            }
+        }
+    ]
+}

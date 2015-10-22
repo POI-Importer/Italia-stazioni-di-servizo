@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "9023",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BRIGHINA SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.23515647649765,
+                    37.079346080224894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GELA VIA PALAZZI, 126",
+                "id": "22871",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.230764103105,
+                    37.07400325989522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ads Macchitella Sud",
+                "id": "28895",
+                "amenity": "fuel",
+                "operator": "BARRANCO ROSARIO & C. - S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.214463233947754,
+                    37.08171273942066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SALAMONE GERLANDO & C SNC",
+                "id": "13784",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SALAMONE GERLANDO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.216576814651491,
+                    37.08118463417098
+                ]
+            }
+        }
+    ]
+}

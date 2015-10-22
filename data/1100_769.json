@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gargiulo Salvatore, Distributore carburanti Eni 16729",
+                "id": "29044",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GARGIULO SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.432213903704907,
+                    40.800421355904625
+                ]
+            }
+        }
+    ]
+}

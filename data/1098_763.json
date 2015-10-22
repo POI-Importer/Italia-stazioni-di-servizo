@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stellarevolution sas",
+                "id": "5725",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "STELLA REVOLUTION DI STELLA RODOLFO SOCIETA' IN ACCOMANDITA SEMPLICE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.057347536087033,
+                    41.62512946104936
+                ]
+            }
+        }
+    ]
+}

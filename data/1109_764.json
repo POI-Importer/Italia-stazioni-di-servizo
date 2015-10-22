@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "13821",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CENTER SERVICE S.N.C. DI APICELLA MARIA ANTONELLA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.030753314495087,
+                    41.4295457526935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONACO STATION",
+                "id": "17611",
+                "amenity": "fuel",
+                "operator": "MONACO GAS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.04226464418025,
+                    41.447446958060056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZ.SERV, TOTALERG IMP. 1570 COLATRUGLIO MICHELE SRL",
+                "id": "25806",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "COLATRUGLIO MICHELE SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.052164685893217,
+                    41.484798402791604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ferella Sas",
+                "id": "19245",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FERELLA S.A.S. DI FERELLA LEONARDO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.974538713230004,
+                    41.39118305220914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GOIL",
+                "id": "17669",
+                "amenity": "fuel",
+                "operator": "RONCA GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.098708420991896,
+                    41.378705683121076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FEDELSEME SRL",
+                "id": "17347",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FEDELSEME SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.012953666248224,
+                    41.406131317477794
+                ]
+            }
+        }
+    ]
+}

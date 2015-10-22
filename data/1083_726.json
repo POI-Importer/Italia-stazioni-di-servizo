@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "22664",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SANDRINI S.N.C. DI SANDRINI ENORE E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.50359963648475,
+                    46.257794751420526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore ip vezza d'oglio",
+                "id": "10089",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PRIULI ALBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.386371612548828,
+                    46.235775797021006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore IP di Leoncelli Gianni",
+                "id": "19964",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LEONCELLI GIANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.507410214010065,
+                    46.2591688591289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO 0700 SANDRINI SRL",
+                "id": "20457",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SANDRINI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.514898166795321,
+                    46.254921987297124
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO PACE GIUSEPPE",
+                "id": "19483",
+                "amenity": "fuel",
+                "operator": "PACE GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.31963017108319,
+                    40.52884089800369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "14916",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DILUCA GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.247356832654987,
+                    40.48674974784912
+                ]
+            }
+        }
+    ]
+}

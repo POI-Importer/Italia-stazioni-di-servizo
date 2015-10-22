@@ -1,0 +1,291 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "25551",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TRAIANI GIORGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.921595919799529,
+                    43.753878326195796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio OilOne di Barbanti Daniele",
+                "id": "13188",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BARBANTI DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.883870093057228,
+                    43.73237774436474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OILONE",
+                "id": "19901",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CARBONI GIACOMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.936227193340642,
+                    43.774611056583815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO IP F.LLI PERETTI CARTOCETO",
+                "id": "16343",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "F.LLI PERETTI S.N.C. DI PERETTI EMANUELE & MIRCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.93816036441808,
+                    43.77591462015328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FRANCESCONI GABRIELE",
+                "id": "8631",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FRANCESCONI GABRIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.855784893035892,
+                    43.834017542597245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Torno",
+                "id": "5336",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO API S.N.C. DI ZAMBELLI DAVIDE GINO, VAGNINI MIRKO E CAVALLINI FABRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.974461913108824,
+                    43.77509133873172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Carburanti Poderini Luisa",
+                "id": "14638",
+                "amenity": "fuel",
+                "operator": "PODERINI LUISA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.884883931054675,
+                    43.76330059574899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL di Villapalombara",
+                "id": "18820",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FERRI ANTONELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.839024517110943,
+                    43.72322042182653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Oilone- Fano loc. Bellocchi",
+                "id": "13645",
+                "amenity": "fuel",
+                "operator": "ACEMA S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.004035949707033,
+                    43.79429430642818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore di carburante di Ridolfi Massimo",
+                "id": "4354",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE DI CARBURANTE DI RIDOLFI MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.950445413589476,
+                    43.79371657234666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "impianto ip di arcci renata",
+                "id": "16406",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ARCECI RENATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.934102714061739,
+                    43.74064269052256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore  ip",
+                "id": "13246",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "OLIVA GABRIELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.863743329499812,
+                    43.80393305493296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio IP - Serrungarina",
+                "id": "25539",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SIMONETTI MARIO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.897374568176247,
+                    43.73810199060661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "_PV VULCANGAS-ESSO CUCCURANO",
+                "id": "8486",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GABBIANELLI TOMAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.985597229083282,
+                    43.806628971102825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione IP Biagiarelli Giacomo",
+                "id": "21409",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BIAGIARELLI GIACOMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.986386208520573,
+                    43.712218691208804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil Calcinelli di Saltara",
+                "id": "16860",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "RENO DAVIDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.919160127639772,
+                    43.75145095293136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Energia Fluida",
+                "id": "31052",
+                "brand": "Energia Fluida",
+                "amenity": "fuel",
+                "operator": "BELLUCCI ALEX"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.99591422080994,
+                    43.828008109577155
+                ]
+            }
+        }
+    ]
+}

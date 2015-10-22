@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "loc brunara zagarise",
+                "id": "22341",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GUERRA CARBURANTI DI GUERRA LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.667436584830288,
+                    38.99983284087094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mauro Rosetta",
+                "id": "15649",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MAURO ROSETTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.534529884689164,
+                    38.973416136191375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.lli Amelio",
+                "id": "21714",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FRATELLI AMELIO CARBURANTI E LUBRIFICANTI DI CARMINE AMELIO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.580407083328286,
+                    39.020803993227986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "bar rifornimento esso di aiello teresa",
+                "id": "14288",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "AIELLO TERESA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.63016996038618,
+                    39.01181597809419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP dardano rosa maria",
+                "id": "22599",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DARDANO ROSA MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.564928591251373,
+                    39.07455836993039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Olivo Franco Tamoil",
+                "id": "16441",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "OLIVO FRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.612109225859626,
+                    39.012770388921304
+                ]
+            }
+        }
+    ]
+}

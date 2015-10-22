@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE Q8 DI MARCIALIS E CAU SNC",
+                "id": "31862",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MARCIALIS E CAU DI MARCIALIS MARCO E ELISABETTA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.227439388632774,
+                    39.72179637334254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO Q8 ORROLI",
+                "id": "10156",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CARRUS GIAN PIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.25003679629515,
+                    39.690135928774
+                ]
+            }
+        }
+    ]
+}

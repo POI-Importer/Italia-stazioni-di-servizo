@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SELVA DEL BOCCHETTO",
+                "id": "32004",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ENERGY RETE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.009430050849915,
+                    44.62610646161639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore IP",
+                "id": "15803",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SPIRELLI S.N.C. DI SPIRELLI MARIO, GIANCARLO E ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.015488408459532,
+                    44.68630721497668
+                ]
+            }
+        }
+    ]
+}

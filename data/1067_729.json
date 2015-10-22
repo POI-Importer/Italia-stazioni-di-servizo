@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "impianto ip di stevenin mauro",
+                "id": "20450",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "STEVENIN MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.725242757813475,
+                    45.831342251732664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Agip 35",
+                "id": "8646",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ISNARDI LUIGI DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.622247934341431,
+                    45.92779294918438
+                ]
+            }
+        }
+    ]
+}

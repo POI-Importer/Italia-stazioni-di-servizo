@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RETITALIA di Voto Alessandro Rocco",
+                "id": "25690",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "VOTO LUIGI CARBURANTI DI VOTO ALESSANDRO ROCCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.75969284776613,
+                    41.91462063941393
+                ]
+            }
+        }
+    ]
+}

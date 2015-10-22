@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE DI CARBURANTI \"LOW COST\" DI DI SIRO LUIGI VINCENZO",
+                "id": "19757",
+                "amenity": "fuel",
+                "operator": "DI SIRO LUIGI VINCENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.174449988071046,
+                    41.830919677412766
+                ]
+            }
+        }
+    ]
+}

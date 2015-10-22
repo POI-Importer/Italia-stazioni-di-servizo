@@ -1,0 +1,190 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO SPIRITO GIUSEPPE UMBERTO",
+                "id": "13224",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SPIRITO GIUSEPPE UMBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.06344151496887,
+                    41.80603672181846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EMILY DI EMILIANO SALVI SAS",
+                "id": "12267",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "EMILY DI EMILIANO SALVI S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.127892315387726,
+                    41.829796998849126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio IP di fonzi paolo",
+                "id": "7225",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FONZI PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.053847253322603,
+                    41.80611549558136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio San Marco",
+                "id": "8823",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "COOPERATIVA NUOVA ENERGIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.130078315734863,
+                    41.790840780987374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LUDOIL",
+                "id": "19849",
+                "amenity": "fuel",
+                "operator": "DE PERSIO FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.017530143260954,
+                    41.83412800198381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "9339",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ZIANNA KATIUSCIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.02509531378746,
+                    41.77632412970421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8\\\\TOIL PIGLIO",
+                "id": "21663",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "TOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.14507166137696,
+                    41.79601210651521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "28725",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PRATESI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.022006750106812,
+                    41.84019702876059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Serrone",
+                "id": "20103",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.072957992553711,
+                    41.83065738710879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL ERG",
+                "id": "25289",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DISTRIBUZIONE CARBURANTI QUARESIMA S.A.S. DI QUARESIMA WALTER & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.035970950157205,
+                    41.859090297722275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AUTOSTAN 2004 SRL",
+                "id": "24475",
+                "amenity": "fuel",
+                "operator": "AUTOSTAN S.R.L. 2004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.07656154036522,
+                    41.83159350834895
+                ]
+            }
+        }
+    ]
+}

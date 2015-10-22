@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "QUART-LOC. TEPPE SS.2",
+                "id": "11459",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.396307288360619,
+                    45.740358817266376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VERRAYES",
+                "id": "5495",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "enirete oil&nonoil S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.521720107145484,
+                    45.74282210216788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Totalerg di Marcotullio Ivan",
+                "id": "13361",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MARCOTULLIO IVAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.49027466191194,
+                    45.73725334587358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "contoz snc",
+                "id": "12325",
+                "amenity": "fuel",
+                "operator": "CONTOZ S.N.C. DI CONTOZ ILARIO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.46135026216507,
+                    45.7381332078518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OIL ITALIA CHAMBAVE",
+                "id": "29369",
+                "brand": "Oil Italia",
+                "amenity": "fuel",
+                "operator": "OIL ITALIA SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.548294067382812,
+                    45.74261022090537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LES ILES DE BRISSOGNE",
+                "id": "3829",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MAGLIONE ANTONIO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.406049020125465,
+                    45.73698656499145
+                ]
+            }
+        }
+    ]
+}

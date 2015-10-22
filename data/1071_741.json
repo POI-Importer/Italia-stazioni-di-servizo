@@ -1,0 +1,224 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARCARE EST",
+                "id": "3647",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MARENCO DIEGO - DISTRIBUTORE CARBURANTE IP E BAR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.30140471458435,
+                    44.34619773719106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "12222",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "GALATEA RICCARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.279772265923613,
+                    44.398524464006215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO ENI AGIP n. 11339",
+                "id": "19786",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VEDEO LUCIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.309596180915833,
+                    44.44515925493371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "L'OASI SNC",
+                "id": "21477",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "L'OASI DI BRIANO FAUSTO, GOSLINO DANIELE SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.301660865545273,
+                    44.43248090341837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EniStation Carcare",
+                "id": "11177",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PIOPPO - PANNOCCHIA S.N.C. DI PIOPPO RICCARDO E PANNOCCHIA RICCAR DO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.291764855384827,
+                    44.360506748116286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAIRO MONTENOTTE CORSO BRIGATE PARTIGIANE",
+                "id": "6391",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.281929194927216,
+                    44.38843499830716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni Bivio",
+                "id": "8142",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PIOPPO - PANNOCCHIA S.N.C. DI PIOPPO RICCARDO E PANNOCCHIA RICCAR DO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.290026783943176,
+                    44.36285698276176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OIL ITALIA",
+                "id": "24202",
+                "amenity": "fuel",
+                "operator": "OTTONELLO MIRELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.277686087676102,
+                    44.39688880781846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "P.V.01376 ENI",
+                "id": "17223",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ROLANDO ROMEO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.278161361813545,
+                    44.39784794521199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV Cosseria",
+                "id": "25110",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BECCARIA S.R.L. - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.26743217214971,
+                    44.36536459274766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LIGURIA GAS",
+                "id": "25737",
+                "amenity": "fuel",
+                "operator": "LIGURIA GAS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.288224339485167,
+                    44.40189205940621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "P.V. Ferrania",
+                "id": "29942",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BECCARIA S.R.L. - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.313005282881136,
+                    44.356443305402976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CA' LIDORA",
+                "id": "24386",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CA.BER. S.N.C. DI CASSAI F. E P. E BERTINI A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.267742991447449,
+                    44.36638675991833
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.LLI CESERACCIU F.&C. SNC",
+                "id": "25553",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F.LLI CESERACCIU FRANCESCO E LUIGI  - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.80181564418035,
+                    45.58811952449225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio - Chamonal Stefano",
+                "id": "7550",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CHAMONAL STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.848336696624756,
+                    45.63662199397387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni 51440",
+                "id": "4600",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BONI RAFFAELLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7856083313522495,
+                    45.60176641307052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "13337",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "DANNA ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.739625895946915,
+                    45.61134250684136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Clerin Roberto - Tamoil",
+                "id": "9393",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CLERIN ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7883560674590635,
+                    45.599898184826856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "25339",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LAZIER SILVIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.798186093568802,
+                    45.595781521684856
+                ]
+            }
+        }
+    ]
+}

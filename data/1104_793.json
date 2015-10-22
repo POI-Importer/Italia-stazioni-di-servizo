@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI 19501",
+                "id": "31122",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SCIABBARRASI VINCENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.080433809807573,
+                    37.50657788756883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Paladini Carburanti",
+                "id": "29927",
+                "brand": "EOS",
+                "amenity": "fuel",
+                "operator": "PALADINI CARBURANTI DI DISTEFANO FILIPPO & C. SOCIETA' IN ACCOMANDITA SEMPLICE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.06341319087676,
+                    37.49938437475103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE CARBURANTE Q8 NICOLETTI RICAMBI",
+                "id": "31347",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "NICOLETTI RICAMBI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.066717025795015,
+                    37.49350452857495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO CALTANISSETTA , VIA XIBOLI",
+                "id": "24325",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DI BENEDETTO CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.07854497432709,
+                    37.497769125561675
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,306 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotaErg",
+                "id": "14448",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DIASPROTTI FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.291917364418055,
+                    43.21043063123909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BELLI ALBERTO",
+                "id": "13685",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BELLI ALBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.273869398811373,
+                    43.271300986613056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOLENTINO - NENNI 23",
+                "id": "24704",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.303461690807355,
+                    43.214125412320804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AUTOOFFICINA S.C.S. SNC",
+                "id": "16189",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "AUTOFFICINA S.C.S. S.N.C. DI CARDINALI RENATO E SANTONI ROLANDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.277947533729504,
+                    43.207806164875514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "16437",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "C.A.S.A. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.309894949197767,
+                    43.21675426809755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Carburanti OIL ONE di Ivana Moretti",
+                "id": "26464",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MORETTI IVANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.310222649737511,
+                    43.31099249658729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BONFIGLI METANO",
+                "id": "4194",
+                "amenity": "fuel",
+                "operator": "BONFIGLI METANO S.N.C. DI BONFIGLI GIANNI E LUCA."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.311038016836394,
+                    43.20938081553602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "borri michele",
+                "id": "28653",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BORRI MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.327704146504402,
+                    43.28283470328794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip",
+                "id": "29776",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BORRI DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.190598338842388,
+                    43.22863578774272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RANCIA SUD DISTRIB.",
+                "id": "5020",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GOLDENGAS - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.348839282989502,
+                    43.22992523990396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio IS - Tolentino",
+                "id": "27186",
+                "amenity": "fuel",
+                "operator": "SIMONETTI MARIO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.287054670623322,
+                    43.21118141849217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TARTARELLI CRISTIANO",
+                "id": "28340",
+                "amenity": "fuel",
+                "operator": "TARTARELLI CRISTIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35759639587991,
+                    43.288555859486564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "pv 6780",
+                "id": "30946",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.298238068819046,
+                    43.21164561701898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio IS - San Severino Marche",
+                "id": "26414",
+                "amenity": "fuel",
+                "operator": "SIMONETTI MARIO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.216015141783148,
+                    43.24018978094171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Staffolani Adriano",
+                "id": "30405",
+                "amenity": "fuel",
+                "operator": "STAFFOLANI ADRIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.304161727428436,
+                    43.277419150095774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO IP SALVI MATTEO",
+                "id": "16503",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SALVI MATTEO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.329892158508299,
+                    43.22137737113512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MARI SIMONE",
+                "id": "22536",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MARI SIMONE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.318888148479463,
+                    43.264996517678796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AURELI ADRIANO",
+                "id": "16987",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "AURELI ADRIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34824125207115,
+                    43.26568977010086
+                ]
+            }
+        }
+    ]
+}

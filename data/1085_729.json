@@ -1,0 +1,274 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "27019",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PA.MI. DI RIGOTTI PAOLO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.871250629425049,
+                    45.87601906351965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni di palma petroli",
+                "id": "23663",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DI PALMA PETROLI S.N.C. DI ANGELO E GIUSEPPE DI PALMA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.847664411114463,
+                    45.88513507976298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mazzoni Paolo staz.serv. ENI",
+                "id": "7915",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MAZZONI PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.897640883922579,
+                    45.93433725983841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "52652 menegatti maurizio",
+                "id": "23431",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MENEGATTI MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.895707784061416,
+                    45.877976019743414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ARCO - SANTA CATERINA 87",
+                "id": "31086",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.866300000000026,
+                    45.90630746548659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GNP ARCO",
+                "id": "8977",
+                "amenity": "fuel",
+                "operator": "GRUPPO NORD PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.869021521881905,
+                    45.90872213595787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OFFICINA MAZZOLA SNC",
+                "id": "15325",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "OFFICINA MAZZOLA DI MAZZOLA GIANCARLO E GIAMPAOLO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7708032077403,
+                    45.87205442723664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIVA DEL GARDA VIALE ROVERETO S.S. 240",
+                "id": "23059",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.855138599872589,
+                    45.88078443744142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "piva servizi",
+                "id": "23578",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PIVA SERVIZI DI PIVA FRANCO E MATTEO SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.843922942876816,
+                    45.896426256887004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Eeffe Srl",
+                "id": "30094",
+                "amenity": "fuel",
+                "operator": "EEFFE ENGINEERING SRL UNIPERSONALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.879427677246099,
+                    45.91600689768345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NAGO TORBOLE-VIA MATTEOTTI 11",
+                "id": "11848",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.875515735145541,
+                    45.87127279369916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIVA DEL GARDA - SAN TOMASO",
+                "id": "24278",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.85785299539566,
+                    45.900855394789495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OIL ITALIA",
+                "id": "23556",
+                "amenity": "fuel",
+                "operator": "ALU' MIKE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.848872944774596,
+                    45.89397092033341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "pederzolli mauro",
+                "id": "5360",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PEDERZOLLI MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.868236484655768,
+                    45.91774544499981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "dusatti sas imp. AGIP - ENI",
+                "id": "7887",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DUSATTI S.A.S. DI DUSATTI LAURA E DUSATTI EDOARDO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.889567202377291,
+                    45.87857108069969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PELLEGRINI PAOLO",
+                "id": "20723",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PELLEGRINI PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.728668421506882,
+                    45.88990137074365
+                ]
+            }
+        }
+    ]
+}

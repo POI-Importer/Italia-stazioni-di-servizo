@@ -1,0 +1,171 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio IS - Filottrano",
+                "id": "26486",
+                "amenity": "fuel",
+                "operator": "SIMONETTI MARIO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.344651176154006,
+                    43.44015984836374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP DI CAMPANA ITALO",
+                "id": "12927",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CAMPANA ITALO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.213566550277847,
+                    43.376768592442495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO STAFFOLO",
+                "id": "29966",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.215596526861189,
+                    43.44200389953629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MORETTINI CLAUDIO",
+                "id": "16256",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MORETTINI CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.331290930509567,
+                    43.338098912310876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DRAGONOIL",
+                "id": "16047",
+                "amenity": "fuel",
+                "operator": "DRAGONOIL SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.287734538316727,
+                    43.341369950887426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RO.DA.DI PICCINI & PACCUSSE SNC",
+                "id": "22107",
+                "amenity": "fuel",
+                "operator": "RO.DA. DI PICCINI DANIELA E PACCUSSE ROSARIA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.214517608284954,
+                    43.43377253743151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI DI SERPENTINI SONIA",
+                "id": "26698",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERPENTINI SONIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.355235802271865,
+                    43.438128153737146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "10174",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DI TULLIO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.256142533729532,
+                    43.37757410999635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Francioni Giovanni",
+                "id": "11012",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FRANCIONI GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.352472448217666,
+                    43.36055158665047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "moschettani",
+                "id": "22181",
+                "amenity": "fuel",
+                "operator": "MOSCHETTANI EMANUELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.247094478002053,
+                    43.43517831963171
+                ]
+            }
+        }
+    ]
+}

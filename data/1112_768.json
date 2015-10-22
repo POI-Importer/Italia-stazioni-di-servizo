@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "METALLO CANIO",
+                "id": "6148",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "METALLO CANIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.484521389007567,
+                    40.89028703098861
+                ]
+            }
+        }
+    ]
+}

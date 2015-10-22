@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "14259",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GRAZIANI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.616189628839493,
+                    39.60268341075925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Arturo Graziano & C. S.a.s.",
+                "id": "14654",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ARTURO GRAZIANO DI ARTURO GRAZIANO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6371111398812,
+                    39.59915366595592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "30673",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "COFONE ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.527804136276245,
+                    39.63747575426211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Servizio ESSO Campana Giuseppe",
+                "id": "21303",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CAMPANA GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.631026633837905,
+                    39.61157496127845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "17731",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "RSA DI RUFFO ANTONIO & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.638871729373932,
+                    39.60624117361806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ROSSANO S.P. EX S.S. 106 - LOC. CIMINATA",
+                "id": "23980",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.616197675466537,
+                    39.602688370580445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip",
+                "id": "30773",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "M.E.F. (MULTI ECO FUEL) DI NACCHIA MARIA & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.565078794956207,
+                    39.63063056665943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL ERG",
+                "id": "18112",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "RSA DI RUFFO ANTONIO & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.633935267692777,
+                    39.57663906708352
+                ]
+            }
+        }
+    ]
+}

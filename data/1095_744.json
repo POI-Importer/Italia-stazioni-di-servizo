@@ -1,0 +1,982 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PB",
+                "id": "18630",
+                "amenity": "fuel",
+                "operator": "F.A.P. SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.572011655543179,
+                    44.066589366182434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.A.M. Spadarolo",
+                "id": "7469",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SOC. AUTOTRASPORTI MONTEFELTRO-S.A.M."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.516362071037292,
+                    44.05316456610955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ch4",
+                "id": "4549",
+                "amenity": "fuel",
+                "operator": "CARDINALI MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.579516023397447,
+                    44.03130611946907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VE.FA. GAS S.R.L.",
+                "id": "12321",
+                "amenity": "fuel",
+                "operator": "VE.FA.GAS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.592708018385338,
+                    44.03891533067832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIMINI-LOC.CELLE VIA XXIII SETTEMBRE 115",
+                "id": "11824",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.548442507934624,
+                    44.06936531108386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GEP CELLI GIULIANO SRL PV Rimini Porto",
+                "id": "22583",
+                "brand": "Gep carburanti",
+                "amenity": "fuel",
+                "operator": "CELLI GIULIANO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.571120709180835,
+                    44.06880531886601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTEFELTRO OVEST",
+                "id": "3714",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RICCIONE MONTEFELTRO SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.61940449476242,
+                    43.99411893181819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Total Erg",
+                "id": "14006",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SEMPRINI ALBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.551149146055309,
+                    44.068449191755775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI Pagnoc",
+                "id": "27735",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SEMPRINI ALBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.576965122783122,
+                    44.04993419346122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIMINI",
+                "id": "4795",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "IES ITALIANA ENERGIA E SERVIZI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.628219574689862,
+                    44.02644962739656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP Riccione Via Berlinguer",
+                "id": "24945",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ACEMA S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.646360630510683,
+                    43.995340008830404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio EGO",
+                "id": "10125",
+                "brand": "Ego",
+                "amenity": "fuel",
+                "operator": "ATENA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.572956245743057,
+                    44.03442614936506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg Via Coletti",
+                "id": "17034",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "RAF 28 SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.553298682767947,
+                    44.078177825077745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIMINI - COLONNELLA",
+                "id": "24808",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.595627580356565,
+                    44.03817134262759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GEP CELLI GIULIANO SRL PV Rimini Grotta Rossa",
+                "id": "22582",
+                "brand": "Gep carburanti",
+                "amenity": "fuel",
+                "operator": "CELLI GIULIANO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.554325638623027,
+                    44.037859783955646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shell Via Romagna",
+                "id": "7318",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "FI.NE.MA. S.N.C. DI COLI NEVIO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.644433960282413,
+                    44.00318383819206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio eni 59212",
+                "id": "4158",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "POLIDORI PALMIRO E BALDUCCI PIERO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.615550160408022,
+                    44.026294185295896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI COLONNELLA",
+                "id": "24977",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SEMPRINI ALBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.582320272922518,
+                    44.04632626938373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIMINI",
+                "id": "5489",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "enirete oil&nonoil S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.587510174274483,
+                    44.03622258569636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "bemo",
+                "id": "7033",
+                "amenity": "fuel",
+                "operator": "BEMO DI BERRITELLA ORAZIO E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.64378845691681,
+                    43.98981265587117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Cannini di Cannini Roberto & Ivan e C. S.N.C.",
+                "id": "28996",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO CANNINI DI CANNINI ROBERTO E IVAN & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.55382232037664,
+                    44.06822352482771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio ENI",
+                "id": "30450",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MAESTRI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.644440233707428,
+                    43.99309198408707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIMINI - CELLE",
+                "id": "29607",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.538470495700833,
+                    44.068701927184215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso di Carlini Alfredo",
+                "id": "14588",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CARLINI ALFREDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.554898096295119,
+                    44.0568063897147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "q8",
+                "id": "12619",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ARTHAS DI SACRIPANTI FRANCO E C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.62835368514061,
+                    43.99717882992401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio EGO",
+                "id": "24787",
+                "brand": "Ego",
+                "amenity": "fuel",
+                "operator": "MAESTRI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.625342803932199,
+                    44.028356832334545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PB",
+                "id": "24252",
+                "amenity": "fuel",
+                "operator": "CFC OIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.595114021870135,
+                    44.01513844162306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "7174",
+                "id": "25229",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "T.D.M. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.638204271163886,
+                    44.00123626856694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio EGO",
+                "id": "10128",
+                "brand": "Ego",
+                "amenity": "fuel",
+                "operator": "ATENA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.636884456986195,
+                    44.0198181840187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ZANNONI  E FIGLIO",
+                "id": "6936",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ZANNONI  E FIGLIO S.N.C. DI ZANNONI LUIGI E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.562558874729918,
+                    44.043163719848195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIMINI SS.258 MARECCHIESE KM.81",
+                "id": "6597",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.49057799577713,
+                    44.040868097487646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO - TIGER BAR",
+                "id": "12656",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DI.G.S. DI DI TIZIO MARCO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.578051799930563,
+                    44.049174997963945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Oilone- Rimini",
+                "id": "13658",
+                "amenity": "fuel",
+                "operator": "ACEMA S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.58138820528984,
+                    44.032150560424576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "11105",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ALESSANDRINI FABIO E LUNEDEI SABRINA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.578151814680496,
+                    44.07159741239208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "13515",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F.LLI MAGNANI SOCIETA' IN NOME COLLETTIVO DI MAGNANI ROBERTO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.574164176443444,
+                    44.043730406564706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rimini Via XXIII Settembre",
+                "id": "19943",
+                "amenity": "fuel",
+                "operator": "INTERPETROL - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.557128727647408,
+                    44.06733891688477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "8100",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "FERRULLI NICOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.633445858955383,
+                    44.00593083419096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "18435",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "GESTORI CARBURANTI DI BENVENUTI GIANFRANCO & C.  S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.566865600138842,
+                    44.04470414602088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIMINI DESTRA DEL PORTO",
+                "id": "23904",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.571974992752075,
+                    44.06997703319778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.LLI GIOVANELLI SNC",
+                "id": "28405",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "F.LLI GIOVANELLI S.N.C. DI GIOVANELLI MIRKO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.599461552045454,
+                    44.03584775393117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ENI 5982",
+                "id": "4030",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GORI ERCOLE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.529585755264293,
+                    44.0560362371028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "53815",
+                "id": "9115",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DEPAOLI DANIELE E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.568598091602325,
+                    44.040499059914396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dawill service",
+                "id": "31731",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DAWILL SERVICE DI ARDUINI WILLIAM & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.65163794159889,
+                    43.99269216029433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIMINI V.LE REGINA ELENA 110 DIST.Q8",
+                "id": "8530",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.599725127220156,
+                    44.049923645025174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "feligioni roberta",
+                "id": "5002",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FELIGIONI ROBERTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5417184570083,
+                    44.05949025205649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione servio Eni pv 53111",
+                "id": "4242",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "NICHOLAS GIAVOLUCCI & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.636664509773253,
+                    44.01297170833777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "11333",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PIRONI TONINO & C. - SOCIETA' IN ACCOMANDITA SEMPLICE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.540428822753935,
+                    44.068536958094526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARBURANTI LA PIETRA SNC",
+                "id": "30936",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CARBURANTI LA PIETRA GIOVANNI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.571795284748077,
+                    43.99169490506178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO Italiana",
+                "id": "7959",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BERNARDINI UMBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.578711360692978,
+                    44.04143919504779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PB",
+                "id": "18631",
+                "amenity": "fuel",
+                "operator": "F.A.P. SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.573271840810776,
+                    44.074965809810486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio cannini",
+                "id": "10447",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO CANNINI DI CANNINI ROBERTO E IVAN & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.574651410589581,
+                    44.06155087826214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2666",
+                "id": "24649",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "T.D.M. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.545442581176756,
+                    44.01051064185377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "q8",
+                "id": "10239",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "INNOCENTI TIZIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.603088617324829,
+                    43.99084969493159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "f.lli mancinig",
+                "id": "21468",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F.LLI MANCINI GIANLUCA E ANDREA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.504298622229044,
+                    44.07005357445478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PB",
+                "id": "18629",
+                "amenity": "fuel",
+                "operator": "F.A.P. SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.647659986871645,
+                    44.01177635306813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "4722",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MASTINI E UGOLINI SNC DI CANESTRI FILIPPO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.51960754394531,
+                    44.06949331841493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REPSOL",
+                "id": "18439",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "GESTORI CARBURANTI DI BENVENUTI GIANFRANCO & C.  S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.55696080555731,
+                    44.05105020288746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTEFELTRO EST",
+                "id": "3573",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "Di Chiara & Famiglietti snc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.618560940027239,
+                    43.99540210921691
+                ]
+            }
+        }
+    ]
+}

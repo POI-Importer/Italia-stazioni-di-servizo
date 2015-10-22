@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MESU E RIOS SERVICE",
+                "id": "22220",
+                "brand": "Mesu e Rios",
+                "amenity": "fuel",
+                "operator": "MESU E RIOS S.R.L. *"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.872418632220842,
+                    40.63300918561826
+                ]
+            }
+        }
+    ]
+}

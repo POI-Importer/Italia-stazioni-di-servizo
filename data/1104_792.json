@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IDC Villarosa - Via Garibaldi",
+                "id": "30670",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SALLEMI CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.167446792125702,
+                    37.58735653167389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "sp energia siciliana",
+                "id": "12153",
+                "brand": "SP Energia Siciliana",
+                "amenity": "fuel",
+                "operator": "CASTRIANNI GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.112167879623485,
+                    37.6897520122872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO CARBURANTE DI PANTANO SARA",
+                "id": "19216",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PANTANO SARA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.114039316773415,
+                    37.69282083518623
+                ]
+            }
+        }
+    ]
+}

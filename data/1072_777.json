@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "12801",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CAPRARO MARINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.582612949737495,
+                    39.76965644261587
+                ]
+            }
+        }
+    ]
+}

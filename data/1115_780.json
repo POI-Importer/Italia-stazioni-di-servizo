@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "17967",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GILIBERTI IVAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.07052907347679,
+                    39.23383044433642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fabrizio Carelli & C. Sas",
+                "id": "17827",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FABRIZIO CARELLI  &  C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.04076207116395,
+                    39.35984547424835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SCIAMMARELLA ANDREA",
+                "id": "24686",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SCIAMMARELLA ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.046707034111023,
+                    39.330919095827255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "15179",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PUGLIESE LUCIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.041260808706284,
+                    39.35824398318245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "13119",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO ERG DI CESARIO FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.05203926563263,
+                    39.30538731577691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "17897",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PASTORE LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.041905879974365,
+                    39.363979251325475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso - SAN FILI",
+                "id": "31321",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FUEL S.A.S. DI MAGNELLI FRANCESCO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.136638167530236,
+                    39.335098024698716
+                ]
+            }
+        }
+    ]
+}

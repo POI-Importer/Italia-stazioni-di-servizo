@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA SAN FRANCESCO CAMMARATA",
+                "id": "28169",
+                "brand": "Giap",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.638728119179175,
+                    37.631579713679294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso italiana",
+                "id": "12558",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PANEPINTO SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.639979660511017,
+                    37.62758340445863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "motel san pietro",
+                "id": "8654",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SAN PIETRO S.A.S. DI VINCENZO E ANGELO BONACCOLTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.654133677482603,
+                    37.66835109663186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Biancorosso Carla",
+                "id": "25567",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BIANCOROSSO CARLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.604057736809525,
+                    37.67992688987904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI STATION CAMMARATA",
+                "id": "7842",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ELIOGEST DI TRAINA MARCELLO E GIAMBRONE AUSILIA & C. SOCIETA' IN IN ACCOMANDITA SEMPLICE."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.668215274810787,
+                    37.66139284028912
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,208 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore carburanti EREDI CAMPIDONICO SPA VILLANOVA AT",
+                "id": "30716",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "EREDI CAMPIDONICO - S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.947149276733398,
+                    44.958173560733016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE ESSO MURIALDO",
+                "id": "22768",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MURIALDO CHRISTIAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.969199559524555,
+                    44.950729352520696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VILLANOVA D'ASTI",
+                "id": "29647",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SIRTAM S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.921306863427163,
+                    44.941073899594166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VILLANOVA SUD",
+                "id": "3843",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI RETE OIL&NONOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.952052354812624,
+                    44.94937835000907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cherio Matteo",
+                "id": "25434",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CHERIO MATTEO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.970870733261108,
+                    44.92473638485307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Eni Villanova d'Asti di Rutigliano Nicola",
+                "id": "10194",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RUTIGLIANO NICOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.948369579806466,
+                    44.936710477620366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BAR STAZIONE SERVIZIO TAMOIL",
+                "id": "24182",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "C.M.C. SNC DI BRIGNOLO CRISTIANO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.070433763229403,
+                    44.84445107005731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VILLANOVA NORD",
+                "id": "24782",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PETROL JOLLY S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.951692938804627,
+                    44.950396580032915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FERRERE",
+                "id": "23186",
+                "amenity": "fuel",
+                "operator": "GO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.990207018055685,
+                    44.88364246651308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cherio Matteo",
+                "id": "10623",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CHERIO MATTEO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.009324222803116,
+                    44.87610612847085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "7867",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SCUZZARELLA SILVIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.931632697582244,
+                    44.94343432796177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "17007",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MASSASSO BRUNO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.038246205407859,
+                    44.91297142254005
+                ]
+            }
+        }
+    ]
+}

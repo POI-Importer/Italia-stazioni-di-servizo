@@ -1,0 +1,391 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORO F.LLI SPA",
+                "id": "29862",
+                "brand": "Loro",
+                "amenity": "fuel",
+                "operator": "LORO F.LLI-S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.811030954122543,
+                    45.74831313594715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP ZAGO FRANCESCO",
+                "id": "14075",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ZAGO FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.909590127647334,
+                    45.8110493912853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TREVISO - VIA BELTRAMINI  3",
+                "id": "31852",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.849008349668111,
+                    45.77983943046171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL CRESPANO",
+                "id": "26614",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SAVIO PIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.846130390737928,
+                    45.81769819658542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vioil",
+                "id": "23010",
+                "amenity": "fuel",
+                "operator": "IL PEDALE DI BRION FLAVIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.910948279561579,
+                    45.757903244935704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "R. ZEN DI CIROTTO GIOVANNA",
+                "id": "10392",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "R. ZEN CIROTTO GIOVANNA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.913363933563232,
+                    45.72990927769227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "fonte carburanti s.n.c",
+                "id": "4304",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FONTE CARBURANTI S.N.C. DI DALLAN ROBERTO & MORENO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.889816820621489,
+                    45.785294187759476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP TERMOHOUSE",
+                "id": "11224",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "TERMOHOUSE DI FERRAZZA ERSILIA & C. - S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.918219330024726,
+                    45.78940740597235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "oil paderno",
+                "id": "6180",
+                "brand": "Oil Italia",
+                "amenity": "fuel",
+                "operator": "OIL ITALIA SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.860924065113068,
+                    45.8239501699745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CRESPANO DEL GRAPPA VIA MOLINETTO",
+                "id": "8938",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.835806629430408,
+                    45.82651963381458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NOALOIL PV10",
+                "id": "31147",
+                "brand": "Noaloil",
+                "amenity": "fuel",
+                "operator": "NOALOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.885002889549241,
+                    45.82612697555702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BENDO MARIA",
+                "id": "22817",
+                "brand": "Noaloil",
+                "amenity": "fuel",
+                "operator": "BENDO MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.86616382733905,
+                    45.80333169287907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO DI BRUNELLO MASSIMO",
+                "id": "23697",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO DI BRUNELLO MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.929167417196597,
+                    45.790535111191176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FONTE VIA ASOLANA,57",
+                "id": "10186",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.872872403704832,
+                    45.785171980755216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PAGNANO OIL ITALIA",
+                "id": "7478",
+                "brand": "Oil Italia",
+                "amenity": "fuel",
+                "operator": "AZZALINI MARIO & C. - S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.892877221107485,
+                    45.80402906645777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "10820",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "S.G.H.I. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.801539775285391,
+                    45.77576337620852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione repsol",
+                "id": "9489",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "BALDASSIN ISIDORO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.907311528921126,
+                    45.7892690965986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BERMAX2000",
+                "id": "30572",
+                "amenity": "fuel",
+                "operator": "BERMAX2000 S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.8665779239426,
+                    45.74106803985835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dinagas S.Vito",
+                "id": "24762",
+                "amenity": "fuel",
+                "operator": "DINAGAS DI BAREA OTELLO & C. - S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.910349492209207,
+                    45.759068411665424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ROSSANO VENETO-S.S. 245 KM 47+330",
+                "id": "11951",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.794503182172773,
+                    45.714709429718916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "14175",
+                "amenity": "fuel",
+                "operator": "BRAGAGNOLO GRAZIELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.868555494601424,
+                    45.71156232105679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni",
+                "id": "15183",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BERNO NADIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.912504385644525,
+                    45.73349528524414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ORSO GIORGIO SRL",
+                "id": "12933",
+                "amenity": "fuel",
+                "operator": "ORSO GIORGIO SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.810279117229015,
+                    45.76009487114367
+                ]
+            }
+        }
+    ]
+}

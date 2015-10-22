@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REICHEGGER ALBIN ESSO EXON MOBIL",
+                "id": "24106",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "REICHEGGER ALBIN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.881696564352294,
+                    46.81016526800616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENERGIE SERVICE S.A.S. DI ZUBLASING STEFAN & C. % ENERGIE SERVICE K.G. DES ZUBLASING STEFAN & C.",
+                "id": "28099",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENERGIE SERVICE S.A.S. DI ZUBLASING STEFAN & C. % ENERGIE SERVICE K.G. DES ZUBLASING STEFAN & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.945582628250122,
+                    46.89197731034368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso Campo Tures",
+                "id": "24225",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "KOTTERSTEGER HORST"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.951499581336975,
+                    46.916784679923474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso Campo Tures",
+                "id": "24224",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "KOTTERSTEGER HORST"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.95150226354599,
+                    46.916790542695175
+                ]
+            }
+        }
+    ]
+}

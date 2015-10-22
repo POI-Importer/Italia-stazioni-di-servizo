@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio d.b.a. amedeo",
+                "id": "25802",
+                "amenity": "fuel",
+                "operator": "DI BERARDINO AMEDEO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.252272993326187,
+                    41.998772718876715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ROSSI ANTONIO",
+                "id": "21773",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ROSSI ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.260156198365852,
+                    42.02378156931685
+                ]
+            }
+        }
+    ]
+}

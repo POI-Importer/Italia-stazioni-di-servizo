@@ -1,0 +1,157 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASORATE PRIMO DELL'ORTO 93",
+                "id": "6454",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.016447808598286,
+                    45.308937745230075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BINASCO",
+                "id": "5395",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "enirete oil&nonoil S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.10799504299166,
+                    45.33632187790648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AMBROGIO MORO SPA",
+                "id": "9004",
+                "amenity": "fuel",
+                "operator": "AMBROGIO MORO S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.075836881382656,
+                    45.23083354462051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione esso",
+                "id": "17095",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CASTOLDI FERRUCCIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.038692340254782,
+                    45.25349699014664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL Galli e Gandini snc",
+                "id": "14825",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "GALLI GIUSEPPE E GANDINI ORESTE S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.103008359670639,
+                    45.328116896621324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Righini & Sarli Car Center SnC",
+                "id": "26417",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "RIGHINI E SARLI CAR CENTER S.N.C.  DI RIGHINI LUCA E SARLI ROCCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.000576138496399,
+                    45.2924735806185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VINPE SPA",
+                "id": "8529",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CAMINNECI ANTONIO CARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.13102000951767,
+                    45.32774344815997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio di Blondy sas",
+                "id": "30532",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BLONDY S.A.S. DI MIGLIORINI R. & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.139428734779356,
+                    45.327820084188545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO ENI 2553",
+                "id": "8408",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BONIZZONI S.N.C. DI BONIZZONI MARCO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.024272245368934,
+                    45.31388497480082
+                ]
+            }
+        }
+    ]
+}

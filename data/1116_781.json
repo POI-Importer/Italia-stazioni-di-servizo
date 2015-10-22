@@ -1,0 +1,157 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "staz.serv.api di anselmo paolo",
+                "id": "26806",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ANSELMO PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.235867142677307,
+                    39.14375154284242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso di filice fabrizio",
+                "id": "22543",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FILICE FABRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.311308294534683,
+                    39.20631522538903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO 24H",
+                "id": "25889",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "METALLO ANTONIA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.247717142105103,
+                    39.102198414942286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ROGLIANO EST",
+                "id": "3641",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "TAFER S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.307632327079773,
+                    39.18845513124847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MANFREDI LUCA CARBURANTI",
+                "id": "18667",
+                "amenity": "fuel",
+                "operator": "MANFREDI LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.301363334059715,
+                    39.12848601921943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ZETAGAS MANGONE",
+                "id": "31454",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ZETA GAS S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.30804806947708,
+                    39.213545939781824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Piano Lago Carburanti s.a.s.",
+                "id": "25404",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PIANO LAGO CARBURANTI S.A.S. DI MINARDI ILARIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.31244957447052,
+                    39.20228763248517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ROGLIANO OVEST",
+                "id": "24827",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PLURISERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.307071745395657,
+                    39.18868131549301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LUPIA GABRIELE",
+                "id": "28077",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LUPIA GABRIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32318377494812,
+                    39.18141186504676
+                ]
+            }
+        }
+    ]
+}

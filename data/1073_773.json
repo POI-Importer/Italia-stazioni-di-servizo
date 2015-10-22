@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "20558",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AGUS  S.N.C.  DI AGUS FABRIZIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.78298632801966,
+                    40.23012648305606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "16618",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AGUS  S.N.C.  DI AGUS FABRIZIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.774781796295201,
+                    40.2679320678821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MACOMER CORSO UMBERTO",
+                "id": "6698",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.77034117724611,
+                    40.26914374802818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZ.DI SERVIZIO ESSO DI BATTISTA E G.TEDDE SNC",
+                "id": "31942",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO ESSO DI BATTISTA E GIUSEPPE TEDDE S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.769112229347229,
+                    40.26950850535953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MACOMER - PIAZZA ITALIA",
+                "id": "30550",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.773594635581958,
+                    40.26492046697949
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FUEL SERVICE SRL",
+                "id": "8657",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FUEL SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.493286848068239,
+                    40.738182916973585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "del monte pasqualino tamoilitalia s.p.a.",
+                "id": "14103",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "DEL MONTE PASQUALINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.542483925819397,
+                    40.81954307313666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ERCOLANI SRL",
+                "id": "31072",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ERCOLANI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.493289530277254,
+                    40.73817905559934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "q8",
+                "id": "21150",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CARRETTA COSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.541336963535512,
+                    40.757042510931015
+                ]
+            }
+        }
+    ]
+}

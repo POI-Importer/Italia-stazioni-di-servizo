@@ -1,0 +1,192 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "19612",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "TEDESCHI DOMENICO - SOCIETA' IN NOME COLLETTIVO DI TEDESCHI DOMENICO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.144100844860075,
+                    41.59481882952681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso di savaiano carmelina",
+                "id": "8754",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "AREA DI SERVIZIO DI SAVAIANO CARMELINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.100233316421509,
+                    41.59858782776104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTAQUILA LOC. ROCCARAVINDOLA VIA TAVERNA 19 - SS 158",
+                "id": "22285",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.129393052045202,
+                    41.5226352902646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di Servizio ESSO",
+                "id": "31165",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DBS ENERGIE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2326083779335,
+                    41.621770648711305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Punto Vendita TotalErg IS013",
+                "id": "15643",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MED OIL - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.171614944934845,
+                    41.557825238945384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "07260",
+                "id": "31207",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "A & T S.A.S. DI ANTENUCCI JVAN & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.23804521560669,
+                    41.600252214691345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "9960",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BARONE'S DI GUGLIELMI MARGHERITA & C. - SOCIETA' IN ACCOMANDITA SEMPLICE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.153890907764435,
+                    41.529557633360156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip gruppo api",
+                "id": "21294",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "RICCI FILOMENA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.223455339670183,
+                    41.585167265167534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso Borrelli Antonio",
+                "id": "12711",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BORRELLI ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2307242380806,
+                    41.594329657034656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "31112",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BOCCIA ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.231404066085814,
+                    41.623036239354754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "30201",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MOLISANA SERVICE DI CAPALDI FIORAVANTE E REA PIETRO & C. SOCIETA' IN ACCOMANDITA SEMPLICE IN SIGLA \"MOLISANA SERVICE SAS\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.190359562635425,
+                    41.563744192366926
+                ]
+            }
+        }
+    ]
+}

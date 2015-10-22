@@ -1,0 +1,219 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALIGAS",
+                "id": "17818",
+                "amenity": "fuel",
+                "operator": "GASOLINE SNC DI BRAGION FRANCO & DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.785709356483496,
+                    45.08917982330426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1008Braghetta S.a.s.",
+                "id": "30413",
+                "brand": "Major",
+                "amenity": "fuel",
+                "operator": "BRAGHETTA S.A.S. DI BRAGHETTA LUIGI & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.78577795624733,
+                    45.21011966043999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "METANO",
+                "id": "24587",
+                "amenity": "fuel",
+                "operator": "CAR SERVICE DI PALTANIN ENRICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.785894632339478,
+                    45.09847202232565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CENTRALE METANO SAN MARCO",
+                "id": "21762",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SALVAN ORLANDO E C. - SOCIETA' IN NOME COLLETTIVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.827547997236252,
+                    45.092949244382005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "WOLFTANK",
+                "id": "10054",
+                "amenity": "fuel",
+                "operator": "WOLFTANK SYSTEMS S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.79431140422821,
+                    45.0973670550968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Metano Bartolucci",
+                "id": "31622",
+                "amenity": "fuel",
+                "operator": "BARTOLUCCI GILBERTO & C. - S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.78594559431076,
+                    45.098482246438024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A.F. PETROLI",
+                "id": "10677",
+                "brand": "AF Petroli",
+                "amenity": "fuel",
+                "operator": "A.F. PETROLI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.885817646980286,
+                    45.19208774725051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REPSOL",
+                "id": "10686",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "BITUMCALOR S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.876882840393138,
+                    45.15667703722301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FULL",
+                "id": "10574",
+                "amenity": "fuel",
+                "operator": "ALI' S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.783684492111206,
+                    45.08927757389752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "cosmi",
+                "id": "28495",
+                "amenity": "fuel",
+                "operator": "COSMI FEDERICA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.884393393993376,
+                    45.13845305094476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COSTANTIN",
+                "id": "11982",
+                "brand": "Costantin",
+                "amenity": "fuel",
+                "operator": "F.LLI CHIAPPERIN S.N.C. DI CHIAPPERIN GIOVANNI & MATTEO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.782912015914919,
+                    45.20386007233306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sia Fuel San Martino di Venezze",
+                "id": "29850",
+                "brand": "Sia fuel",
+                "amenity": "fuel",
+                "operator": "S.I.A. ENGINEERING CONSTRUCTION S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.873482167720795,
+                    45.1181745645886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "WOLFTANK",
+                "id": "10053",
+                "amenity": "fuel",
+                "operator": "WOLFTANK SYSTEMS S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.79381251335144,
+                    45.09876814088041
+                ]
+            }
+        }
+    ]
+}

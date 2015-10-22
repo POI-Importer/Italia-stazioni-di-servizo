@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "10534",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SANNA BONAVENTURA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.323753351034611,
+                    40.3214381431232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "nugoresso",
+                "id": "22944",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NUGORESSO SNC DI ZIZI FRANCESCA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.323222413659096,
+                    40.320958645241575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NUORO VIALE DELLA SOLITUDINE",
+                "id": "6699",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.339379835616683,
+                    40.32761226407037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "murru marco",
+                "id": "18539",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MURRU MARCO STAZIONE DI SERVIZIO ERG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.331919476389885,
+                    40.3242346575746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NUORO VIA VENETO",
+                "id": "6697",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.325092813491892,
+                    40.31832162063785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO",
+                "id": "24588",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "COSTA GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.322885125875473,
+                    40.320100966328795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG VIALE TRIESTE",
+                "id": "29401",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DITTA MANNONI SUSANNA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.32610109448433,
+                    40.321523881208556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI AGIP 7920",
+                "id": "9865",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RUGGIU ERMINIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.319468426844765,
+                    40.31694081080455
+                ]
+            }
+        }
+    ]
+}

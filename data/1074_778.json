@@ -1,0 +1,207 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso Vi.Flo.snc",
+                "id": "6286",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "VI.FLO. DI FLORIS ANTONELLO S.N.C. CON DENOMINAZIONE ABBREVIATA VI.FLO. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.925403207540512,
+                    39.535609715822225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Atzeni Ignazio & Figli",
+                "id": "10259",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ATZENI IGNAZIO E FIGLI S.N.C. DI ATZENI EMANUELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.904067384777818,
+                    39.556592444577696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LATO OVEST",
+                "id": "31673",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "FRAU DI MAURO FRAU E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.792163133621216,
+                    39.62632951387547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "07598",
+                "id": "19233",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CADDEO ANTONINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.820916483467045,
+                    39.61241561298669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LATO EST",
+                "id": "31672",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "FRAU DI MAURO FRAU E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.793509602546692,
+                    39.626642289218715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lena Service Sas",
+                "id": "26803",
+                "amenity": "fuel",
+                "operator": "LENA SERVICE S.A.S DI FRAU STEFANIA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.873491063714027,
+                    39.55642144532117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore Q8",
+                "id": "9145",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CADDEU DARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.943941999241133,
+                    39.56308854736745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LUNAMATRONA - S.P. SANLURI",
+                "id": "29400",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.90654057264328,
+                    39.634934657096586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ISOLA GAS",
+                "id": "8199",
+                "amenity": "fuel",
+                "operator": "ISOLA GAS SOCIETÀ A RESPONSABILITÀ LIMITATA CON DENOMINAZIONE ABBREVIATA \" ISOLA GAS S.R.L.\"\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.910070359706879,
+                    39.51972851662844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "KiQ8 Carburanti di Massimiliano Pusceddu",
+                "id": "18522",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "KIQ8 CARBURANTI DI MASSIMILIANO PUSCEDDU"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.95613040740966,
+                    39.61592810465443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE N. 17848 SENIS GIANCARLO",
+                "id": "28827",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SENIS GIANCARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.79628300666809,
+                    39.556990757061186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "15992",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PILLONI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.888970762491226,
+                    39.56368400834948
+                ]
+            }
+        }
+    ]
+}

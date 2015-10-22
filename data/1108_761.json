@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "22328",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "TARASCA VALERIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.918183684349058,
+                    41.80332796681053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL ERG",
+                "id": "20936",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MDS GLOBAL OIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.808053523302078,
+                    41.87857603158057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "22935",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE IP DI MUSTILLO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.911588802933695,
+                    41.797148665626445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio ENI",
+                "id": "29644",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FERRANTE GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.91775721311569,
+                    41.80014681281972
+                ]
+            }
+        }
+    ]
+}

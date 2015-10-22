@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "6866 BOLOGNANO PESCARA",
+                "id": "26095",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI RETE OIL&NONOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.952057361602783,
+                    42.25214350067128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP-ITALA-MANOPPELLO",
+                "id": "28585",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ITALA PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.029709994792938,
+                    42.28491711771201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "9541",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PETROL ABRUZZO SRL SOCIETA' UNIPERSONALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.025327265262604,
+                    42.21063122221067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio IP",
+                "id": "20368",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ROTOLA FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.006262160713161,
+                    42.28904154824569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ENI N°06871",
+                "id": "8425",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ADDARIO EMIDIO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.999384343624115,
+                    42.26436892022102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "marganella luca silvio",
+                "id": "16015",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MARGANELLA LUCA SILVIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.926709815859791,
+                    42.234857449933315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP-ITALA-LETTOMANOPPELLO",
+                "id": "28590",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ITALA PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.02350202202797,
+                    42.25207758694771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG di Ciabotti Mario",
+                "id": "25598",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CIABOTTI MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.924731016159056,
+                    42.2262460162643
+                ]
+            }
+        }
+    ]
+}

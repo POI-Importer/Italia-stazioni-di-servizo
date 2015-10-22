@@ -1,0 +1,223 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL ERG",
+                "id": "29456",
+                "amenity": "fuel",
+                "operator": "NEREO PETROLI S.R.L.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.625086754560469,
+                    41.49011733411034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ANZIO",
+                "id": "30423",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.634469121694565,
+                    41.474245017011214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio fabio sepe",
+                "id": "16219",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SEPE FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.653481960296627,
+                    41.45712532387507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lumar Petroli sas",
+                "id": "14888",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LUMAR PETROLI DI MARCELLINI LUCA E C. - SOCIETA' IN ACCOMANDITA S EMPLICE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.627604148951605,
+                    41.45125678411577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "colaceci tania",
+                "id": "13762",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "COLACECI TANIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.637274712324144,
+                    41.49050911948442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "sette mangiapelo",
+                "id": "31838",
+                "amenity": "fuel",
+                "operator": "MANGIAPELO VALERIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.587379589676857,
+                    41.50169530252141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "13040",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "TINATER - COMMERCIO CARBURANTI E LUBRIFICANTI SOCIETA A RESPONSAB ILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.610165625810621,
+                    41.467372036276934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NETTUNO V.LE DELLA VITTORIA  26",
+                "id": "6635",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.651616162565574,
+                    41.45662159180959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RM323213 ANZIO",
+                "id": "23579",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "CORO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.624766114910587,
+                    41.479551362142004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "POMPONI ANTONIO",
+                "id": "14220",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "POMPONI ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.623726779098547,
+                    41.50057448079162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ANZIO",
+                "id": "10146",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.624927743204124,
+                    41.46284414426179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NETTUNO DELLA VITTORIA ANG.VIA GRAMSCI",
+                "id": "6658",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.651411294937134,
+                    41.45622395053076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ANZIO-SS 601 KM 38",
+                "id": "11819",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.612572908401487,
+                    41.46133732910007
+                ]
+            }
+        }
+    ]
+}

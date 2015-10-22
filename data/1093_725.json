@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "8798",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AGIP DISTRIBUTORE DI TRONCON PATRIZIA & C. - S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.223406545167563,
+                    46.43565614608469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VITTORIA GIUSEPPE",
+                "id": "22712",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VITTORIA GIUSEPPE                                (DS/650)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.195640951395031,
+                    46.34501275345576
+                ]
+            }
+        }
+    ]
+}

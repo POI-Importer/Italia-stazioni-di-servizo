@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Nardini Loriana",
+                "id": "18015",
+                "amenity": "fuel",
+                "operator": "NARDINI LORIANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.217546671628952,
+                    44.304318143856044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ILVILLAGGIO",
+                "id": "16612",
+                "amenity": "fuel",
+                "operator": "IL VILLAGGIO SOCIETA' COOPERATIVA SOCIALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.335515588521956,
+                    44.311655919612804
+                ]
+            }
+        }
+    ]
+}

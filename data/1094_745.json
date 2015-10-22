@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE CARBURANTI CORELLI MICHELA",
+                "id": "31640",
+                "amenity": "fuel",
+                "operator": "CORELLI MICHELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.413200778898617,
+                    43.9004697410391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP SABBA GABRIELE",
+                "id": "12202",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SABBA GABRIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.357695996761322,
+                    43.83893794658505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NOVAFELTRIA SS 258/FRAZ.SECCHIANO",
+                "id": "6553",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.320507220237687,
+                    43.92661434129963
+                ]
+            }
+        }
+    ]
+}

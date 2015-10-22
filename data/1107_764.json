@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "API/IP ZURLO DOMENICO",
+                "id": "23554",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ZURLO DOMENICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.724164654160177,
+                    41.46160308887261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "25587",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CORVO WALTER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.62324953386701,
+                    41.409480677744654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Goil",
+                "id": "17980",
+                "amenity": "fuel",
+                "operator": "D'AMORE NICOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.644039124250414,
+                    41.45610012130339
+                ]
+            }
+        }
+    ]
+}

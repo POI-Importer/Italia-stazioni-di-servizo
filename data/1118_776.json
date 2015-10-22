@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ionica oil services sas",
+                "id": "28632",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "IONICA OIL SERVICES S.A.S. DI RESTIERI ANNA MARIA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5381883084774,
+                    39.87350769296242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Servizio Esso di La Volpe Vincenzo",
+                "id": "28715",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LA VOLPE VINCENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.53351590037346,
+                    39.86888004549344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "28497",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ALOIA GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.548023968935013,
+                    39.88344167038529
+                ]
+            }
+        }
+    ]
+}

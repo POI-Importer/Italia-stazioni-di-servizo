@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "G.M. Snc di Marolli, Giannotti e c.",
+                "id": "9082",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "G.M. SOCIETA' IN NOME COLLETTIVO  DI MAROLLI DANIELE, GIANNOTTI MASSIMO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.626356840133667,
+                    44.08568154720985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FRASSINETI SILVANO",
+                "id": "26311",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "FRASSINETI SILVANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.746628433465958,
+                    44.08511472956095
+                ]
+            }
+        }
+    ]
+}

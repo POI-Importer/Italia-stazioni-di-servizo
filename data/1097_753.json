@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "D'angeli Alessandro",
+                "id": "22947",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "D'ANGELI ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.913233786821364,
+                    42.88980980014676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "29204",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CA.RO. * S.N.C. * DI CAMILLO ANTONIO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.913967370986937,
+                    42.81296126135029
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kerotris - Morano Sul Pò",
+                "id": "13732",
+                "amenity": "fuel",
+                "operator": "K NET S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.403520435094833,
+                    45.16318432745216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio IP",
+                "id": "24547",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CAPECE DAMIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.418613225221634,
+                    45.10176029058197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "d'adamo massimo",
+                "id": "14721",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "D'ADAMO MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.300693929195404,
+                    45.20441266119419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO",
+                "id": "17871",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ALIRES DI ALINERI OSCAR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.426594138145447,
+                    45.15847353485326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TRINO VERCELLESE VC-CORSO ITALIA 2",
+                "id": "11934",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.297412246465683,
+                    45.19819402588237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Punto Vendita Retitalia Trino",
+                "id": "30068",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "BRIXIA FINANZIARIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.32151859998703,
+                    45.18261459315175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TRINO VIA CASALE 36 DISTR. Q8",
+                "id": "6412",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.304775844180314,
+                    45.19126590205032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio TAMOIL MENEGHETTI ALESSANDRO",
+                "id": "20499",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MENEGHETTI ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.361368179321289,
+                    45.10754724330301
+                ]
+            }
+        }
+    ]
+}

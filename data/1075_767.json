@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio ENI S.p.a 07950",
+                "id": "10103",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ADDIS PIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.032419323921204,
+                    41.09770253525586
+                ]
+            }
+        }
+    ]
+}

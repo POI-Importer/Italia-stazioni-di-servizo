@@ -1,0 +1,139 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "area di servizio",
+                "id": "29299",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PALMA ENRICO S.A.S. DI PALMA ENRICO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.526677846908571,
+                    43.664855706382866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Q8",
+                "id": "11277",
+                "amenity": "fuel",
+                "operator": "PROSERVICE DI GOSTOLI GIAMPAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.654536068439484,
+                    43.69707383640065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "grilli marco",
+                "id": "29492",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GRILLI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.632823586463932,
+                    43.61309376260386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP di Spadoni Angelo Emilio",
+                "id": "22111",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SPADONI ANGELO EMILIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.516195525131252,
+                    43.67275244246355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Falasconi",
+                "id": "19323",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FALASCONI ROSARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.507748626983583,
+                    43.586291202021165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni berretta edmondo",
+                "id": "20021",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BERRETTA EDMONDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.643957390707325,
+                    43.67963224027554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "METANO FERMIGNANO",
+                "id": "24957",
+                "amenity": "fuel",
+                "operator": "METANO STATION DI LELLI EUGENIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.654541468615662,
+                    43.69707325736324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP -  Fermignano",
+                "id": "13644",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ACEMA S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.654026448726654,
+                    43.69078822437991
+                ]
+            }
+        }
+    ]
+}

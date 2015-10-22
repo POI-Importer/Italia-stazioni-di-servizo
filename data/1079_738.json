@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Total Erg SERVISAVENA",
+                "id": "29374",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SERVISAVENA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.730215084519727,
+                    44.83190804815794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NAZZANI",
+                "id": "24843",
+                "amenity": "fuel",
+                "operator": "NAZZANI DONATELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.829107820987701,
+                    44.822571655216834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE CARBURANTI",
+                "id": "23034",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BORDANDINI IGINO & C. - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.791873720145986,
+                    44.71773523264439
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CELENZA VALFORTORE",
+                "id": "29559",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.002970993518828,
+                    41.56362458229973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "benz-gas",
+                "id": "13424",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BETTUELLI  AGOSTINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.105284526944159,
+                    41.61411843135157
+                ]
+            }
+        }
+    ]
+}

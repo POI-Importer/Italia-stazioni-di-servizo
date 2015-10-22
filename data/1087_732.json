@@ -1,0 +1,170 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ILLASI-CORSO D. ALIGHIERI 14",
+                "id": "11959",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.179090787696849,
+                    45.464799403326275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RETITALIA",
+                "id": "12191",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "GAZZO ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.233426630496979,
+                    45.53162022731549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARBURANTI PANDIAN S.A.S. DI PANDIAN ANDREA& C.",
+                "id": "16824",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CARBURANTI PANDIAN S.A.S. DI PANDIAN ANDREA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.244640466270425,
+                    45.50786219103438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOMASI REMIGIO",
+                "id": "20206",
+                "amenity": "fuel",
+                "operator": "TOMASI REMIGIO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.153621216211377,
+                    45.56642484673609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dalla Verde Silvano",
+                "id": "17683",
+                "amenity": "fuel",
+                "operator": "DALLA VERDE SILVANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.22806154191494,
+                    45.57287012961737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CIPER",
+                "id": "18355",
+                "amenity": "fuel",
+                "operator": "CONSORZIO IMPRENDITORI PETROLIFERI EMILIA ROMAGNA - C.I.P.E.R. - SOCIETA' COOPERATIVA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.205821335315704,
+                    45.46357108347312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FILIPPOZZIELENAEPIETROSNC",
+                "id": "14617",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FILIPPOZZI ELENA E PIETRO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.155227686508168,
+                    45.56078166024878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORO FRATELLI",
+                "id": "13759",
+                "amenity": "fuel",
+                "operator": "TREVISANI LORENZA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.086400740459567,
+                    45.55178875008427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTAGNA SNC",
+                "id": "13911",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CASTAGNA S.N.C. DI CASTAGNA ANDREA E CASTAGNA LUISA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.16305759259035,
+                    45.52213612907904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Giorgio Sprea S.r.l.",
+                "id": "7796",
+                "amenity": "fuel",
+                "operator": "GIORGIO SPREA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.121366620063784,
+                    45.547798673239264
+                ]
+            }
+        }
+    ]
+}

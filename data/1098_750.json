@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tepgomme snc",
+                "id": "27260",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "T E P GOMME DI TICA' GERMANO E PAGANELLI FABIO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.059557676315308,
+                    43.209603131544675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUZIONE CARBIRANTE ZUCCHI",
+                "id": "14800",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DISTRIBUZIONE CARBURANTI DI ZUCCHI LUIGI & C. - SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.18231165409088,
+                    43.23398142304174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tepgomme snc",
+                "id": "27259",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "T E P GOMME DI TICA' GERMANO E PAGANELLI FABIO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.059557676315308,
+                    43.209603131544675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI Senesi Luigi",
+                "id": "10889",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SENESI LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.053780298287164,
+                    43.200558765979785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GOLDEN GAS DI MAROZZI",
+                "id": "16643",
+                "amenity": "fuel",
+                "operator": "P.R. DI PAMELA & ROSSELLA MAROZZI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.160636052489277,
+                    43.23110894008348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio IP Urcia Alberto e C s.n.c. 44363",
+                "id": "16797",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO DI URCIA ALBERTO & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.08231621980667,
+                    43.22086038755089
+                ]
+            }
+        }
+    ]
+}

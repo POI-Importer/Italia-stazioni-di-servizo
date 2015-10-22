@@ -1,0 +1,138 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Autoservizi GIA.DA. - Salaria",
+                "id": "27198",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AUTOSERVIZI GIA.DA. S.N.C. DI PIZZUTI DAMIANO E GIANLUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.678075134754177,
+                    42.15628905043752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "salvucci & c sas",
+                "id": "16957",
+                "amenity": "fuel",
+                "operator": "SALVUCCI & C. SOCIETA IN ACCOMANDITA SEMPLICE DI SALVUCCI MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73563131690025,
+                    42.16251113927636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP PALOMBARA SABINA",
+                "id": "17502",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FELGAS PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.743687417785623,
+                    42.09104746355072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pompa bianca",
+                "id": "30898",
+                "amenity": "fuel",
+                "operator": "BELLINI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.706262469291687,
+                    42.036571811316584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CONDARCURI DOMENICO",
+                "id": "22227",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CONDARCURI DOMENICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.660049349069597,
+                    42.15476594318602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PALOMBARA SABINA-VIA MAREMMANA INFERIORE KM. 17+800",
+                "id": "11813",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.766955568122853,
+                    42.06926017803708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV4",
+                "id": "14345",
+                "brand": "D Amico",
+                "amenity": "fuel",
+                "operator": "GRUPPO D'AMICO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.773076295852661,
+                    42.11599470566017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PETRICCA",
+                "id": "18133",
+                "amenity": "fuel",
+                "operator": "PETRICCA S.A.S. DI GIORGIO PETRICCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.723720297217369,
+                    42.132666028204355
+                ]
+            }
+        }
+    ]
+}

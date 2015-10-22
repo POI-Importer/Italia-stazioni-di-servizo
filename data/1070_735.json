@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GARIMANNO FRANCESCO",
+                "id": "20380",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "GARIMANNO FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.175760042991671,
+                    45.15922152029461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "7206",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BIGONI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.089529733599079,
+                    45.092792136593545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni 1445",
+                "id": "10825",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RICCOBONO ALESSIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.246226984130885,
+                    45.119122706485406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Tamoil 7837",
+                "id": "16764",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MELIA GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.261091113090515,
+                    45.11634468026809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "6990",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "IMPIANTO AGIP DI BERGANTIN GESSY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.095663189888,
+                    45.19310128442002
+                ]
+            }
+        }
+    ]
+}

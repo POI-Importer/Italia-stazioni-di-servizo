@@ -1,0 +1,579 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REPSOL ITALIA",
+                "id": "4985",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "FORNASARI F.LLI S.N.C. DI FORNASARI MASSIMO E ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.827218145132065,
+                    45.51184684880078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "QUARELLA F.LLI SNC",
+                "id": "9770",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "QUARELLA F.LLI DI QUARELLA STEFANO E ROBERTO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.867984169311512,
+                    45.48492119511755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AUTO SERVICE - S.R.L.",
+                "id": "10950",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AUTO SERVICE - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.786089966603983,
+                    45.55233652037334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lazise",
+                "id": "4688",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.764833986759186,
+                    45.47968164469424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "UGOLINI FUMANE",
+                "id": "6258",
+                "amenity": "fuel",
+                "operator": "UGOLINI PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.885651409626007,
+                    45.54108866896955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio F.lli Zocca Daniele e Sante s.n.c.",
+                "id": "12239",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "F.LLI ZOCCA DANIELE E SANTE S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.846187521495835,
+                    45.47263291573705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAP S.PIETRO IN CARIANO",
+                "id": "18650",
+                "amenity": "fuel",
+                "operator": "ZAMPINI ROSALBA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.872863978147507,
+                    45.519858216934566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BERTOLOTTO SNC",
+                "id": "21373",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BERTOLOTTO SNC DI BERTOLOTTO ALESSIO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.802450627088549,
+                    45.542381515435366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GARDA OVEST",
+                "id": "3652",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SALVETTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.77961564064026,
+                    45.540731731418376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ENI DI RINALDI MASSIMO",
+                "id": "31173",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RINALDI MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.854063801327584,
+                    45.468791245121075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "7216",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ALDROVANDI MARIA CRISTINA E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.857808550926165,
+                    45.46990130624532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "22436",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MV DI MARA VALENTINI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.775741189718246,
+                    45.536544496934255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "UGOLINI S.PIETRO IN CARIANO",
+                "id": "6264",
+                "amenity": "fuel",
+                "operator": "UGOLINI PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.89343786239624,
+                    45.5145556480857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "14956",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CORSI ADRIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.890044197440147,
+                    45.51834872525325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GARDA EST",
+                "id": "3653",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SALVETTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.780613422393799,
+                    45.540343981906965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zocca Giorgio e C. Snc",
+                "id": "18245",
+                "amenity": "fuel",
+                "operator": "ZOCCA GIORGIO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.843893490737855,
+                    45.47089721914528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Metanauto Garda Sud S.r.l.",
+                "id": "13137",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "METANAUTO GARDA SUD S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.802103281021118,
+                    45.543864814364646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "__SMP BUSSOLENGO",
+                "id": "5257",
+                "brand": "San Marco Petroli",
+                "amenity": "fuel",
+                "operator": "SAN MARCO PETROLI DISTRIBUZIONE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.79305350780487,
+                    45.47878982703325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di servizio Pescantina",
+                "id": "20484",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PETROL-FIN S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.85177598619134,
+                    45.50309997551584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "28402",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "M.G. GESTIONI S.N.C. DI RIZZI MANUEL E GIORGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.854126065969467,
+                    45.52133196192061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Costantin PESCANTINA",
+                "id": "4065",
+                "brand": "Costantin",
+                "amenity": "fuel",
+                "operator": "COSTANTIN DISTRIBUZIONE E SERVIZI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.859361737966537,
+                    45.4850555722892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni Lazise",
+                "id": "13173",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "F.LLI BERTASI S.N.C. DI BERTASI DAMIANO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.772585570812225,
+                    45.48787096230846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ZOCCA SANTE",
+                "id": "20766",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ZOCCA SANTE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.859207510948181,
+                    45.4691767841028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip",
+                "id": "25296",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SERVICE PASTRENGO SNC DI DATTINO CIRO MARCO E SCALA BIAGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.79845279455185,
+                    45.49897469974936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni Bardolino",
+                "id": "13213",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BERTASI ALFEO DI BERTASI ALFEO E FIGLI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.724371512828041,
+                    45.54356933771539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE ESSO VIA SABBIONI 7",
+                "id": "22292",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CZ S.N.C. DI CABITZA SERGIO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.804309397935867,
+                    45.57645970374895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SMP ALBARE' DI COSTERMANO (VR)",
+                "id": "5262",
+                "brand": "San Marco Petroli",
+                "amenity": "fuel",
+                "operator": "SAN MARCO PETROLI DISTRIBUZIONE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.760706067085268,
+                    45.56954995892262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "11159",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MODENA S.A.S. DI MODENA NICOLA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.81660598516464,
+                    45.52591907966429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BONAFINI CHRISTIAN",
+                "id": "26204",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BONAFINI CHRISTIAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.87553411174895,
+                    45.494975093611835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BARDOLINO VIA S. CRISTINA 17 - STAZ. Q8",
+                "id": "6506",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.726238788885441,
+                    45.540968950891276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SMP SANT'AMBROGIO DI VALPOLICELLA",
+                "id": "5256",
+                "brand": "San Marco Petroli",
+                "amenity": "fuel",
+                "operator": "SAN MARCO PETROLI DISTRIBUZIONE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.835774391889572,
+                    45.52171533222678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN PIETRO IN CARIANO DANTE 91",
+                "id": "6509",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.87503657301636,
+                    45.52366047450068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione ENI n. 3809 Carletti Pietro Paolo",
+                "id": "12790",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CARLETTI PIETRO PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.738734774274462,
+                    45.49613102387217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BUSSOLENGO - VIA PASTRENGO SP 5",
+                "id": "7272",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.826819619712865,
+                    45.47757041300491
+                ]
+            }
+        }
+    ]
+}

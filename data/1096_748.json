@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI CARBURANTI PRINCIPI PIERGIORGIO",
+                "id": "5157",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PRINCIPI PIERGIORGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.831811409262174,
+                    43.534995327138134
+                ]
+            }
+        }
+    ]
+}

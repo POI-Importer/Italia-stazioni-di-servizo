@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Più",
+                "id": "6298",
+                "amenity": "fuel",
+                "operator": "PETROLBITUMI - SOCIETA A RESPONSABILITA LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.878120688152308,
+                    42.532768676181554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cega Carburanti di Pompili Gabriele",
+                "id": "28966",
+                "amenity": "fuel",
+                "operator": "DI TULLIO AMELIA S.N.C. DI POMPILI GABRIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.821503007795739,
+                    42.442467339576105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pomponio Sandro",
+                "id": "26681",
+                "amenity": "fuel",
+                "operator": "POMPONIO SANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.79746932391663,
+                    42.52927492468502
+                ]
+            }
+        }
+    ]
+}

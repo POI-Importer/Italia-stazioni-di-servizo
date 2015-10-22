@@ -1,0 +1,206 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "12201",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE DI CARBURANTE IP DI TASCO MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.92567426850894,
+                    40.6230821034714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ERG",
+                "id": "5302",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "FIRE DI MORO PETRELLI CRISTINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.91712939739227,
+                    40.632637146465825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Brindisi - S.S. 7 APPIA KM 717",
+                "id": "26638",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.910382679762282,
+                    40.62111785296287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "self area ENI di Zaminga Giorgio",
+                "id": "16423",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ZAMINGA GIORGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.92454838752747,
+                    40.62909441650142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BRINDISI SAN VITO",
+                "id": "6759",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.92878837909848,
+                    40.63790565422038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio ip gruppo api",
+                "id": "11347",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SIMONE PIERFRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.926487624645233,
+                    40.621020996484965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SP ENERGIA SICILIANA",
+                "id": "12449",
+                "amenity": "fuel",
+                "operator": "2 P CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.927107214927673,
+                    40.65861766226407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Coop Estense Brindisi",
+                "id": "17243",
+                "amenity": "fuel",
+                "operator": "COOP ESTENSE SOCIETA' COOPERATIVA, ABBREVIABILE NELLA SIGLA COOP ESTENSE ."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.904784666520754,
+                    40.61816201623887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "16006",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO AGIP DI DI LUZIO GIROLAMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.907229363918304,
+                    40.65233002711631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "UNIONE GAS AUTO",
+                "id": "4607",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MERICO MASSIMILIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8989976644516,
+                    40.65509503168457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Camposeo Vito",
+                "id": "4524",
+                "amenity": "fuel",
+                "operator": "CAMPOSEO VITO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.904646396636963,
+                    40.6178534933907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO TAMOIL DI D'ELIA EDOARDO",
+                "id": "31618",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "D'ELIA EDOARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.927368730306625,
+                    40.63856393883232
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CERTALDO-VIA ROMANA 125",
+                "id": "11582",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.045004606151565,
+                    43.54089209214217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PA.PETROL",
+                "id": "5658",
+                "amenity": "fuel",
+                "operator": "PA.PETROL S.N.C. DI MONICA E MAURIZIO PARRI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.927308797836305,
+                    43.54433717198904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "metano toscana srl (castelfiorentino)",
+                "id": "13544",
+                "amenity": "fuel",
+                "operator": "METANO TOSCANA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.007978916168211,
+                    43.577681457187744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C.M.D.",
+                "id": "4113",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "C.M.D. DI CARUSO ELIO - MAJENZA ROBERTO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.032625734806063,
+                    43.556046197728946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "11984",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TOTAL SERVICE DI CINALLI ALBERTO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.956839919090273,
+                    43.54503862636063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "14726",
+                "id": "28463",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VOLO - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.024188846349716,
+                    43.56789559557422
+                ]
+            }
+        }
+    ]
+}

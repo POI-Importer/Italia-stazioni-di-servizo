@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "UmbriaGas S.p.a. - CASIGLIANO",
+                "id": "4460",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "UMBRIA GAS S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.499700188636783,
+                    42.721850042300865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENERPETROLI - ACQUASPARTA TERNI",
+                "id": "29317",
+                "brand": "Enerpetroli",
+                "amenity": "fuel",
+                "operator": "ENERPETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.549514174461365,
+                    42.687381933084815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione ip di saveri damiano",
+                "id": "21822",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SAVERI DAMIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.525760531425476,
+                    42.77408256290754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "P.F.SERVICE",
+                "id": "25215",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "P.F. SERVICE SOCIETA' IN ACCOMANDITA SEMPLICE DI PALOMBA FABIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.525154352188109,
+                    42.762049412966775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "UmbriaGas S.p.a. - SELVARELLE",
+                "id": "4462",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "UMBRIA GAS S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.499803453683853,
+                    42.72142736845307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2B Service di Bozzurra Marco",
+                "id": "29038",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "2B SERVICE DI BOZZURRA MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.549803853034971,
+                    42.685146103987506
+                ]
+            }
+        }
+    ]
+}

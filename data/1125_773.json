@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERV. IP",
+                "id": "27000",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ALEMANNO LUCIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.859472632408142,
+                    40.2940345197585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "29583",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SER.CAR. S.A.S. DI MANCA ANTONIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.899183717612463,
+                    40.26245794164504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg",
+                "id": "17356",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "VIVA FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.893259078264236,
+                    40.258201960271265
+                ]
+            }
+        }
+    ]
+}

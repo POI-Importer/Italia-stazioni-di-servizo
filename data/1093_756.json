@@ -1,0 +1,167 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Attigliano",
+                "id": "9413",
+                "amenity": "fuel",
+                "operator": "I.C.M. SOCIETA' IN NOME COLLETTIVO DI BRUNO, CRISTIANO E FABRIZIO MAGGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.29771912097931,
+                    42.510023480709506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Enepetroli",
+                "id": "16910",
+                "amenity": "fuel",
+                "operator": "M@R.IT DI IOLANDA PAUDICE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.169457226991655,
+                    42.51723396743217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BOMARZO",
+                "id": "32034",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.253118008375166,
+                    42.48004349650583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vitorchiano",
+                "id": "28946",
+                "amenity": "fuel",
+                "operator": "I.C.M. SOCIETA' IN NOME COLLETTIVO DI BRUNO, CRISTIANO E FABRIZIO MAGGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.15349406003952,
+                    42.455143957016595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ies Vitorchiano Sud",
+                "id": "18816",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "CRI.MAR. S.A.S. DI SEMPRONI CRISTINA E MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.154097713092026,
+                    42.454541927702095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TIBER SRL",
+                "id": "29225",
+                "amenity": "fuel",
+                "operator": "MATERAZZINI GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.16515362262726,
+                    42.51864512463552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SORIANO",
+                "id": "26663",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ZETA GAS S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.25691333413124,
+                    42.44017655766023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tuscia Petroli Vitorchiano",
+                "id": "13569",
+                "amenity": "fuel",
+                "operator": "ANSELMI MATTEO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.171550691127777,
+                    42.45244738173642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Enerpetroli",
+                "id": "30082",
+                "amenity": "fuel",
+                "operator": "ANSELMI LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.173474505543712,
+                    42.4685453571666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Capitanelli Giuliana",
+                "id": "25817",
+                "amenity": "fuel",
+                "operator": "CAPITANELLI GIULIANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.232878351520526,
+                    42.547003536935904
+                ]
+            }
+        }
+    ]
+}

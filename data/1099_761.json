@@ -1,0 +1,140 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AL-GEDI SRL 26641",
+                "id": "7714",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AL-GEDI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.20957899093628,
+                    41.7767957895258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoli",
+                "id": "28128",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "GE.CA. SNC DI QUISTINI MICHELE E MARCOCCIA MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.232308030128479,
+                    41.78189701479237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip",
+                "id": "16292",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PIRAZZI MASSIMILIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.316654850361148,
+                    41.779969671496495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Eni Perinelli",
+                "id": "8820",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO PERINELLI DAVID E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23087573051453,
+                    41.784639075752985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "X FUEL TORRE CAJETANI",
+                "id": "31178",
+                "amenity": "fuel",
+                "operator": "X FUEL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.261143118143082,
+                    41.77803172980252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio repsol",
+                "id": "17400",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "BOEZI MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32044206559658,
+                    41.77432223722156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto ENI",
+                "id": "17972",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ANZIDEI  ELIGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.259517699480059,
+                    41.86793296561705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PASCASI ANDREA",
+                "id": "31115",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PASCASI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.223613649606703,
+                    41.78961888650862
+                ]
+            }
+        }
+    ]
+}

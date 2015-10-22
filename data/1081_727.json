@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "16782",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "NEGRI ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.157345831394196,
+                    46.15488280019562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP APRICA",
+                "id": "24682",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CIOCCARELLI CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.152976591262814,
+                    46.15396866755158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "22605",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SILAGO S.A.S. DI GORDAN FLORINA E LURAGHI LAURA ANNA E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.049202711639396,
+                    46.15899596007104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FI.NE&CO snc di Negri Maurizio",
+                "id": "22442",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "FI.NE. & CO. S.N.C. DI NEGRI MAURIZIO E CORRADO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.072409796295233,
+                    46.160320596935634
+                ]
+            }
+        }
+    ]
+}

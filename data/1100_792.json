@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "pv9578",
+                "id": "9419",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "IPPOLITO VINCENZO ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.494056761264801,
+                    37.626143328694056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alessi Carburanti S.a.s.",
+                "id": "19488",
+                "amenity": "fuel",
+                "operator": "ALESSI CARBURANTI S.A.S. DI ALESSI NATALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.381318151950834,
+                    37.681402543387456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "9049",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "M.G. DI GIAMBARTINO FILIPPO E C.-S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.475302755832672,
+                    37.632506515250405
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COSTANTIN",
+                "id": "12474",
+                "brand": "Costantin",
+                "amenity": "fuel",
+                "operator": "BOTTECCHIA FELICE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.36065635176351,
+                    45.956806642211916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Garage Miramonti srl",
+                "id": "5230",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GARAGE MIRAMONTI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.32436811904904,
+                    45.98570462322398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DA OIL - Fregona",
+                "id": "14456",
+                "amenity": "fuel",
+                "operator": "DELL'ANTONIA S.A.S. DI DELL'ANTONIA MAURO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.339663706060605,
+                    46.0079954842838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg Vittorio Veneto",
+                "id": "18685",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SB2 S.N.C. DI STEFANO BRAIDO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.314809560775759,
+                    45.96880229188156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio ENI",
+                "id": "5746",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TOCCHET MORENO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.314357046032685,
+                    45.98062291317822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORO",
+                "id": "13485",
+                "amenity": "fuel",
+                "operator": "SANTIN ALDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.433911599999986,
+                    45.96376904667739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "sandro dal cin",
+                "id": "13190",
+                "brand": "Energyca",
+                "amenity": "fuel",
+                "operator": "DAL CIN SANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.385236284414985,
+                    45.97822061268422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "boschetta",
+                "id": "14523",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MARCON MAURO & GIUSEPPE S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.350210906745929,
+                    45.957618894967666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip gruppo api",
+                "id": "10982",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "C. E G. SERVICE SNC DI CASAGRANDE LUCA, GALLO FABIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.340060472488403,
+                    45.998515233663696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VITTORIO VENETO",
+                "id": "5494",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "enirete oil&nonoil S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3180663640685,
+                    45.96709009155993
+                ]
+            }
+        }
+    ]
+}

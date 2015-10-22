@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "pit stop",
+                "id": "16232",
+                "amenity": "fuel",
+                "operator": "LA MARCA SALVATORE & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.970917314290999,
+                    37.26478227822157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "13200",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "F.LLI LA MARCA S.A.S. DI LA MARCA GIROLAMO E CALOGERO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.970295662587773,
+                    37.26516393901317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "mega service sas",
+                "id": "15020",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MEGA SERVICE S.A.S. DI TERMINI MICHELE &C ."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.914226144552229,
+                    37.2501591057899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Q8 Patti Giovanni",
+                "id": "20349",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PATTI GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.91839899122715,
+                    37.26530654024615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ciotta michele",
+                "id": "14853",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CIOTTA MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.918012753129005,
+                    37.26096034896939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EUROIL SRLS CARBURANTI - GPL",
+                "id": "32155",
+                "amenity": "fuel",
+                "operator": "EUROIL S.R.L.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.958510106237782,
+                    37.2638549339943
+                ]
+            }
+        }
+    ]
+}

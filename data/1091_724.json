@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OIL ITALIA",
+                "id": "25615",
+                "amenity": "fuel",
+                "operator": "FOPPA GIOVANNI & C. S.N.C. DI ROBERTO FOPPA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.948171487851141,
+                    46.48460594401431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "24051",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "AUTO CIR DI CRAZZOLARA ALBINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.867139175622127,
+                    46.55131880099377
+                ]
+            }
+        }
+    ]
+}

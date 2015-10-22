@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE TAMOIL",
+                "id": "25605",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "GULLACE  ANTONINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.916477555743201,
+                    38.236520324413185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "12011",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "NAPOLI ROCCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.853547181723116,
+                    38.26406869779295
+                ]
+            }
+        }
+    ]
+}

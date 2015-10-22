@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "g.m.di mura giuseppe & c.s.a.s.",
+                "id": "5765",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "G.M. DI MURA GIUSEPPE E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.739798367023468,
+                    40.4677516256368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil Antonio  Chesseddu",
+                "id": "17125",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CHESSEDDU ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.727584257721901,
+                    40.520311673998144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SCANU ALESSANDRO",
+                "id": "30298",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ALESSANDRO SCANU"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.767054076862223,
+                    40.531845359129676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 Flli Soro",
+                "id": "26778",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "FRATELLI SORO SNC DI SORO GIUSEPPE & C. CHE PUO' AGIRE SOTTO LA SIGLA \"FRATELLI SORO SNC\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.728321462886015,
+                    40.519104332810436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "_Agip 17753",
+                "id": "6047",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GICOIL S.N.C. DI ORTU GIOVANNI & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.750090984960934,
+                    40.47974206194779
+                ]
+            }
+        }
+    ]
+}

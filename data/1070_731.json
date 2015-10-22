@@ -1,0 +1,158 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "14810",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MO FEDERICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.249985426664352,
+                    45.68188941495221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg",
+                "id": "14940",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SIGNORELLI GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.18649485707283,
+                    45.653918929814076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil 1634",
+                "id": "18350",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "LOMBI MASSIMILIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.24380855232971,
+                    45.68491271236945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Esso Ponzone",
+                "id": "27060",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ZUCCA PIERFERRUCCIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.189142624432407,
+                    45.655170299928066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE EREDI CAMPIDONICO SPA VALLE MOSSO",
+                "id": "5233",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "EREDI CAMPIDONICO - S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.150451332330704,
+                    45.62707492790738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE EREDI CAMPIDONICO SPA BRUSNENGO",
+                "id": "6793",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "EREDI CAMPIDONICO - S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.249805186508183,
+                    45.59429230227084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso Pray",
+                "id": "12871",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CAROLA SIMONE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.213894963264465,
+                    45.67531875233835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mancin Stazione Q8",
+                "id": "17482",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MANCIN ROBERTO & C. - S.N.C. DI MANCIN EMANUELE E PAOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.154146252873943,
+                    45.64039904289028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "30518",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ORLEONI GERARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.138609720237696,
+                    45.648707751028965
+                ]
+            }
+        }
+    ]
+}

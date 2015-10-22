@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN MAURO CILENTO",
+                "id": "28824",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.043021738529207,
+                    40.22281202830385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "9224",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "F. & G. S.A.S. DI VASSALLO CARMELO & C. IN SIGLA \"F.& G. S.A.S.\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.02435005880284,
+                    40.188349824615955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STELLA CILENTO",
+                "id": "28818",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.106767117977142,
+                    40.23320673218218
+                ]
+            }
+        }
+    ]
+}

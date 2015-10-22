@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "27352",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "FULLONE ANNA MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.937201946973802,
+                    38.00235730906354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "culotta mario e c s.n.c.",
+                "id": "19469",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CULOTTA MARIO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.999743312597275,
+                    38.03062133946578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MARRETTA ODDO ESSO",
+                "id": "25808",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MARRETTA ODDO ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.01455996281277,
+                    38.03289645843935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso caccamisi pasquale",
+                "id": "27915",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CACCAMISI PASQUALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.021245101287718,
+                    38.035176701128464
+                ]
+            }
+        }
+    ]
+}

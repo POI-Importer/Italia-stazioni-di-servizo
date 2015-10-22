@@ -1,0 +1,457 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "JESI 1 S.R.L.",
+                "id": "14407",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "JESI  1  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.218368589878084,
+                    43.488544234669526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IL QUADRATO SOC.COOP ARL",
+                "id": "14499",
+                "amenity": "fuel",
+                "operator": "IL QUADRATO - SOCIETA COOPERATIVA A RESPONSABILITA  LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.254472730163572,
+                    43.51551586143457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA DI SERVIZIO PRADELLONA",
+                "id": "5254",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "AREA SERVIZIO PRADELLONA DI PIZZICHINI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.314303159713747,
+                    43.47126968211687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG MAZZARINI PRIMO",
+                "id": "14497",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MAZZARINI PRIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.25541603569036,
+                    43.5263653367323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BAR GREEN",
+                "id": "29820",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "JAMROENPHOON LAWAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.27332302927971,
+                    43.547245395247906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pompa Bianca Collina",
+                "id": "19940",
+                "amenity": "fuel",
+                "operator": "INTERPETROL - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.322831119049052,
+                    43.48958248676465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO ENI DI PAPA SNC",
+                "id": "13373",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PAPA GIUSEPPE & PAPA ENEA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.190497756004332,
+                    43.488312663195785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "12874",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "FRANCIONI GINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.288211431796299,
+                    43.559181202986466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BINCI FABIO",
+                "id": "23026",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BINCI FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.25451537966728,
+                    43.513932116470954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO DI BASTIANELLI MARINA",
+                "id": "23957",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO DI BASTIANELLI MARINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.240531086921694,
+                    43.5221216538631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PB",
+                "id": "18628",
+                "amenity": "fuel",
+                "operator": "CFC OIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.236207962036131,
+                    43.524117069751284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Beyfin",
+                "id": "14725",
+                "amenity": "fuel",
+                "operator": "ESINA OIL DI SPADINI ATTILIO E BUSELLI CRISTIANO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.215184807777405,
+                    43.5063803514182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Retitalia",
+                "id": "6006",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "DS+  DI SALVIONI EMANUELE & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.242877274751665,
+                    43.523642529767145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE CAP ANCONA",
+                "id": "10031",
+                "amenity": "fuel",
+                "operator": "CONSORZIO AGRARIO PROVINCIALE DI ANCONA SOCIETA' COOPERATIVA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.24989165846421,
+                    43.5210284296023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Pit Stop s.n.c.",
+                "id": "23463",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO PIT STOP DI RAFFAELLI IVANO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.269006205032383,
+                    43.50121134680422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FREDDI ROBERTO",
+                "id": "18949",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FREDDI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.252770465081765,
+                    43.53051926831592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Repsol Chiodi Luciano",
+                "id": "10628",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "CHIODI  LUCIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.204168104160319,
+                    43.57533931611887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE ESSO",
+                "id": "4423",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO DI BASTIANELLI MARINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.187952241805988,
+                    43.50599197457425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "coppetella est",
+                "id": "19287",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "S.A.B. DI SERRANI LIDUINO E C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.325182199478146,
+                    43.57665082748944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LA CESOLA S.N.C. di Ciarmatori R. e C.",
+                "id": "9011",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "LA CESOLA S.N.C. DI CIARMATORI ROSSANO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.189635974987821,
+                    43.487701309574796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Interporto Marche",
+                "id": "8209",
+                "amenity": "fuel",
+                "operator": "CONSORZIO AUTOTRASPORTATORI MARCHIGIANI - C.A.M. - SOCIETA' COOPE RATIVA CONSORTILE  IN SIGLA  C.A.M. SOC. COOP. CONS."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.307297229766846,
+                    43.56755005516553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO STOP'N'GO",
+                "id": "4341",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STOP ' N '  GO S.A.S. DI SABBATINI STEFANIA E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2654333114624,
+                    43.53579385575808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO SAS DI BRIGNOCCOLO SARA & C.",
+                "id": "22919",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO S.A.S. DI BRIGNOCCOLO SARA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.255251571827669,
+                    43.53291073816786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI Monsano",
+                "id": "19941",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "INTERPETROL - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.281522542238234,
+                    43.55677667283006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OILONE Jesi",
+                "id": "14055",
+                "amenity": "fuel",
+                "operator": "STAR OIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.209643363952633,
+                    43.536269855673204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "JESI",
+                "id": "5392",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "enirete oil&nonoil S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.257468794317445,
+                    43.53473610910955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EMANUELE CAPPELLETTI",
+                "id": "16422",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CAPPELLETTI EMANUELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.306965313259864,
+                    43.493624944897135
+                ]
+            }
+        }
+    ]
+}

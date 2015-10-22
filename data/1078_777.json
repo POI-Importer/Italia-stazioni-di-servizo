@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO NUOVA PETROLI TUERRA",
+                "id": "28806",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NUOVA PETROLI TUERRA DI PATRIZIO BOCCUCCI E SEU ALESSANDRA SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.577630609273909,
+                    39.688090160200474
+                ]
+            }
+        }
+    ]
+}

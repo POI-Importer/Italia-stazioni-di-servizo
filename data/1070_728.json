@@ -1,0 +1,54 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SOMMESE PETROLI",
+                "id": "13455",
+                "amenity": "fuel",
+                "operator": "MINACCI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.261079712071933,
+                    46.05656305219208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "4807",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MANDICA PIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.26153263610854,
+                    46.064442993463764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kerotris - Bannio Anzino",
+                "id": "24702",
+                "amenity": "fuel",
+                "operator": "KEROTRIS - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.142688976521638,
+                    45.98984608500138
+                ]
+            }
+        }
+    ]
+}

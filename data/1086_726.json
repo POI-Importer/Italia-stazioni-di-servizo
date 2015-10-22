@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "21942",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CALLOVI GIANFRANCO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.036190480720961,
+                    46.26817166135989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di servizio Q8 3 Cime di Covi Nicola",
+                "id": "4130",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "COVI NICOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.060795197714242,
+                    46.26578984539297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENERGY di IOB FRANCA",
+                "id": "28132",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENERGY DI IOB FRANCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.038302585786596,
+                    46.285692113185235
+                ]
+            }
+        }
+    ]
+}

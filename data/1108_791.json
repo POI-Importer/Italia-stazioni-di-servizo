@@ -1,0 +1,122 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIRZI",
+                "id": "20888",
+                "amenity": "fuel",
+                "operator": "VIRZI' S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.81328248977661,
+                    37.85311760580325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LUPICA RINATO FRANCESCO SETTIMO",
+                "id": "14731",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "LUPICA RINATO FRANCESCO SETTIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.828342422842976,
+                    37.78245738657315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 MONTAGNO MAURIZIO",
+                "id": "16708",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MONTAGNO MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.830998480319977,
+                    37.79072990533379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "giap",
+                "id": "25484",
+                "amenity": "fuel",
+                "operator": "SANTISI VINCENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.866021404651747,
+                    37.82968274548088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fazio Nunzio",
+                "id": "15169",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FAZIO NUNZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.839202016592024,
+                    37.790461772050826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore nuova ESSO  di Abate Nunzio",
+                "id": "4296",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ABATE NUNZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.826460096264674,
+                    37.79445446977427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MIRENDA NUNZIO",
+                "id": "10887",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MIRENDA  NUNZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.835099577903751,
+                    37.78220999800488
+                ]
+            }
+        }
+    ]
+}

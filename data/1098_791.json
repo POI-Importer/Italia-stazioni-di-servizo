@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TaOil",
+                "id": "9692",
+                "amenity": "fuel",
+                "operator": "F.LLI TANTARO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.054252405957072,
+                    37.79821864250595
+                ]
+            }
+        }
+    ]
+}

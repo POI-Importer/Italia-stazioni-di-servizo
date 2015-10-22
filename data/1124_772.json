@@ -1,0 +1,241 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "_stazione di rifornimento q8",
+                "id": "4967",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "NATALE  EMILIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.659428119659424,
+                    40.402050613611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "14759",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MONTANARI GIULIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.742866277694702,
+                    40.411537147358665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "16110",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PESARE PASQUALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.635990977287296,
+                    40.39471135767608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI STATION",
+                "id": "17063",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LIVIERI DONATO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.723146677017212,
+                    40.35080619753945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MARINO ANTIMO",
+                "id": "15323",
+                "amenity": "fuel",
+                "operator": "MARINO ANTIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.604462734021467,
+                    40.390864871933076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "manduria",
+                "id": "20115",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.602940797805786,
+                    40.402375785523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MANDURIA VIA PER ORIA",
+                "id": "6766",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.630305525131234,
+                    40.4038300109114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "daversa cosimo e massimo",
+                "id": "11313",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "DAVERSA COSIMO & DAVERSA MASSIMO SOCIETA' IN NOME COLLETTIVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.61820524930954,
+                    40.408277629750145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "11400",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MASILLA SALVATORE DAMIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.735528782872734,
+                    40.442785288921684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE ENI",
+                "id": "16113",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "NIONELLI ALESSANDRO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.622225880622864,
+                    40.40105997311477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "15123",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BUCCOLIERO DARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.617510557174683,
+                    40.40099256818017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "8277",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DE VALERIO MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.63224207175824,
+                    40.40887013674767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Total Erg",
+                "id": "21209",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "IULA SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.620670199394223,
+                    40.40113350569372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio AVIOLAMP",
+                "id": "30709",
+                "amenity": "fuel",
+                "operator": "ITTA VITTORIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.735948860645294,
+                    40.43152581027397
+                ]
+            }
+        }
+    ]
+}

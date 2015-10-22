@@ -1,0 +1,173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso Clusone",
+                "id": "30726",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "BRIXIA FINANZIARIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.936414957046507,
+                    45.887366031390016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Teca Carburanti",
+                "id": "13860",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TECA CARBURANTI DI TERUZZI PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.887993037700653,
+                    45.869262810744075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "union",
+                "id": "10404",
+                "amenity": "fuel",
+                "operator": "SCANDELLA ANDREA & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.934443533420563,
+                    45.88436940233808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "21400",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "AUTO GIUDICI DI GIUDICI F. E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.958394318819046,
+                    45.889725879700435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "area di servizio carburanti di ramic semir",
+                "id": "30080",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AREA DI SERVIZIO CARBURANTI DI RAMIC SEMIR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.870435297489166,
+                    45.83697654166874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE AMP SCANDELLA MARIA ROSA",
+                "id": "19758",
+                "amenity": "fuel",
+                "operator": "SCANDELLA MARIA ROSA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.982212334871292,
+                    45.89042970748034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO Q8 DI CASTELLETTI LAURA",
+                "id": "11290",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CASTELLETTI    LAURA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.92340087890625,
+                    45.902620380813126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TEMPO ZERO DI PERANI DARIO",
+                "id": "18227",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "TEMPO ZERO DI PERANI DARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.870402370178226,
+                    45.83698031452018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MARINONI MARIA TERESA",
+                "id": "22703",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MARINONI MARIA TERESA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.984263494723791,
+                    45.89058781346391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ditta individuale marinoni giovanni",
+                "id": "11359",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MARINONI  GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.881813457672138,
+                    45.86300135165721
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "q8 arcuri",
+                "id": "24520",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CARBURANTI E LUBRIFICANTI DI ARCURI FRANCESCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.934060350647655,
+                    38.94601104491184
+                ]
+            }
+        }
+    ]
+}

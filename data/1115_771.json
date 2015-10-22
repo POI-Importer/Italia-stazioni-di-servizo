@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "26195",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GIAMMARINO GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.157241821049407,
+                    40.491178012278056
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SEA CARBURANTI",
+                "id": "16894",
+                "amenity": "fuel",
+                "operator": "NEGRI MARIA LUISA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.331575183369296,
+                    44.882386865936624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A.F. PETROLI",
+                "id": "10572",
+                "brand": "AF Petroli",
+                "amenity": "fuel",
+                "operator": "A.F. PETROLI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.416444480419159,
+                    44.88810478750157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 5968",
+                "id": "25931",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.417487859725952,
+                    44.881241223713275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg",
+                "id": "22521",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO TOTALERG DI PESCI CRISTIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.286553144454956,
+                    44.94719433372532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore agip",
+                "id": "14803",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ZERBINATI MASSIMO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.404742002487184,
+                    44.90042696815144
+                ]
+            }
+        }
+    ]
+}

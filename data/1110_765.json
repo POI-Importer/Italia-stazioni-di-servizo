@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Antonia D'angelico",
+                "id": "4291",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "D'ANGELICO ANTONIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.160540101868376,
+                    41.32262919194303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REZZOLLA LUCIANO",
+                "id": "13771",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "REZZOLLA LUCIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.26362481275044,
+                    41.28036998341278
+                ]
+            }
+        }
+    ]
+}

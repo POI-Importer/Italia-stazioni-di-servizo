@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI RIFORNIMENTO ESSO",
+                "id": "7673",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LAPI SAMUELE & GIUSEPPE S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.458285568122847,
+                    43.93402513288584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kuwait Contea",
+                "id": "13833",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PRIMERA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.526410962796035,
+                    43.85850606576111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chioscar snc",
+                "id": "5084",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CHIOSCAR SNC DI CIUCCHI FRANCESCO E ROSARI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.441590203704893,
+                    43.93790803372078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIMINI STEFANO",
+                "id": "31186",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "STAZIONE SERVIZIO I.P. DI RIMINI STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.506091952323914,
+                    43.90742388761297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DICOMANO-VIA DELLA VITTORIA 21",
+                "id": "11583",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.525309970569651,
+                    43.88850586930253
+                ]
+            }
+        }
+    ]
+}

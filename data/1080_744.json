@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "POMPA",
+                "id": "4989",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "VALERII SILVIO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.980348199605942,
+                    44.080549935023086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EMMEVI SNC",
+                "id": "7807",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "EMMEVI DI MORETTI ANDREA E VICO STEFANIA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.915332794189453,
+                    44.081488278326226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Landi Alessandra",
+                "id": "9878",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "LANDI ALESSANDRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.009049177169798,
+                    44.04997415323941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vanello Lucia s.n.c. Metano per Auto",
+                "id": "24338",
+                "amenity": "fuel",
+                "operator": "VANELLO LUCIA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.983055889606476,
+                    44.076983323697775
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Retitalia",
+                "id": "7643",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "BAUR MANFRED"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.290042638778687,
+                    46.73377230420618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Karlheinz Hofer",
+                "id": "9048",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "HOFER KARLHEINZ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.266449928283691,
+                    46.730439627247925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Santer Roland snc",
+                "id": "24565",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ROLAND SANTER & C. S.N.C. % ROLAND SANTER & CO. O.H.G."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.224690253066228,
+                    46.721622157580896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tankstelle gsies srl",
+                "id": "20158",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "TANKSTELLE GSIES S.R.L. % TANKSTELLE GSIES G.M.B.H."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.175116688013079,
+                    46.77019403178033
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FUNTHOMAS DI GIACOBAZZI THOMAS",
+                "id": "24716",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FUNTHOMAS DI GIACOBAZZI THOMAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.941337463763602,
+                    44.26802537809548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTESE",
+                "id": "14387",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "C.I.S. NORD S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.941103101852377,
+                    44.26771864477706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore esso",
+                "id": "16139",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MALORI ZANANTONI PATRIC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.927689000964165,
+                    44.28308774823937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAPORI OTELLO",
+                "id": "16666",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SAPORI OTELLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.057670321880323,
+                    44.3282596806595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTESE",
+                "id": "30343",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F.LLI GIBERTINI FU GINO S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.927697354129805,
+                    44.28310120316619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BERNARDONI LUCA",
+                "id": "12724",
+                "amenity": "fuel",
+                "operator": "BERNARDONI LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.00481583068847,
+                    44.280125363760696
+                ]
+            }
+        }
+    ]
+}

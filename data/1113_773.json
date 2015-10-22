@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GRASSANO PETROLI SRL",
+                "id": "32178",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GRASSANO PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.758747120208678,
+                    40.248651450106564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "P.D.P.",
+                "id": "8411",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "P.D.P. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.651615324371052,
+                    40.28964223128777
+                ]
+            }
+        }
+    ]
+}

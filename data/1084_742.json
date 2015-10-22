@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "API-IP",
+                "id": "20642",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "RICCHI MARIA GRAZIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.647315010428429,
+                    44.324422671600985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "11040",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BONFIGLIOLI DEANNA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.651672066141487,
+                    44.230847335049425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BARBIERI ITALO",
+                "id": "15781",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BARBIERI ITALO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.71261003613472,
+                    44.30952953700209
+                ]
+            }
+        }
+    ]
+}

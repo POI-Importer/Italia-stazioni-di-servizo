@@ -1,0 +1,174 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ARANOVA FIUMICINO S.S.1 KM 23+300",
+                "id": "16773",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.249007523059847,
+                    41.9127006152736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO IP DI DE CIUTIIS E FIGLI",
+                "id": "23485",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DE CIUTIIS GINO E FIGLI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.163054794073105,
+                    41.933804846500344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA AURELIA",
+                "id": "30674",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CARBURANTI DURANTINI DI CIRULLI SERGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.266179025173187,
+                    41.90613941943149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE ENI VIA BRACCIANESE 939/941",
+                "id": "10248",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "G.P.A. GESTIONI PETROLIFERE ED AFFINI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.28878054012148,
+                    42.03164613843961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "repsol",
+                "id": "28287",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "GI.FRE. SAS DI FREZZA GIANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.200180590152742,
+                    41.915694148945306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG CERVETERI",
+                "id": "29655",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SIMAK 2000 S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.163332402706146,
+                    41.98389378480806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Minciotti Franco",
+                "id": "14489",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MINCIOTTI FRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.169750928878784,
+                    41.9325246223161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "q8",
+                "id": "9382",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "NAFRA ALFREDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.201521694660187,
+                    41.91495545895566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio esso",
+                "id": "27444",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SAVI S.N.C. DI SAVI LUIGI & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.196438908576965,
+                    41.91819377567445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Max Petroli",
+                "id": "30659",
+                "amenity": "fuel",
+                "operator": "MAX - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.239539325237274,
+                    41.9225700821278
+                ]
+            }
+        }
+    ]
+}

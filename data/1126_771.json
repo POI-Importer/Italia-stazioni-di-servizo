@@ -1,0 +1,174 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "31695",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "P&P GESTIONI DI CARRIERO SERENA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.022954612970352,
+                    40.48750244809137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN PIETRO VERNOTICO VIA BRINDISI, 246",
+                "id": "7498",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.995165944180258,
+                    40.49515449715354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "26134",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "NORD SALENTO S.A.S. DI MAURIZIO MONTE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.012489377267112,
+                    40.47146552548396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CELLINO SAN MARCO VIA S PIETRO VERNOTICO",
+                "id": "6760",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.96970282023767,
+                    40.47358587636572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cellino San Marco",
+                "id": "23394",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.97394931316376,
+                    40.47570072146379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MENGA PETROLI",
+                "id": "19588",
+                "amenity": "fuel",
+                "operator": "NEW GENERATION DI GUERRIERI EMANUELA- SOCIETA' IN ACCOMANDITA SEMPLICE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.981149703264236,
+                    40.47894513820701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAMER SAN PIETRO V.",
+                "id": "12308",
+                "brand": "Camer",
+                "amenity": "fuel",
+                "operator": "CAMER PETROLEUM EUROPA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.004710754028338,
+                    40.500133907128706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "17382",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PATTINI BENIAMINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.04527461528778,
+                    40.48667577432373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "API",
+                "id": "24388",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BIEMME S.N.C. DI MICCOLI DOMENICO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.053002816463504,
+                    40.47961043884199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "18054",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CASSANO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.994453459978104,
+                    40.497568161588006
+                ]
+            }
+        }
+    ]
+}

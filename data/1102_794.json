@@ -1,0 +1,189 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Carburante ENI di Ferraro Giuseppe",
+                "id": "26122",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FERRARO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.880627453327177,
+                    37.405057557349615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SUD PETROLI",
+                "id": "16277",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SUD - PETROLI S.A.S. DI CAICO GIACINTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.840876041670981,
+                    37.35217013095468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Di Benedetto Fabio",
+                "id": "9408",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DI BENEDETTO FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.846850395202637,
+                    37.38011551844834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A. Di Benedetto srl V.le C. Alberto Canicatti",
+                "id": "23777",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ALFONSO DI BENEDETTO CARBURANTI LUBRIFICANTI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.855532721838696,
+                    37.36246631312339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "I.D.C. Canicatti' , Viale Giudice Saetta",
+                "id": "29965",
+                "amenity": "fuel",
+                "operator": "DI BENEDETTO CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.832169380904592,
+                    37.35221352691573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GIAP",
+                "id": "31425",
+                "brand": "Giap",
+                "amenity": "fuel",
+                "operator": "PETROLSERVICES S.A.S. DI RICCARDO DI BENEDETTO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.854128217988661,
+                    37.36153253815698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "18601",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MATTINA GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.728470199070216,
+                    37.41100286863684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GRM SAS",
+                "id": "6989",
+                "amenity": "fuel",
+                "operator": "GRM DI MARCHESE RAGONA GIUSEPPE S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.788704433154635,
+                    37.362360104683766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.LLI BARBIERI snc",
+                "id": "20538",
+                "amenity": "fuel",
+                "operator": "F.LLI BARBIERI S.N.C. DI BARBIERI ANTONIO, CROCE E MARIA RITA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.832277953624724,
+                    37.35224334922593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Riccardo Di Benedetto",
+                "id": "13093",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DI BENEDETTO RICCARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.84777843952179,
+                    37.35378188797039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "21135",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CATANIA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.845332264900208,
+                    37.353495333263986
+                ]
+            }
+        }
+    ]
+}

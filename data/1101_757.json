@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "18783",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MIRCO FABRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.537421375513077,
+                    42.29493237672296
+                ]
+            }
+        }
+    ]
+}

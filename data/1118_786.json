@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONASTERACE SS. 106 KM. 134,886",
+                "id": "24523",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.572894784725122,
+                    38.43172953433712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 IANNONE GIUSEPPE",
+                "id": "27983",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "IANNONE GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.570246070623398,
+                    38.532717874414864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "9332",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "LETO DOLCE VITTORIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.570773124694824,
+                    38.529659104709275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Tamoil",
+                "id": "24866",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "LAMBERTI MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.575779318048376,
+                    38.50528333532908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ANGILLETTA GIUSEPPE",
+                "id": "5740",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ANGILLETTA GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.577972173690796,
+                    38.48765365474172
+                ]
+            }
+        }
+    ]
+}

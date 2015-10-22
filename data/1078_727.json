@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP di Travaini Adamo",
+                "id": "9950",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "TRAVAINI ADAMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.605734458727511,
+                    46.14089759165892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fascendini Cesare",
+                "id": "25471",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "FASCENDINI CESARE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.651902739054776,
+                    46.16235255969047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GUERRA GOMME SRL",
+                "id": "7899",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GUERRA GOMME S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.59980845451355,
+                    46.13935110259242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "9660",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GEOM. BOTTA' DANTE DI BROGGINI MATTEO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.57340297420501,
+                    46.1351994547333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto Eni 2782",
+                "id": "7546",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RAPELLA FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.56478817124173,
+                    46.13518667894909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eurogas",
+                "id": "8239",
+                "amenity": "fuel",
+                "operator": "EUROGAS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.539076536893845,
+                    46.14462942044784
+                ]
+            }
+        }
+    ]
+}

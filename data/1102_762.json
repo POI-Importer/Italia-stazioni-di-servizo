@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SETTE Alvito",
+                "id": "29529",
+                "amenity": "fuel",
+                "operator": "AL-GEDI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.746057302695021,
+                    41.68925554686143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LEONE DAVIDE DISTRIBUTORE IP",
+                "id": "15201",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LEONE DAVIDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.81463470860922,
+                    41.70669445172181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "P.V. 01 Casalvieri",
+                "id": "25971",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "LA ROCCA PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.747021031323928,
+                    41.64498292513412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "16593",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "IACOBONE NORMA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.816781491041183,
+                    41.678705231009204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "emme petroli",
+                "id": "14766",
+                "amenity": "fuel",
+                "operator": "MORELLI DINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.768238927142535,
+                    41.640234658608435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LEONE DAVIDE DISTRIBUTORE IP",
+                "id": "15200",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LEONE DAVIDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.81463470860922,
+                    41.70669445172181
+                ]
+            }
+        }
+    ]
+}

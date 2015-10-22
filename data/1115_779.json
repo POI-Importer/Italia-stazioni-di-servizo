@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO TAMOIL 8382",
+                "id": "13321",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MIGLIANO & C. S.A.S. DI MIGLIANO MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.127673891542486,
+                    39.45092285323087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "28165",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ABBONDANZA VITTORIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.01484775543213,
+                    39.40803070526468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gpl",
+                "id": "29349",
+                "amenity": "fuel",
+                "operator": "ABBONDANZA EUGENIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.02100342512131,
+                    39.38624312273992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "27852",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BLANDI CARMINE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.13681500000007,
+                    39.40314482539817
+                ]
+            }
+        }
+    ]
+}

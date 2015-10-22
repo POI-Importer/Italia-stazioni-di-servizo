@@ -1,0 +1,175 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL ERG - LIVIGNO",
+                "id": "21869",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BONDI CARBURANTI S.N.C. DI BORMOLINI LUIGI E FAUSTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.138709294686805,
+                    46.53790123239654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "cus.car.sas",
+                "id": "22320",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CUS.CAR S.A.S. DI CUSINI BERNARDO MOSE' & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.106804966926575,
+                    46.48449695281447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fibo s.r.l. - Distributore Agip",
+                "id": "22686",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FIBO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.144995599985123,
+                    46.55398483203459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CU.BA. SAS",
+                "id": "22670",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CU.BA S.A.S. DI CUSINI BARBARA MARIA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.127824097871779,
+                    46.52608880693165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI TREPALLE",
+                "id": "9205",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PARROCCHIA S. ANNA DI TREPALLE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.175803687190637,
+                    46.5265465909964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL ERG - LIVIGNO",
+                "id": "21866",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BONDI CARBURANTI S.N.C. DI BORMOLINI LUIGI E FAUSTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.127918645739555,
+                    46.52810766409565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Market S.Anton di Compagnoni Virgilio & C. - S.A.S.",
+                "id": "24309",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MARKET S. ANTON DI COMPAGNONI VIRGILIO & C. - S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.129013318979673,
+                    46.529713169182166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL ERG",
+                "id": "23219",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "G.M.F. DI BORMOLINI BARBARA E RODIGARI ORESTE S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.13817608356476,
+                    46.53959047065005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GES.CAR. SAS",
+                "id": "22628",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GES.CAR. S.A.S. DI CUSINI BERNARDO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.124913901090624,
+                    46.51908386115937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tre.Car. S.r.l.",
+                "id": "22687",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "TRE.CAR. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.18708348274231,
+                    46.51800524520485
+                ]
+            }
+        }
+    ]
+}

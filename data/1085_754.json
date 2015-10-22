@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO DI MORELLO IVAN & C. S.N.C.",
+                "id": "20602",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MORELLO IVAN & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.76507796908868,
+                    42.80506904837502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "9749",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ELETTRAUTO SERVICE S.N.C. DI VITI GIANCARLO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.889827609062197,
+                    42.77103255618532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "27178",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FUTURA DI GRECO SIMONETTA E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.885596937196397,
+                    42.76871539097433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SELF AREA 4966",
+                "id": "25761",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DI VIVONA FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.887711010873316,
+                    42.76121886274206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL EXPO",
+                "id": "27862",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TOTALEXPO DI ANTONIO BENINCASA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.871012705804446,
+                    42.765007418259295
+                ]
+            }
+        }
+    ]
+}

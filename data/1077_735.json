@@ -1,0 +1,157 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI  -  MALABARBA VALERIO",
+                "id": "15331",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MALABARBA VALERIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.472961661376985,
+                    45.18660438320437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA SERVIZIO IP DI GIAVARDI LUIGI",
+                "id": "26040",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GIAVARDI LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.454895406961443,
+                    45.2059076858091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIEVE PORTO MORONE",
+                "id": "5963",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.449953186508196,
+                    45.10783049751035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Tamoil Santa Cristina 2539",
+                "id": "9302",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "RIZZI PIERLUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.398471117019653,
+                    45.15989468138153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CERUTTI SNC",
+                "id": "6853",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CERUTTI S.N.C. DI CERUTTI SILVIO & ROSANGELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.387716629608121,
+                    45.192084322182126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Tamoil Villanterio 6200",
+                "id": "9298",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "RIZZI PIERLUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.352830648422241,
+                    45.21020620586546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "15103",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CAPELLETTI MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.318427965044975,
+                    45.197682012778586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL 3875",
+                "id": "13091",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CARBURANTI OLII LUBRIFICANTI BRONESE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.351859018206596,
+                    45.116218054961635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AF PETROL",
+                "id": "4593",
+                "amenity": "fuel",
+                "operator": "AF PETROL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.423104524612427,
+                    45.159290972702046
+                ]
+            }
+        }
+    ]
+}

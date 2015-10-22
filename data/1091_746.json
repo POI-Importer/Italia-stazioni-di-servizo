@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C. & C. DISTRIBUZIONE CARBURANTI DI CECCONI E CORDOVANI SNC",
+                "id": "7089",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "C. & C. DISTRIBUZIONE CARBURANTI DI CECCONI E CORDOVANI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.811676025390623,
+                    43.73095196116379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIERGIOVANNI",
+                "id": "10300",
+                "brand": "Aquila",
+                "amenity": "fuel",
+                "operator": "PIERGIOVANNI ANNA RITA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.876782083210742,
+                    43.79512439773404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BIBBIENA-LOC. PIANACCI 8 SS 71",
+                "id": "11468",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.808961629867552,
+                    43.71788587052159
+                ]
+            }
+        }
+    ]
+}

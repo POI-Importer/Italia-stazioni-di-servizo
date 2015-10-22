@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zignani Lino Piero srl lato sx",
+                "id": "29491",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ZIGNANI LINO PIERO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.183320224285128,
+                    44.06391431737849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zignani Lino Piero srl",
+                "id": "14573",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ZIGNANI LINO PIERO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.183947220901473,
+                    44.06376148751114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Borello",
+                "id": "14543",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ZIGNANI LINO PIERO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.17627851839893,
+                    44.051044424391236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "19220",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CARBURANTI VERSARI & C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.198045551776886,
+                    43.96432521035045
+                ]
+            }
+        }
+    ]
+}

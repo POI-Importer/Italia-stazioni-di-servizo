@@ -1,0 +1,406 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "28212",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "D'AMBROSIO ANTONINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.097266733646391,
+                    40.62780869538831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso express",
+                "id": "28787",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MILITO ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.998334931613158,
+                    40.60409646081012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "22326",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MONTELLA CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.048658647885077,
+                    40.60424097145889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Battipaglia SS 18",
+                "id": "24783",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.983951449394224,
+                    40.58875462895884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTECORVINO PUGLIANO",
+                "id": "28819",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.944755189141233,
+                    40.67890992017691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FULL PETROL MONTECORVINO",
+                "id": "23400",
+                "amenity": "fuel",
+                "operator": "ROTRANS - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.970128685235979,
+                    40.70162892123941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA DI SERVIZIO NOSCHESE",
+                "id": "30400",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AZIENDA WORLD GREEN DI LA TORRACA LUCIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.058323740959164,
+                    40.61231376831716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio",
+                "id": "17078",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "D'AMBROSIO MASSIMO GAS AUTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.11503905057907,
+                    40.61097620862142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FULL PETROL METANO",
+                "id": "23397",
+                "amenity": "fuel",
+                "operator": "ROTRANS - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.967638254165648,
+                    40.60690187202281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "22951",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "TOP CARB S.A.S. DI CUTOLO FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.047560036182404,
+                    40.608187588374705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GIPA SNC",
+                "id": "30591",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GIPA S.N.C. DI PASQUALE FALCONE E GIUSEPPE IANNONE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.972562789916992,
+                    40.61067424099906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FULL PETROL SS 18",
+                "id": "23398",
+                "amenity": "fuel",
+                "operator": "ROTRANS - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.978584349155428,
+                    40.598789722677786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BATTIPAGLIA",
+                "id": "5545",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.991850813491855,
+                    40.606284782003925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO di BRUNO ANGELO",
+                "id": "18442",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BRUNO ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.955853968858719,
+                    40.61822607675408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Falcone Michele & Francesco s.n.c.",
+                "id": "9462",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FALCONE MICHELE & FRANCESCO - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.049862593034616,
+                    40.61223911400321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BELLIZZI SS.164 KM 1",
+                "id": "6741",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.960234016180038,
+                    40.631691432660915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO IP 47633",
+                "id": "26703",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GIAMPICCOLO GERARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.003136001808118,
+                    40.638207414475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TORTORA PETROLI",
+                "id": "20719",
+                "amenity": "fuel",
+                "operator": "TORTORA SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.979018867015839,
+                    40.65213711556797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PETROL SERVICES",
+                "id": "19668",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PETROL SERVICES DI MASSIMILIANO CAFARELLI & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.943502396345135,
+                    40.62134877300441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GAS Auto di Massimo D'Ambrosio",
+                "id": "17085",
+                "amenity": "fuel",
+                "operator": "D'AMBROSIO MASSIMO GAS AUTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.114237070083618,
+                    40.60377931510419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SELF AREA AGIP DI PETTI PIETRO",
+                "id": "28345",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PETTI PIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.96797487139702,
+                    40.614646340185324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "capone",
+                "id": "26518",
+                "amenity": "fuel",
+                "operator": "CAPONE EUGENIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.000460445880886,
+                    40.65677742030343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FULL PETROL METANO",
+                "id": "23656",
+                "amenity": "fuel",
+                "operator": "ALFAGAS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.003322362899777,
+                    40.588106902056005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BATTIPAGLIA - BELVEDERE 48",
+                "id": "28434",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.975867271423336,
+                    40.6127873750079
+                ]
+            }
+        }
+    ]
+}

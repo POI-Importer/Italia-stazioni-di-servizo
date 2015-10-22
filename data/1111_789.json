@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "6312",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ROSA CASCIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.382774222899569,
+                    38.022129772484774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rifornimento ip marchese antonino",
+                "id": "8804",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MARCHESE ANTONINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.460703174868737,
+                    38.04343863936432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip",
+                "id": "22315",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "RASCONA' ANTONINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.423342421797653,
+                    38.00337801394339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio ESSO di Roma Celestino",
+                "id": "7742",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ROMA CELESTINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.419433088742382,
+                    38.02617239914852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rifornimento ip marchese antonino",
+                "id": "8811",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MARCHESE ANTONINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.460700690746311,
+                    38.043439593943
+                ]
+            }
+        }
+    ]
+}

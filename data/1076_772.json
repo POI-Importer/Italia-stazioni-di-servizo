@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO AGIP",
+                "id": "19746",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENERGY SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.307941198348999,
+                    40.32336106974317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "car service sas",
+                "id": "27119",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CAR SERVICE S.A.S. DI LIGAS MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.313317686319351,
+                    40.32520066230722
+                ]
+            }
+        }
+    ]
+}

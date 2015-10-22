@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "POZZI REMO E ANDREA F.LLI SNC IMPIANTO RETITALIA",
+                "id": "15009",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "POZZI REMO E ANDREA F.LLI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.308844877280078,
+                    46.08024692451527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eurogas",
+                "id": "29229",
+                "amenity": "fuel",
+                "operator": "EUROGAS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.288301937550841,
+                    46.1361584765816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "poncia luca",
+                "id": "20436",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PONCIA LUCA & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.281548782803384,
+                    46.12611115731569
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil di rummolo natale",
+                "id": "18507",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "RUMMOLO NATALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.120129031270157,
+                    39.55786790139584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SRVIZIO Q8 DI COZZA LUIGI",
+                "id": "9837",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "COZZA LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.097719967365265,
+                    39.58541649001021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area Servizio \"L'Incontro\"",
+                "id": "26968",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MOTELSUD SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.135531067848206,
+                    39.56918072564606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ROGGIANO GRAVINA VIA VITTORIO ENANUELE 222",
+                "id": "23648",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.167378168122923,
+                    39.6179456238487
+                ]
+            }
+        }
+    ]
+}

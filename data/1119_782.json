@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LIA STAZIONE DI SERVIZIO S.A.S.DI LIA CARMINE & C.",
+                "id": "15422",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LIA STAZIONE DI SERVIZIO S.A.S.DI LIA CARMINE & C"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.737161762696132,
+                    39.00865059758681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CANTAGALLO STAZIONE DI SERVIZIO",
+                "id": "12471",
+                "amenity": "fuel",
+                "operator": "CANTAGALLO STAZIONE DI SERVIZIO DI COLOSIMO MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.764959620476475,
+                    39.04689801881477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CROPANI - LIVORNO 59",
+                "id": "31917",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.779350961971318,
+                    38.96314369008376
+                ]
+            }
+        }
+    ]
+}

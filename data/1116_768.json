@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio roxy bar IP",
+                "id": "26396",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ROXY BAR DEI F.LLI BRUCOLI NICOLA & GIACOMO SOCIETA' IN NOME COLLETIVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.267141699790955,
+                    40.934530657381394
+                ]
+            }
+        }
+    ]
+}

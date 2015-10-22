@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ISOLA ANTONIETTO",
+                "id": "13827",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ISOLA ANTONIETTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.386077950926165,
+                    44.77099484574911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MIRINA ROMAGNESE",
+                "id": "6822",
+                "brand": "Eurfuel",
+                "amenity": "fuel",
+                "operator": "EURFUEL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.323838651180267,
+                    44.834613123232145
+                ]
+            }
+        }
+    ]
+}

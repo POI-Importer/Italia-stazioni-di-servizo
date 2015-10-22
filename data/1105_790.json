@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sidoti Carlo & C snc",
+                "id": "13322",
+                "amenity": "fuel",
+                "operator": "SIDOTI CARLO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.35732305049896,
+                    37.92972355047336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "oieni liborio & figlio snc",
+                "id": "7416",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "OIENI LIBORIO & FIGLIO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.363875687122345,
+                    37.928244919428955
+                ]
+            }
+        }
+    ]
+}

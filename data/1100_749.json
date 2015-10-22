@@ -1,0 +1,154 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTECASSIANO - VILLA MATTEI",
+                "id": "24778",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.463978542327824,
+                    43.349258513722084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARNEVALI SNC",
+                "id": "11049",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CARNEVALI S.N.C. DI CARNEVALI GIUSEPPE E LAMPA GIULIANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.433893482139638,
+                    43.34686626966042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIB. Retitalia OSIMO LOC. PASSATEMPO",
+                "id": "8616",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "PETROLIFERA ADRIATICA S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.450676053762434,
+                    43.44531879823066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "METANO VALLECASCIA MC 3",
+                "id": "28990",
+                "amenity": "fuel",
+                "operator": "P & B DI PICCIONI PAOLA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.430185317993162,
+                    43.337655685552704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil Sambucheto",
+                "id": "29125",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FERMANA CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.48756849765778,
+                    43.35718307676829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIFORNIMENTO IP ROSSETTI GIOVANNI",
+                "id": "31307",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "RIFORNIMENTO API DI ROSSETTI GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.444851663456348,
+                    43.413883210709706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NATURAL GAS SRL",
+                "id": "16464",
+                "amenity": "fuel",
+                "operator": "NATURAL GAS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.51932853460312,
+                    43.36693213228637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio IS - Santa Lucia",
+                "id": "29877",
+                "amenity": "fuel",
+                "operator": "SIMONETTI MARIO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.493876651281766,
+                    43.39790682284976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DRAGONOIL",
+                "id": "16054",
+                "amenity": "fuel",
+                "operator": "DRAGONOIL SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.432546332478521,
+                    43.33636949018303
+                ]
+            }
+        }
+    ]
+}

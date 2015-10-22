@@ -1,0 +1,158 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GRESTINI LUIGINO",
+                "id": "17516",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GRESTINI LUIGINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.59416320387845,
+                    42.232322648059586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP PONZANO ROMANO",
+                "id": "17499",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FELGAS PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.55153656005859,
+                    42.26767895369903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Verdini Giuseppe & c. s.n.c.",
+                "id": "23787",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "VERDINI GIUSEPPE E C. DI GIUSEPPE VERDINI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.482324205346456,
+                    42.20865550905252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE IP",
+                "id": "30144",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SA.PI. S.N.C. DI MERLONGHI PIERO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.588022537566301,
+                    42.16639700550066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO",
+                "id": "17879",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PENTA PATRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.63701654970646,
+                    42.169885234123775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "diamanti marco",
+                "id": "15239",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DIAMANTI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.519028237292787,
+                    42.2352441318061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI Fratelli Marasco",
+                "id": "15979",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MARASCO GIUSEPPE E FRATELLI - S.N.C. DI MARASCO GIUSEPPE E DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.596157000663764,
+                    42.282299581644814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PAPI FABRIZIO",
+                "id": "20683",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PAPI FABRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.573357671499252,
+                    42.28893880974575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "POGGIO MIRTETO",
+                "id": "5861",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TotalErg SpA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.637442466270386,
+                    42.25203705857804
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ANGHEBENI DI VALLARSA",
+                "id": "23897",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ZENDRI MIRKO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.107191145420074,
+                    45.79447390578834
+                ]
+            }
+        }
+    ]
+}

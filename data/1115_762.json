@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "30555",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SANTAMARIA COSIMO DAMIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.058637499809265,
+                    41.71060111979769
+                ]
+            }
+        }
+    ]
+}

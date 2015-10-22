@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI- 02965/SERVICE CAR SNC",
+                "id": "15224",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVICE CAR DI MARI LUCIANO, ORIGHI ADOLFO E C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.98439498035657,
+                    44.81929661230286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione rifornimento Esso di Nadia Rossi",
+                "id": "17384",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ROSSI NADIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.98912438750267,
+                    44.821214986229364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REPSOL ITALIA",
+                "id": "22390",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "RICCARDI DANIELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.984385093254103,
+                    44.81258312544389
+                ]
+            }
+        }
+    ]
+}

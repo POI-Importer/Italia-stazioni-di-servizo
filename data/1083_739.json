@@ -1,0 +1,340 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO 1984",
+                "id": "30377",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SPOTTI MARINELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.373828262090683,
+                    44.64927241293631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FONTANETO - S.POLO D'ENZA-SS 513 VIA VAL D'ENZA SUD",
+                "id": "11801",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4154072883606,
+                    44.61563794815409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BARAZZONI & FERRARI",
+                "id": "6071",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BARAZZONI ANGELO, FERRARI ROMANO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.383662581443787,
+                    44.64366857391951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Montecchio Emilia",
+                "id": "20398",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PUCCINELLI MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.450462058719266,
+                    44.7033712800595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BRONZONI PETROLI",
+                "id": "24465",
+                "amenity": "fuel",
+                "operator": "BRONZONI ANTONIO SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.503836724207758,
+                    44.66790826532338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Total -Autolavaggio la rotonda",
+                "id": "19645",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "WASH S.N.C. DI CAVAZZONI & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.53228622576262,
+                    44.69316246055439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP GHERRI ENORE",
+                "id": "30361",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GHERRI ENORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.380701224536892,
+                    44.63500331971924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CONAD SUPERMERCATO",
+                "id": "7082",
+                "brand": "CONAD",
+                "amenity": "fuel",
+                "operator": "CANUSINA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.477132201194765,
+                    44.65954477541297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Montecchio",
+                "id": "31386",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.450087553828439,
+                    44.70067435729966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BASILICAGOIANO",
+                "id": "32018",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ENERGY RETE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.399962365627289,
+                    44.710214423070845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ARCO",
+                "id": "28611",
+                "amenity": "fuel",
+                "operator": "ARCOTRADING S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.460211927477987,
+                    44.63716504327651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAMPANI FRANCESCO",
+                "id": "14386",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CAMPANI FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.479446373016344,
+                    44.66876835581545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "POMPA BIANCA",
+                "id": "22946",
+                "amenity": "fuel",
+                "operator": "BOSCHI PIETRO & C. - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.479358434677126,
+                    44.69727728335731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "M.T. GAS",
+                "id": "12893",
+                "amenity": "fuel",
+                "operator": "ALIASANAJ MURAT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.516522279162245,
+                    44.686934547505984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "nuova igma snc",
+                "id": "30417",
+                "amenity": "fuel",
+                "operator": "NUOVA IGMA SNC DI CADOPPI E BEDINI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.47936111688614,
+                    44.69729558674916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FERRETTI ADRIANO EGO",
+                "id": "12412",
+                "brand": "Ego",
+                "amenity": "fuel",
+                "operator": "FERRETTI ADRIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.53786814212799,
+                    44.63607812122507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ENI 56778",
+                "id": "30535",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "L&D DI CRUGNOLA DANIELE STAZIONE DI SERVIZIO ENI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.476783514022825,
+                    44.69725821733008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ego",
+                "id": "12930",
+                "brand": "Ego",
+                "amenity": "fuel",
+                "operator": "MOROTTI TIZIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.527037382125854,
+                    44.68802418395162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ENI DI LANZI LAURINO",
+                "id": "10782",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LANZI LAURINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.413834750652313,
+                    44.60730776162823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 6451",
+                "id": "25930",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.537626138547921,
+                    44.691803228238605
+                ]
+            }
+        }
+    ]
+}

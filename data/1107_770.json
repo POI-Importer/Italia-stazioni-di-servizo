@@ -1,0 +1,173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PREZIOSO ANNA",
+                "id": "13802",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PREZIOSO ANNA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.751859232783314,
+                    40.67932481946878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cava dei Tirreni",
+                "id": "25172",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.706157743930818,
+                    40.70833949581345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIETRI SUL MARE VIA DE MARINIS 34 (SS18 KM.49)",
+                "id": "22896",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.724303949321214,
+                    40.67649325942658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PETROLEUM SALERNITANA GP OIL",
+                "id": "18353",
+                "amenity": "fuel",
+                "operator": "PETROLEUM SALERNITANA - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.705886170268059,
+                    40.71018827720717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 VIA RISORGIMENTO, 28",
+                "id": "24774",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO DI CLAUDIO VITOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.763801508458075,
+                    40.68487785469651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ENI DI DEL GENTILE MATTEO",
+                "id": "9832",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO ENI N. 55372 DI DEL GENTILE MATTEO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.709444120526312,
+                    40.696194574568864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "18448",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PETROL CAR S.N.C. DI ESPOSITO VINCENZO E DI LIETO ALFONSO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.61355984210968,
+                    40.6541583860102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Esso di Petrosino Michele",
+                "id": "28699",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PETROSINO MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.762084484100342,
+                    40.68675499369864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "total erg",
+                "id": "22399",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "AURORA SERVICE S.A.S. DI DI DOMENICO LUIGI & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.699382610378736,
+                    40.71019397970263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAVA DEI TIRRENI",
+                "id": "21256",
+                "amenity": "fuel",
+                "operator": "PETROLCHIMICA SUD - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.703848845403627,
+                    40.7096088250706
+                ]
+            }
+        }
+    ]
+}

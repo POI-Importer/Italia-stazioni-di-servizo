@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "29119",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ADDOLORATO SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.93589828968811,
+                    38.687402482671125
+                ]
+            }
+        }
+    ]
+}

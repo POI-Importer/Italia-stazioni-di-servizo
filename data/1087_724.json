@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SMP SAN MARCO PETROLI",
+                "id": "26187",
+                "amenity": "fuel",
+                "operator": "FAES K.G. DES FAES MARTIN & CO."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.212795078754425,
+                    46.55204994126672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "24044",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "J. OBERRAUCH SAS % J. OBERRAUCH KG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.239912915344235,
+                    46.539416681670204
+                ]
+            }
+        }
+    ]
+}

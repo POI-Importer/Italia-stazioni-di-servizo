@@ -1,0 +1,223 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "28905",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BARTOLI PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.692197533343458,
+                    42.81721739951352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S. Eraclio",
+                "id": "9354",
+                "amenity": "fuel",
+                "operator": "I.C.M. SOCIETA' IN NOME COLLETTIVO DI BRUNO, CRISTIANO E FABRIZIO MAGGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.719244360923767,
+                    42.93411054690234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ADS \"IP\" di GF SERVIZI SRL",
+                "id": "5009",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "G.F. SERVIZI - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.762846350669863,
+                    42.835357201937555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CLITUNNO \"IP\" di GF SERVIZI SRL",
+                "id": "5011",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "G.F. SERVIZI - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.729704976081852,
+                    42.880555570685054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio ENI Mesca Attilio",
+                "id": "14252",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MESCA ATTILIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.727018743753433,
+                    42.924044741593576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Servizio PAMER IP",
+                "id": "26554",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PAMER SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.730356752872467,
+                    42.89250829591883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Foligno",
+                "id": "4683",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.72864282131195,
+                    42.91321588997033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAPORICCI",
+                "id": "26275",
+                "amenity": "fuel",
+                "operator": "CAPORICCI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.701504230499268,
+                    42.8348292858546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TREVI - BORGO TREVI",
+                "id": "32193",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.738494635581903,
+                    42.87324692651465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ITAGEST",
+                "id": "30037",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ITAGEST S.R.L. IN LIQUIDAZIONE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.762980959741183,
+                    42.81821363867733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Nocchi Carla",
+                "id": "28767",
+                "amenity": "fuel",
+                "operator": "NOCCHI CARLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.719880044460297,
+                    42.869843316780596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil 8103",
+                "id": "7982",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BENEDETTI GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.730042934417725,
+                    42.90445870509586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Piselli Paola",
+                "id": "9044",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PISELLI PAOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.727827429771423,
+                    42.92650959601067
+                ]
+            }
+        }
+    ]
+}

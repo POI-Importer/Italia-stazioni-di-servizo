@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "venturi service",
+                "id": "9434",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "VENTURI SERVICE DI VENTURI GIACOMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.900024026632309,
+                    43.21076122607876
+                ]
+            }
+        }
+    ]
+}

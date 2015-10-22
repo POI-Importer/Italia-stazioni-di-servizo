@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore ip di mistretta francesco",
+                "id": "26044",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MISTRETTA FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73416426299377,
+                    38.170593150224256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 SAN VITO",
+                "id": "26700",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "S.G. PETROLI DI GIULIANO SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.734094395833383,
+                    38.17106084098448
+                ]
+            }
+        }
+    ]
+}

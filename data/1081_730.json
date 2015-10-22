@@ -1,0 +1,239 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GUALENI STEFANO -UNION-",
+                "id": "8915",
+                "amenity": "fuel",
+                "operator": "GUALENI STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.020133405923843,
+                    45.78172864860689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "30127",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SURINI CRISTIAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.086067211639374,
+                    45.82434656451731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Picchi snc",
+                "id": "16380",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PICCHI SNC DI PICCHI GIUSEPPE, DARIO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.109744668006897,
+                    45.70772081610272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio IP di Valenti Luca",
+                "id": "19775",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "VALENTI LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.088571644180318,
+                    45.82461201034061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LOVERE-VIA MARCONI",
+                "id": "24127",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.079547017812729,
+                    45.82112807308931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "UNION",
+                "id": "12962",
+                "amenity": "fuel",
+                "operator": "GUIZZETTI ANGIOLINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.030887722969055,
+                    45.80936935405146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "f.lli rossi snc",
+                "id": "15305",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "F.LLI ROSSI S.N.C. DI ROSSI ROBERTO VALENTINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.027728072352604,
+                    45.82440597372618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DAYTONA CARBURANTI - ZONE",
+                "id": "25333",
+                "amenity": "fuel",
+                "operator": "CARBURANTI SPECIALI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.113722083958121,
+                    45.76045755028906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PATRIZIA SBARDOLINI",
+                "id": "4306",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SBARDOLINI PATRIZIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.108419988360538,
+                    45.80937253880391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zim Oil di Sallaku Laurend & C. snc",
+                "id": "27800",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ZIM OIL DI SALLAKU LAUREND & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1255401968956,
+                    45.82359578021958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1639 PIANICO",
+                "id": "5506",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "enirete oil&nonoil S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.034257454366866,
+                    45.8073059884401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COSTA VOLPINO",
+                "id": "22454",
+                "amenity": "fuel",
+                "operator": "DITTA MORZENTI ANTONIO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.110513120889664,
+                    45.8285297449706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BOSSICO OIL ITALIA",
+                "id": "26785",
+                "brand": "Oil Italia",
+                "amenity": "fuel",
+                "operator": "OIL ITALIA SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.043280845254571,
+                    45.827884676161666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sia Fuel Pisogne",
+                "id": "26154",
+                "brand": "Sia fuel",
+                "amenity": "fuel",
+                "operator": "S.I.A. ENGINEERING CONSTRUCTION S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.112105011940002,
+                    45.81056029438939
+                ]
+            }
+        }
+    ]
+}

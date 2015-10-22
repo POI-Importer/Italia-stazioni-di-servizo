@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kaloroil Catabbio",
+                "id": "20155",
+                "amenity": "fuel",
+                "operator": "DEL VINCIO WALTER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.564109474420547,
+                    42.699748517844746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BOCCINI BRUNO",
+                "id": "20572",
+                "amenity": "fuel",
+                "operator": "BOCCINI BRUNO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.483602970838547,
+                    42.78301533779548
+                ]
+            }
+        }
+    ]
+}

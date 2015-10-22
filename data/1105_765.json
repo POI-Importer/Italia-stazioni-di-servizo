@@ -1,0 +1,175 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO DRAGONI",
+                "id": "29977",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.303662776947018,
+                    41.289607113923196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REPSOL",
+                "id": "16700",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "RICCIO NICOLINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.331415593624117,
+                    41.3068418805516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE Q8 ALIFE",
+                "id": "14581",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "LETIZIA PASQUALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.339413940906526,
+                    41.322422760326745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "31111",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PELLINI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.389470666646957,
+                    41.340929833450105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL DI TARTAGLIA VINCENZO",
+                "id": "12810",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "TARTAGLIA VINCENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.347613453865051,
+                    41.32571413242941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione eni 8438",
+                "id": "19521",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DISTRIBUZIONE CARBURANTI DI FILIPPO CASO S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36776623129845,
+                    41.34996967885956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "11351",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SORBO PIETROSANTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.323138296604158,
+                    41.332763937734015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIEDIMONTE MATESE",
+                "id": "17655",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.374821457672173,
+                    41.35220805373461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "I.S.S.A. SRL",
+                "id": "20434",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ISSA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.336528865081846,
+                    41.2464139627957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "17434",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "RICCITELLI LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.389465972781181,
+                    41.34092963205957
+                ]
+            }
+        }
+    ]
+}

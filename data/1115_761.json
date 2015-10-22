@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni-29240",
+                "id": "11176",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LATINO MICHELE AGIP VIESTE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.165198754631096,
+                    41.887645855000684
+                ]
+            }
+        }
+    ]
+}

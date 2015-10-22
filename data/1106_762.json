@@ -1,0 +1,139 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTROPIGNANO - SP139 FOSSALTINA",
+                "id": "29919",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.583220034837721,
+                    41.64115860315683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni-Agip n.17268",
+                "id": "15343",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LOZZI ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.544998296712834,
+                    41.769957661757296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Total erg di Vitullo Daniela",
+                "id": "30697",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "VITULLO DANIELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.426164627075197,
+                    41.718510956987565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione TOTAL",
+                "id": "22754",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DE SIMONE PIERINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.424747024386535,
+                    41.759816670745536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BDT",
+                "id": "30074",
+                "amenity": "fuel",
+                "operator": "C.R.T. DI DI TOMASO LORENA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.460254162549973,
+                    41.69361608836777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg Zenat s.a.s.",
+                "id": "20877",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ZENAT DI ZEZZA FLORA E C. SOCIETA' IN ACCOMANDITA SEMPLICE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.527161866426468,
+                    41.73131407613213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GREEN BAR",
+                "id": "20937",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MDS GLOBAL OIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.459772706031803,
+                    41.657772523449786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CIVITANOVA DEL SANNIO",
+                "id": "27249",
+                "amenity": "fuel",
+                "operator": "ZETA GAS S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.416083544492723,
+                    41.69987305190987
+                ]
+            }
+        }
+    ]
+}

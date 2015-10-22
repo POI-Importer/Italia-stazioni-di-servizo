@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE ESSO DI SINAGRA PAOLO",
+                "id": "17121",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SINAGRA PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.530381917953488,
+                    37.28913270117055
+                ]
+            }
+        }
+    ]
+}

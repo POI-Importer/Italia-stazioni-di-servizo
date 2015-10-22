@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "16299",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "IMPAGLIAZZO RAFFAELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.885003880382103,
+                    40.70337203608253
+                ]
+            }
+        }
+    ]
+}

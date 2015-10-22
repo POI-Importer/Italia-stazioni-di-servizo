@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Total Erg di Domenico Rizzo",
+                "id": "26370",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "RIZZO DOMENICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.082117084557694,
+                    39.97066356451056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FITTIPALDI ANGELINA",
+                "id": "26694",
+                "amenity": "fuel",
+                "operator": "FITTIPALDI ANGELINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.13609030842781,
+                    40.022253241109304
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LICO CARMELO",
+                "id": "26089",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "LICO CARMINE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.506754159927368,
+                    39.2504504239514
+                ]
+            }
+        }
+    ]
+}

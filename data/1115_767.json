@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GI.VI. SRL",
+                "id": "18221",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GI.VI. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.077294381614703,
+                    41.08893519837633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso - EssoCard - DKV - UTA 24h",
+                "id": "19376",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LABARBUTA LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.076832387731542,
+                    41.09132090136438
+                ]
+            }
+        }
+    ]
+}

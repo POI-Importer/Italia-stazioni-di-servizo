@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Barontini",
+                "id": "21260",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BARONTINI PETROLI DI BARONTINI ANNALISA & C. SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.324624856137348,
+                    42.814450651553564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "aci-agip",
+                "id": "19792",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "COLLINI FABRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.317500611639389,
+                    42.8137728328748
+                ]
+            }
+        }
+    ]
+}

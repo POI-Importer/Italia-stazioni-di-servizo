@@ -1,0 +1,158 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "26340",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ALTILIA RAG. GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.85326337814331,
+                    38.934401450692484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "22270",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "LEVATO AMORINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.739141465020793,
+                    38.89843508933687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "11361",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CRISTIANO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.709451377391815,
+                    38.88218304112994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "26339",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ALTILIA RAG. GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.85326337814331,
+                    38.934401450692484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Servizio Tamoil di Corea Nicola",
+                "id": "20624",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "COREA NICOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.77487514913082,
+                    38.911249074891295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore IP GARCEA NICOLA",
+                "id": "8390",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GARCEA NICOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.760228276252747,
+                    38.904419820437404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "26214",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ALTILIA RAG. GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.853265479343804,
+                    38.93436656305294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO IP S.G.M. SAS DI SCERBO PIETRUCCIA",
+                "id": "30884",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "S.G.M. S.A.S. DI PIETRUCCIA SCERBO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.83705747127533,
+                    38.93035455550934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SELLIA MARINA SS.106-KM.203 940",
+                "id": "6725",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.79144592638932,
+                    38.917822898411394
+                ]
+            }
+        }
+    ]
+}

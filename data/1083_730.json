@@ -1,0 +1,123 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SHELL SPA",
+                "id": "21147",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "F.LLI SILVESTRI DI SILVESTRI LAURA & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.459378634624388,
+                    45.73512442637474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MORA LORENZO & C. SNC",
+                "id": "16586",
+                "brand": "Costantin",
+                "amenity": "fuel",
+                "operator": "MORA LORENZO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.462738637002872,
+                    45.82371233372953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Amolini Andrea",
+                "id": "12012",
+                "amenity": "fuel",
+                "operator": "AMOLINI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.540386736392975,
+                    45.749427146633344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OFFICINA MECCANICA SUERI ROBERTO",
+                "id": "14785",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SUERI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.467258760517439,
+                    45.82059427565468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione IP di FABBRO MARCO",
+                "id": "16453",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FABBRO MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.40225872508779,
+                    45.70775402149746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "staz. serv. esso zanetti flavio &csnc",
+                "id": "22746",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO ESSO DI ZANETTI FLAVIO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.40160796344662,
+                    45.707312056313384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE IP",
+                "id": "15922",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FANONI GIANPIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.480794922097175,
+                    45.74094063247999
+                ]
+            }
+        }
+    ]
+}

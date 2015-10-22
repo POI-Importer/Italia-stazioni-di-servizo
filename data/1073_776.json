@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ORISTANO-FENOSU SP70 KM 1 ORISTANO-FENOSU",
+                "id": "6696",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.619881010620134,
+                    39.90431932108915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Caruranti Casula Valentino",
+                "id": "10040",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CASULA VALENTINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.777879173402425,
+                    39.888206921254145
+                ]
+            }
+        }
+    ]
+}

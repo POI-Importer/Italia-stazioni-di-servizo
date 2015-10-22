@@ -1,0 +1,395 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO TOTALERG DI D'AMICO FERDINANDO",
+                "id": "29167",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "D'AMICO FERDINANDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.594248116016388,
+                    43.550422914468605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI 04634",
+                "id": "20833",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "D'UVA DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.526724085844421,
+                    43.568891799086785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Montevarchi Oil",
+                "id": "4641",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.563652157783507,
+                    43.53891500902509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "mugnai marco",
+                "id": "14440",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MUGNAI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.451942846179008,
+                    43.54275925780419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione Eni 04627",
+                "id": "12479",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DINI DANIELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.559697240591051,
+                    43.532133314017166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI 53540",
+                "id": "20832",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "D'UVA DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.596010327339174,
+                    43.51099466399102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TERRANUOVA BRACCIOLINI - MOCARINI 735",
+                "id": "30325",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.570221457672117,
+                    43.543415553650675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "nordalieraldosnc",
+                "id": "26934",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NORDALI ERALDO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.535635143518446,
+                    43.5643798526845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Torregas Srl - P.V. S.Giovanni V.rno",
+                "id": "23667",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "TORREGAS - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.540268659591677,
+                    43.55386482732008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Innosacc Q8",
+                "id": "9496",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "INNOSACC DI INNOCENTI A. E SACCHETTI L. E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.545009342758249,
+                    43.54808218068661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN GIOVANNI VALDARNO-VIALE RISORGIMENTO 4/A",
+                "id": "11465",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.537945866584778,
+                    43.56091016326981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "METANAUTO S.R.L.",
+                "id": "21883",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "METANAUTO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.553700892065422,
+                    43.53983549367005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Vela di Fibbi",
+                "id": "6203",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "LA VELA DI FIBBI MARCO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.569647618385261,
+                    43.5250963890605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "impianto ip",
+                "id": "10339",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BALDI ARALDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.464571356773376,
+                    43.56109714128491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "10762",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "F.LLI PIERALLI S.N.C. DI PIERALLI FILIPPO E SARA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.431016325950623,
+                    43.463425441844436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP VIA ENZO FERRARI MONTEVARCHI",
+                "id": "9443",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PECORA MICHELE & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.555559118771383,
+                    43.53909583684115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAVRIGLIA",
+                "id": "24387",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TIBER OIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.487569957971573,
+                    43.525341132299815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO IP DI VANNINI ALESSANDRO",
+                "id": "12861",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "VANNINI ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.578896492719652,
+                    43.547824145815106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE ESSO VITO & DONATO S.N.C.",
+                "id": "21881",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "VITO E DONATO S.N.C. DI PIGNATARO VITO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.585976183414461,
+                    43.54981405685123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL ERG",
+                "id": "19587",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "C.V.R. GAS DI GIUNTI ROMANO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.525420621037483,
+                    43.57633273572063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "My Oil",
+                "id": "21104",
+                "amenity": "fuel",
+                "operator": "FERRARO FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.565659791231155,
+                    43.528779421033555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI 04666",
+                "id": "20191",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PAPI VITTORIO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.562999039888382,
+                    43.54937383648245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Torregas Srl - P.V. Montevarchi",
+                "id": "25016",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "TORREGAS - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.560780182480812,
+                    43.53414513247691
+                ]
+            }
+        }
+    ]
+}

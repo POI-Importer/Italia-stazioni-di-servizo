@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "9056",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ORSI GIORGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.184483140707016,
+                    44.82492972143448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "staz. servizio esso di sala ezio",
+                "id": "9031",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SALA EZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.19163908650819,
+                    44.82369761948334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TACCHINI CARBURANTI brallo",
+                "id": "30596",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TACCHINI CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.280732509526388,
+                    44.7384488161535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP FABBRICA CURONE",
+                "id": "13591",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DANIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.14642259478569,
+                    44.786144741454656
+                ]
+            }
+        }
+    ]
+}

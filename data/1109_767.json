@@ -1,0 +1,403 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Q8 Vozella Antonella",
+                "id": "23507",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "VOZELLA ANTONELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.944220982143747,
+                    40.98095803486488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CTOIL-CAPUTO TERESA",
+                "id": "21674",
+                "amenity": "fuel",
+                "operator": "CAPUTO TERESA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.073306281183246,
+                    41.00555465173482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIN.PER DISTRIBUTORE DI PERRINA V. SNC",
+                "id": "16637",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "*\"VIN PER DISTRIBUTORE DI PERRINA VINCENZO S.N.C.\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.113440454006199,
+                    41.08335914236844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RICCIARDI ALFREDO",
+                "id": "13745",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "RICCIARDI ALFREDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.114843249320982,
+                    41.02313385790653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GROTTAMINARDA",
+                "id": "28816",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.092556774616241,
+                    41.069117366468156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "fulgorgas grottaminarda",
+                "id": "29657",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "FULGORGAS SUD S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.054017454385757,
+                    41.049333172340184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EUROIL",
+                "id": "9604",
+                "amenity": "fuel",
+                "operator": "EUROIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.105375051498411,
+                    41.08637791506908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FLAMMIA MAURIZIO",
+                "id": "13824",
+                "amenity": "fuel",
+                "operator": "FLAMMIA MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.999500885605812,
+                    41.09540853857935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "fulgorgas grottaminarda",
+                "id": "29732",
+                "amenity": "fuel",
+                "operator": "FULGORGAS SUD S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.054017454385757,
+                    41.049333172340184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dipri Grottaminarda",
+                "id": "11297",
+                "amenity": "fuel",
+                "operator": "DIPRI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.054869055747988,
+                    41.064632861355406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MIRABELLA NORD",
+                "id": "29994",
+                "amenity": "fuel",
+                "operator": "SARNI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.01403778791428,
+                    41.060936797386184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FONTANAROSA",
+                "id": "31465",
+                "amenity": "fuel",
+                "operator": "CAPUTO TERESA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.018484298813178,
+                    41.01883641750499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BARRASSO VINCENZA",
+                "id": "22461",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "*BARRASSO VINCENZA*"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.096383148479388,
+                    41.059589887712775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP SERVICE SRL",
+                "id": "31513",
+                "amenity": "fuel",
+                "operator": "CAPONE DANTE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.015565737806924,
+                    41.05492474150765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGOSFUEL",
+                "id": "12633",
+                "amenity": "fuel",
+                "operator": "SERIAUTO 1 S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.030100191323868,
+                    41.034418100444235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "trunfio giovanni",
+                "id": "25750",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "TRUNFIO GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.090537071228027,
+                    40.98161354765345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "31747",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "L.A.S. EUROSERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.063016265630722,
+                    41.066765142555845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MOSCARITOLO BERNARDINO",
+                "id": "11097",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MOSCARITOLO BERNARDINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.99691680185242,
+                    41.04431560317167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DG Carburanti",
+                "id": "25281",
+                "amenity": "fuel",
+                "operator": "DG CARBURANTI   DI    DI GREGORIO GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9974976287798,
+                    41.00323963349287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAM - Stazione di Servizio F.lli Tammaro s.n.c.",
+                "id": "27103",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "*\"F.LLI TAMMARO FU RAFFAELE DI BRUNO E GERARDO TAMMARO S.N.C.\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.987221062183377,
+                    41.0610589511979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MIRABELLA SUD",
+                "id": "3838",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GENZALE GESTIONI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.014185830688461,
+                    41.060108089767176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PINTO ALDO",
+                "id": "7084",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PINTO ALDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.072118912595899,
+                    41.00695431050495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Esso",
+                "id": "6250",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F.C. PETROLI DI FERRAGAMO NICOLA E ROBERTO E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.958488835029584,
+                    41.0527555629568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE IP",
+                "id": "8542",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CIPRIANO BRUNO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.110315680503847,
+                    41.00339696699642
+                ]
+            }
+        }
+    ]
+}

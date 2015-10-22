@@ -1,0 +1,54 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni impianto 19341",
+                "id": "13405",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AF.RO DI AFRUNE LUIGI & ROMANO ALESSANDRO  S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.479827344417572,
+                    40.14856561652055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bello Carburanti",
+                "id": "11223",
+                "amenity": "fuel",
+                "operator": "BELLO CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.496371360204535,
+                    40.14640642225144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "salentogas srl",
+                "id": "19375",
+                "amenity": "fuel",
+                "operator": "SALENTOGAS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.467977344989777,
+                    40.11418631492584
+                ]
+            }
+        }
+    ]
+}

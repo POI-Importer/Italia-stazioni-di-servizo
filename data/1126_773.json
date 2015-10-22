@@ -1,0 +1,224 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SANSONE SNC",
+                "id": "21626",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SANSONE S.N.C. DI SANSONE ANNA VINCENZA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.05871650576591,
+                    40.26438127189774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOIL SPA",
+                "id": "29200",
+                "amenity": "fuel",
+                "operator": "TOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.023497760295868,
+                    40.18618645778698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore metano Collemeto",
+                "id": "26368",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BALLARINO & MAIORANO SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.096865564584732,
+                    40.2069326570871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio ESSO",
+                "id": "27395",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LEO ANTONIO SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.040130138397217,
+                    40.27656098850265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MEN 8",
+                "id": "23570",
+                "amenity": "fuel",
+                "operator": "MEN8 - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.068690299987793,
+                    40.19395447720183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAGNAZZO CARBURANTI SNC",
+                "id": "21589",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CAGNAZZO CARBURANTI DI CAGNAZZO SALVATORE & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.98787534236908,
+                    40.289309336929776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 di Ballarino&maiorano srl",
+                "id": "26367",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BALLARINO & MAIORANO SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.09961885213852,
+                    40.214427525258955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "28109",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DE GIORGI STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.060649037361145,
+                    40.278313865352345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8\\\\TOIL COPERTINO",
+                "id": "21668",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "TOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.083508163690567,
+                    40.26482745403669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "16679",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PERRONE COSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.00697535276413,
+                    40.299166051081755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 di Cordella Leo Mauro",
+                "id": "27392",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CORDELLA LEO MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.013179302215576,
+                    40.26601248334365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SANSONE SNC",
+                "id": "21627",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SANSONE S.N.C. DI SANSONE ANNA VINCENZA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.05871650576591,
+                    40.26438127189774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "via corsica",
+                "id": "32122",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GRECO FERNANDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.04626703262329,
+                    40.25206834841726
+                ]
+            }
+        }
+    ]
+}

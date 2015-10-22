@@ -1,0 +1,393 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA SERVIZIO TOTALERG",
+                "id": "31432",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DE ROSA ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.883349895477297,
+                    41.467074575133914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PETROLGAMMA",
+                "id": "31736",
+                "amenity": "fuel",
+                "operator": "STARNINO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.831184953451157,
+                    41.455307286905864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "17440",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ANGRISANI AGOSTINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.837742617184743,
+                    41.49025843133483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "P.V. 04 Piedimonte San Germano",
+                "id": "30842",
+                "amenity": "fuel",
+                "operator": "LA ROCCA PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.760794401168823,
+                    41.493814890828084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ITALIA CARBURANTI",
+                "id": "31704",
+                "brand": "Italia Carburanti",
+                "amenity": "fuel",
+                "operator": "VELOCITTA' DI DE SIMONE STEFANIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.831547148511502,
+                    41.49123410698161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore eni",
+                "id": "30276",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE ENI DI TISEO ALBERTO E VALENTINO BARBARA SOCIETA' IN NOME COLLETTIVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.79403904080391,
+                    41.48452880892427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "16625  eni",
+                "id": "8610",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CASTELLI ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7714347243309,
+                    41.416979158436824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA DI SERVIZIO FRANCESCO SACCO",
+                "id": "19935",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SACCO FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.851977437734604,
+                    41.48629177603272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL 8113",
+                "id": "26427",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "GELFUSA FABRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.745932791234962,
+                    41.49615565895498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione ENI di Marrocco Angelo",
+                "id": "21073",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MARROCCO ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.84438544511795,
+                    41.48882985000994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA DI SERVIZIO TAMOIL",
+                "id": "11974",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "GAVI DI VIZZACCARO COSTANZO E C. - S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.748516589403152,
+                    41.4835369932895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "fulgorgas s.g. a liri",
+                "id": "31828",
+                "amenity": "fuel",
+                "operator": "FULGORGAS SUD S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74354249170028,
+                    41.400862587280145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASSINO",
+                "id": "5804",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TotalErg SpA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.848108606151529,
+                    41.48736510172809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA SERVIZIO ESSO",
+                "id": "27211",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PINCHERA ENRICA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.775819063507015,
+                    41.48989703035441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE MARIO STAGNO",
+                "id": "20485",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "STAGNO MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.765037943077457,
+                    41.40707854189763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASSINO",
+                "id": "24233",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TIBER OIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.834418732792644,
+                    41.507685884179885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "de siena dario",
+                "id": "20626",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DE SIENA DARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.833824247121811,
+                    41.44341963967494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore carburanti repsol di risi maria",
+                "id": "17029",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "RISI MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.787585645914076,
+                    41.438784415128254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "cavaliere ernesto",
+                "id": "15126",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CAVALIERE ERNESTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.729899376630783,
+                    41.49756728127911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "enivolturno",
+                "id": "31697",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIMPIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.836294561624525,
+                    41.48564277503531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "23284",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "FURIA FRANCESCO MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.762081861495968,
+                    41.404959356237754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASSINO S.S. 6 CASILINA KM.135",
+                "id": "6679",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.801358789205553,
+                    41.48181092455256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "enidibiasio",
+                "id": "31698",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIMPIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.825428932905195,
+                    41.48928372719383
+                ]
+            }
+        }
+    ]
+}

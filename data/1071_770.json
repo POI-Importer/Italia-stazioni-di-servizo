@@ -1,0 +1,88 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso Olmedo",
+                "id": "25766",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SANNA ALESSIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.376789700000018,
+                    40.6533329544002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "16589",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PONZIANI S.N.C. DI AUGUSTO E MASSIMO PONZIANI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.304875493049622,
+                    40.66429433832734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "janna de mare",
+                "id": "6139",
+                "amenity": "fuel",
+                "operator": "JANNA  DE MARE  DI JESS  TESTA & C.  S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.417994976043701,
+                    40.70724317452139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE ENI",
+                "id": "17331",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GAVIOLI CESARE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.28481525182724,
+                    40.59555884390814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "aurora s.a.s. di baldinu luigi & c.",
+                "id": "20501",
+                "amenity": "fuel",
+                "operator": "AURORA S.A.S. DI BALDINU LUIGI & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.331976532936096,
+                    40.623346342515944
+                ]
+            }
+        }
+    ]
+}

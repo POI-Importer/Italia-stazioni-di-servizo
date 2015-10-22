@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FOGGIA INCORONATA",
+                "id": "29565",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "EWAGRILL DI SALZILLO VINCENZO & C S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.656982064247131,
+                    41.397606611909964
+                ]
+            }
+        }
+    ]
+}

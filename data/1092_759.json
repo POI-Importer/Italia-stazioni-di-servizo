@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DUBOIS MANZIANA",
+                "id": "17874",
+                "amenity": "fuel",
+                "operator": "DUBOIS LUCIANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.125760018825531,
+                    42.1184387227684
+                ]
+            }
+        }
+    ]
+}

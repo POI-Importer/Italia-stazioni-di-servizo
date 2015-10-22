@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso Prizzi",
+                "id": "25821",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MARRETTA ODDO ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.43494666947322,
+                    37.719913264046816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GRS",
+                "id": "25781",
+                "amenity": "fuel",
+                "operator": "PECORARO ANTONINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.433845413192556,
+                    37.7198822997841
+                ]
+            }
+        }
+    ]
+}

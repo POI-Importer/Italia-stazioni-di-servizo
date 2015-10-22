@@ -1,0 +1,123 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tramatza Est",
+                "id": "5150",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.642851263284683,
+                    39.99011667201604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI SIMAXIS DI MELE",
+                "id": "12798",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MELE MARIA ELENA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.681993338622988,
+                    39.93102256765734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "8468 LACONI ALESSANDRO",
+                "id": "23142",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "LACONI ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.756695613265038,
+                    39.921171159281755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tramatza Ovest",
+                "id": "5151",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.641453832387924,
+                    39.99009406710545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione Essso di Demonti Anonello",
+                "id": "28031",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STAZIONE SERVIZIO ESSO N. & G. SERVICE  SASDI DEMONTIS BENIGNO AN TONELLO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.675406575202942,
+                    39.955482981585135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIT-STOP CAFFE' di Daniela Cubadda & C SAS",
+                "id": "11338",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PIT - STOP CAFFE' DI DANIELA CUBADDA & C. S.A.S"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.63656338888552,
+                    40.03883085664373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SCACCO MA.TO. S.R.L.",
+                "id": "23891",
+                "amenity": "fuel",
+                "operator": "SCACCO MA.TO. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.663760423660278,
+                    39.92493300988221
+                ]
+            }
+        }
+    ]
+}

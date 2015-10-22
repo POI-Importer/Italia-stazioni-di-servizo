@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN FELICE CIRCEO - TITTONI",
+                "id": "24776",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.092783906745924,
+                    41.24305647058725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "9220",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MASTRACCI DAVIDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.09285354232793,
+                    41.24414377820903
+                ]
+            }
+        }
+    ]
+}

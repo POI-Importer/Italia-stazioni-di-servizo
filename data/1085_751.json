@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "reteitalia",
+                "id": "23662",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "BARZANTI IRENE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.856137810457994,
+                    43.14708983885971
+                ]
+            }
+        }
+    ]
+}

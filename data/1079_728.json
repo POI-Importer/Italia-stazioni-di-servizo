@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CATTANEO MARCO",
+                "id": "15430",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CATTANEO MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.742638665021559,
+                    46.03000241205449
+                ]
+            }
+        }
+    ]
+}

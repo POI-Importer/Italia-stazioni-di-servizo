@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP DI RAUL MIGUELETTO",
+                "id": "16077",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MIGUELETTO RAUL GUILLERMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.264248030830004,
+                    46.200663487636525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ASTOLFI MARCO S.S. ENI",
+                "id": "10567",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ASTOLFI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.212647438049313,
+                    46.21259569374372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI SOM Toffolo",
+                "id": "31546",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TOFFOLO GIANLUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.188259712644935,
+                    46.20619072488092
+                ]
+            }
+        }
+    ]
+}

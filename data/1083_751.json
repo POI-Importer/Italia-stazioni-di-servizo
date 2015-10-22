@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "19378",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CELLI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.544741302728653,
+                    43.09062276041783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area Servizio Le Colonne",
+                "id": "24056",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FOSSI FABIO & FOSSI FEDERIGO SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.545439267079928,
+                    43.12202377549965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso san vincenzo",
+                "id": "19982",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PAPARELLI MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.542780607938765,
+                    43.11102970707612
+                ]
+            }
+        }
+    ]
+}

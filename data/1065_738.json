@@ -1,0 +1,225 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni",
+                "id": "31639",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GROSSO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.373071387410164,
+                    44.80636050271165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LUSERNA SAN GIOVANNI",
+                "id": "5895",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TotalErg SpA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.266222568122885,
+                    44.81150279367342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "23396",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "DOGLIOLI GIUSEPPE GIANLUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.367340570361305,
+                    44.786304370652104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "22626",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DAMA SNC DI SCARDELLINO DAVIDE E ALASONATTI MARA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.289077341556548,
+                    44.80106495180225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "P.V. CAVOUR",
+                "id": "22377",
+                "brand": "SACED",
+                "amenity": "fuel",
+                "operator": "SACED S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.375006601214409,
+                    44.791518753373516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Campiglione Fenile",
+                "id": "26635",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SCACCIANOCE FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.294359388885483,
+                    44.80602582915325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP Gruppo API",
+                "id": "11392",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GOSSO PIERINO EUGENIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3100119829177865,
+                    44.76717379812896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "13926",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PIA ALAIN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.308190762996673,
+                    44.83133016264886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CENTRO CALOR BRICHERASIO",
+                "id": "10540",
+                "amenity": "fuel",
+                "operator": "CENTRO CALOR S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.318063974380494,
+                    44.83040987905618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore carburanti IP",
+                "id": "7874",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PERETTI FULVIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.305664967211895,
+                    44.8199098331402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "bosio gianni",
+                "id": "21488",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BOSIO GIANNI BATTISTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.231279102151688,
+                    44.820274367637005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni306",
+                "id": "4859",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ALBERTO PIERPAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.338513135910034,
+                    44.72978258943962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SOC.F.D.DI FONTANA E DI DATO SNC",
+                "id": "7624",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F - D DI FONTANA DENIS E DI DATO GIANCARLO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.224839588954864,
+                    44.81983552844595
+                ]
+            }
+        }
+    ]
+}

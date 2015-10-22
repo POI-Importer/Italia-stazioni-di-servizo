@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 SOVERATO",
+                "id": "23354",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GEAM SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.550351769975354,
+                    38.68351494920129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "battaglia antonio tamoil",
+                "id": "12748",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BATTAGLIA ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.566035720487662,
+                    38.57609881442261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "fratelli bencivenni",
+                "id": "31436",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FRATELLI BENCIVENNI S.N.C. DI MARCELLA ED EGIDIO BENCIVENNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.549828369311513,
+                    38.68538945588279
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EUROPAM FERRIERE",
+                "id": "12901",
+                "amenity": "fuel",
+                "operator": "EUROPAM S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.502881467342377,
+                    44.64565629460671
+                ]
+            }
+        }
+    ]
+}

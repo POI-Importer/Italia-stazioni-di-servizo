@@ -1,0 +1,271 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Melli & C.",
+                "id": "18653",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO MELLI MORENO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9226123808121,
+                    44.943840838115314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "17227",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SABATTINI GRAZIELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.068398356437683,
+                    44.88132180645652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Savioli",
+                "id": "10700",
+                "amenity": "fuel",
+                "operator": "SAVIOLI ODDINO S.N.C. DI SAVIOLI LAMBERTO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.986695587635039,
+                    44.91337143873299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio IES",
+                "id": "16958",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "I.B.M. DI BOSCO ILARIA E MATTEO S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.91586448252201,
+                    44.92907129217374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FORTI BRUNETTO SELF AREA AGIP",
+                "id": "18562",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FORTI BRUNETTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.99445752842371,
+                    44.88928180053258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "12949",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ZORZI SIMONE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.914823148479398,
+                    44.92995721290061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "16693",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FABBRI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.043311655521395,
+                    44.89516742055777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "POMPA BIANCA",
+                "id": "10971",
+                "amenity": "fuel",
+                "operator": "BOSCHI PIETRO & C. - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.062400937080382,
+                    44.855193435607276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2299",
+                "id": "29678",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "T.D.M. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.983704924583435,
+                    44.911924401552234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di Servizio IES di Colella Marco",
+                "id": "23621",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "COLELLA MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.990418669866928,
+                    44.895592049954125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "POMPA BIANCA",
+                "id": "23002",
+                "amenity": "fuel",
+                "operator": "PETROL SERVICE SRL S.U."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.071223193254129,
+                    44.89180929925598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Savioli",
+                "id": "10698",
+                "amenity": "fuel",
+                "operator": "SAVIOLI ODDINO S.N.C. DI SAVIOLI LAMBERTO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.901729540475458,
+                    44.89105382316436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "giovanelli danilo e paolo s.n.c",
+                "id": "9777",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GIOVANELLI DANILO E PAOLO - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.067948415875433,
+                    44.88207118155871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "San Possidonio",
+                "id": "22807",
+                "amenity": "fuel",
+                "operator": "ESTENSE ENERGY S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.966930389404297,
+                    44.90051094375473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE ENI",
+                "id": "14081",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "IMPIANTO AGIP DI SOLOMITA GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.067918821365765,
+                    44.88276426736284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "METANAUTO",
+                "id": "22908",
+                "amenity": "fuel",
+                "operator": "METANAUTO S.N.C. DI BENATTI M. & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.06220245361328,
+                    44.85491354954201
+                ]
+            }
+        }
+    ]
+}

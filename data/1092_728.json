@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "mi.lo.snc",
+                "id": "23040",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MI.LO. SNC DI EDOTTI LORIS E MIRKO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.003893852233888,
+                    46.05932496734652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CUCAGAS",
+                "id": "19809",
+                "brand": "Cucagas",
+                "amenity": "fuel",
+                "operator": "CUCAGAS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.954888552427292,
+                    46.03110184585121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "colle paolo",
+                "id": "14857",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "COLLE PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.094941437244417,
+                    46.06505536690423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Custodia Giudiziaria Eni-Li Volsi",
+                "id": "28499",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ELETTROSHOP S.N.C. DI DALLA PIAZZA MASSIMO E PACE ROBERTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.005542523942495,
+                    46.04070069544398
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI COMEGLIANS",
+                "id": "28301",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SOM S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.865786850452423,
+                    46.51503284963361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "13270",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "POCHERO  ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.854278838801637,
+                    46.54906232649218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "10473",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CIMENTI SEVERINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.864805921867173,
+                    46.487267092708876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "31693",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICE DI GIRARDINI DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.86496475338936,
+                    46.48836353862072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MORO MIRIA",
+                "id": "14695",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MORO MIRIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.002161085605621,
+                    46.51104946658066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARLEVARIS SILVANA",
+                "id": "18527",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CARLEVARIS SILVANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.86768083947186,
+                    46.47891067152238
+                ]
+            }
+        }
+    ]
+}

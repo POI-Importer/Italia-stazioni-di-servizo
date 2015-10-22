@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Paolo Cugusi",
+                "id": "19096",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CUGUSI PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.256620343526606,
+                    40.11570123873874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "B&M di Bosu Andrea e Marras Giacomo",
+                "id": "31093",
+                "amenity": "fuel",
+                "operator": "B & M DI BOSU ANDREA E MARRAS GIACOMO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.165204763412476,
+                    40.09672977320749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso coinu",
+                "id": "4151",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "COINU CARMELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.257653802633286,
+                    40.11373483307809
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C.DA POZZO CASSERO MODICA",
+                "id": "12365",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.824061787696792,
+                    36.89264919492837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IT00RGY00178J",
+                "id": "30732",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MODICA GIUSEPPE E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.820768535137175,
+                    36.91676036930892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Flli Avola Carmelo e Rosario",
+                "id": "23384",
+                "amenity": "fuel",
+                "operator": "F.LLI AVOLA ROSARIO & CARMELO SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.824346511214346,
+                    36.97633106751956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SP MODICA-GIARRATANA KM 4+300",
+                "id": "12328",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.786582008598318,
+                    36.906703381573244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.LLI COVATO",
+                "id": "16218",
+                "amenity": "fuel",
+                "operator": "F.LLI COVATO DI COVATO GIUSEPPE SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.834345877170565,
+                    36.92632830591196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C.DA SAN GIACOMO RG",
+                "id": "29451",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.825521409511566,
+                    36.97730159397834
+                ]
+            }
+        }
+    ]
+}

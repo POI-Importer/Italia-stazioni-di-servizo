@@ -1,0 +1,173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GIULIANI MARTINO DI GIULIANI GRAZIANA",
+                "id": "4950",
+                "amenity": "fuel",
+                "operator": "GIULIANI MARTINO DI GIULIANI GRAZIANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.398670330024743,
+                    40.69253145069767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EMMEFFE DI MARTINO FUMAROLA",
+                "id": "14983",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "EMMEFFE DI FUMAROLA MARTINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.339720875024796,
+                    40.69660922246905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MARTINA FRANCA - VIA TARANTO",
+                "id": "30243",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.336112069940555,
+                    40.69506339475209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VITO LEONARDO SIBILLA",
+                "id": "26037",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SIBILLA LEONARDO VITO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.22697556018829,
+                    40.60135492597964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "9327",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BASILE MARTINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.33191967010498,
+                    40.68523810940567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Martina Franca",
+                "id": "22236",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3295097053051,
+                    40.67907258987629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "29244",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MICELI SANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.25190568959351,
+                    40.59929251646073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BASILE PETROLI SPA",
+                "id": "12806",
+                "amenity": "fuel",
+                "operator": "COLUCCI ITALO VITTORIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.229187041521072,
+                    40.605894907131564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MARTINA FRANCA VALLE D'ITRIA",
+                "id": "9602",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.34012928283801,
+                    40.706194749928535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio eni castellana paolo",
+                "id": "12604",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CASTELLANA PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.338316512929396,
+                    40.70057170419036
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GARGANO OVEST",
+                "id": "3517",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SARNI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.500600000000002,
+                    41.5906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "METANCAR SRL",
+                "id": "5286",
+                "amenity": "fuel",
+                "operator": "METANCAR - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.51237612962723,
+                    41.51310008183359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GARGANO EST",
+                "id": "30081",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SARNI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.501078665256498,
+                    41.59157839827192
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GIACCIANO C/BARUCHEL-VIA SCAVAZZA 1769 C/O CENTRO COMM.",
+                "id": "11828",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.465027332305908,
+                    45.07835584679838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chieregato Mara",
+                "id": "11188",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CHIEREGATO MARA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.454791031580726,
+                    45.06722081555607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE H6 BAGNOLO PO (RO)",
+                "id": "13414",
+                "amenity": "fuel",
+                "operator": "S.A.V.C.A. SOCIETA' ADRIESE VENDITA CARBURANTI ED AFFINI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.507754921913149,
+                    44.993344338504926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tiziano Tacchini distibutore carburanti",
+                "id": "18801",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "TACCHINI TIZIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.461728626983586,
+                    45.034131463313805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio IP",
+                "id": "18727",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BRUSEMINI ROSANNA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.578671187162398,
+                    45.03405288065811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "colorado caffe'",
+                "id": "26914",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "CHINAGLIA PATRIZIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.57773107290268,
+                    45.02667291966478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORO F.LLI SPA",
+                "id": "5662",
+                "brand": "Loro",
+                "amenity": "fuel",
+                "operator": "LORO F.LLI-S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.543837338685988,
+                    45.0279756471464
+                ]
+            }
+        }
+    ]
+}

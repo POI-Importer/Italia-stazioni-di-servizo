@@ -1,0 +1,174 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "B. & V. di Bonelli Andrea",
+                "id": "5030",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "TORREGAS - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.455274879932402,
+                    44.04922153775478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GALLICANO",
+                "id": "28630",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.440678298473358,
+                    44.06793384126674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BENASSI MARIANGELA - DISTRIBUTORE 4 PETROLI",
+                "id": "13989",
+                "amenity": "fuel",
+                "operator": "BENASSI MARIANGELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.482128804041395,
+                    44.04289137902435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "B & V DI BONELLI ANDREA E C. SAS",
+                "id": "21949",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "B & V DI BONELLI ANDREA E C. SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.455280244350432,
+                    44.049217682118005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CONAD GALLICANO",
+                "id": "30804",
+                "brand": "CONAD",
+                "amenity": "fuel",
+                "operator": "LADIS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.441930890083311,
+                    44.064399619589835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Maufer",
+                "id": "7023",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MAUFER S.N.C. DI MAURO ORI E FERNANDO AGOSTINI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.499871969223022,
+                    44.033284433418814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione servizio q8 derni d&f",
+                "id": "21538",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DERNI DAVID E FRANCESCO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.507985891401633,
+                    43.96120095909184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Torregas Srl - P.V. Fabbriche di Vallico",
+                "id": "6345",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "TORREGAS - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.432474762201311,
+                    43.999007013876295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "WIN",
+                "id": "30408",
+                "brand": "Win",
+                "amenity": "fuel",
+                "operator": "KSENYA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.443333685398102,
+                    44.08130195962142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nuova carburanti",
+                "id": "9785",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "NUOVA CARBURANTI DI PIOLI SANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.542218685150146,
+                    43.976396283080156
+                ]
+            }
+        }
+    ]
+}

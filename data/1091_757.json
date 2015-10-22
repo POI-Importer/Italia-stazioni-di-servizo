@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "10944",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "TOSI SANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.870934349319672,
+                    42.418635265219415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENERPETROLI - TUSCANIA",
+                "id": "31458",
+                "brand": "Enerpetroli",
+                "amenity": "fuel",
+                "operator": "ENERPETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.90144956111908,
+                    42.418252990812874
+                ]
+            }
+        }
+    ]
+}

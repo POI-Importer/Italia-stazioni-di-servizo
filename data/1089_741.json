@@ -1,0 +1,292 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN LAZZARO SAVENA",
+                "id": "5778",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TotalErg SpA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.456076364418093,
+                    44.45275914636514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "kuwait",
+                "id": "28928",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "EURO TABACCHI 2004 DI MANCINI ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.432492136955261,
+                    44.38880531200641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MORO SERVICE",
+                "id": "9125",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "MO.RO. SERVICE SNC DI MORUZZI STEFANO E RONZANI FRANCESCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5428127348423,
+                    44.41874849847619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "31440",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "L & GP S.A.S. DI PINTO LUCIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.528485863574245,
+                    44.42541618248608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN LAZZARO DI SAVENA-VIA EMILIA LEV.416 FZ. IDICE",
+                "id": "11513",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.443530262565671,
+                    44.45689572510733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GENOVA SNC",
+                "id": "9839",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GENOVA S.N.C. DI GENOVA FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.483535691540508,
+                    44.44180222276138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SERVICECARPLUS",
+                "id": "8607",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SCRIGNOLI ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.428994536399843,
+                    44.46316400907455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "metancar",
+                "id": "5317",
+                "amenity": "fuel",
+                "operator": "METANCAR S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.572137326002121,
+                    44.409279707829704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "casaella carburanti",
+                "id": "10405",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CASELLA CARBURANTI S.A.S. DI PIETRO CASELLA E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.594591013759782,
+                    44.40067447633379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SILLARO EST",
+                "id": "3674",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BIG service snc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.598382684516878,
+                    44.429696012406175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "7876",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ZAPPI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.439736783504488,
+                    44.458182417950695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 5512",
+                "id": "22630",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PICCINELLI MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.585047437048388,
+                    44.40346492215096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "7875",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ZAPPI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.439736783504488,
+                    44.458182417950695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SILLARO OVEST",
+                "id": "3858",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI RETE OIL&NONOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.60031259059906,
+                    44.42773497821667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP Castel dé Britti",
+                "id": "12822",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FACCIALIVE DI PEGHETTI LUISA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.433626671491538,
+                    44.42759280997964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1052",
+                "id": "30250",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "T.D.M. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.581652462482452,
+                    44.40468301143789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Buccarella Carburanti",
+                "id": "17406",
+                "amenity": "fuel",
+                "operator": "BUCCARELLA COSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.600993992681879,
+                    44.44065085407186
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GALLUCCIO",
+                "id": "25671",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "EWAGRILL DI SALZILLO VINCENZO & C S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.955439550424332,
+                    41.33937129966432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EWA ROCCAMONFINA",
+                "id": "29980",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.986738324165346,
+                    41.29403835564386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AUTOSTAZIONE Q8 MARIO ITALO",
+                "id": "9822",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MARIO ITALO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9810037612915,
+                    41.287539313037435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "14669",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DI PIPPO LORENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.978182077407839,
+                    41.28662026943012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CONCA DELLA CAMPANIA",
+                "id": "23172",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "EWA OIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.990323518385365,
+                    41.33191400313158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio Boccucci Marco",
+                "id": "12102",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BOCCUCCI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.893376571857747,
+                    41.263027033999634
+                ]
+            }
+        }
+    ]
+}

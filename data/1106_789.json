@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip",
+                "id": "18986",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "RI.VI.BA. DI RIZZO MICHELE E BATTAGLIA GIUSEPPE S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.479455177909815,
+                    38.03284584547267
+                ]
+            }
+        }
+    ]
+}

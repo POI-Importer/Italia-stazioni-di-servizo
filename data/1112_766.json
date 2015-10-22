@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Total Erg",
+                "id": "17126",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PANGEA SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.56079737842083,
+                    41.21471359705521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AUTOMETANO CANDELA",
+                "id": "17713",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "AUTOMETANO CANDELA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.520770102739332,
+                    41.14680705588762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TORRE ALEMANNA SUD",
+                "id": "29022",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DRIVE FOOD S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.63275098800659,
+                    41.178177535657035
+                ]
+            }
+        }
+    ]
+}

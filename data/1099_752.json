@@ -1,0 +1,140 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "4856",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PAOLETTI SNC DI PAOLETTI PAOLA ED EMIDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.297047168016435,
+                    43.037957616894744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil Amandola",
+                "id": "10227",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FERMANA CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.354847431182865,
+                    42.97084127068202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "15639",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ANITORI GIORGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.297983258962631,
+                    43.03611929299632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil Sarnano",
+                "id": "10953",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MONALDI CARLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.304537236690521,
+                    43.03089416888455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "12410",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GALLOPPA MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.356092616349994,
+                    42.981239046104754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "12898",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BARCHETTI GRAZIANO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.343578646167998,
+                    42.9461533164227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rifornimento metano Perroni",
+                "id": "30257",
+                "amenity": "fuel",
+                "operator": "PERRONI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.274951130151747,
+                    43.050199288365086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GUALDO",
+                "id": "30897",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.343091309070587,
+                    43.06563658059625
+                ]
+            }
+        }
+    ]
+}

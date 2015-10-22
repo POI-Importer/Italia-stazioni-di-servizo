@@ -1,0 +1,798 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CECE SNC",
+                "id": "20817",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "*\"CECE NICOLA E DIEGO S.N.C.\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.772965889549255,
+                    40.91805204350411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sanseverino s.a.s.",
+                "id": "12601",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SANSEVERINO S.A.S. DI LOMBARDINI ROSALIA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.794882535934446,
+                    40.928367586496826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "26116",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ALTO CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.825056751451147,
+                    40.92294680083569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione esso manocalzati(av)",
+                "id": "29550",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BARATTA S.A.S. DI BARATTA ANTONIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.832673183097768,
+                    40.94072997130711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IQ Carburanti",
+                "id": "25562",
+                "amenity": "fuel",
+                "operator": "DISTRIBUZIONE CARBURANTI S.R.L.."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.789365231990816,
+                    40.928315303067826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione esso via due principati",
+                "id": "16840",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BARATTA S.A.S. DI BARATTA ANTONIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.796711131930351,
+                    40.908048523426544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione esso Atripalda",
+                "id": "16883",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BARATTA S.A.S. DI BARATTA ANTONIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.830764457583427,
+                    40.924116284775046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto Q8 di Mar Elen sas",
+                "id": "17330",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MAR.ELEN. S.A.S. DI GAETA MARCELLO & ULINO ELENA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.781350120902061,
+                    40.871896284110036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IRPINIA SUD",
+                "id": "3780",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SPRINT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.783900000000001,
+                    40.9261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE IP",
+                "id": "29367",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DE PIANO ANNA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.855088740587231,
+                    40.8860322664648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore ip",
+                "id": "26640",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DE MEO CARMELINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.825368523597717,
+                    40.91739608439485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MOCCIA",
+                "id": "27561",
+                "amenity": "fuel",
+                "operator": "MOCCIA GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.83937501907349,
+                    40.96932721289086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO Q8 di COLARUSSO FRANCO",
+                "id": "13954",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "COLARUSSO FRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.877860024571419,
+                    40.96253910094148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "impianto Q8 Avellino Contrada Scrofeta",
+                "id": "31702",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "IP SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.795733466744425,
+                    40.93285055100842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "pv7566",
+                "id": "20140",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "D'ARGENIO SILVIO GAETANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.817549884319305,
+                    40.91178073356024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pratola Serra",
+                "id": "20092",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.841953963041309,
+                    40.97226859221289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Rifornimento Serpeco",
+                "id": "19931",
+                "amenity": "fuel",
+                "operator": "SER.PE.CO.  S.R.L. - SERVIZI PETROLIFERI COORDINATI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.766641557216646,
+                    40.955834557597534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IRPINIA NORD",
+                "id": "3686",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "IRPINIA CARBUROIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.782506880950905,
+                    40.926156813840905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "carburanti Q8 di romeo liberato",
+                "id": "21999",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ROMEO LIBERATO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.85431358218193,
+                    40.87207496989958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "11282",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DE SIMONE PIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.870428615718309,
+                    40.85397760138323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DI MATTIA LUIGI",
+                "id": "23824",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DI MATTIA LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.868198037147522,
+                    40.85744304425777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AVELLINO",
+                "id": "15720",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "AMATO SANTOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.819322824478151,
+                    40.929371500629365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MOCCIA",
+                "id": "27565",
+                "amenity": "fuel",
+                "operator": "*\"EMMEGI GAS - S.R.L.\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.839010238647463,
+                    40.96860987232541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "26020",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SOLE ROSA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.782123267650604,
+                    40.97698902536757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "25516",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CASM DI VINCIGUERRA ANGELO & C. S.A.S. IN ABBREVIAZIONE - CASM S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.786385297775267,
+                    40.905129420261275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CDC DI BARONE ROBERTO",
+                "id": "28900",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BARONE ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.801421950262466,
+                    40.9162179952547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore \"Q8 Giovanni Capponi\"",
+                "id": "31602",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CAPPONI GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.871151149272922,
+                    40.864322687293836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 di MAC srl",
+                "id": "26286",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DISTRIBUZIONE CARBURANTI S.R.L.."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.792954027652742,
+                    40.903473582730356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALFANO MELCHIORRE",
+                "id": "23315",
+                "amenity": "fuel",
+                "operator": "ALFANO MELCHIORRE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.85690861940384,
+                    40.868833806727764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "23588",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MARANO E BORRELLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.832666814327242,
+                    40.9308682244521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Automarketsas",
+                "id": "8236",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "AUTO MARKET - DE PADUA ANNA DI SIRIGNANO MILVA & C. S.A.S. IN ABBREVIAZIONE AUTO MARKET S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.830592125654219,
+                    40.932124587056784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Matarazzo Eugenio",
+                "id": "4148",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "IRPINIA IDROCARBURI S.A.S. DI MATARAZZO EUGENIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.766004532575607,
+                    40.92774342547413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AVELLINO VIA F. TEDESCO",
+                "id": "6709",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.820661558930166,
+                    40.9237225198343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Campisano Luciano",
+                "id": "19218",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CAMPISANO LUCIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.825722759483595,
+                    40.898402534866705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zaino Amato",
+                "id": "9912",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "*ZAINO AMATO MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.871153831481934,
+                    40.86431254510434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 di Cucciniello Antonio",
+                "id": "25560",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CUCCINIELLO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.766254192293106,
+                    40.913626309030505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "staz.carburanti est",
+                "id": "9836",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "STAZIONE CARBURANTI EST DI DE VITO CARMINE S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.837045520544049,
+                    40.96470425961358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AIELLO DEL SABATO",
+                "id": "29650",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.812510684132578,
+                    40.892559587350114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BARRASSOCARBURANTI",
+                "id": "26620",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BARRASSO CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.83199492096901,
+                    40.93722557906391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "26651",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PETRILLO FIORE GLAUCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.832382500171658,
+                    40.939544258392544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Roberto Del Percio Distributore Carburanti Q8",
+                "id": "4124",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DEL PERCIO ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.918685257434849,
+                    40.88160181338869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "essofuelservice",
+                "id": "17307",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FUEL SERVICE S.A.S. DI BARATTA SALVATORE, ELIO E ANTONIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.824255406856535,
+                    40.938337151525545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Di Servizio Giliberti Carburanti s.r.l.",
+                "id": "21813",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GILIBERTI CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.86782655119896,
+                    40.93029657154664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "25512",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SAM VINCIGUERRA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.766097355155923,
+                    40.90781606934292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione servizio carburanti",
+                "id": "9420",
+                "amenity": "fuel",
+                "operator": "F & I DISTRIBUZIONI DI IANNONE G. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.870915114879612,
+                    40.85612602453217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE ENI",
+                "id": "24244",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GRIMALDI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.795492260713221,
+                    40.90889679404179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI S.p.A.",
+                "id": "10922",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FILLING STATION DI PASCALE EMILIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.810310602188109,
+                    40.91495777049104
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "30693",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "TELSER HELMUT & C. SAS % TELSER HELMUT & CO. KG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.637524639878848,
+                    46.63049014353103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore RETITALIA",
+                "id": "20388",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "RATSCHILLER BRIGITTE KG DER RATSCHILLER BRIGITTE & CO."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.706728137321988,
+                    46.61691022755473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso - Garage Olympia Sas",
+                "id": "7597",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GARAGE OLYMPIA SAS DI GUENTHER PLATTER & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.598187159596137,
+                    46.62059286834926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hofer Jessica - distributore Tamoil",
+                "id": "8427",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "HOFER JESSICA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.595257279134556,
+                    46.61812384925142
+                ]
+            }
+        }
+    ]
+}

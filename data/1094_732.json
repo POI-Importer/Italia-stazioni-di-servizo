@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio ESSO",
+                "id": "8554",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "VOLPATO PIERLUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.318110790148923,
+                    45.498294216213026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO TAMOIL",
+                "id": "9719",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "DIELLEZETA S.N.C. DI DE LONGHI GLORIA E ZANATTA ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.335523275528205,
+                    45.50435781235292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE LAGUNA NORD S.A.S",
+                "id": "16235",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE LAGUNA NORD S.A.S. DI MOLIN SEBASTIANO E LUDENA MARCO GUSTAVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.417697682976723,
+                    45.48730016737199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA TRIESTINA SS. 14",
+                "id": "23052",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RUSALEN GIULIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.328988313674927,
+                    45.504431003252925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Staz.F.lli Vianello S.r.l.- Via Trezze,26 loc.Portegrandi (Ve)",
+                "id": "23449",
+                "amenity": "fuel",
+                "operator": "F.LLI VIANELLO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.458914518356327,
+                    45.55995090866805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Baroni Massimo",
+                "id": "16813",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BARONI MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.367015043944091,
+                    45.5816103928115
+                ]
+            }
+        }
+    ]
+}

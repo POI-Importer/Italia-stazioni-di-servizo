@@ -1,0 +1,140 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ERG",
+                "id": "19579",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PONS FLAVIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.408572432015944,
+                    44.74780673249303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Monge e Bodrero S.N.C",
+                "id": "17088",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MONGE E BODRERO DI MONGE LAURA E C. S.N.C. SIGLABILE \"MONGE E BODRERO S.N.C.\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.529920935630798,
+                    44.74801908290706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAVOUR",
+                "id": "22141",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PETROLGAS DI CAORSI, SARRA E C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.387638422445662,
+                    44.775217028844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "00216",
+                "id": "10003",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LAURENTI MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.542787492275238,
+                    44.76375433667675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "12116",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "G.A.R.E. DI DALMASSO RENATA  &  C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.533916955854465,
+                    44.75543085392744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio ies di eschine giancarlo",
+                "id": "12583",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "ESCHINE GIANCARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.476373314857486,
+                    44.74251528503733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CENTRO CALOR VILLAFRANCA",
+                "id": "10543",
+                "amenity": "fuel",
+                "operator": "CENTRO CALOR S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.490401268005369,
+                    44.77630533506613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAROZZI",
+                "id": "13169",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CAROZZI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.527591229013864,
+                    44.73584543505405
+                ]
+            }
+        }
+    ]
+}

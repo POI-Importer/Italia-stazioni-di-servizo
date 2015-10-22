@@ -1,0 +1,242 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "grs petroli",
+                "id": "8258",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GRASSO MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.506113823724945,
+                    37.240855158516005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "19544",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ALBERGHINA GIANFRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.508550018072128,
+                    37.238666167228416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CALTAGIRONE",
+                "id": "24739",
+                "amenity": "fuel",
+                "operator": "PETROL COMPANY  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.541529119014738,
+                    37.250730013106384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "15871",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "EASYSTATOIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.430011263229403,
+                    37.279684648549875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SP energia siciliana",
+                "id": "13280",
+                "brand": "SP Energia Siciliana",
+                "amenity": "fuel",
+                "operator": "LO NIGRO GIACOMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.520791572173609,
+                    37.23106919659496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CALTAGIRONE",
+                "id": "30698",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ND PETROLI DI DIBENNARDO NUNZIO & C. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.519801142238865,
+                    37.22576411670411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA CIRCONV.CALT",
+                "id": "12043",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.518249052743839,
+                    37.230988867969465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip",
+                "id": "18138",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PARISI ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.514516306000361,
+                    37.23397112028871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "23759",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "F.LLI FATUZZO S.N.C. DI FATUZZO P. & V."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.524776041507721,
+                    37.22993970721406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SP.E.S.",
+                "id": "13145",
+                "brand": "SP Energia Siciliana",
+                "amenity": "fuel",
+                "operator": "SORTINO SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.523532837629318,
+                    37.229825238324985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "18494",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ANGILELLO LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.525772100559607,
+                    37.23031340658261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "30643",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CATENA GIACOMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.538445919752123,
+                    37.23060473385813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA MARIO STURZO CALTAGIRONE",
+                "id": "24624",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51562809325412,
+                    37.210513455351965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "26272",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ESSO SELF SERVICE DI TERRANOVA ROSA S.R.L. UNIPERSONALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.524162267597944,
+                    37.230104451603474
+                ]
+            }
+        }
+    ]
+}

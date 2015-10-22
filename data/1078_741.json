@@ -1,0 +1,54 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EUROPAM VARESE LIG.",
+                "id": "20492",
+                "amenity": "fuel",
+                "operator": "GOTELLI MASSIMO E PAOLO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.593863264834567,
+                    44.361839088922665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kerotris - Santa Maria del Taro",
+                "id": "28568",
+                "amenity": "fuel",
+                "operator": "KEROTRIS - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.4950713235296,
+                    44.43246645256122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "11356",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GHIORZO ORIELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.594414291215116,
+                    44.37404795503165
+                ]
+            }
+        }
+    ]
+}

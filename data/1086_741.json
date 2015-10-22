@@ -1,0 +1,172 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO SABATTINI ANDREA",
+                "id": "23946",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SABATTINI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.006037134918188,
+                    44.382136806972326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ZOCCA-PIAZZALE RONCHI 15",
+                "id": "11723",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.99774157423974,
+                    44.34465492285977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO DI FANTINI FRANCA",
+                "id": "13696",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FANTINI FRANCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.988178178668022,
+                    44.34776923714877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BERTELLI FONDOVALLE",
+                "id": "30742",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "BERTELLI WALTER E ROLANDO  - CARBURANTI - S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.915635824203491,
+                    44.366659039413086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EGO",
+                "id": "29499",
+                "amenity": "fuel",
+                "operator": "MASETTI PAOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.978571076057506,
+                    44.42472468891133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ego",
+                "id": "10748",
+                "amenity": "fuel",
+                "operator": "PATTI GIROLAMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.965106487274168,
+                    44.45405623148191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAVIGNO",
+                "id": "11209",
+                "brand": "Ego",
+                "amenity": "fuel",
+                "operator": "F.LLI GIBERTINI FU GINO S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.07124954722144,
+                    44.389790483497926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TONDI E ZANZI",
+                "id": "16665",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TONDI E ZANZI DI ZANZI GIAMBATTISTA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.917766839265825,
+                    44.391937167798055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL ROCCAMALATINA",
+                "id": "13843",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FAGLIONI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.965480177909853,
+                    44.39087683352004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GRANDI RETI",
+                "id": "29412",
+                "amenity": "fuel",
+                "operator": "GRANDI IVAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.967821553349493,
+                    44.455374031429436
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP  PARISI 2",
+                "id": "23508",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BEATRICI DIEGO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.925281047821045,
+                    45.98260472925708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 Distributore Carburante",
+                "id": "23991",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CAINELLI S.A.S. DI CAINELLI GIANLUIGI E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.05819361534418,
+                    46.07310947299625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione carburanti pvb s.r.l.",
+                "id": "22172",
+                "amenity": "fuel",
+                "operator": "STAZIONE CARBURANTI PVB S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.976421386003494,
+                    45.995520879429435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CALAVINO CAFFARO 1-LOC.SARCHE",
+                "id": "6482",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.951566895631457,
+                    46.04697707866521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN MARCO PETROLI",
+                "id": "19278",
+                "amenity": "fuel",
+                "operator": "TRENTINI ROBERTO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.981244422090185,
+                    46.0251177832987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "maino loris di sommadossi daniela",
+                "id": "29214",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MAINO LORIS DI SOMMADOSSI DANIELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.944906771183014,
+                    46.02508875381492
+                ]
+            }
+        }
+    ]
+}

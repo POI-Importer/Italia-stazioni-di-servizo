@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE AGIP",
+                "id": "26735",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "INNOCENTI PETROLI DI INNOCENTI FABIO E INNOCENTI FABIANA - SOCIET"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.234838828455397,
+                    42.75218481999651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 PORTOFERRAIO",
+                "id": "14672",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SANTINI ALBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.314299894512146,
+                    42.81131738812234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "27741",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "B&B DI DIEGO E FABIO BURELLI -  SOCIETA' IN NOME COLLETTIVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.314939755819749,
+                    42.81148565879004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE AGIP",
+                "id": "26736",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "INNOCENTI PETROLI DI INNOCENTI FABIO E INNOCENTI FABIANA - SOCIET"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.234838828455397,
+                    42.75218481999651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni di murzi mauro",
+                "id": "6842",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MURZI MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.199421644210817,
+                    42.80439293065894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Barontini",
+                "id": "30579",
+                "amenity": "fuel",
+                "operator": "BARONTINI PETROLI DI BARONTINI ANNALISA & C. SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.245180130004881,
+                    42.78594251285281
+                ]
+            }
+        }
+    ]
+}

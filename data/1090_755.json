@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "25546",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "RICCI MARCO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.71351359218852,
+                    42.68182905643542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "29208",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CHECCHINI SONIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.762951804935142,
+                    42.66900937787083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "KALOROIL PITIGLIANO",
+                "id": "18332",
+                "amenity": "fuel",
+                "operator": "KALOROIL DI BARTOLINI MARIO E FIGLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.707957434752302,
+                    42.647349692325456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PITIGLIANO",
+                "id": "29705",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TIBER S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.671684831380844,
+                    42.634524659605155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "giovanni  dondolini",
+                "id": "10347",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DONDOLINI GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.674544631056051,
+                    42.63655258278027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Officina Gagliardi e C. Snc",
+                "id": "31345",
+                "amenity": "fuel",
+                "operator": "OFFICINA GAGLIARDI E C. S.N.C. DI GAGLIARDI RICCARDO E COSTANZI F LORIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.647913912222409,
+                    42.65742241954758
+                ]
+            }
+        }
+    ]
+}

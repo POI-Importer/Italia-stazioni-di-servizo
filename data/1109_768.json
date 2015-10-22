@@ -1,0 +1,188 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IQ CARBURANTI-MONTEMARANO",
+                "id": "27823",
+                "amenity": "fuel",
+                "operator": "R.O.C.L.A. (ROMAGNOLO - OLII - CARBURANTI - LUBRIFICANTI AUTOSERVIZI) S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.011151731014255,
+                    40.932060553657195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZ. ESSO PRIZIO DUE S.N.C.",
+                "id": "7561",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PRIZIO DUE S.N.C. DI PRIZIO VINCENZO E RAZZINO ANNA MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.993958771228789,
+                    40.966530715268775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASSANO IRPINO",
+                "id": "29648",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.992573410272598,
+                    40.88386148696783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "irpinia service",
+                "id": "22251",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "IRPINIA SERVICE S.A.S. DI PERILLO RAFFAELE E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.969753175973896,
+                    40.941569439785596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARACOLITO CAFE' SAS",
+                "id": "28545",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CARACOLITO CAFE' S.A.S. DI CHIEFFO MARZIA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.043799579143528,
+                    40.84738012230224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COPPOLA GERARDA",
+                "id": "13360",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "COPPOLA GERARDA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.04556380212307,
+                    40.923427433849525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAROSELLA ROSAMARIA",
+                "id": "27227",
+                "amenity": "fuel",
+                "operator": "CAROSELLA ROSAMARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.089065879583359,
+                    40.92629729467253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL 8317",
+                "id": "15210",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ALDORISIO ANTONIO GERARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.114556923508646,
+                    40.92977233252453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "nusco",
+                "id": "31464",
+                "amenity": "fuel",
+                "operator": "CAPUTO TERESA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.090291995071762,
+                    40.891245581763386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MORSA S. CARBURANTI DI MORSA STEFANO",
+                "id": "13141",
+                "amenity": "fuel",
+                "operator": "MORSA S. CARBURANTI DI MORSA STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.029571494229574,
+                    40.97357342101388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO NUSCO",
+                "id": "29967",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.038651078939438,
+                    40.896838464431326
+                ]
+            }
+        }
+    ]
+}

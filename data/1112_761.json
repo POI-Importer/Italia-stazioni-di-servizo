@@ -1,0 +1,104 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "26166",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FACCHINO MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.56561529636383,
+                    41.83243408724261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GASAUTO",
+                "id": "31078",
+                "amenity": "fuel",
+                "operator": "GARGANOGAS - SOCIETA' A RESPONSABILITA' LIMITATA SIGLABILE IN \"GARGANOGAS SRL\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.57679890674592,
+                    41.83700000816312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA DI SERVIZIO ENI",
+                "id": "29537",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "G.L. PETROLI S.N.C. DI GALASSO MICHELE & LOMBARDI FELICE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.56158010100262,
+                    41.83121610370188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "P. I.",
+                "id": "18897",
+                "amenity": "fuel",
+                "operator": "PALMIERI PIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.55503384643555,
+                    41.828134994999886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO API-IP",
+                "id": "31651",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "TANCREDI ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.56527342071922,
+                    41.84057136191324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "P. I.",
+                "id": "5344",
+                "amenity": "fuel",
+                "operator": "PALMIERI PIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.525693297386166,
+                    41.87560452386131
+                ]
+            }
+        }
+    ]
+}

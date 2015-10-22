@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "staz.di servizio  Totalerg di Liguori Francesco",
+                "id": "18914",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "LIGUORI FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.444950699806213,
+                    40.17535457703923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE CARBURANTI SERGIO PETROLI SRL",
+                "id": "29811",
+                "amenity": "fuel",
+                "operator": "SERGIO PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.523058049142037,
+                    40.17318900539348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL DI CAPUA GIORGIO",
+                "id": "25460",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CAPUA GIORGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.444187155964073,
+                    40.051547269532215
+                ]
+            }
+        }
+    ]
+}

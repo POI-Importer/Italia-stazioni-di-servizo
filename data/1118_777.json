@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Frasca Pompeo",
+                "id": "13214",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "FRASCA POMPEO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.53665542602539,
+                    39.64668175040687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA STRADA STATALE 106",
+                "id": "22906",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SALIMBENI ALFONSO & C. S.A.S. DI FEDERICO  ADALGISA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.528813987970352,
+                    39.64299264190613
+                ]
+            }
+        }
+    ]
+}

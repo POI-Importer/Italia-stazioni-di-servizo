@@ -1,0 +1,305 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BENZA VEGGIANO",
+                "id": "4099",
+                "brand": "Benza",
+                "amenity": "fuel",
+                "operator": "BORTOLAMEI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.733909047898806,
+                    45.44608743866627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ABANO TERME-VIA DEI COLLI",
+                "id": "11756",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.777090844249756,
+                    45.35857328239278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PGMCARBURANTI SAS",
+                "id": "19355",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "P.G.M. CARBURANTI S.A.S. DI PIERANTONI MARIA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.762642562389372,
+                    45.3973267214879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENJOIL",
+                "id": "3997",
+                "amenity": "fuel",
+                "operator": "CATTANEO ENNIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.670643148479483,
+                    45.43888623595084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "14736",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BEN-ZIN S.A.S. DI LORIS ZIN & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.752101480960846,
+                    45.444042319328226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio BFF",
+                "id": "10783",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BETTENZOLI FULVIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.777092292904854,
+                    45.431774714100825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA DI SEVIZIO AGIP",
+                "id": "18729",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GAMBARATO VALTER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.766456818385338,
+                    45.35436053743862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "8709Braghetta S.a.s.",
+                "id": "30338",
+                "brand": "San Marco Petroli",
+                "amenity": "fuel",
+                "operator": "BRAGHETTA S.A.S. DI BRAGHETTA LUIGI & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.733312606811523,
+                    45.37198615932232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "autolovisetto srl",
+                "id": "19115",
+                "amenity": "fuel",
+                "operator": "AUTOLOVISETTO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.665924753303557,
+                    45.39372797999402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CONTADO ENERGIA",
+                "id": "22683",
+                "amenity": "fuel",
+                "operator": "CONTADO LUCIANO & IVAN S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.718311676721216,
+                    45.41132590438552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zuin Servizi S.r.l.",
+                "id": "13116",
+                "amenity": "fuel",
+                "operator": "ZUIN SERVIZI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.708055403515573,
+                    45.38903340673024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COSTANTIN CARBONARA",
+                "id": "12528",
+                "brand": "Costantin",
+                "amenity": "fuel",
+                "operator": "PASQUALIN FRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.635453386464063,
+                    45.36111620603382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BC ponte di lumignano",
+                "id": "10965",
+                "amenity": "fuel",
+                "operator": "ENERGIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.604302085150152,
+                    45.457451558514734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "27009",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PIERANTONI VIRGINIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.689426302909851,
+                    45.416615200625365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO DI MASIN RINO",
+                "id": "14764",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO DI MASIN RINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.674726839286791,
+                    45.3458702531874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BOGONI ALFONSO & C. - S.A.S. DI BOGONI CARLO & C.",
+                "id": "12703",
+                "brand": "Bogoni",
+                "amenity": "fuel",
+                "operator": "BOGONI ALFONSO & C. - S.A.S. DI BOGONI CARLO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.656711399555206,
+                    45.389546194466114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA DI SERVIZIO AGIP",
+                "id": "18698",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VIOLATTO RANIERI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.771285980939865,
+                    45.38081659517653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ABANO TERME - DEI COLLI",
+                "id": "24431",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.772494635582007,
+                    45.35366607243927
+                ]
+            }
+        }
+    ]
+}

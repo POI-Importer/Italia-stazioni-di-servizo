@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 5906",
+                "id": "25873",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.952062845230104,
+                    44.1768364213489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTROCARO TERME",
+                "id": "30657",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.951393660713167,
+                    44.17650966988727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REPSOL",
+                "id": "17003",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "MATTEUCCI LORENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.793441027402878,
+                    44.15804927512096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Camurani IP",
+                "id": "16617",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CAMURANI CALISTO CESARE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.799156010019942,
+                    44.1652644719159
+                ]
+            }
+        }
+    ]
+}

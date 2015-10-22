@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "12349",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "NERI GIANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.727709472179413,
+                    44.276206151011515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OIL ITALIA CASOLA VALSENIO",
+                "id": "17315",
+                "brand": "Oil Italia",
+                "amenity": "fuel",
+                "operator": "AZZALINI MARIO & C. - S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.628609128172343,
+                    44.227027514593566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OIL ITALIA BRISIGHELLA",
+                "id": "4800",
+                "brand": "Oil Italia",
+                "amenity": "fuel",
+                "operator": "OIL ITALIA SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.774629050262433,
+                    44.222195027591056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pompei Lorenzo distributore q8 ponticelli",
+                "id": "28157",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "POMPEI LORENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.656602787835709,
+                    44.32324270204674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PB",
+                "id": "9738",
+                "amenity": "fuel",
+                "operator": "CFC OIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.77358865737915,
+                    44.33025900915162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAPRI 11",
+                "id": "4839",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CAPRI SOCIETA' COOPERATIVA A RESPONSABILITA' LIMITATA IN SIGLA COOP. CAPRI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.735769510269165,
+                    44.27657909449904
+                ]
+            }
+        }
+    ]
+}

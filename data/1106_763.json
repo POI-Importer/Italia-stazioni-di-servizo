@@ -1,0 +1,88 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN MASSIMO",
+                "id": "28835",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.433787465095518,
+                    41.51144469654481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore GPL",
+                "id": "26061",
+                "amenity": "fuel",
+                "operator": "CIOLFI GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.57540368511434,
+                    41.612430236927004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO IP di Fazioli V.franco",
+                "id": "21579",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FAZIOLI VITTORIO FRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.45026561617851,
+                    41.59953014319306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di Servizio Tamoil di Colaneri Mariagrazia",
+                "id": "12714",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "COLANERI MARIAGRAZIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.516780376434326,
+                    41.578482221674264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "API IP",
+                "id": "30073",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "C.R.T. DI DI TOMASO LORENA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.519182294607164,
+                    41.63650224920385
+                ]
+            }
+        }
+    ]
+}

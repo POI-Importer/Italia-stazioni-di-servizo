@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Morello impianto eni",
+                "id": "14988",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MORELLO ANNA MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.369561046361923,
+                    44.469444090427515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Savio Paolo",
+                "id": "18061",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SAVIO PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.256846995019033,
+                    44.488251223665664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "28019",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MARTINO PATRIZIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.363560181689537,
+                    44.569364919232726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tarditi ornella",
+                "id": "20515",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TARDITI ORNELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.310541719198227,
+                    44.56165128998625
+                ]
+            }
+        }
+    ]
+}

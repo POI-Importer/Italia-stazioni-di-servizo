@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI STAZIONE DI SERVIZIO EDOLO",
+                "id": "20483",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI STAZIONE DI SERVIZIO EDOLO DI FESTA MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.335974246263504,
+                    46.17646328423305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di servizio MION PIER GIORGIO",
+                "id": "10607",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MION PIER GIORGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.365656912326813,
+                    46.08177788319875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "carburanti albertani calzaferri snc",
+                "id": "21452",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CARBURANTI  ALBERTANI CALZAFERRI SNC DI ALBERTANI ANGELO  &  C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.344423204660416,
+                    46.170967354304594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore ip edolo",
+                "id": "27704",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PRIULI ALBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.334709584712982,
+                    46.18046480770795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stop end go",
+                "id": "16502",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STOP END GO DI GAZZOLI ALBERTO E MORGANI FLAVIO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.349169373512268,
+                    46.07554535160702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "_AGIP DAMIOLINI SIMONE",
+                "id": "4384",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DAMIOLINI SIMONE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.336702466011046,
+                    46.137153172040875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MALONNO S.S.42 KM 110+481",
+                "id": "9782",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.322686504893452,
+                    46.122470054559315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stop end go",
+                "id": "16509",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STOP END GO DI GAZZOLI ALBERTO E MORGANI FLAVIO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.349169373512268,
+                    46.07554535160702
+                ]
+            }
+        }
+    ]
+}

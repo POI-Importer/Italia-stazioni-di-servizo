@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso arcuricarburanti s.a.s di arcuri rosario",
+                "id": "25334",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ARCURI CARBURANTI S.A.S. DI ARCURI ROSARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.000677586389315,
+                    39.03600794912431
+                ]
+            }
+        }
+    ]
+}

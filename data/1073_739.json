@@ -1,0 +1,225 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STURA EST",
+                "id": "3535",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "vignolo e garbarino s.n.c."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.666142225265503,
+                    44.59236962570605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "18146",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ALLOISIO FRATELLI DI ALLOISIO GIAN LORENZO E VANIA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.62450595563223,
+                    44.62263817866466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BELFORTE MONFERRATO-C/O CC BENNET.",
+                "id": "7298",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.652409315109253,
+                    44.627936919488285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SETNICKA MARCO",
+                "id": "7358",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SETNICKA MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.669478808737153,
+                    44.67660882375854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore total erg",
+                "id": "10563",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PASQUA ALDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.654593974351883,
+                    44.65135153126377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "daniela camera",
+                "id": "10592",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CAMERA DANIELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.696150779724121,
+                    44.68945892298278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OVADA-VIA GRAMSCI 139",
+                "id": "11457",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.647481224536934,
+                    44.63577137060962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STURA OVEST",
+                "id": "3755",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STURA OVEST SERVICE S.A.S. DI BALBI CORRADO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.664539330024695,
+                    44.59162069336496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto IP di Benzo Maurizio",
+                "id": "8875",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BENZO MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.714568140228607,
+                    44.63587172973933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio ENI di ALBERTI FEDERICA",
+                "id": "10832",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ALBERTI FEDERICA ALESSANDRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.649121785913849,
+                    44.63800753321338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kerotris Cremolino",
+                "id": "31301",
+                "amenity": "fuel",
+                "operator": "KEROTRIS - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.615738153457642,
+                    44.63196586147515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OVADA",
+                "id": "15017",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ROSSO GIACINTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.655112981796265,
+                    44.65269749917659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OVADA-VIA VOLTRI 27/E",
+                "id": "11453",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.644725305557245,
+                    44.63157858375239
+                ]
+            }
+        }
+    ]
+}

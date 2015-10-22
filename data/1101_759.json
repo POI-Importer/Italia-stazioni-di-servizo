@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AIELLI",
+                "id": "18595",
+                "amenity": "fuel",
+                "operator": "DIBEOL ECOLOGICA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.561840457672131,
+                    42.05771572677875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio IP Di Renzo",
+                "id": "28885",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DI RENZO ROSSANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.54145816025766,
+                    42.082204079981885
+                ]
+            }
+        }
+    ]
+}

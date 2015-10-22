@@ -1,0 +1,122 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZ.SERVIZIO ENI DI MASSIMINO GIANPIERO",
+                "id": "9447",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MASSIMINO GIANPIERO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.935855835676194,
+                    45.01472083190648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO CORTAZZONE",
+                "id": "29773",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MURIALDO CHRISTIAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.056535511771926,
+                    44.98021615647885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Repsol - Zaniolo Lucia",
+                "id": "15683",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "ZANIOLO LUCIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.9339541494846335,
+                    45.03956467286828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COMBIGAS",
+                "id": "15615",
+                "amenity": "fuel",
+                "operator": "COMBIGAS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.031845390796661,
+                    45.039573770332936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI di marchisio silvia",
+                "id": "6794",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MARCHISIO SILVIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.966594696044922,
+                    45.03676450174599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Easy Fuel",
+                "id": "10908",
+                "amenity": "fuel",
+                "operator": "BUSUIOC CLAUDIU CRISTINEL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.04238110780716,
+                    45.04303220514411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "9763",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ROSSOTTO VALTER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.039134906040772,
+                    45.08658098776407
+                ]
+            }
+        }
+    ]
+}

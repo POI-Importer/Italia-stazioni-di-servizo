@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "P.V.ESSO",
+                "id": "9279",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SETZI SEBASTIANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.38842274294393,
+                    40.47755502183777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 di Carzedda Antonio",
+                "id": "12617",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CARZEDDA ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.382315384430285,
+                    40.47688545531046
+                ]
+            }
+        }
+    ]
+}

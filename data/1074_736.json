@@ -1,0 +1,158 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIEVE DEL CAIRO S.S. 211 KM 25+595",
+                "id": "9601",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.808574698811299,
+                    45.05424608214579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore IP _ Castini Roberto",
+                "id": "14378",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CASTINI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.805870521497354,
+                    45.051365609258845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "4212",
+                "id": "29629",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "T.D.M. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.92776757478714,
+                    45.00981440909096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2205",
+                "id": "26682",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "T.D.M. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.95924597978592,
+                    45.00003785529679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO",
+                "id": "11127",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LAMANNA MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.812637999999993,
+                    44.98298487922724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASEI GEROLA",
+                "id": "22417",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SIRTAM S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.9138562977314,
+                    45.02524011279337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "9938",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TROVAMALA EZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.88831737301632,
+                    44.97875278981931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PENSA STEFANO",
+                "id": "28336",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PENSA STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.813268126489218,
+                    44.96851808971861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASEI GEROLA",
+                "id": "5453",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "enirete oil&nonoil S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.960936773805429,
+                    45.000442076151046
+                ]
+            }
+        }
+    ]
+}

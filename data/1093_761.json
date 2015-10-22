@@ -1,0 +1,293 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "WWG FUEL",
+                "id": "28662",
+                "amenity": "fuel",
+                "operator": "DG DUAL FORCE - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.226358469775391,
+                    41.80306033145106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FRIONI MASSIMILIANO",
+                "id": "27975",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FRIONI MASSIMILIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.200902138765287,
+                    41.852097825983506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "28847",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ITALCA - SOCIETA ITALIANA CARBURANTI E AFFINI -   SOCIETA A RESPO NSABILITA LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.208546764942863,
+                    41.841035742268915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FIUMI.CAR S.A.S. DI DI FLORIO EDOARDO & C.",
+                "id": "13031",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FIUMI.CAR S.A.S. DI DI FLORIO EDOARDO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.240121364593504,
+                    41.77235548901874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PETROL FUEL maccarese viale di porto",
+                "id": "26053",
+                "brand": "Petrol Fuel",
+                "amenity": "fuel",
+                "operator": "RGS IMPIANTI - SOCIETA' A RESPONSABILIT' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.232965830688498,
+                    41.83248000596583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FIUMICINO",
+                "id": "29110",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.297583370361279,
+                    41.79496517648697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE CARBURANTI TOTALERG LARGO DEI DELFINI",
+                "id": "12908",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ALONGI MARIO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.234282195568086,
+                    41.77162534441281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FREGENE VIALE PINETA",
+                "id": "6648",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.204859585844359,
+                    41.85915284888579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Di Servizio Q8 FILGA 1996 S.A.S.",
+                "id": "12425",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "FILGA 1996 SOCIETA' IN ACCOMANDITA SEMPLICE DI FILDI MASSIMILIAN O E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2513584792614,
+                    41.78523907344844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FIUMICINO LOC. PARCO DA VINCI VIA MONTANARI",
+                "id": "6685",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.297858595848083,
+                    41.80798164453549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shell di Brancato Luciano",
+                "id": "17306",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "BRANCATO LUCIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.251590839213465,
+                    41.784025985251674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FREGENE - CASTELLAMMARE",
+                "id": "29209",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.200399999999947,
+                    41.85226603586581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "repsol",
+                "id": "28802",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "RAUCO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.240934143516599,
+                    41.876545793682524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aeroporto Fiumicino",
+                "id": "10708",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "FERRARA FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.252545001852468,
+                    41.78438890204902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ARRONE EST",
+                "id": "3790",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CFR Gestioni S.r.l."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.252749388885377,
+                    41.87416363182435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "26999",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "KOVAL LYUDMYLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.215266674757002,
+                    41.807660560429255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTEL DI GUIDO",
+                "id": "9767",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "G.I.C.L.A - S.R.L. (GESTIONE IMPIANTI CARBURANTI E LAVAGGI AURELI A)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.295855218521185,
+                    41.89225772437002
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "22849",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GIAQUINTO DI GIAQUINTO STEFANO, MARCO ED EMANUELA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.33235278725624,
+                    39.84301052412438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AVIOLAMP DI CALZOLARO DONATO",
+                "id": "11330",
+                "amenity": "fuel",
+                "operator": "CALZOLARO DONATO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.30281319106211,
+                    39.854884397164376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AVIOLAMP CARBURANTI E LUBRIFICANTI",
+                "id": "14784",
+                "amenity": "fuel",
+                "operator": "MELCARNE DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.333058456378012,
+                    39.88684370255354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 RA.MA.",
+                "id": "15451",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "RA.MA. DI RATANO MARCO & C.  S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.334283977746964,
+                    39.893221101076755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "28144",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "G.R.G. DI GRECO GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.36239184523015,
+                    39.864835957471776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "27246",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RISO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.36428314447403,
+                    39.87901476294948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAMER SALVE",
+                "id": "12329",
+                "brand": "Camer",
+                "amenity": "fuel",
+                "operator": "CAMER PETROLEUM EUROPA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.28455132007673,
+                    39.86798434112587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "API",
+                "id": "23612",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DE SALVO CLAUDIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.36496950272794,
+                    39.89442100564787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP DI MARCO MARCHESE",
+                "id": "8511",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MARCHESE MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.343948744579393,
+                    39.870913839603624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP  di  Ciardo Rocco",
+                "id": "30237",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CIARDO ROCCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.345730959617867,
+                    39.83764349982145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vozza Luigi",
+                "id": "10766",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "VOZZA LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.32760661840439,
+                    39.86531234439649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP Ciardo Rocco    GAGLIANO",
+                "id": "10791",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CIARDO ROCCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.365940800494403,
+                    39.841800346784666
+                ]
+            }
+        }
+    ]
+}

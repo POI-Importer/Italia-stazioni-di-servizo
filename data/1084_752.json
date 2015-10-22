@@ -1,0 +1,175 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAMPIGLIA EST",
+                "id": "21153",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CAMPIGLIA - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6111179292202,
+                    43.003257981252126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "30988",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "FRIANI SIMONE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.604945088885529,
+                    43.02607422180366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FA.CI.",
+                "id": "11446",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FA.CI SNC DI FANTOZZI R. E CIARCIA N."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.589718880767805,
+                    43.01824578376392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "P.G.CIARDIELLO S.N.C",
+                "id": "7942",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "P.G. CIARDIELLO DI CIARDIELLO PINA E MARIA GABRIELLA -SOCIETA' IN NOME COLLETTIVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.548929275437901,
+                    42.967181987543654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Retitalia",
+                "id": "16689",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "FOGAGNOLO NICLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.595207065343857,
+                    43.01711077233607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EFFE & EFFE",
+                "id": "8081",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "EFFE & EFFE DI FAUCCI RAMONA E FERRETTI NICOLA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.598696619272232,
+                    43.0310047498198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ristorante il diavolino",
+                "id": "4458",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "A & G. S.A.S. DI GALLI ALESSIO E GIANLUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.624679183145192,
+                    42.96675339740917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "WIN",
+                "id": "30393",
+                "brand": "Win",
+                "amenity": "fuel",
+                "operator": "KSENYA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.61484284698963,
+                    43.057411027749296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CONAD ETRUSCO S.R.L.",
+                "id": "31274",
+                "brand": "CONAD",
+                "amenity": "fuel",
+                "operator": "ETRUSCO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.611718850279658,
+                    43.027692389953586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG SPA",
+                "id": "17172",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CERBONESCHI MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.70042073726654,
+                    42.95002622063404
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,192 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SASSARI S.S. 131 KM 209+821",
+                "id": "19937",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.54481875952456,
+                    40.71234398598453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nuvoli Carburanti- ENI 56818",
+                "id": "12876",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "NUVOLI ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.551510217196665,
+                    40.71380964590865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OSSI",
+                "id": "25346",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.588676442956967,
+                    40.67629898290093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio ESSO di Idini Alessandra Vincenza",
+                "id": "17035",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "IDINI ALESSANDRA VINCENZA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.581579184547422,
+                    40.71101205119841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE CARBURANTI TAMOIL",
+                "id": "29660",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE DI CARBURANTI&LUBRIFICANTI TAMOIL DI CHESSA PIER PAO LO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.566586657231596,
+                    40.59454941957818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Q8",
+                "id": "25499",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "IRVENTI S.N.C. DI LEONARDO RUDA E CATERINA RUDA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.546183109283447,
+                    40.602524875247404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "20731",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PAGLIARO RAFFAELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.566316440701485,
+                    40.59593440289381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ditta Arras Carlo",
+                "id": "15444",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ARRAS CARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.482901751995087,
+                    40.64225758804755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA DI SERVIZIO AGIP",
+                "id": "15554",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DEMARTIS PIETRO ANTONIO MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.568944334983826,
+                    40.71309584114795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE RIFORNIMENTO ESSO MUDADU SALVATORE",
+                "id": "25427",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MUDADU SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.536056350957097,
+                    40.66524484751794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTALBANO BARBARA",
+                "id": "9075",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MONTALBANO BARBARA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.513052463531494,
+                    40.64457161174061
+                ]
+            }
+        }
+    ]
+}

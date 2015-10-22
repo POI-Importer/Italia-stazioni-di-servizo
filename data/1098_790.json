@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PROVVIDENZA MAGRO & C. S.A.S.",
+                "id": "18706",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PROVVIDENZA MAGRO  &  C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.180333524942396,
+                    37.96678835013095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN CIPIRELLO CORSO TRENTO 2",
+                "id": "10390",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.180854313957415,
+                    37.96138166913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "impianto ip 48601",
+                "id": "24282",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LICATA FRANCESCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.180125653743744,
+                    37.966513878893906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Faraone Provvidenza",
+                "id": "19796",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FARAONE PROVVIDENZA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.176131844520569,
+                    37.95938530293197
+                ]
+            }
+        }
+    ]
+}

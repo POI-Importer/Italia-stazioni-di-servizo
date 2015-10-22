@@ -1,0 +1,311 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di rifornimento IP",
+                "id": "8426",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MANFRE' MASSIMILIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.967279016971588,
+                    42.01899526410863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EDIGEA di CUOMO",
+                "id": "26503",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "EDIGEA DI CUOMO ALESSANDRO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.057845145463943,
+                    41.98152194684667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "7223",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "NAPOLITANO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.105528116226196,
+                    41.938414717826944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SETTEVENE CARBURANTI SNC",
+                "id": "21821",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SETTEVENE CARBURANTI DI DEL VECCHIO MAURO E DEL VECCHIO MARCO SOC IETA' IN NOME COLLETTIVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.083220183849335,
+                    41.962794564098594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Eni Iorio Franco",
+                "id": "14852",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "IORIO FRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.088014632463455,
+                    41.98993702628778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TIRRENO OVEST",
+                "id": "3499",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ge.a.t.srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.96270961971277,
+                    42.02967570896179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Staz. TotalErg di Fofi Romolo",
+                "id": "26504",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "FOFI ROMOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.081759721040726,
+                    41.957921973708224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LADISPOLI-SS 1 AURELIA KM 41+715",
+                "id": "11820",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.075885830688437,
+                    41.973276070724815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FURBARA CERENOVA VIA AURELIA S.S. 1 KM. 47 700",
+                "id": "6624",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.012783082803368,
+                    42.00055564846354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TIRRENO EST",
+                "id": "3565",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "Nuova Sidap SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.963446412372607,
+                    42.03065893105646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di Servizio Total Scascitelli",
+                "id": "27148",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CAESAR'S SLOT DI DAVIDE SCASCITELLI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.099975943565369,
+                    41.94939653750879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "21490",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SIMAK 2000 S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.11279422044754,
+                    41.9362335304849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Total",
+                "id": "17394",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "FADDA SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.099110515859367,
+                    41.998122446272134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LADISPOLI",
+                "id": "5973",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.079355006213065,
+                    41.97425201101609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ladispoli odescalchi",
+                "id": "20111",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.081369494299222,
+                    41.947037010144285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "do.pi.",
+                "id": "26833",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DO.PI. DI DOMINICI BRUNO E PINTUS STEFANO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.995286643505095,
+                    42.006870676040634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DE FABRITIIS MASSIMO",
+                "id": "12988",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DITTA DE FABRITIIS MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.085123788360535,
+                    41.94558343958325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LADISPOLI - MARINA DI SAN NICOLA",
+                "id": "27526",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.125036968088125,
+                    41.93537306355189
+                ]
+            }
+        }
+    ]
+}

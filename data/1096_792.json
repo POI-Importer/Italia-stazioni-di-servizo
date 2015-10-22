@@ -1,0 +1,259 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIFORNIMENTO IP",
+                "id": "17114",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BALISTRERI ANTONINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.80584752559662,
+                    37.59236864630637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "30260",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CATINELLA FRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.752161771059038,
+                    37.63016459453133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 9940",
+                "id": "29336",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.787383198738098,
+                    37.66838166965731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "22282",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MICELI VITO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.817407846450806,
+                    37.657039033437634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto ENI - Luppino Vita",
+                "id": "10914",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LUPPINO VITA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.788220047950746,
+                    37.68466939783193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAMPOBELLO DI MAZARA VIA VITTORIO EMANUELE II",
+                "id": "19751",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.75683826137697,
+                    37.64062804852293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bono Epifania",
+                "id": "15912",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BONO EPIFANIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.740239351987839,
+                    37.63591018735855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "petrolcar snc",
+                "id": "26123",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PETROLCAR DI VINCENZO E GIUSEPPE CALANDRO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.753785848617554,
+                    37.629365669374955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "13701",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NAPOLI GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.757850228836107,
+                    37.64140373867754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A/29",
+                "id": "10839",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ABATE PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.81274616718292,
+                    37.66450897641615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO TRE FONTANE",
+                "id": "29695",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "COMMERCIALE PETROLI TRAPANI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.721977563293422,
+                    37.589418120315926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GAS POINT",
+                "id": "16044",
+                "amenity": "fuel",
+                "operator": "CATANZARO MASSIMO ANTONINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.823796868324283,
+                    37.68466939783188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore calandro",
+                "id": "17199",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CALANDRO FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.756964266300201,
+                    37.64102381478366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO Q8 DI BONO ANNA",
+                "id": "27517",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BONO ANNA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.742351591587068,
+                    37.62865574255072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ERG DI CHIOFALO GIOVANNI",
+                "id": "9687",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CHIOFALO GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.806925773620605,
+                    37.683608906456115
+                ]
+            }
+        }
+    ]
+}

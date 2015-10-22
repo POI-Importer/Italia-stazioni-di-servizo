@@ -1,0 +1,224 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Agip",
+                "id": "24157",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "F.LLI BETTINI S.A.S. DI BETTINI ROBERTO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.705294132232668,
+                    41.2569483622121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg",
+                "id": "27541",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "STAZIONE TOTALERG S.A.S. DI ALTOPIEDI ANTONIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62585365550308,
+                    41.26126070864529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TATTA ALFONSO  stazione di servizio ENI",
+                "id": "20001",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TATTA ALFONSO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.613095399336203,
+                    41.259995604990515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gaffoil Minturno",
+                "id": "31185",
+                "amenity": "fuel",
+                "operator": "TRAGEN S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.69174763560295,
+                    41.26438393410317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "UNIONE GAS AUTO",
+                "id": "16330",
+                "amenity": "fuel",
+                "operator": "FIORILLO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.66340473294258,
+                    41.26706495194253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MINTURNAE EST",
+                "id": "4907",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MINTURNAE EST S.N.C. DI DI MAIO ANTONELLA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.69592785835266,
+                    41.26129633295198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FORMIA-C/O CENTRO COMM.LE ITACA - S.CROCE",
+                "id": "11630",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.670360932540916,
+                    41.26785926736717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FORMIA - VINDICIO",
+                "id": "24963",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.590435626983663,
+                    41.25085243071619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FORMIA SS 7 KM 148+465 LOC S.CROCE",
+                "id": "6672",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.68274748325348,
+                    41.26263792705377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Blue Service srl",
+                "id": "27312",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BLUE SERVICE  SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61958280205727,
+                    41.26339198201465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "KUWAIT",
+                "id": "9156",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MANFREDONIA PASQUALE E FELICE S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.638710024467404,
+                    41.262023903126554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 54039",
+                "id": "25926",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62734913825989,
+                    41.2616818373997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "24057",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "REGEST S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.669997602701187,
+                    41.26390408924269
+                ]
+            }
+        }
+    ]
+}

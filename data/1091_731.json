@@ -1,0 +1,576 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Padova - Galliera Veneta",
+                "id": "17625",
+                "amenity": "fuel",
+                "operator": "BEYFIN S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.81906282901764,
+                    45.66253877643101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Trivengas",
+                "id": "22613",
+                "brand": "Trivengas",
+                "amenity": "fuel",
+                "operator": "GEREMIA ERCOLE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.887921898147624,
+                    45.66593099099829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BC Cittadella",
+                "id": "10486",
+                "amenity": "fuel",
+                "operator": "ENERGIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.786561343408266,
+                    45.658575201128045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VALLICARBURANTI",
+                "id": "23832",
+                "amenity": "fuel",
+                "operator": "DUE ELLE SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.927799582481383,
+                    45.69115472051369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "repsol di brugnaro srl",
+                "id": "10203",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "BRUGNARO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.806526052114803,
+                    45.58690926782513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "14774",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SPEED SERVICE S.A.S. DI FABRIZIO FULMINE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.948806643486021,
+                    45.68569817944681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CITTADELLA SS.47 VALSUGANA",
+                "id": "23875",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.793154318385291,
+                    45.624161210024944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "11193",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SECURO FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.777905404633202,
+                    45.613970994772096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LUISETTO GUIDO",
+                "id": "6857",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LUISETTO GUIDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.912462711334229,
+                    45.66079954139452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AUTOFFICINA VALLOTTO S.N.C.",
+                "id": "12524",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AUTOFFICINA VALLOTTO S.N.C. DI VALLOTTO CARLO E LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.779425706745883,
+                    45.66464844545263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Padova - S. Martino Lupari",
+                "id": "17624",
+                "amenity": "fuel",
+                "operator": "BEYFIN S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.853148341178894,
+                    45.61908484210605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTELFRANCO V.TO OIL ITALIA",
+                "id": "20532",
+                "brand": "Oil Italia",
+                "amenity": "fuel",
+                "operator": "AZZALINI MARIO & C. - S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.917522234545915,
+                    45.680004121287446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOMBOLATO",
+                "id": "16506",
+                "amenity": "fuel",
+                "operator": "TOMBOLATO LUCIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.859258701713541,
+                    45.609035989704886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Servizio ESSO Guidolin Romeo",
+                "id": "22784",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GUIDOLIN ROMEO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.916970803271056,
+                    45.669175438725375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "R.Z. DI RINALDIN GIAMPAOLO & C.",
+                "id": "16115",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "R.Z. DI RINALDIN GIAMPAOLO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.919006729499868,
+                    45.60962103664037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Costantin - San Martino di Lupari",
+                "id": "31487",
+                "brand": "Costantin",
+                "amenity": "fuel",
+                "operator": "ENERCOD SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.858428322753864,
+                    45.64057649202524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VILLARAZZO OIL ITALIA",
+                "id": "8832",
+                "brand": "Oil Italia",
+                "amenity": "fuel",
+                "operator": "AZZALINI MARIO & C. - S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.910338401794434,
+                    45.67782964539386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "21124",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "F.LLI PIEROBON DI PIEROBON CLAUDIO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.79385706931157,
+                    45.62227462477594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GIERRESSE VILLA DEL CONTE",
+                "id": "21158",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GIERRESSE S.N.C. DI RAVAZZOLO STEFANO, RAVAZZOLO GASTONE CON SIGL A GIERRESSE S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.857720166444778,
+                    45.59209877445849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TRENTIN OIL SNC DI TRENTIN GIUSEPPE & C.",
+                "id": "9328",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "TRENTIN-OIL DI TRENTIN GIUSEPPE & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.839450299739838,
+                    45.66714998068557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione ip",
+                "id": "29842",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "NICHELE GIANFRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.934958104333873,
+                    45.662494376344405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "R.V.Carburanti",
+                "id": "30529",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "R.V. CARBURANTI SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.946143209934235,
+                    45.60207890601722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTELFRANCO VENETO-BORGO TREVISO 204",
+                "id": "11895",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.94855726008416,
+                    45.67283721414675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg",
+                "id": "10909",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MISSIAGGIA PIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.935556530952454,
+                    45.67211166196375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IES",
+                "id": "18432",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "COSTA GIUSEPPE E C.S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.782168690807337,
+                    45.65528937067081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE ENI DI REGINATO EUGENIO E GIAN ANTONIO SNC",
+                "id": "15073",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "REGINATO EUGENIO E GIAN ANTONIO SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.937589679653911,
+                    45.65894638441511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTELFRANCO VENETO CIRCONVALLAZIONE OVEST,23",
+                "id": "23423",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.91813849695893,
+                    45.67978666027427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP ZAMIN ELISA",
+                "id": "13372",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ZAMIN ELISA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.883256811778212,
+                    45.68877370883937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TONIATO GIUSEPPE",
+                "id": "30996",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "TONIATO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.815866976976396,
+                    45.64513180725156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "zampieron carburanti",
+                "id": "22851",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ZAMPIERON CARBURANTI DI ZAMPIERON AMOS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.800379231572151,
+                    45.70237097890165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Colonnine metano Marchesan Rino",
+                "id": "16507",
+                "amenity": "fuel",
+                "operator": "MARCHESAN RINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.94516822695732,
+                    45.646772337300156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTELLO DI GODEGO VIA CAPRERA 20/A",
+                "id": "19062",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.884719669311492,
+                    45.68815368954309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN GIORGIO CARBURANTI DI RAMINA TIZIANO & C S.N.C.",
+                "id": "19945",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SAN GIORGIO CARBURANTI DI RAMINA TIZIANO &  C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.803406774997711,
+                    45.599228693380276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IPER CASTELFRANCO",
+                "id": "15034",
+                "amenity": "fuel",
+                "operator": "IPER MONTEBELLO S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.939668357372284,
+                    45.68131337432542
+                ]
+            }
+        }
+    ]
+}

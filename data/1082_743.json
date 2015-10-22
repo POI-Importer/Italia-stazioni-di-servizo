@@ -1,0 +1,88 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Brega Daniele",
+                "id": "15093",
+                "amenity": "fuel",
+                "operator": "BREGA DANIELE & ORSI ALESSANDRA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.304296016693113,
+                    44.19601296099714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "API IP Gestione Cobel srl (P.zza al Serchio)",
+                "id": "29816",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "COBEL - COMMERCIO BENZINA LUBRIFICANTI - S.R.L. O COBEL - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.299260606320786,
+                    44.18418100567013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIAZZA AL SERCHIO - LUCCA",
+                "id": "30951",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.299301229439948,
+                    44.18417929060784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "4petroli-ferri",
+                "id": "32075",
+                "brand": "Italia Carburanti",
+                "amenity": "fuel",
+                "operator": "FERRI MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.247408242223742,
+                    44.15561008606501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kerotris - Gramolazzo",
+                "id": "13378",
+                "amenity": "fuel",
+                "operator": "KT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.240146964788437,
+                    44.16213821291318
+                ]
+            }
+        }
+    ]
+}

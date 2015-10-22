@@ -1,0 +1,226 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ENI",
+                "id": "7003",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ABATI ELENA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.849097810416198,
+                    43.8329218227227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "KEROPETROL SANREMO",
+                "id": "15842",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "KEROPETROL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.75439630548783,
+                    43.808262003004444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sanremo",
+                "id": "10121",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.758638262748718,
+                    43.8100230211895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Agip 1230",
+                "id": "8291",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO AGIP DI TOSINI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.756822407245635,
+                    43.80949692632018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg santucci",
+                "id": "8448",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO ERG DI SANTUCCI LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.771420236169546,
+                    43.82621131470755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg sds snc",
+                "id": "7505",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "S.D.S. S.N.C. DI DE SANTIS GABRIELE, SANTUCCI LUCA E SANTUCCI MAU RO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.82831782670587,
+                    43.82626310650625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio IP",
+                "id": "19854",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BARALE ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.796912186508165,
+                    43.82194613841568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Coldi-oil service",
+                "id": "5053",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "COLDI-OIL SERVICE SAS DI CASONATO PAOLO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.734671972352545,
+                    43.808848120123685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ERG",
+                "id": "21336",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ALTOBRANTO MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.765732257008381,
+                    43.822203028413355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "api anonima petroli s.p.a.",
+                "id": "19182",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CAR WASH DI BELLANOVA LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.768025674703266,
+                    43.82224260819844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DEFRI Snc",
+                "id": "16690",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DEFRI S.N.C. DI DE FRANCO MARIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.767098275238139,
+                    43.821921931247374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OIL ITALIA SAN REMO",
+                "id": "30641",
+                "brand": "Oil Italia",
+                "amenity": "fuel",
+                "operator": "OIL ITALIA SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.761122751630864,
+                    43.811026254375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio eni 1221",
+                "id": "7006",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LANTERI DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.798381457672122,
+                    43.822262492438014
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA DI SERVIZIO SHELL TABURNO NORD DI DE NIGRIS LUIGINO",
+                "id": "20991",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "DE NIGRIS LUIGINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.652952104806898,
+                    41.21059154814996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fuel Campoli",
+                "id": "10663",
+                "amenity": "fuel",
+                "operator": "FUEL TRADING S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.645217973051102,
+                    41.134005907608184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "08379",
+                "id": "23616",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MICCO VINCENZO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.746876358985897,
+                    41.18679929201479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "san pietro",
+                "id": "5733",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ROSSI PATRIZIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.642728865146635,
+                    41.21177760457667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "14859",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FINELLI FILOMENA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.651790708303452,
+                    41.15375511218277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO Q8 - OCONE DOMENICO E RENATO SPA",
+                "id": "7536",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "OCONE DOMENICO E RENATO S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.699251194907447,
+                    41.2143032618073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "8997",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "POSSEMATO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.643934518098831,
+                    41.14802678569379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "De Maria Nicola - TotalErg",
+                "id": "14528",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DE MARIA NICOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.655628949403763,
+                    41.168572963819145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "M.S.",
+                "id": "24305",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MERIDIONAL SERVICE DI IULIANO E GIGANTE S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.737005829811098,
+                    41.20015461582264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN LORENZO MAGGIORE",
+                "id": "29064",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "EWAGRILL DI SALZILLO VINCENZO & C S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.630181491374973,
+                    41.218855561788075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BOTTE RENATO",
+                "id": "12831",
+                "amenity": "fuel",
+                "operator": "BOTTE RENATO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.667514957553522,
+                    41.16507610947419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BENEVENTO FASANELLA",
+                "id": "29646",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.76103439927101,
+                    41.16872641542263
+                ]
+            }
+        }
+    ]
+}

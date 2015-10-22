@@ -1,0 +1,532 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "13470",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LASTA FULVIO & PERGHEM MAURO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1308439674591,
+                    46.04456395365546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI-AGIP",
+                "id": "23796",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RO-MA SNC DI GIULIO ROPELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.097396921038126,
+                    45.98928817452017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "12521",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "GIANNI FILIPPI & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.246411457672139,
+                    46.06494069484637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO ENI 13546",
+                "id": "7671",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CLAUS PAOLO & FRANCESCHINI FRANCO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.225182861089708,
+                    46.06857808562332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "24134",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "AEMME S.A.S. DI FICARRA ADRIANO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.126276403665544,
+                    46.00361886455534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PERGINE VALSUGANA VIA AL LAGO 2",
+                "id": "6832",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.236046356414022,
+                    46.05578720155283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA DI SERVIZIO ESSO BESENELLO",
+                "id": "18872",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FONTANA PAOLA E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.116497069597244,
+                    45.98029281766852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GNP PERGINE",
+                "id": "4405",
+                "brand": "GNP",
+                "amenity": "fuel",
+                "operator": "GRUPPO NORD PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.235271990299227,
+                    46.04901172777324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gherardo Zanotelli",
+                "id": "13675",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ZANOTELLI GHERARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.118921786546707,
+                    46.05987030225526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TRENTO-VIA BRESCIA 27",
+                "id": "11849",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.110860525131214,
+                    46.07052556634606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione esso viale verona s.n.c di oscar demattè e  andrea pedrotti",
+                "id": "25451",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STAZIONE ESSO VIALE VERONA S.N.C. DI OSCAR DEMATTE' E ANDREA PEDR OTTI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.12816870212555,
+                    46.057543750863736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "30110",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ZANOTELLI GHERARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.13768383860588,
+                    46.04806892868936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TRENTO",
+                "id": "21190",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "DE.KO S.A.S. DI KOVACEVIC ESED"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.13093442638933,
+                    46.04677066439285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL ZAMBONI",
+                "id": "16802",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ZAMBONI GIANFRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.199835985898972,
+                    46.00225282489201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A.D.S Esso Est Castel Pergine 2000 snc",
+                "id": "20820",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "AREA DI SERVIZIO EST CASTEL DI PERGINE 2000 DI CALOVI MARIA CRISTINA E DALSASSO REMO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.230001449584961,
+                    46.05914666215845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TRENTO - TRAVAI",
+                "id": "22133",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.119818775463047,
+                    46.064342804190574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO DI DEMATTE' OSCAR E UBER LORENZO S.N.C",
+                "id": "31394",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO ESSO DI DEMATTE' OSCAR E UBER LORENZO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.113733053207396,
+                    46.04802508802456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE IP DI VIGOLO VATTARO",
+                "id": "16106",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ADAMI MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.207921094095695,
+                    46.00048059041892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "_distributore carburanti eni",
+                "id": "8323",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "WELSCH ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.138512229760865,
+                    46.046523420860325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA DI SERVIZIO RETITALIA",
+                "id": "28156",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "FONTANA PAOLA E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.127070050331897,
+                    46.00755101490087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DELTA ENERGY SRL - Calceranica",
+                "id": "23844",
+                "brand": "Delta energy",
+                "amenity": "fuel",
+                "operator": "DELTA ENERGY S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.243863838268226,
+                    46.00383467471025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto Eni di Boller Alessandro",
+                "id": "15587",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BOLLER ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.112919459524505,
+                    46.04235047394073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA VENEZIA 38 - TRENTO",
+                "id": "28667",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.136522989549235,
+                    46.068918843587575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "17505",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "OFFICINA GIACOMINI S.N.C. DI GIACOMINI BENITO & C. IN SIGLA OFFI- CINA GIACOMINI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.241188943386078,
+                    46.00583553302278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTEL PERGINE OVEST",
+                "id": "24119",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DE S.A.R. GESTIONI DI DE SALVATORE ALESSANDRO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.230151653289795,
+                    46.058530220576124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Petrol Airport",
+                "id": "8259",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PETROL-AIRPORT S.A.S. DI DEGASPERI DIEGO, TOMASI LUCA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.123067140579224,
+                    46.03847573852726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "a.d.s. ESSO EST CASTEL PERGINE 2000",
+                "id": "7779",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "AREA DI SERVIZIO EST CASTEL DI PERGINE 2000 DI CALOVI MARIA CRISTINA E DALSASSO REMO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.23103141784668,
+                    46.058372386629145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI LUNG'ADIGE LEOPARDI",
+                "id": "7958",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "F.G. SERVIZIO AUTO DI FILOSA JOSE' ERRICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.116275792613806,
+                    46.07031054891042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GNP CALCERANICA",
+                "id": "4404",
+                "brand": "GNP",
+                "amenity": "fuel",
+                "operator": "GRUPPO NORD PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.245912119628999,
+                    46.0010606904895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Casagrande & C snc",
+                "id": "5081",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CASAGRANDE DI CASAGRANDE MARCO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.235035111084018,
+                    46.0451945756539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "26141",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DETONE OSCAR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.136293113231659,
+                    46.06901735124778
+                ]
+            }
+        }
+    ]
+}

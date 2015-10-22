@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALOISIO ANTONIO",
+                "id": "27765",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ALOISIO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.091776192188263,
+                    39.06234480196062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FALERNA SCALO S.S. 18 KM 391+130  IMP.Q8",
+                "id": "6726",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.14006457301639,
+                    38.98492492166621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Agip Metallo",
+                "id": "23302",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CAV. METALLO - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.09574317932129,
+                    39.05163010748635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GEF SERVIZI SNC",
+                "id": "31367",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GEF SERVIZI S.N.C. DI GANINO ENNIO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.161465346813202,
+                    39.034581011812875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO GALLO MARIO & C SAS",
+                "id": "16974",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GALLO MARIO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.13329142332077,
+                    38.995906835828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "KUWAIT PETROLEUM ITALIA SPA",
+                "id": "8933",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GARRITANO SALVATORE & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.08995355092623,
+                    39.075719861902186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "agip",
+                "id": "13731",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CARUSO SAVERIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.11783924610245,
+                    39.014049438527316
+                ]
+            }
+        }
+    ]
+}

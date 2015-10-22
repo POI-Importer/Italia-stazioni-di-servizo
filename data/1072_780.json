@@ -1,0 +1,175 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "13955",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DEMURO ANDREA GIULIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.468823883467167,
+                    39.2710824587512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO TIGER",
+                "id": "30873",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "TIGER DI TONI EMILIO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.526793420314789,
+                    39.31147286808633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso pino farci",
+                "id": "15541",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FARCI PINO PIER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.53511241104502,
+                    39.30948960256027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni cafè severino nieddu e figli snc",
+                "id": "8585",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SEVERINO NIEDDU E FIGLI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.539889430024687,
+                    39.30872652618176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IGLESIAS",
+                "id": "4195",
+                "brand": "Fiamma 2000",
+                "amenity": "fuel",
+                "operator": "SARDA IMPIANTI CARBURANTI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.611607635582004,
+                    39.311366204233956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IGLESIAS S.S.126 KM 33+597 LOC.BINDUA",
+                "id": "20815",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.495743254631066,
+                    39.29528175148229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IES",
+                "id": "15466",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "SOLINAS GIUSEPPE & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.598711490631104,
+                    39.25583585086709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IGLESIAS",
+                "id": "25190",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.538165131282767,
+                    39.31013320481903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "28770",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ARESU DANILO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.466850876611716,
+                    39.26200508232371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "19232",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "STOCHINO ANGELO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.542923886585982,
+                    39.30973288573326
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,223 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso - Falciano del Massico",
+                "id": "28910",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SPEZIALE GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.945189565420149,
+                    41.15974000515654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALCAR SERVICE SRL",
+                "id": "6021",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ALCAR SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.953387737274172,
+                    41.227726138569196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASALE - CARINOLA S.S. 7 APPIA KM 178+700 IMP.Q8",
+                "id": "6723",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0020427828033,
+                    41.20528642185001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO CUCINELLA",
+                "id": "30445",
+                "amenity": "fuel",
+                "operator": "GPC S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.040965884923937,
+                    41.193914262604956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ITA POWER",
+                "id": "28159",
+                "amenity": "fuel",
+                "operator": "AICKO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.962968587875366,
+                    41.18035619575714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONDRAGONE VIA CROCELLE",
+                "id": "24124",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.908452938622984,
+                    41.114609331259395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL - Ventre Giovanni",
+                "id": "15155",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "VENTRE GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.040832445025446,
+                    41.13999259224957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil 4729",
+                "id": "15764",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CAMPOLI ALFREDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.904623565931615,
+                    41.11427614016534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GOLDENGAS",
+                "id": "22388",
+                "amenity": "fuel",
+                "operator": "VARRIALE GESTIONI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.006207138299946,
+                    41.20345215599623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO AGIP - BAR E TABACCHI",
+                "id": "29671",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GIUSEPPE VENTRE & FIGLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.025926068425179,
+                    41.141641887877526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore shell di razzano anna maria",
+                "id": "18075",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "RAZZANO ANNA MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.93350947990109,
+                    41.2276914651127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso - Falciano del Massico",
+                "id": "28909",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SPEZIALE GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.945189565420149,
+                    41.15974000515654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REPSOL",
+                "id": "10757",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "PALMIERI DOMENICO FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.01735708117485,
+                    41.175582509927935
+                ]
+            }
+        }
+    ]
+}

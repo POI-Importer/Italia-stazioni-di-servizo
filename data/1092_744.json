@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Le Capanne",
+                "id": "21497",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SUPERGAS - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.01466560363771,
+                    44.05009367636381
+                ]
+            }
+        }
+    ]
+}

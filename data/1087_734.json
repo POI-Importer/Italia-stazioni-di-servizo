@@ -1,0 +1,204 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Torresani Roberta",
+                "id": "25890",
+                "amenity": "fuel",
+                "operator": "TORRESANI ROBERTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.101420239950583,
+                    45.237756108709824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORO F.LLI SPA",
+                "id": "30782",
+                "brand": "Loro",
+                "amenity": "fuel",
+                "operator": "LORO F.LLI-S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.17694291534417,
+                    45.30932338586772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A.G.N. Service S.A.S.",
+                "id": "18169",
+                "amenity": "fuel",
+                "operator": "A.G.N. SERVICE S.A.S. DI CAVATONI GIANNI & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.153238360327123,
+                    45.32296991571862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Beyfin spa",
+                "id": "25705",
+                "amenity": "fuel",
+                "operator": "ORLANDI MATTIA E SAGGIORO NICOLO' S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.184045850024178,
+                    45.28592923980727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GBSERVICE GAMBARINI",
+                "id": "24566",
+                "amenity": "fuel",
+                "operator": "GB SERVICE DI GAMBARINI COSTANTE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.08474426071325,
+                    45.29091148816217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COSTANTIN",
+                "id": "18716",
+                "brand": "Costantin",
+                "amenity": "fuel",
+                "operator": "GR PERFORMANCE S.A.S. DI MERLIN GIANCARLO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.15540251135826,
+                    45.23860073938537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BOVOLONE-VIA SAN PIERIN",
+                "id": "11962",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.140037550926195,
+                    45.245562319285824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "25921",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "4 EVER S.A.S. DI PERLATO SIMONE, FRANCHI MARCELLA,  CIPRIANO SALV ATORE E FRANCHI CHIARA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.098012475645646,
+                    45.273001571024245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Areagrillsas Tamoil",
+                "id": "20400",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "AREAGRILL S.A.S. DI SCALA PIERGIORGIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.241440400481224,
+                    45.21746176086616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ISOLA RIZZA",
+                "id": "5917",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TotalErg SpA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.181576839286777,
+                    45.290427643645785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARBURANTI TUTTOGALVAN",
+                "id": "23210",
+                "amenity": "fuel",
+                "operator": "MUNARI S.N.C. DI MUNARI GIANLUCA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.133999824523926,
+                    45.303656523415114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio di Trefiletti Antonino",
+                "id": "26994",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "TREFILETTI ANTONINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.23577356338501,
+                    45.23776630845569
+                ]
+            }
+        }
+    ]
+}

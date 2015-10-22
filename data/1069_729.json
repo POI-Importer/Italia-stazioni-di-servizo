@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OLDANO PETROLI SRL",
+                "id": "23383",
+                "amenity": "fuel",
+                "operator": "OLDANO PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.941881418228149,
+                    45.84306742632645
+                ]
+            }
+        }
+    ]
+}

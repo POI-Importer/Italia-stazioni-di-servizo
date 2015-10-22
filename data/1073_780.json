@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "31257",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "FRANCESCO MURA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.640949822900438,
+                    39.279084013738306
+                ]
+            }
+        }
+    ]
+}

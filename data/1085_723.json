@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LACES-SS 38 KM 171+970",
+                "id": "11544",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.84369881107341,
+                    46.620135350839355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP IM 3108",
+                "id": "21435",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STECHER THOMAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.793766975402832,
+                    46.62562013414036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "HAR´RY`S TANKSTELLE",
+                "id": "18852",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TRAFOIER HARALD"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.86322009563446,
+                    46.622258673815445
+                ]
+            }
+        }
+    ]
+}

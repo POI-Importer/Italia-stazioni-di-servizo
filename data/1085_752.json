@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Rifornimento Esso",
+                "id": "21016",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BARGELLI S. & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.884260684251785,
+                    43.033183781232346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MASSA MARITTIMA",
+                "id": "5946",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.887038597553214,
+                    43.05198735973446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Castellina s.s.1",
+                "id": "8718",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PITTALIS RAIMONDO FRANCESCO & C. S.N.C. DI PITTALIS RAIMONDO FRAN CESCO E PITTALIS GIOVANNA RITA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.816238522529602,
+                    42.95867210715349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.A.M. Scarlino",
+                "id": "7447",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SOC. AUTOTRASPORTI MONTEFELTRO-S.A.M."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.825131386518478,
+                    42.94351568016679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Follonica",
+                "id": "4651",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.77690124511719,
+                    42.95161524517142
+                ]
+            }
+        }
+    ]
+}

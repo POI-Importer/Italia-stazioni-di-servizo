@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "WIN",
+                "id": "30392",
+                "brand": "Win",
+                "amenity": "fuel",
+                "operator": "KSENYA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.612278655171396,
+                    43.297989792417155
+                ]
+            }
+        }
+    ]
+}

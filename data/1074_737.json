@@ -1,0 +1,394 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio AGIP",
+                "id": "7254",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FRACCHETTA MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.839171528816223,
+                    44.90080124750694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sartor Fiorenzo",
+                "id": "25836",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SARTOR FIORENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.858408331871034,
+                    44.88212990723867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "30461",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "EL.PA. S.N.C. DI TIRIBELLO PAOLO E PRINA ELENA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.853861317038536,
+                    44.895540404140895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "6819",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VERGAGNI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.86414540082194,
+                    44.89986106169106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tortona",
+                "id": "10077",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.858195388509444,
+                    44.88125189681482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV01 - TORTONA",
+                "id": "4955",
+                "brand": "Ratti",
+                "amenity": "fuel",
+                "operator": "SO.GE.DI DI RATTI FRANCESCO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.877018408563572,
+                    44.85793412195657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TORTONA - ARZANI",
+                "id": "28675",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.872435601555253,
+                    44.90083720384996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TORTONA",
+                "id": "15040",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "VACCHELLI GIACOMO GAETANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.84736567735672,
+                    44.894972852599714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 1498",
+                "id": "31896",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.879725858569145,
+                    44.90851541929579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SCAPOLAN PAOLO",
+                "id": "17787",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SCAPOLAN PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.934906944632532,
+                    44.962960666775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTELNUOVO SCRIVIA OVEST",
+                "id": "3606",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SILLA FABIO E C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.85218560695648,
+                    44.933913612012745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV03 - TORTONA",
+                "id": "4953",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SO.GE.DI DI RATTI FRANCESCO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.869979186508203,
+                    44.90662480242941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TORTONA NORD",
+                "id": "3798",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "COGI DI CORBETTA GIGI E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.883669263274442,
+                    44.935165826291644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ratti di Gravante Ferdinando",
+                "id": "10308",
+                "amenity": "fuel",
+                "operator": "GRAVANTE FERDINANDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.886753916740417,
+                    44.905397655307105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTELNUOVO SCRIVIA EST",
+                "id": "3595",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "3 T S.N.C. DI TARTAGLIONE SABATINO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.853406559524501,
+                    44.93425519026778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TORTONA SUD",
+                "id": "3529",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VIPA OIL S.N.C. DEI F.LLI VERDONA PAOLO E FABIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.885573744773867,
+                    44.935207056409965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV02 - TORTONA",
+                "id": "29685",
+                "brand": "Ratti",
+                "amenity": "fuel",
+                "operator": "SO.GE.DI DI RATTI FRANCESCO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.866466034393284,
+                    44.90790059861814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TORTONA CORSO DON ORIONE",
+                "id": "23835",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.859420260118895,
+                    44.88950890894893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "q8 gemme",
+                "id": "11406",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GEMME ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.82974088191986,
+                    44.873519210799245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tortona Oil",
+                "id": "4638",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.848331958969084,
+                    44.89498110397649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "7428",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PERSETTI ARMANO GIOVANNA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.857045769691469,
+                    44.87341352692213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO  RETITALIA",
+                "id": "4968",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "FRACCHETTA SANDRINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.840574324131012,
+                    44.893791749730894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kerotris - Pontecurone",
+                "id": "13830",
+                "amenity": "fuel",
+                "operator": "BECOJL SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.915041834115982,
+                    44.94360462136133
+                ]
+            }
+        }
+    ]
+}

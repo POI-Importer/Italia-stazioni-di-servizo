@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "6896",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BENEDETTI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.83668488264084,
+                    42.73902057954852
+                ]
+            }
+        }
+    ]
+}

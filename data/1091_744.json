@@ -1,0 +1,70 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bravi Angelo",
+                "id": "30743",
+                "amenity": "fuel",
+                "operator": "OFFICINA MECCANICA BRAVI ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.841811065707704,
+                    44.061383264657614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "easy fuel",
+                "id": "21499",
+                "amenity": "fuel",
+                "operator": "SUPERGAS - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.78398758172989,
+                    43.98172766587185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO Q8 DI LANDI TIZIANA",
+                "id": "14118",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "LANDI TIZIANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.944960355758667,
+                    44.00735998817946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bravi Angelo-Portico",
+                "id": "30767",
+                "amenity": "fuel",
+                "operator": "OFFICINA MECCANICA BRAVI ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.785028278827665,
+                    44.027138890495564
+                ]
+            }
+        }
+    ]
+}

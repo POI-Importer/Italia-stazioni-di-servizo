@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SU PASADORGIU SAS",
+                "id": "24772",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SU PASADORGIU S.A.S. DI DEMURTAS MARIANO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.51816201210022,
+                    39.954790918287166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FLLI DEIANA  STAZIONE DI SERVIZIO",
+                "id": "31664",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FRATELLI DEIANA S.A.S.STAZIONE DI SERVIZIO DI DEIANA SUSI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.523147642612459,
+                    39.91713921187173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "24727",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PIRAS S.A.S. DI PIRAS GIAMPIETRO E C. - LOTZORAI ABBREVIAZIONE: PIRAS S.A.S. LOTZORAI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.660044202377321,
+                    39.96822847041538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "WASH SERVICE SRL",
+                "id": "31361",
+                "amenity": "fuel",
+                "operator": "AUTOLAVAGGIO WASH SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.667790493455072,
+                    39.93105768517065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "24728",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PIRAS S.A.S. DI PIRAS GIAMPIETRO E C. - LOTZORAI ABBREVIAZIONE: PIRAS S.A.S. LOTZORAI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.660044202377321,
+                    39.96822847041538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Girasole",
+                "id": "4131",
+                "brand": "Fiamma 2000",
+                "amenity": "fuel",
+                "operator": "FIAMMA 2000 - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.651546000000053,
+                    39.952657561155014
+                ]
+            }
+        }
+    ]
+}

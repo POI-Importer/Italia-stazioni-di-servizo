@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SEDILO",
+                "id": "4049",
+                "brand": "Fiamma 2000",
+                "amenity": "fuel",
+                "operator": "FIAMMA 2000 - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.979888260364532,
+                    40.19091720389931
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,719 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ROMA SP 101/A ALBANO-TORVAIANICA KM 9+70",
+                "id": "22464",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.547396570444107,
+                    41.70862160614418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "27688",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "EFFER DI VIRGINIO FERROTTI E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.650576107538996,
+                    41.67513636747889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "POMEZIA - DEL MARE",
+                "id": "24812",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.495273177909894,
+                    41.67238397200648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ginestreto S.a.s di Guadagno Doriana e C.",
+                "id": "19893",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GINESTRETO S.A.S. DI GUADAGNO DORIANA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.65244662761688,
+                    41.68577369663028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area Servizio Pomezia",
+                "id": "14460",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PONTINA PETROLI - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.528472902391284,
+                    41.65167475503341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA DEL MARE - CASTEL GANDOLFO",
+                "id": "29338",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.614796459674835,
+                    41.72525535340323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "P.V. 41688",
+                "id": "32201",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DI. CAR. DISTRIBUZIONE CARBURANTI DI PICCOLO JAMES S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.491691112518312,
+                    41.66785002106718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil incaini leonardo",
+                "id": "14623",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "INCAINI LEONARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.607845725261084,
+                    41.723799285326656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "cecchini luciano e c sas",
+                "id": "23524",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CECCHINI LUCIANO & C. - S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.49771267175674,
+                    41.67810944606193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALBANO LAZIALE-LOC.PAVONA SS. 207 NETTUNENSE KM.4+",
+                "id": "11807",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.618460581684076,
+                    41.72501610800978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Divino Amore",
+                "id": "14260",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "D.C.G.DISTRIBUZIONE CARBURANTI GENZANO S.A.S. DI BARBACCI AMBROGI MARIO E DI STASIO DAVIDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.60365054011345,
+                    41.75789347751939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Total Erg",
+                "id": "25009",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PA.CO PETROLI S.N.C. DI BERNARDINO COCCO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.499107420444489,
+                    41.676261155361956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ROMA - STAZIONE PAVONA",
+                "id": "31284",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.580694535581985,
+                    41.716011612846884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "POMENTE MIRKO",
+                "id": "12763",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "POMENTE MIRKO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.507522851228712,
+                    41.681779425884734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mar Oil Carburanti sas",
+                "id": "21811",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MAR OIL CARBURANTI S.A.S. DI MARIA CHIARA MARCONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.648101449012758,
+                    41.688290320417074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "co.g.a.r. snc",
+                "id": "6961",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CO.G.A.R. DI COSTANTINI ALESSANDRO & C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.61669546365738,
+                    41.739486751355045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "POMEZIA VIA GIOVANNI GRONCHI - LOC.VICERE'",
+                "id": "6632",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.506020814180374,
+                    41.64611246287019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LAZIALE PETROLI SNC DI LAURENTI CATIA",
+                "id": "18445",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LAZIALE PETROLI SNC DI LAURENTI CATIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.54100888967514,
+                    41.64720801319962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ardeatina",
+                "id": "28513",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MJ CARBURANTI DI MACCHIONI STEFANO E C. SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.572390735149385,
+                    41.72293055944922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio agip",
+                "id": "29021",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MANONI STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.55854998769678,
+                    41.76413529997802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pontina",
+                "id": "5201",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ON THE ROAD DI DELLA BINA ANTONIO & C. - SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.516866326332092,
+                    41.664588011612615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "29116",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DE PROSPERIS FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.580728846557577,
+                    41.71603188287939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "28884",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "S.D. SERVIZI S.A.S. DI DAVIDE AMENDOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.590702176094055,
+                    41.69673923921576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "POMEZIA F.LLI BANDIERA",
+                "id": "6660",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.500169575214386,
+                    41.664199284538824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Metano Nettunense",
+                "id": "4741",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LAZIO GAS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.654306193057206,
+                    41.65490692015891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Appia Gestione Carburanti S.A.S. di Porcu Efisio",
+                "id": "7864",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "APPIA GESTIONE CARBURANTI S.A.S. DI PORCU EFISIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.650282084941864,
+                    41.736529000303925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "POMEZIA-VIA DEL MARE 'SEDICI PINI'",
+                "id": "11822",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.483205364418039,
+                    41.65179799585998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AL.FR.AN. SAS",
+                "id": "29752",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "AL.FR.AN DI ALESSANDRO CONCUTELLI & C. SOCIETA' IN ACCOMANDITA SEMPLICE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.513725454244991,
+                    41.68773361448646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MARINO",
+                "id": "4206",
+                "brand": "Fiamma 2000",
+                "amenity": "fuel",
+                "operator": "SERVIZI PETROLIFERI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.618511449073821,
+                    41.74833801133936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "19847",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "M.F.M. PETROLI S.N.C. DI MASTROMATTEO MIRCO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.61576473712921,
+                    41.757925090691906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI 7164",
+                "id": "7745",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MADEL - SOCIETA' IN NOME COLLETTIVO DEI F.LLI TORO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.653417472169508,
+                    41.73374461851661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Repsol",
+                "id": "29339",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "MONDO SELF S.A.S. DI CASALI GIANLUCA  &  C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.58541822433472,
+                    41.68098695231096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "27547",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DI FABIO CHIARA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.49355256557465,
+                    41.66994499349273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 C.A.M.A.S.",
+                "id": "7790",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "C.A.M.A.S. DI COSTANTINI MASSIMO E TORELLI LAURA SOCIETA' IN NOME COLLETTIVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.616113424301144,
+                    41.76518210818398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "APPIA NUOVA PETROLI",
+                "id": "29826",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "APPIA NUOVA PETROLI DI CHIAPPARICCI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.650296837091446,
+                    41.736520994296704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "m.e.f. carburanti sas",
+                "id": "20545",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "M. E. F. CARBURANTI S.A.S. DI ERCOLANI MASSIMO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.583519220352175,
+                    41.702764804271915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio ENI \"Via Pontina\"",
+                "id": "21657",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GEIMCAL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.481239885091782,
+                    41.69214989375913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "agip",
+                "id": "24976",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIMPIANTI DI CICETTI DANIELE & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.583264410495756,
+                    41.677100966252404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BARAVELLI ALESSANDRO",
+                "id": "16915",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BARAVELLI ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.540016472339634,
+                    41.66924053259373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni ardeatina",
+                "id": "25277",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ROSSETTI FUEL SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.560963183641434,
+                    41.7487064829584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VSG",
+                "id": "27855",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VSG S.A.S. DI CALDARINI GIOVANNA E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.647609263658524,
+                    41.75326097540479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pit Stop Stazione di servizio ENI",
+                "id": "21655",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GEIMCAL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.516111955046654,
+                    41.676055958959296
+                ]
+            }
+        }
+    ]
+}

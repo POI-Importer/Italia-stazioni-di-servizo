@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di servizio Catenanuova",
+                "id": "12036",
+                "brand": "SP Energia Siciliana",
+                "amenity": "fuel",
+                "operator": "SERVIZI INTEGRATI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.688518972021484,
+                    37.56291350080543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO IP",
+                "id": "27545",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FRENI ALFIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.700004756450653,
+                    37.561299140384435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA GARIBALDI CASTEL DI IUDICA",
+                "id": "20360",
+                "brand": "Giap",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.646946837608082,
+                    37.49469621077054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Catenanuova, via Stazione",
+                "id": "31912",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GD PETROLI  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.689335704299198,
+                    37.56404309370951
+                ]
+            }
+        }
+    ]
+}

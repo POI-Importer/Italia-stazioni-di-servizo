@@ -1,0 +1,628 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CORNAREDO CARBURANTI S.R.L. ARLUNO",
+                "id": "7167",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "CORNAREDO CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.928020188269102,
+                    45.49777065219636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalcorbetta",
+                "id": "18223",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PETROCELLI ROCCA ENRICA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.925168902446785,
+                    45.4720225594774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "9216",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "WAL-MAX S.N.C. DI DITTARO WALTER E CRIPPA MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.868988363754283,
+                    45.479599081442515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "7359",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GIRIMONTI ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.940785023187232,
+                    45.47993928523622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COLOMBO SAS",
+                "id": "17596",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "COLOMBO S.A.S. DI MERLO BARBARA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.860759288072586,
+                    45.51373730819113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO TOTALERG",
+                "id": "21944",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "F.I.M. DI FONTANA IVANO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.87977883219719,
+                    45.47406118974756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di servizio IES",
+                "id": "18700",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "B.F.F. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.935075923800468,
+                    45.494719115074965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Corbetta",
+                "id": "4667",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.911249190568924,
+                    45.47215246975244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SOMMESE MAGNAGO",
+                "id": "13607",
+                "amenity": "fuel",
+                "operator": "SOMMESE CARBURANTE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.806335926055908,
+                    45.57064950675351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GUERRA SAVERIO IMPIANTO ENI",
+                "id": "10476",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GUERRA SAVERIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.956485986709595,
+                    45.543275707419845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tiziano Cova",
+                "id": "9933",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "COVA TIZIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.862136602401733,
+                    45.57415304515296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Repsol",
+                "id": "16049",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "MEJK SOCIETA' COOPERATIVA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.95167814695071,
+                    45.54111427221245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2531 PARABIAGO",
+                "id": "5416",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "enirete oil&nonoil S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.953312818784866,
+                    45.5619190150919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGOSNC di Petrocelli & C.",
+                "id": "27248",
+                "amenity": "fuel",
+                "operator": "AGO SNC DI PETROCELLI OTTAVIO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.902168571949005,
+                    45.46982911600691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Parabiago",
+                "id": "10095",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.932908028364182,
+                    45.54657545332267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OSSONA",
+                "id": "5826",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TotalErg SpA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.910389224536857,
+                    45.5032066006104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg di F.lli Luppino",
+                "id": "13913",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "FRATELLI LUPPINO - S.N.C. DI DARIO E GIANFRANCO LUPPINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.937664833760095,
+                    45.49074915720925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BUSCATE-PER TURBIGO",
+                "id": "11668",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.802199592590343,
+                    45.54492022314928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stopandgo",
+                "id": "19250",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STOP & GO S.A.S. DI FERRARI ALBERTO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.863739892840385,
+                    45.511089181158226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vargas",
+                "id": "4394",
+                "amenity": "fuel",
+                "operator": "GAS SERVICE DI IRRITANO MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.865020573016407,
+                    45.57995312599344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOINI ANDREA PARABIAGO",
+                "id": "24165",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "TOINI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.955662454036656,
+                    45.564001602532045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Total erg  2-elle snc",
+                "id": "12887",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "2-ELLE SNC DI TESCARO LUCA E PAPANDREA LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.859471538577509,
+                    45.58097631145069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MAGENTA",
+                "id": "24147",
+                "amenity": "fuel",
+                "operator": "IPER MONTEBELLO S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.8693168759346,
+                    45.4601344005527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CORNAREDO CARBURANTI S.R.L. C.SO EUROPA MAGENTA",
+                "id": "7168",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "CORNAREDO CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.875720029560853,
+                    45.47612786517699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO CARBURANTI ESSO",
+                "id": "17785",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SUSANI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.953870765698184,
+                    45.56241016951922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Occhio al prezzo",
+                "id": "10058",
+                "amenity": "fuel",
+                "operator": "DE NIGRIS ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.889665101852415,
+                    45.56317248850171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Canegrate",
+                "id": "10086",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.933268785476685,
+                    45.5643485956627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ARCONATE",
+                "id": "28342",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.831147700548172,
+                    45.53196068818416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio Q8",
+                "id": "20651",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "NAGGI GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.81252358161464,
+                    45.51081967105546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CORNAREDO CARBURANTI S.R.L. - BUSTO G.",
+                "id": "31151",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "CORNAREDO CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.909874558448792,
+                    45.546022440987855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Di Federico Lampugnani",
+                "id": "24709",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LAMPUGNANI FEDERICO MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.901200294494629,
+                    45.57110689426439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOINI ANDREA SRL",
+                "id": "14146",
+                "amenity": "fuel",
+                "operator": "TOINI ANDREA  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.943785056471825,
+                    45.56922286931175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shell KRI AutoSoccorso 24h",
+                "id": "14881",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "GPS DI PETROCELLI GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.959293766456538,
+                    45.48538307622066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.LLI OLDANI STAZIONE DI SERVIZIO ENI",
+                "id": "15111",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "F.LLI OLDANI SNC DI OLDANI  ELIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.819762644180287,
+                    45.50530075961641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GIGLIOTTI MASSIMO",
+                "id": "14271",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MASSIMO GIGLIOTTI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.910822008598302,
+                    45.4814592838758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI CAFE'",
+                "id": "13710",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PETROL STORE S.A.S. DI RE FRASCHINI MARCO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.858505425933801,
+                    45.499124429168795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BFL SNC",
+                "id": "23481",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "B.F.L. SNC DI BRUNINI MARCO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.826105327647383,
+                    45.578454571638765
+                ]
+            }
+        }
+    ]
+}

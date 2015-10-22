@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VILLASPECIOSA S.S 130 KM 19,140",
+                "id": "23677",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.927152462565571,
+                    39.30710618064371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil 8455 di mura raffaele",
+                "id": "8947",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MURA RAFFAELE GESTORE IMPIANTO DISTRIBUZIONE CARBURANTI AGIP SILIQUA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.820613324642181,
+                    39.299146185123554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "4735",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PANI ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.950202453303518,
+                    39.29475219797317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "14904",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SECCI GIAMPAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.904735624298155,
+                    39.336907656596566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 DI ANGIONI MARIA PATRIZIA",
+                "id": "11041",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ANGIONI MARIA PATRIZIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.944049924612045,
+                    39.3001431014088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DECIMOPUTZU VIA VILLA SPECIOSA 40",
+                "id": "6695",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.918499596958895,
+                    39.33305559972909
+                ]
+            }
+        }
+    ]
+}

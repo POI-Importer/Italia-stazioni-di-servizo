@@ -1,0 +1,360 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV POZZOLENGO",
+                "id": "31153",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "CAPRICORNO S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.626598298549652,
+                    45.40873037366493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTELNUOVO DEL GARDA",
+                "id": "5920",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TotalErg SpA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.714658398811366,
+                    45.429925940913954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni di Bernabeni Enrico",
+                "id": "5995",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BERNABENI ENRICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.691229721548437,
+                    45.39300516301487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio AGIP",
+                "id": "21541",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GIURADEI FAUSTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.564367904584287,
+                    45.36915069813562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI STATION",
+                "id": "14493",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GOLINI FEDERICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.705921177923528,
+                    45.44203611648795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PetrolService di Goffi Maura Sas",
+                "id": "7240",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PETROL SERVICE DI GOFFI MAURA S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.547955930233002,
+                    45.44960143483846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP di Cortellazzi Cristiano",
+                "id": "7524",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CORTELLAZZI CRISTIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.60064859688282,
+                    45.44129156853261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP PESCHIERA S.BENEDETTO",
+                "id": "28230",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ZANONI DANILO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.668078660964966,
+                    45.44773102659064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SMP PESCHIERA DEL GARDA",
+                "id": "5253",
+                "brand": "San Marco Petroli",
+                "amenity": "fuel",
+                "operator": "SAN MARCO PETROLI DISTRIBUZIONE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.69931834936142,
+                    45.43844392656716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DESENZANO - SS11 KM12 415 LATO NORD",
+                "id": "7287",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.586367644180314,
+                    45.445616454032695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CORAZZINA MARINA",
+                "id": "12674",
+                "brand": "Costantin",
+                "amenity": "fuel",
+                "operator": "CORAZZINA MARINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.596896779098529,
+                    45.33969085330764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP PESCHIERA",
+                "id": "28229",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ZANONI DANILO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.69238136653803,
+                    45.439510479125076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DESENZANO DEL GARDA",
+                "id": "22105",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.567989349365234,
+                    45.44495314892252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COSTANTIN",
+                "id": "31192",
+                "brand": "Costantin",
+                "amenity": "fuel",
+                "operator": "TOMMASI SERGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.68593680858612,
+                    45.411488945562226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GEANTA LILIANA ANISOARA",
+                "id": "28227",
+                "amenity": "fuel",
+                "operator": "GEANTA LILIANA ANISOARA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.549736917018889,
+                    45.43322667220466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FUEL GARAGE",
+                "id": "9900",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "FUEL GARAGE S.N.C. DI DAL SANTO OMAR E GAMBA MORRIS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.573855340480806,
+                    45.45987440211664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SIMPLY",
+                "id": "23356",
+                "amenity": "fuel",
+                "operator": "SMA S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.682444572448732,
+                    45.4332741039569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BROGNARA GIANNI E C.",
+                "id": "5108",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BROGNARA GIANNI E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.710365027189253,
+                    45.43613273485444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SMP CASTELNUOVO DEL GARDA",
+                "id": "5255",
+                "brand": "San Marco Petroli",
+                "amenity": "fuel",
+                "operator": "SAN MARCO PETROLI DISTRIBUZIONE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.71116030216217,
+                    45.44785710233348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO TREBISNC",
+                "id": "17883",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "TREBI S.N.C. DI BAGNATO ROCCO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.700572711639436,
+                    45.44095601354561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIAZZALE PESCHIERA",
+                "id": "15199",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AMBROSI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.68536539033096,
+                    45.44015329767181
+                ]
+            }
+        }
+    ]
+}

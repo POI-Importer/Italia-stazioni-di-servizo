@@ -1,0 +1,86 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GOIL PETROLI SPA",
+                "id": "20057",
+                "amenity": "fuel",
+                "operator": "CECCHINI MARGHERITA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.532051736245082,
+                    41.917038460288225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MINCARINI MARIO",
+                "id": "20372",
+                "amenity": "fuel",
+                "operator": "MINCARINI MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.541924744844437,
+                    42.01906819597037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "26931",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BASILICO ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.54364159477086,
+                    42.01899875094742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "X FUEL MONTAZZOLI",
+                "id": "29533",
+                "amenity": "fuel",
+                "operator": "X FUEL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.42758394136513,
+                    41.94189090385355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "marcovecchio falco carburanti",
+                "id": "17355",
+                "amenity": "fuel",
+                "operator": "MARCOVECCHIO FALCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.58593161942781,
+                    42.00771294713287
+                ]
+            }
+        }
+    ]
+}

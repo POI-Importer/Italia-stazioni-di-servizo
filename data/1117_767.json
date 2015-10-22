@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "new energy",
+                "id": "19780",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NEW ENERGY S.A.S. DI ZAZA SEBASTIANO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.487495899200436,
+                    41.107539393713374
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL ERG",
+                "id": "15833",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CA.RO. * S.N.C. * DI CAMILLO ANTONIO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.090873444691397,
+                    42.79573040794564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "API DI BRANDIMARTE G.BATTISTA",
+                "id": "17931",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BRANDIMARTE GIOVAN BATTISTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.095054030418396,
+                    42.78965964841628
+                ]
+            }
+        }
+    ]
+}

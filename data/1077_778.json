@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "corrias mario",
+                "id": "23125",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CORRIAS MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.356778860092163,
+                    39.62991271018818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "L.M. DI PIRAS LUIGI E PIRAS MAURO SNC",
+                "id": "22658",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "L.M. DI PIRAS LUIGI & PIRAS MAURO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.360154420137407,
+                    39.55166265940391
+                ]
+            }
+        }
+    ]
+}

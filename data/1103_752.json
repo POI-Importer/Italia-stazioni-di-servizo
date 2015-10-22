@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "circolo nautico sambenedettese",
+                "id": "21410",
+                "amenity": "fuel",
+                "operator": "CIRCOLO NAUTICO SAMBENEDETTESE - ASSOCIAZIONE SPORTIVA DILETTANTISTICA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.889508600000001,
+                    42.9521683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FUEL SERVICE - IMPIANTO RETITALIA",
+                "id": "28158",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "FUEL SERVICE DI CECILIA LUCA E CAPECCI PATRIZIA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.88849169015884,
+                    42.94319927006004
+                ]
+            }
+        }
+    ]
+}

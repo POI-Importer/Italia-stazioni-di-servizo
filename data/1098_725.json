@@ -1,0 +1,175 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOLMEZZO-VIA IV NOVEMBRE 6",
+                "id": "11909",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.017414808273314,
+                    46.402793663221516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE IP BILLIANI LILIA",
+                "id": "13665",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ALIMENTARI STROILI SILVIO DI BILLIANI LILIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.039230459045028,
+                    46.36829349535078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAMPIOLO OVEST",
+                "id": "31588",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.167146444320679,
+                    46.39835664061947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bearzi Bruno",
+                "id": "9735",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BEARZI BRUNO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.018922209739685,
+                    46.40310291697202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di servizio shell di Marta Ivan & c. s.a.s.",
+                "id": "14884",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "AREA DI SERVIZIO SHELL DI MARTA IVAN & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.064718246459963,
+                    46.37256823195754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOLMEZZO - SS 52 BIS KM1 620",
+                "id": "7269",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.020995606151587,
+                    46.42034241151519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VENZONE OIL ITALIA",
+                "id": "26568",
+                "brand": "Oil Italia",
+                "amenity": "fuel",
+                "operator": "OIL ITALIA SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.135422617197039,
+                    46.36292743135437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "_SMP TOLMEZZO",
+                "id": "29516",
+                "brand": "San Marco Petroli",
+                "amenity": "fuel",
+                "operator": "SAN MARCO PETROLI DISTRIBUZIONE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.026266098022457,
+                    46.38958141591756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni station",
+                "id": "6189",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CARBOIL S.A.S. DI ROMANINI IVAN & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.022333179167957,
+                    46.40109348738409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "9038",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DI BERNARDO DELIA & ALBA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.134094397622675,
+                    46.32679469957625
+                ]
+            }
+        }
+    ]
+}

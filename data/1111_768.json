@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO VIA SS 91 CONZA DELLA CAMPANIA",
+                "id": "32049",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STRAZZA ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.308058857917786,
+                    40.869697456331025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio CONOIL s.r.l.",
+                "id": "32198",
+                "amenity": "fuel",
+                "operator": "CONOIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.411781865332163,
+                    40.976416961749116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "31834",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "VALLARIO LEONARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41137419641018,
+                    40.91611897043595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CALITRI",
+                "id": "29649",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.429712459445001,
+                    40.887421487416425
+                ]
+            }
+        }
+    ]
+}

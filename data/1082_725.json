@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PUNTO VENDITA TAMOIL CAPITANI COMBUSTIBILI SAS",
+                "id": "7936",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CAPITANI COMBUSTIBILI SAS DI PEDRANZINI GIUSEPPE E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.326898980924057,
+                    46.325252102015185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO RETITALIA DI CADRINGHER FABIO",
+                "id": "26065",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "CADRINGHER FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3209893974838,
+                    46.32556120657425
+                ]
+            }
+        }
+    ]
+}

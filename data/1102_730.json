@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Adriaenergy s.r.l.",
+                "id": "16980",
+                "amenity": "fuel",
+                "operator": "ADRIAENERGY S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.744194209575653,
+                    45.70871164393604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio ESSO di Riva Gabriele",
+                "id": "9504",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "RIVA GABRIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72149467468262,
+                    45.72006988360862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GENESYS 2002 S.N.C.",
+                "id": "8464",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GENESYS 2002 DI ULCIGRAI MAURO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.729940436865265,
+                    45.718600163066796
+                ]
+            }
+        }
+    ]
+}

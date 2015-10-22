@@ -1,0 +1,275 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GONARS NORD",
+                "id": "3569",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BULDO ORLANDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.258443474769592,
+                    45.882423467232876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso di marinig giorgio",
+                "id": "26675",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ESSO DI MARINIG GIORGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.30851763486862,
+                    45.883581850184356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SMP GONARS",
+                "id": "5239",
+                "brand": "San Marco Petroli",
+                "amenity": "fuel",
+                "operator": "SAN MARCO PETROLI DISTRIBUZIONE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.246393650770187,
+                    45.90462608081027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CERVIGNANO DEL FRIULI-LOC.STRASSOLDO S.S. 352 KM 21",
+                "id": "11916",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32625749206545,
+                    45.84373482716346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Agip di Bevilacqua Simone",
+                "id": "16794",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO AGIP DI BEVILACQUA SIMONE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34858158332827,
+                    45.877321231390155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2S",
+                "id": "25701",
+                "amenity": "fuel",
+                "operator": "SPANGARO STEFANO E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.278858939702785,
+                    45.931173790302715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PEZ DIEGO",
+                "id": "12287",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PEZ DIEGO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.211531639099123,
+                    45.83793256069819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Drusian s.a.s.",
+                "id": "23406",
+                "amenity": "fuel",
+                "operator": "DRUSIAN S.A.S. DI DRUSIAN RENATO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.353868424892426,
+                    45.88821514029052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VECA sas di Caprioli",
+                "id": "26733",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VECA SAS DI CAPRIOLI ANTONIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.331485323803692,
+                    45.82958472335806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN GIORGIO",
+                "id": "7326",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SOM S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.194048356591793,
+                    45.834351314302005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "casello autostrada Palmanova",
+                "id": "23112",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BOSCARINO PASQUALINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.309257313664943,
+                    45.88926148061441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio ip di tavaris stefano",
+                "id": "23802",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO DI TAVARIS STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.21277350187302,
+                    45.8478871914542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "zanello giulio",
+                "id": "20014",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ZANELLO GIULIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.309278041124344,
+                    45.895182644924304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GONARS SUD",
+                "id": "3922",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "GONARS FUEL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.259521722793577,
+                    45.881609373240835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio eni di ghiraldo monia",
+                "id": "28866",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GHIRALDO MONIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.257751464843748,
+                    45.901998087913846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DUZ ALE",
+                "id": "22832",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DUZ ALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.329969942569733,
+                    45.828819436833015
+                ]
+            }
+        }
+    ]
+}

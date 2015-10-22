@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "24110",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BATTISTI PACIFICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.749523214653893,
+                    42.46499999428012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore API",
+                "id": "24109",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MASINI VINCENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.749413393443435,
+                    42.46468661117706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizion TOTALERG - Perazzi Massimo",
+                "id": "18887",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PERAZZI MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.767769269645214,
+                    42.546141806568606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV ENERPETROLI - ISCHIA DI CASTRO",
+                "id": "12132",
+                "brand": "Enerpetroli",
+                "amenity": "fuel",
+                "operator": "ENERPETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.764061450958252,
+                    42.54456497015948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV ENERPETROLI - FARNESE",
+                "id": "30606",
+                "brand": "Enerpetroli",
+                "amenity": "fuel",
+                "operator": "ENERPETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.724495973459625,
+                    42.55007963312292
+                ]
+            }
+        }
+    ]
+}

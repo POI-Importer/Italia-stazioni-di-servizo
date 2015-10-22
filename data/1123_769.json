@@ -1,0 +1,224 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "12192",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ESSE SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.412798315309487,
+                    40.82152845986678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP SELF AREA DI ANGLANI VINCENZO & C. S.N.C.",
+                "id": "19239",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AGIP SELF - AREA  DI ANGLANI VINCENZO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.568321526050568,
+                    40.73276293539952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL Camerlengo salvatore Pozzo Faceto (Br)",
+                "id": "13875",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CAMERLENGO  SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.450547641827374,
+                    40.80631776261645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENERGIA SICILIANA",
+                "id": "19485",
+                "amenity": "fuel",
+                "operator": "AREA SERVIZIO ANDRIOLA DI ANDRIOLA GIUSEPPE & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.576114989271556,
+                    40.73409256772149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Agip di Luigi Giannotti",
+                "id": "11014",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GIANNOTTI LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.57716476917267,
+                    40.72128740931389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CONVERTINI MARIA",
+                "id": "12162",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "CONVERTINI MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.47053517427446,
+                    40.73843870801457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "_AREA DI SERVIZIO ERG ROSA MARINA",
+                "id": "7734",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "AREA DI SERVIZIO ERG ROSA MARINA DI SABATELLI ENZO  &  C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.549087405204773,
+                    40.794864629365115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI TORRE CANNE",
+                "id": "4957",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SEMERARO GIUSEPPE & F.LLI SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.491596937179565,
+                    40.82079002121893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EniCafè Loparco Carburanti",
+                "id": "19012",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LOPARCO CARBURANTI S.N.C. DI LOPARCO ANGELO E MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.43054449558258,
+                    40.74397474458861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "21765",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SEMERARO CATERINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.571303433595293,
+                    40.73130938984058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni Loparco Carburanti",
+                "id": "19015",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LOPARCO CARBURANTI S.N.C. DI LOPARCO ANGELO E MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.42504596710205,
+                    40.74853794314194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MENGA PETROLI",
+                "id": "11262",
+                "amenity": "fuel",
+                "operator": "PETROLMENGA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.570729440475475,
+                    40.73352887019703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "27900",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CARABOTTI GIANPASQUALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.422789782312975,
+                    40.74028698706812
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,835 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A.L. DISTRIBUZIONE S.R.L",
+                "id": "17901",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "A.L. DISTRIBUZIONE SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.310501128435133,
+                    38.12686579997817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "17563",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "RANDAZZO GIACOMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.349558653288684,
+                    38.12148847989149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Terrasi Giovanni",
+                "id": "18447",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TERRASI GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.308972269296646,
+                    38.050728763727335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Montalbano Maurizio Q8",
+                "id": "24082",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MONTALBANO MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.329769723938401,
+                    38.11385041955412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO IP PECORARO",
+                "id": "15084",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PECORARO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.350577487787064,
+                    38.12923355583901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gambino maria rosa",
+                "id": "20430",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GAMBINO MARIA ROSA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.289042115211487,
+                    38.1179745747786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "De Luca Domenico & C. s.n.c.",
+                "id": "7573",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DE LUCA DOMENICO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34764301776886,
+                    38.08723655796024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "19808",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MASSIMINO ANTONINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.235430791974068,
+                    38.04971640482876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "santoro rita",
+                "id": "22294",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SANTORO RITA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33606459200382,
+                    38.09642683400847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "31066",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PRESTI FRANCESCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34035863459451,
+                    38.119845458150174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE CARBURANTI ENI di Ciaramitaro Salvatore",
+                "id": "17839",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CIARAMITARO SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.314619916731207,
+                    38.12661468348768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GERRY'S",
+                "id": "21253",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GERRY'S SOCIETA' A RESPONSABILITA' LIMITATA \"GERRY'S S.R.L.\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.335986460188224,
+                    38.092415957303636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI FERRARO",
+                "id": "13440",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FERRARO FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.29395219140167,
+                    38.07795361376547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SICILIANA CARBURANTI SRL PASSO DI RIGANO",
+                "id": "26015",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SICILIANA CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.314077854156496,
+                    38.125732327149144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PALERMO Via Basile",
+                "id": "5499",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "enirete oil&nonoil S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.346623965606682,
+                    38.09980222145999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP di Bufalino Rosario",
+                "id": "17829",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BUFALINO ROSARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.314434587955473,
+                    38.126943446027674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE IP F.D. PETROLI",
+                "id": "23841",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DIELI FRANCESCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.337882886177798,
+                    38.106203861560175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di rifornimento esso Buttitta Giuseppe",
+                "id": "15072",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BUTTITTA GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.338154703378677,
+                    38.1311847356535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso abbate",
+                "id": "24509",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ABBATE SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.186152577400208,
+                    38.13370846241853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gandolfo srl",
+                "id": "29292",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GANDOLFO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.338535278404493,
+                    38.125863313254314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CALATAFIMI",
+                "id": "24837",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI RETE OIL&NONOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.317786123374617,
+                    38.09810233657385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "31944",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GIUNTI SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.344683430969553,
+                    38.1164589152475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "f&toilsnc",
+                "id": "18030",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "F & T OIL  S.N.C. DI FRANCOFONTE ANTONINO E FLORULLI FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.355632442150409,
+                    38.108059951751976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE IP DI FLAUTO GIOVANNI",
+                "id": "26052",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE AGIP (EX IP) DI FLAUTO GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.353813410529936,
+                    38.10342025370292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI MOTEL",
+                "id": "17377",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "A.M. PETROLI SOCIETA' A RESPONSABILITA' LIMITATA E, IN ABBREVIAZIONE A.M. PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.329110918910144,
+                    38.1280685806303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VFM CARBURANTI",
+                "id": "31691",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "VFM S.A.S. DI FRANCESCO VASSALLO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.312221575393666,
+                    38.096003985429036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV9530",
+                "id": "26371",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SOMMA VINCENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.354593962430954,
+                    38.12923734291344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTAPERTO DOROTEA",
+                "id": "30302",
+                "amenity": "fuel",
+                "operator": "MONTAPERTO DOROTEA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.330204635858536,
+                    38.111596620180705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIFORNIMENTO Q8: R.S. SICILIA CARBURANTI S.N.C.",
+                "id": "9786",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "RS SICILIA CARBURANTI S.N.C. DI SAMPINO GIUSEPPE  &  C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.330168426036835,
+                    38.1111492163017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAOIL",
+                "id": "18393",
+                "amenity": "fuel",
+                "operator": "FRATELLI BLANDINO DI BLANDINO GABRIELE S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.313265144824982,
+                    38.059431980152915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 SALEMI SALVATORE",
+                "id": "25874",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SALEMI SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.346469551324844,
+                    38.0879851476763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NOCILLA ISABELLA",
+                "id": "20178",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "NOCILLA  ISABELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3457336,
+                    38.117814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GUGLIELMINO GIOSI & C. SNC",
+                "id": "9617",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GUGLIELMINO GIOSI & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.340023973541296,
+                    38.133363859262175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FARINA GIUSEPPE",
+                "id": "19269",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "FARINA GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.348213657736778,
+                    38.08773181867496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 SICILIANA CARBURANTI LDV",
+                "id": "23285",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SICILIANA CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.333993256092072,
+                    38.1296106184526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "55183 palermo via Terrasanta",
+                "id": "29494",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI RETE OIL&NONOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34520220756531,
+                    38.12983443637345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE Q8 di MANCINO FRANCESCO",
+                "id": "21628",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MANCINO FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.301773964605896,
+                    38.04652637046553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 Fucile Davide",
+                "id": "30287",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "FUCILE DAVIDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.331289370422382,
+                    38.129252958173055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SP ENERGIA SICILIANA",
+                "id": "22612",
+                "brand": "SP Energia Siciliana",
+                "amenity": "fuel",
+                "operator": "GE.CA. DI  SALVATORE D'AGOSTINO E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.28727794929489,
+                    37.997685050185524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni",
+                "id": "20455",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ROTUNDO S.A.S. DI GIULIANO GIUSEPPE  E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.310914999999998,
+                    38.1337213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO Q8 MANCINO ROBERTO",
+                "id": "21625",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MANCINO ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.311057503698068,
+                    38.125658211333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI SAITTA",
+                "id": "28259",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SAITTA GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.354155421257019,
+                    38.08493223063467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gambino maria rosa",
+                "id": "27654",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GAMBINO MARIA ROSA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.310510516166687,
+                    38.12688436745975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SICILIANA CARBURANTI SRL DI BLASI 171",
+                "id": "26014",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SICILIANA CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.321158796187548,
+                    38.12337549755344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "23987",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "FAZZONE CARMELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33878610190095,
+                    38.111490871459246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "mario zarcone",
+                "id": "18183",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ZARCONE MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.309502005577087,
+                    38.10721911498254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Francavilla Giuseppe",
+                "id": "30106",
+                "amenity": "fuel",
+                "operator": "FRANCAVILLA GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.324919691917442,
+                    38.13052145126765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TRAPANESE ALESSANDRO",
+                "id": "30266",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "TRAPANESE ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.316035196185112,
+                    38.09749807107217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore carburanti IP di Ciaramitaro Salvatore",
+                "id": "22360",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CIARAMITARO SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.315983625791661,
+                    38.12663913023589
+                ]
+            }
+        }
+    ]
+}

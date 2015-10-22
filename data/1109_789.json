@@ -1,0 +1,88 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FALCONE S.S. 113 KM. 60+ 023",
+                "id": "9967",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.08609520674588,
+                    38.11651938905595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "POMPA BIANCA Merenda Michele",
+                "id": "30193",
+                "amenity": "fuel",
+                "operator": "MERENDA MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97814044356346,
+                    38.09447788107565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIFORNIMENTO Q8 DI STAGNITTI ANGELA",
+                "id": "29033",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "RIFORNIMENTO GULF DI STAGNITTI ANGELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.017198710595723,
+                    38.025983814145334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARBURANTI CAUTELA",
+                "id": "31019",
+                "amenity": "fuel",
+                "operator": "CAUTELA CATERINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.099862166235765,
+                    38.07375784242715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TINDARI",
+                "id": "3676",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FRATELLI IARRERA S.N.C. DI IARRERA FRANCESCO (CLASSE 1969) E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.052806437015532,
+                    38.12696960933679
+                ]
+            }
+        }
+    ]
+}

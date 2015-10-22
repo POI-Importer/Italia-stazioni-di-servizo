@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO IES",
+                "id": "14776",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "NICOLOTTI FRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.245843425393105,
+                    44.64455156845145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore",
+                "id": "26393",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE CONTI DI CONTI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.14721310061441,
+                    44.611775393468214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "15510",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GALIFFI GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.111162334680557,
+                    44.634497383563485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "17335",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ALLASIA GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.236463069915771,
+                    44.714510404137776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore totalerg",
+                "id": "12481",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ZANELLA MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.19583364285279,
+                    44.66488311875226
+                ]
+            }
+        }
+    ]
+}

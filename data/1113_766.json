@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OFANTO NORD",
+                "id": "3872",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LATTARUOLO CARMINE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.811867406082111,
+                    41.19224752232083
+                ]
+            }
+        }
+    ]
+}

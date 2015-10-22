@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MARINA CARBURANTI",
+                "id": "13526",
+                "amenity": "fuel",
+                "operator": "MARINA CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.990595793254101,
+                    42.71877367773858
+                ]
+            }
+        }
+    ]
+}

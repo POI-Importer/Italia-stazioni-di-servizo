@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore IP",
+                "id": "8829",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ALIPRANDI ALBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.427283190867911,
+                    40.211491732628616
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP TORNADU' DI TORNADU' MASSIMO",
+                "id": "10582",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TORNADU' DI TORNADU' MASSIMO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.846918393026385,
+                    46.26147445591791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Venzi Giuseppe",
+                "id": "13676",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "VENZI GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.866438320235034,
+                    46.26893222741611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL TORNADU' DI TORNADU' MASSIMO & C. SNC",
+                "id": "26811",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "TORNADU' DI TORNADU' MASSIMO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.858521157766292,
+                    46.26437271825271
+                ]
+            }
+        }
+    ]
+}

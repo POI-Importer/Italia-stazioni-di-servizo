@@ -1,0 +1,783 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "20268",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SA.AL. DI SALAMONE SEBASTIANO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.194040834903715,
+                    37.14904936547257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "INDIPENDENTE",
+                "id": "31427",
+                "brand": "Giap",
+                "amenity": "fuel",
+                "operator": "GARGANTE GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.20843895386315,
+                    37.09266544302127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SERRAMEND. OVEST",
+                "id": "8706",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.225497644180338,
+                    37.05888983206204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI SEDICA",
+                "id": "21380",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SEDICA DI RAPISARDA MARIO S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.185382664203644,
+                    37.11223815709262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "indipendente",
+                "id": "15279",
+                "amenity": "fuel",
+                "operator": "SPADARO GAETANO E SALVO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.143799036741257,
+                    37.08562719411901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO di Gatto Rotondo Paolo",
+                "id": "8796",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GATTO ROTONDO PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.165106244410708,
+                    37.07823146729139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LA VITA SALVATORE",
+                "id": "16051",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LA VITA SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.276331480950944,
+                    37.06601356592484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESPOSITO PASQUALE",
+                "id": "19417",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ESPOSITO PASQUALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.187517258999604,
+                    37.1525249607266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FARAONE FRANCESCO",
+                "id": "25028",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "FARAONE FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.284170357244193,
+                    37.06633379164493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SIRACUSA VIA TERACATI 32",
+                "id": "6776",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.281288225794926,
+                    37.08172364978188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "11010",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "S.C. SERVIZI GLOBALI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.272982863754237,
+                    37.08762093182981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PRIOLO GARGALLO PENTAPOLI",
+                "id": "20041",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.189161244215029,
+                    37.15502969711857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "losa carburanti",
+                "id": "26301",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LO.SA. CARBURANTI DI SALVIA CHIARA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.192187428474426,
+                    37.151323630331966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SOLAR",
+                "id": "4351",
+                "amenity": "fuel",
+                "operator": "SOLAR S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.274544682209013,
+                    37.06382487907658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SIRACUSA S.S. 124 KM 119+538",
+                "id": "25321",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.267953776057425,
+                    37.071841086902666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BELLOBUONO CORRADO",
+                "id": "16160",
+                "brand": "SP Energia Siciliana",
+                "amenity": "fuel",
+                "operator": "BELLOBUONO CORRADO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.267816334962845,
+                    37.04457592531377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "6193",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ESSENNE DI SALVATORE NIGRO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.141914448740863,
+                    37.08682677985748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "staz.serv. esso",
+                "id": "15271",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SIDIM S.A.S. DI DIMAURO ORAZIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.127035900950432,
+                    37.09593724351627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 19873",
+                "id": "30230",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.267914235591892,
+                    37.05760359747289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LUKOIL",
+                "id": "19138",
+                "brand": "Lukoil",
+                "amenity": "fuel",
+                "operator": "GANGEMI PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.22158309817314,
+                    37.12513401845414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C.DA TARGIA SR",
+                "id": "5175",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.240580466270444,
+                    37.11012872199861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TICHE CARBURANTI",
+                "id": "10530",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "TICHE CARBURANTI DI CICCIO LUCIA & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.276853349737506,
+                    37.091508871198855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 Fiorilla Francesco",
+                "id": "31627",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "FIORILLA FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.272147768872856,
+                    37.07125160352686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di servizio Siracusa",
+                "id": "23370",
+                "brand": "SP Energia Siciliana",
+                "amenity": "fuel",
+                "operator": "SERVIZI INTEGRATI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.289741253505783,
+                    37.089027311385415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO CARBURANTE IPER AUCHAN SR",
+                "id": "30012",
+                "amenity": "fuel",
+                "operator": "PMC S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.230057537555696,
+                    37.10876101441841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "V. S. PANAGIA SR",
+                "id": "12275",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.275067000000034,
+                    37.098359672001834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LARGO DICONE SR",
+                "id": "12254",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.290164000137798,
+                    37.08293239761979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BRUSCHI ERNESTO",
+                "id": "25541",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BRUSCHI ERNESTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.281263589859009,
+                    37.07349994431272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE I.P.",
+                "id": "27237",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LAGANA'  PAOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.188464522361752,
+                    37.15576656570148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "13531",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ITALIA CARMELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.151269885180684,
+                    37.07687923732857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SI SERVIZIO",
+                "id": "19795",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LA BRACA ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.260554254055025,
+                    37.08216466444797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 di BRUSCHI ERNESTO",
+                "id": "10717",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BRUSCHI ERNESTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.282475273016418,
+                    37.087393372659925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "V. DEI COMUNI SR",
+                "id": "12276",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.27214072883612,
+                    37.09905187026108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fabiola Mortellaro",
+                "id": "17092",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MORTELLARO F. & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.254103541374208,
+                    37.08313783446195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 gest. caldarella  Pv 9164",
+                "id": "18846",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CALDARELLA FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.192267795581872,
+                    37.15759040553221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni Self Area di Bono Giuseppe & figli",
+                "id": "4037",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BONO GIUSEPPE & FIGLI SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.281723115344223,
+                    37.076733522420746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di servizio Floridia",
+                "id": "27802",
+                "brand": "SP Energia Siciliana",
+                "amenity": "fuel",
+                "operator": "SERVIZI INTEGRATI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.170848779234802,
+                    37.077138463245326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.P.ENERGIA SICILIANA",
+                "id": "22193",
+                "brand": "SP Energia Siciliana",
+                "amenity": "fuel",
+                "operator": "PIAZZESE CARMELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.277108690731893,
+                    37.080646905175854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SS 114 LATO MONTE PRIOLO",
+                "id": "22383",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.195846829361017,
+                    37.11158477665371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "X OIL",
+                "id": "22459",
+                "amenity": "fuel",
+                "operator": "ORIONE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.281253050926239,
+                    37.07932029296902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO EXPRESS SIRACUSA",
+                "id": "6188",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ASSENZA ROSARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.27173553638454,
+                    37.08998255320142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SERRAMENDOLA EST",
+                "id": "5173",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.226675203704868,
+                    37.059394426082406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Carburanti di Castro Daniele",
+                "id": "30476",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CASTRO DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.285428795911232,
+                    37.07545069168953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "7373",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GATTO ROTONDO STEFANO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.153912305831911,
+                    37.08849646748669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto Eni Fontana",
+                "id": "29894",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FONTANA CARMELO & FIGLIO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.16159875402832,
+                    37.07900619963616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C.SO V. EMANUELE SOLARINO",
+                "id": "30601",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.12374013662338,
+                    37.098506407234076
+                ]
+            }
+        }
+    ]
+}

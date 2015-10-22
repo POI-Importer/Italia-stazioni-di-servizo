@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "28902",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CARDIA PIETRO PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.430730044841766,
+                    39.14176240228833
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BATTIPAGLIA",
+                "id": "20299",
+                "amenity": "fuel",
+                "operator": "PETROLCHIMICA SUD - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.889564514160154,
+                    40.57405416724439
+                ]
+            }
+        }
+    ]
+}

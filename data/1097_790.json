@@ -1,0 +1,241 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Q8 di Sciacchitano Giovanni",
+                "id": "15190",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SCIACCHITANO  GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.968708800837133,
+                    37.97754203505079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "27563",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FUNDARO' PIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.956368893517606,
+                    37.97731628681251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ECOLGAS",
+                "id": "10417",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ECOLGAS SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.962238542327894,
+                    37.974357272185046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore esso di messana girolamo",
+                "id": "26933",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MESSANA GIROLAMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.955862024354131,
+                    37.979915902882915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAOIL",
+                "id": "27036",
+                "amenity": "fuel",
+                "operator": "SI.AN. S.A.S. DI SIMONE ANDREA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.869710922241211,
+                    37.909727461753995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore Grillo",
+                "id": "20493",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GRILLO DAVIDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.954667257325017,
+                    37.98233791028033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alfa Carburanti",
+                "id": "20198",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ALFA CARBURANTI DI ALFA SANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.956206798553467,
+                    37.97552479564796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "15380",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SENIA  ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.885400503873825,
+                    37.90340268862309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MESSANA ANTONELLA",
+                "id": "27329",
+                "amenity": "fuel",
+                "operator": "MESSANA ANTONELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.956584720237743,
+                    37.98349622817036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO",
+                "id": "31598",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "C.M.A. DI COPPOLA MARGHERITA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.949925065040587,
+                    37.98816181267483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "grillocarburanti S.A.S",
+                "id": "20473",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GRILLO CARBURANTI DI FRANCESCO GRILLO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.966647967696188,
+                    37.97844206921474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio",
+                "id": "29087",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DAMBRA GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.962719169311528,
+                    37.98826211601913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALCAMO - VIALE EUROPA 88",
+                "id": "30120",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.965373100521786,
+                    37.97381822621236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIB.CARB.DI SENIA ANTONINO",
+                "id": "16965",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SENIA ANTONINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.859810218214989,
+                    37.91504276268599
+                ]
+            }
+        }
+    ]
+}

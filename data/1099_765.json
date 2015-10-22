@@ -1,0 +1,206 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni pavani servizi s.a.s",
+                "id": "29599",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PAVANI SERVIZI S.A.S. DI PAVANI ERMINIO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.24865609407425,
+                    41.2906164026704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area Servizio Veneta Group",
+                "id": "28075",
+                "amenity": "fuel",
+                "operator": "VENETA COMBUSTIBILI SERVICE - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.202262595295908,
+                    41.28695725359433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TERRACINA VIA PONTINA KM. 104,685",
+                "id": "16778",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.186785578727722,
+                    41.28394771372023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP Terracina",
+                "id": "25549",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LION PETROL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.192960694432259,
+                    41.36507438166601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI TRAPANI ADELE TERRACINA",
+                "id": "28389",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TRAPANI ADELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2204794883728,
+                    41.288311622179386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FONDI-VIA FLACCA KM.5+648 SS. 213",
+                "id": "11627",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3439067055225,
+                    41.29413853555906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "16969",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BOCCIA GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.307889327406887,
+                    41.32752371195176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "4011",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BUFFONI GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.188496828079224,
+                    41.31832180840561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TERRACINA",
+                "id": "25305",
+                "amenity": "fuel",
+                "operator": "PETROLMEG SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.193222880363468,
+                    41.28573991022126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "7638",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "DI CRESCENZO DINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35278749465942,
+                    41.34986537935778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "8539",
+                "id": "25253",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DEL DUCA ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.193185329437254,
+                    41.285736685489645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Petroli Per. Mar. Srl",
+                "id": "22863",
+                "amenity": "fuel",
+                "operator": "PETROLI PER.MAR. - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2563553750515,
+                    41.283420848566834
+                ]
+            }
+        }
+    ]
+}

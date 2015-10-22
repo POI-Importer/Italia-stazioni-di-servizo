@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV08",
+                "id": "10065",
+                "brand": "Ratti",
+                "amenity": "fuel",
+                "operator": "SO.GE.DI DI RATTI FRANCESCO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.448852813491841,
+                    44.77334332867442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BORMIDA OVEST",
+                "id": "3622",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "A.D.S. BORMIDA OVEST DI MAX STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.593924839286842,
+                    44.817164294623424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BORMIDA EST",
+                "id": "31339",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.594934940338135,
+                    44.81958678913551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "25989",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FULL AND DRIVE S.A.S. DI NAVONE ANDREA VINCENZO, PERETTA FRANCO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.571135699748993,
+                    44.78554546179059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "cataldo faraci",
+                "id": "22234",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FARACI CATALDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.438946736106914,
+                    44.79527420248739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "toselli pierangelo p.v.53068",
+                "id": "6897",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TOSELLI PIERANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.528593182563782,
+                    44.75224368424258
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BONDIO",
+                "id": "21463",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ANTICA CORTE S.A.S. DI BONDIO SILVIA SIBILLA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.795546302446724,
+                    46.28477985151088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AUTOSERVICE di Sandra Zatti & c snc",
+                "id": "22362",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AUTOSERVICE DI SANDRA ZATTI & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.78419783928678,
+                    46.21712169431312
+                ]
+            }
+        }
+    ]
+}

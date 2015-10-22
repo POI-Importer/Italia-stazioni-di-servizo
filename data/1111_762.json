@@ -1,0 +1,289 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI Via Soccorso",
+                "id": "25294",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PRATTICHIZZO  MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.387462973594666,
+                    41.680634783247434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE ENI",
+                "id": "31359",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO ENI DI LARGITTO DELIO PIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.378536853303562,
+                    41.69394092609908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "San Severo",
+                "id": "21810",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.395412230653735,
+                    41.67370578743259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "livialiberatesoriello",
+                "id": "16183",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TESORIELLO LIVIA LIBERA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.355834364891056,
+                    41.68949932245273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GAS AUTO ESSO/1",
+                "id": "26343",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SCHIOPPA CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.344461392434482,
+                    41.70513543535728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "METANO SAN SEVERO",
+                "id": "4553",
+                "amenity": "fuel",
+                "operator": "METANO PUGLIA DI CARDINALI MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3907835483551,
+                    41.71485508579396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARFAGNA CARBURANTI",
+                "id": "10225",
+                "amenity": "fuel",
+                "operator": "F.LLI CARFAGNA DI CARFAGNA CALZELLA, ALFREDO, MARIO E LUISA S.N.C"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.324718250506521,
+                    41.68915539567977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "25295",
+                "amenity": "fuel",
+                "operator": "CARBURANTI PADRE PIO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.462044477462772,
+                    41.70424066930819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio ENI",
+                "id": "16560",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AUGELLO LEONARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.302471816539764,
+                    41.69194129299193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LUMI ENERGIE S.R.L.",
+                "id": "16985",
+                "amenity": "fuel",
+                "operator": "LUMI ENERGIE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.341278016567232,
+                    41.701057003911046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni s.p.a",
+                "id": "14210",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FRATELLI GRANA ANTONIO E RENATO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.389303639531134,
+                    41.68438855007996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "pontonio michele",
+                "id": "16142",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PONTONIO MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.369352698326109,
+                    41.692004584346705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio ENI",
+                "id": "16554",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AUGELLO LEONARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.302471816539764,
+                    41.69194129299193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eredi D'Aloia di Racano Soccorsa s.n.c.",
+                "id": "29567",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "EREDI D'ALOIA DI RACANO SOCCORSA & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.384795516729358,
+                    41.68374133691152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione IP",
+                "id": "31218",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO IP DI ZITO MATTEO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.424501597881317,
+                    41.64549272513284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cristal",
+                "id": "25248",
+                "amenity": "fuel",
+                "operator": "CRISTAL IMMOBILIARE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.388358831405641,
+                    41.711166569499184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN SEVERO S.P. PER LUCERA",
+                "id": "6757",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.376460196295174,
+                    41.6751596332098
+                ]
+            }
+        }
+    ]
+}

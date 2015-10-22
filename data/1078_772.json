@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO Q8 DI FRONTEDDU SALVATORE",
+                "id": "21720",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "FRONTEDDU SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.493035078048706,
+                    40.396676877848215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto Q8 di Flore Sebastiano",
+                "id": "13331",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "FLORE SEBASTIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.634988978505135,
+                    40.40833093515861
+                ]
+            }
+        }
+    ]
+}

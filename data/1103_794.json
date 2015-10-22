@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip",
+                "id": "27616",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "RUSSO DI RUSSO MARIA DOMENICA E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.000738345368973,
+                    37.333458796060725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kuwait",
+                "id": "11444",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "M.K. DI MONTANA SALVATORE & C. S.A.S"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.92530563258015,
+                    37.3566311180937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "API IP Dainotto Calogera di Drogo Elio & c sas",
+                "id": "21053",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DAINOTTO CALOGERA DI DROGO ELIO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.995212513457092,
+                    37.3366429418934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "cammarata renato",
+                "id": "15744",
+                "amenity": "fuel",
+                "operator": "CAMMARATA RENATO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.915430456399918,
+                    37.305158975136194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SP 1 KM 18+262 PER CALTANISSETTA",
+                "id": "12020",
+                "brand": "Giap",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.931955749668079,
+                    37.360309695084545
+                ]
+            }
+        }
+    ]
+}

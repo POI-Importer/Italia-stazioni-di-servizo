@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO IP",
+                "id": "8583",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DTNP SERVICE S.A.S. DI DI TRANA NICOLA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.03763118841266,
+                    40.58664756641299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto IP",
+                "id": "18730",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "APPIA CARBURANTI - S.A.S. DI FRANCESCO SANTANGELO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.14614563788632,
+                    40.61479451794783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FLLI RAIMONDI SNC",
+                "id": "26225",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "F.LLI RAIMONDI SNC DI RAIMONDI BIAGINO G. E GAETANO SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.072904840111732,
+                    40.678103327763814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BASILE PETROLI",
+                "id": "21314",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CARBURANTI F.LLI FRONTUTO S.N.C. DI FRONTUTO VITO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.018458679318428,
+                    40.69509337597233
+                ]
+            }
+        }
+    ]
+}

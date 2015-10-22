@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "basile petroli spa",
+                "id": "26960",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GIANGRECO RAFFAELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.81305432319641,
+                    40.548599193668764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ipgruppoapi",
+                "id": "15160",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CA.OR. DI CAPODIECI & C. SOCIETA' IN ACCOMANDITA SEMPLICE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.821193486452103,
+                    40.557047356683306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "16646",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "POLITO LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.80972517672126,
+                    40.56172187234562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione2",
+                "id": "15275",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BIANCO PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.802257192977326,
+                    40.544248049428724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SEMERARO GIANFRANCESCO",
+                "id": "19235",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO AGIP DI SEMERARO GIANFRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.813366800546643,
+                    40.563731113004586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione1",
+                "id": "15273",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BIANCO PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.829131484031677,
+                    40.57706932493723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MESAGNE",
+                "id": "5522",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.81202654232788,
+                    40.554083682615556
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "E - GRESSONEY LA TRINITE'",
+                "id": "30419",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "EUROPAM S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.824155429407029,
+                    45.82941293371481
+                ]
+            }
+        }
+    ]
+}

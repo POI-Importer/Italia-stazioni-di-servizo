@@ -1,0 +1,122 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP DI TRIMBOLI MICHELE",
+                "id": "22067",
+                "amenity": "fuel",
+                "operator": "TRIMBOLI MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.620471906745934,
+                    44.542941122824146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BAISO",
+                "id": "14461",
+                "brand": "Euroself",
+                "amenity": "fuel",
+                "operator": "C.I.S. NORD S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.598896267459168,
+                    44.49479800870606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP DI TRIMBOLI MICHELE",
+                "id": "22070",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "TRIMBOLI MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.620473099868036,
+                    44.542933477227095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio franzoni snc & c.",
+                "id": "19264",
+                "amenity": "fuel",
+                "operator": "FRANZONI SNC DI FRANZONI NERIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.667205643551256,
+                    44.58814893088253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Carburanti Ovi Licinio Rossano",
+                "id": "15297",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "OVI LICINIO ROSSANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.680577326389313,
+                    44.48452735575096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "St. AGIP di Grieco Donato Antonio",
+                "id": "31706",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GRIECO DONATO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.685202553868296,
+                    44.48132171868352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIANO",
+                "id": "31586",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "C.I.S. NORD S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.620477271163963,
+                    44.542933476114584
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,208 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SIENA-STRADA FIUME",
+                "id": "11836",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.315861642360685,
+                    43.335080926481275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "17790",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "DI LIBERO LIBERO & PICCINI FRANCO SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.304383597622744,
+                    43.33463215197743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.G.SERVIZI SNC",
+                "id": "17964",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "S.G. SERVIZI SNC DI CATALANI SABRINA E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.311783343553545,
+                    43.33379526186664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "privato",
+                "id": "12393",
+                "amenity": "fuel",
+                "operator": "HOPPERT NORMA ELIZABETH"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.415641319887412,
+                    43.35181625362259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione eni consorzio agrario siena",
+                "id": "19873",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CONSORZIO AGRARIO DI SIENA SOCIETA' COOPERATIVA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.326023191213608,
+                    43.334997037207515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BADESSE",
+                "id": "24112",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DRIVE SERVICE SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.281494498252869,
+                    43.37949435255599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SIENA VIA GIOVANNI PAOLO II",
+                "id": "6577",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.308992505073547,
+                    43.339957620463586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bossini Natale snc",
+                "id": "28148",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BOSSINI NATALE S.N.C. DI NICCOLUCCI ANTONIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.331000668122897,
+                    43.32659832607394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTERIGGIONI",
+                "id": "4077",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "DRIVE SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.30213677883148,
+                    43.3492627904654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SIENA-VIA CELSO CITTADINI  70",
+                "id": "11834",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.304126822090213,
+                    43.3370258299239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio ENI Landi e Poggialini",
+                "id": "4389",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LANDI & POGGIALINI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.314356923103333,
+                    43.3322667777001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "cinquino snc",
+                "id": "5328",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CINQUINO SNC DI COSTANTINO ANDREA, DINI STEFANO E MANGANELLI GIAN NI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.30623251600798,
+                    43.342068211958434
+                ]
+            }
+        }
+    ]
+}

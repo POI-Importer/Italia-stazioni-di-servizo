@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL ERG",
+                "id": "21850",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BELLINI E CANESTRINI S.N.C. DI CANESTRINI ANNALISA E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.961390227079391,
+                    43.837039638115186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Agip Eni",
+                "id": "8439",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CIMATTI ROBERTINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.97761356830597,
+                    43.86186997087229
+                ]
+            }
+        }
+    ]
+}

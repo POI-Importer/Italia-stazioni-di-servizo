@@ -1,0 +1,525 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio API IP",
+                "id": "8574",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PAGOTTO ADOLFO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.405332698950133,
+                    45.93189262049518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "M.C. SNC",
+                "id": "12464",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "M.C. SNC DI MODOLO D. & CARNELOS F."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.320390830688439,
+                    45.887121510525624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Termoveneta srl (Cordignano)",
+                "id": "5010",
+                "amenity": "fuel",
+                "operator": "TERMOVENETA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.446270639217346,
+                    45.9431754449282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 52772",
+                "id": "29332",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.41614556812283,
+                    45.935145383981755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL BRAIDO 2",
+                "id": "18274",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BRAIDO MARIO & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3305530451305,
+                    45.900507147488824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BERTOLI SAS - SMP 8765",
+                "id": "30038",
+                "brand": "San Marco Petroli",
+                "amenity": "fuel",
+                "operator": "BERTOLI SAS DI BERTOLI PAOLO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.347737186508198,
+                    45.844096263076004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "26794",
+                "brand": "Energyca",
+                "amenity": "fuel",
+                "operator": "BIASI LEO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.448538076057503,
+                    45.840478891177206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "9953",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "TREDI S.A.S. DI MONTELEONE P. & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.363544871163981,
+                    45.922526187254995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mazzariol Carburanti",
+                "id": "7858",
+                "amenity": "fuel",
+                "operator": "MAZZARIOL MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.400161503704792,
+                    45.89695784058366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CONEGLIANO VIA XXIV MAGGIO ,192",
+                "id": "23082",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.321404112966887,
+                    45.89541119267959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GPOL - MARENO",
+                "id": "10552",
+                "amenity": "fuel",
+                "operator": "POL GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.335812640197783,
+                    45.84465015914433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL BRAIDO 1",
+                "id": "18248",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BRAIDO MARIO & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.320779559524569,
+                    45.88196759372815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "4604",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DASSIE' S.N.C. DI DASSIE' BRUNO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.350289169311509,
+                    45.91611414919441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "18306",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BACCICHET LEONARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.330561046076584,
+                    45.88931588231503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "UNIONE GAS AUTO",
+                "id": "18620",
+                "amenity": "fuel",
+                "operator": "BORSOI MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.331538861982379,
+                    45.903742920933205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio TAMOIL",
+                "id": "5747",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "TOCCHET MORENO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.376172206050116,
+                    45.92993256109093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NAZARENO PAOLIN",
+                "id": "19362",
+                "amenity": "fuel",
+                "operator": "PAOLIN FAUSTO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.443327288360592,
+                    45.86615976710058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SANTA LUCIA DI PIAVE VIA DISTRETTUALE 92",
+                "id": "6486",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.307193030619034,
+                    45.8539080245532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL SAN FIOR",
+                "id": "22018",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SOM S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.336369752883913,
+                    45.90602999026107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENERGYCA VAZZOLA",
+                "id": "25300",
+                "brand": "Energyca",
+                "amenity": "fuel",
+                "operator": "CIMA SERVIZI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.374245364418018,
+                    45.83735212142606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REPSOL",
+                "id": "27902",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "ZETAGI S.N.C. DI GALLON GINO & ZANETTE ADRIANO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.305643707513807,
+                    45.85731232842195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO DI BOTTEGA SIMONE",
+                "id": "8210",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO ESSO DI BOTTEGA SIMONE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.322254335051072,
+                    45.93980032362492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CONEGLIANO-VIALE ITALIA 277",
+                "id": "11901",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.315374694442767,
+                    45.88250456171079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN VENDEMIANO - LIBERAZIONE 153",
+                "id": "31132",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.338853644180288,
+                    45.87678879581872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO CORDIGNANO",
+                "id": "24197",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SOM S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.451948821544647,
+                    45.943405487375614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CONEGLIANO-VIA XXIV MAGGIO 42",
+                "id": "11897",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.311555074247508,
+                    45.89208215955959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "flli.pizzol snc",
+                "id": "5709",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "F.LLI PIZZOL S.N.C. DI PIZZOL LIDIO E LUCIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.381334304809569,
+                    45.927108624926916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN MARCO PETROLI",
+                "id": "21617",
+                "brand": "Som/Omv",
+                "amenity": "fuel",
+                "operator": "MZ SERVICE S.N.C. DI MAUGLIANI ANTONIO E ZANOTTO ROSANNA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.418533205557198,
+                    45.856159030727866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "metanotv4",
+                "id": "21123",
+                "amenity": "fuel",
+                "operator": "LA METANO TREVISO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.333328915801419,
+                    45.88472253370164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA VALLONTO 52 FONTANELLE",
+                "id": "17480",
+                "amenity": "fuel",
+                "operator": "BRASIL CARBURANTE DI FONGARO SERGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.474677860736847,
+                    45.85591073666495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CORDIGNANO VIA TRIESTE IMP.Q8",
+                "id": "6491",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.41767193130545,
+                    45.94554576969663
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CENTRO CALOR MONTEZEMOLO",
+                "id": "10532",
+                "amenity": "fuel",
+                "operator": "CENTRO CALOR S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.140580093115204,
+                    44.37569585702759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kerotris - Millesimo",
+                "id": "13754",
+                "amenity": "fuel",
+                "operator": "K NET S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.217011099011188,
+                    44.358921686827195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ME-TRA srl",
+                "id": "5068",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ME-TRA - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.201067581336927,
+                    44.36875406298724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Esso - Bar Baia sas di Bonino Emilio & C",
+                "id": "10903",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BAR BAIA SAS DI BONINO EMILIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.14067306382367,
+                    44.44622502862312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nolasco Cristiano",
+                "id": "13035",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NOLASCO CRISTIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.204998075962067,
+                    44.39160520666788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kerotris - Saliceto",
+                "id": "24701",
+                "amenity": "fuel",
+                "operator": "KEROTRIS - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.177280128002167,
+                    44.40830902321367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "p.v.GAMELLONA",
+                "id": "20990",
+                "brand": "SACED",
+                "amenity": "fuel",
+                "operator": "SACED S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.095527067780495,
+                    44.42411925084774
+                ]
+            }
+        }
+    ]
+}

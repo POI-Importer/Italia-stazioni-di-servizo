@@ -1,0 +1,360 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BOURLOT ENI",
+                "id": "8991",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BOURLOT FABRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.333352565765382,
+                    44.875049326849314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil Pinerolo 3921",
+                "id": "26299",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SA.ADRI S.N.C. DI ACQUAFRESCA SAVERIO E MONFREDO ADRIANO SIGLABILE SA.ADRI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.353426218032837,
+                    44.87636652445131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "inpianto esso di bianciotto fabrizio",
+                "id": "12757",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BIANCIOTTO FABRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.332825511693954,
+                    44.877218980436155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg",
+                "id": "19954",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "FAVA EMILIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.312377020716666,
+                    44.84510298656677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "3922 TAMOIL",
+                "id": "27488",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ELVA S.A.S. DI MAGLIONE LORENZO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.353243827819824,
+                    44.87723627651065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE IP",
+                "id": "25355",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LAISO NICOLETTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.239603996276854,
+                    44.92751431822327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI MASSELLI SILVANA",
+                "id": "20389",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MASSELLI SILVANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.345210611820221,
+                    44.89169770276345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NOVA COOP",
+                "id": "28398",
+                "amenity": "fuel",
+                "operator": "NOVA COOP SOCIETA' COOPERATIVA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.353286459771767,
+                    44.88528754864372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "4858",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "AREA DI SERVIZIO F.LLI MELCHIORRE SAS DI MELCHIORRE CHRISTIAN, IVAN & C. SIGLABILE AREA DI SERVIZIO F.LLI MELCHIORRE SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.337386608123778,
+                    44.849744538896175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Frossasco",
+                "id": "4697",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.369499355554581,
+                    44.9294123434072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 56725",
+                "id": "22666",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LACQUA FABRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.345321923494339,
+                    44.88489735737395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP di Avramo Bartolo",
+                "id": "18131",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "AVRAMO BARTOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.333669003704813,
+                    44.87343325368385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kerotris - San Germano",
+                "id": "13403",
+                "amenity": "fuel",
+                "operator": "KT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.241301164031029,
+                    44.91713626203738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG PORTE",
+                "id": "11100",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GOIA VALTER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.27734737098217,
+                    44.8866303192304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 00630",
+                "id": "4371",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LACQUA FABRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.356864809989928,
+                    44.88901388796234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "20676",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MALANO ENRICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.300860956311225,
+                    44.87081432278069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "siondino bruno",
+                "id": "25368",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SIONDINO BRUNO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.214328199625016,
+                    44.95099832195326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL DI LONG ISABELLA",
+                "id": "27194",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "LONG ISABELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.310169940789934,
+                    44.88597328211927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni 991 desantis roberto",
+                "id": "6101",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DESANTIS ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.360951024467453,
+                    44.90892407635461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "7631",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CASCINO ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.374152317643166,
+                    44.89083109555318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "la sier snc",
+                "id": "8649",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LA SIER S.N.C. DI FRASCATI E IBI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2492207831328415,
+                    44.90703065763093
+                ]
+            }
+        }
+    ]
+}

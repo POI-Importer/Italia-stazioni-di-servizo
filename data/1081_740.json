@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CORNIGLIO",
+                "id": "5676",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BORDANDINI IGINO & C. - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.08961069710108,
+                    44.47337794544176
+                ]
+            }
+        }
+    ]
+}

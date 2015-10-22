@@ -1,0 +1,122 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carburanti & Servizi s.r.l.",
+                "id": "13104",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CARBURANTI & SERVIZI S.R.L"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.314000129699709,
+                    44.947290200590636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fusetti Giorgio",
+                "id": "13203",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FUSETTI GIORGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.336492396958874,
+                    44.952023938687525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "METANO PORTO TOLLE",
+                "id": "4076",
+                "amenity": "fuel",
+                "operator": "METANO PORTO TOLLE DI ALEXANDR BOROZAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.312463352871644,
+                    44.94787499455654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE ENI DI MANCIN ANTONIO",
+                "id": "18310",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MANCIN ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.333384454250336,
+                    44.93354372578885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "qui e' meglio",
+                "id": "5165",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DOMENEGHETTI GIULIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.451010048389437,
+                    44.90208327835962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg",
+                "id": "31647",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "B.R. DI BONTEMPI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.451093555294847,
+                    44.90212052029979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE TESSARIN MERALDO",
+                "id": "15880",
+                "amenity": "fuel",
+                "operator": "TESSARIN MERALDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.442255061950164,
+                    44.93527154294915
+                ]
+            }
+        }
+    ]
+}

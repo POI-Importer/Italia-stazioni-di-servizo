@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "30040",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CN PETROLI - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.06285661458969,
+                    40.76254258464985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE AGIP",
+                "id": "25844",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LOGUERCIO PASQUALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.033809632062912,
+                    40.84582429066018
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PASCARELLA GERARDA",
+                "id": "27044",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "*PASCARELLA GERARDA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.470119177946117,
+                    40.98726869498263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MELFI - VIA E. FERMI",
+                "id": "31874",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.626145377755167,
+                    41.00376617721941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DE VITO GAETANO",
+                "id": "23148",
+                "amenity": "fuel",
+                "operator": "DE VITO GAETANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.478026419878006,
+                    40.988390788884416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO OFANTINA",
+                "id": "25493",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "AREA FOOD S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.593899190425873,
+                    41.09361658227034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni 52817",
+                "id": "23810",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FESTINO VITO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.628365576267244,
+                    41.00764741495458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIOSNACK",
+                "id": "16266",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RIOSNACK DI RAGAZZO DANIELE E MARINACCIO CELESTINO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.58646947145462,
+                    41.10983761480394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C.L.R.T. DI ROSA V. & C. S.A.S.",
+                "id": "4216",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "C.L.R.T. DI  ROSA V. & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.64229914657551,
+                    40.994325728625796
+                ]
+            }
+        }
+    ]
+}

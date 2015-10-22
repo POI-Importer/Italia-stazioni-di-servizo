@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore IP",
+                "id": "27439",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SOFIA DORIANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.70210352540016,
+                    37.9455529192101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "7995",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BENEDETTO ANTONINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.742732286453247,
+                    37.93134008820104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ca.ar. snc - p.v.56775",
+                "id": "25691",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CA.AR. S.N.C. DI CAPIZZI FABIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.772641599178316,
+                    37.92264705089848
+                ]
+            }
+        }
+    ]
+}

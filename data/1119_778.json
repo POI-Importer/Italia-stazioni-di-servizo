@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip gruppo api",
+                "id": "30569",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BRINDEC DI DE CAPUA GAETANO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.76376074552536,
+                    39.57869846163163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIFORNIMENTO AGIP DE VICO ALBERTO",
+                "id": "21387",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DE VICO ALBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.768178343772888,
+                    39.596564978633424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Servizio Esso Campana Giuseppe e Figli SNC",
+                "id": "23105",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CAMPANA GIUSEPPE E FIGLI SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.830247342586517,
+                    39.561717953393604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip gruppo api",
+                "id": "30568",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BRINDEC DI DE CAPUA GAETANO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.774733662605286,
+                    39.60502895918813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 08631 Mirto Crosia",
+                "id": "32010",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI RETE OIL&NONOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.773564219474792,
+                    39.60503102571559
+                ]
+            }
+        }
+    ]
+}

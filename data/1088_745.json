@@ -1,0 +1,123 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "28056",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MANNUCCI MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.290517449378967,
+                    43.845358703405985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OIL ITALIA",
+                "id": "25361",
+                "amenity": "fuel",
+                "operator": "ROMAGNOLI MASSIMO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.309509241840944,
+                    43.94450181513352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "cerbai luca e arinci francesco snc",
+                "id": "15632",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CERBAI LUCA E ARINCI FRANCESCO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.368883550167084,
+                    43.95800029548487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "7755",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "M.G.P. DI MONDUCCI ELEONARDO E C. SNC."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.365043967962265,
+                    43.95923366810547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BORGO SAN LORENZO VIALE PECORI GIRALDI  3",
+                "id": "6586",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.39335431412087,
+                    43.955241315735115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pieri Mauro & C. Snc",
+                "id": "17490",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PIERI MAURO & C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3740374147892,
+                    43.95716271502194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN PIERO A SIEVE - TAIUTI",
+                "id": "9112",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SIRTAM S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.311371624469757,
+                    43.94856940024065
+                ]
+            }
+        }
+    ]
+}

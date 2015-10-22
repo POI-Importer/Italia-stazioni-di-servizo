@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMP. ENI 09813",
+                "id": "8523",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CARAPEZZA FLORENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.038346658305386,
+                    37.785530253694375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "petrolcoke energy srl polizzi generosa",
+                "id": "29711",
+                "amenity": "fuel",
+                "operator": "PETROLCOKE ENERGY S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.008480980992317,
+                    37.808890543405056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso castellana sicula",
+                "id": "24266",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PETROLCOKE ENERGY S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.039497690317946,
+                    37.78429646618787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "messina carburanti esso",
+                "id": "7394",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MESSINA CARBURANTI DI MESSINA FRANCESCO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.891211450099942,
+                    37.81717493460165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "lo verde filippo",
+                "id": "23870",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "LO VERDE FILIPPO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.005166663938327,
+                    37.811909771282316
+                ]
+            }
+        }
+    ]
+}

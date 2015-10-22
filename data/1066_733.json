@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "12865",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "AIMONETTO VANDA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.541150926161322,
+                    45.410826684322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAGLIAMONTE SILVIO",
+                "id": "15196",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "TAGLIAMONTE SILVIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4639979099217735,
+                    45.41647619372733
+                ]
+            }
+        }
+    ]
+}

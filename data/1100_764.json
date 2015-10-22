@@ -1,0 +1,104 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PETROL GAMMA",
+                "id": "27052",
+                "amenity": "fuel",
+                "operator": "C.M. MULTISERVICE S.A.S. DI CIOFFI MAURIZIO E MATTEI MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.469029068946838,
+                    41.3986701615956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FONDI GAGLIARDO ESSO",
+                "id": "30613",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.395387679338453,
+                    41.37743027724601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PETROL GAMMA",
+                "id": "31820",
+                "amenity": "fuel",
+                "operator": "LORELLO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.490320444107056,
+                    41.470481427831345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni Perfili Tonino",
+                "id": "5721",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO DI PERFILI TONINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3933961391449,
+                    41.50824467411828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LION",
+                "id": "21551",
+                "amenity": "fuel",
+                "operator": "LA.R.OIL SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.453322052955626,
+                    41.39340616492235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chiosco esso piccione alex",
+                "id": "27027",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PICCIONE ALEX"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.461782609511602,
+                    41.40830859346348
+                ]
+            }
+        }
+    ]
+}

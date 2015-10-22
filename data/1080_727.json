@@ -1,0 +1,204 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP ARMANASCO MASSIMO",
+                "id": "10450",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ARMANASCO MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.90185610081528,
+                    46.169919686738034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CP OCCHIO AL PREZZO",
+                "id": "7209",
+                "amenity": "fuel",
+                "operator": "F.LLI ROMERI S.N.C. DI ANGELO E MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.872374208341169,
+                    46.16587083929693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO C.P. di FORTINI STEFANO",
+                "id": "6051",
+                "amenity": "fuel",
+                "operator": "FORTINI STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.867860344830888,
+                    46.16087789445191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "7621",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CIOCCARELLI CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.97947125396729,
+                    46.163689330797105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRB.CARBURANTI ENI",
+                "id": "14349",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CAVALLI BRUNO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.895967245101927,
+                    46.17040119951036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SERVIZIO TAMOIL",
+                "id": "10650",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "DELL'AGOSTINO DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.938834848837473,
+                    46.16019771294743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "impianto q8 albosaggia",
+                "id": "23378",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PERREGRINI CLARINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.863627469748735,
+                    46.157526084593265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pulivalt srl",
+                "id": "26064",
+                "amenity": "fuel",
+                "operator": "PULIVALT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.864572185994122,
+                    46.17044944209137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "18789",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "FANCHETTI FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.864081746165198,
+                    46.166182056879165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Oil Service (Luca Centelleghe)",
+                "id": "8652",
+                "amenity": "fuel",
+                "operator": "CENTELLEGHE LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.878931720023502,
+                    46.16916006372566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PARUSCIO  MARIO",
+                "id": "21785",
+                "amenity": "fuel",
+                "operator": "PARUSCIO MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.924469903977181,
+                    46.17523850310842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZ.SERVIZIO ENI SPA.",
+                "id": "12547",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BONINI ALDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.858081240475485,
+                    46.16807519273935
+                ]
+            }
+        }
+    ]
+}

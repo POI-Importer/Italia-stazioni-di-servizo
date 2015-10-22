@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio esso",
+                "id": "15317",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "VERONA GIANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.174940058551783,
+                    43.95081380028221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO IP S.C.L.A.SRL",
+                "id": "19351",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SOCIETA' CARBURANTI LUBRIFICANTI ED AFFINI - S.C.L.A. - SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.194391542327821,
+                    43.93180064888854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FORTE DEI MARMI-VIA G.B.VICO 96",
+                "id": "11637",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.190657842922178,
+                    43.96094287118438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vietina Carburanti Esso",
+                "id": "32110",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "VIETINA CARBURANTI DI VIETINA LORENZO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.194987300138791,
+                    43.95732657371698
+                ]
+            }
+        }
+    ]
+}

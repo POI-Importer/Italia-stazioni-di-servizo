@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eredi fi Mulazzi Angelo snc di Badavelli Mirella",
+                "id": "25193",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "EREDI DI MULAZZI ANGELO SNC DI BADAVELLI MIRELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.68212142586708,
+                    44.95875168626195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S. GIORGIO PIACENTINO",
+                "id": "32009",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ENERGY RETE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.743362963199615,
+                    44.94486177711758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO TOTALERG",
+                "id": "28092",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "IMPIANTO TOTALERG DI BRIGATELLI E FERRARI PAOLA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.806810617446898,
+                    44.91085762046618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI pareti antonio di pareti davide snc",
+                "id": "8908",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PARETI ANTONIO DI PARETI DAVIDE & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.780406281352043,
+                    44.91671080625073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil di rubini D.& C snc",
+                "id": "9642",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "AUTORIPARAZIONI RUBINI SNC DI RUBINI DUILIO & C. ENUNCIABILE ANCHE AUTORIPARAZIONI RUBINI D. & D. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.739859998226166,
+                    44.953208577892994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio IP di Ghioni Dario",
+                "id": "11433",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GHIONI DARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.671405651960868,
+                    44.93536891836143
+                ]
+            }
+        }
+    ]
+}

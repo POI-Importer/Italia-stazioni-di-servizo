@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Simone Masini Rifornitore Carburanti",
+                "id": "21036",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MASINI SIMONE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.179303311669855,
+                    40.2469744374435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SORO ANTONELLO",
+                "id": "25241",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SORO ANTONELLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.143658578395844,
+                    40.17975901550954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Oasi Tamoil",
+                "id": "4095",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FORMA ARTURO EREDI S.A.S. DI RUGGIU MARIA GABRIELA E FIGLI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.194522649049759,
+                    40.307021546717806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore ESSO Balia Antonio",
+                "id": "24644",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BALIA ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.279783368110657,
+                    40.21888021921053
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gabriele Malvermi",
+                "id": "20263",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MALVERMI GABRIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.607735723257065,
+                    44.777760257150646
+                ]
+            }
+        }
+    ]
+}

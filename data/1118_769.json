@@ -1,0 +1,306 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO Q8",
+                "id": "27398",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ZIENNA DOMENICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.55510902404785,
+                    40.83537078446054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione servizio IP Gruppo API",
+                "id": "21321",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SIMONE MCHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.546735167503357,
+                    40.81772457224663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SILVIUMPETROLSRL",
+                "id": "27618",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SILVIUM PETROL SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.537692369172646,
+                    40.82577069132874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Q8 di Cassese M. Arcangela",
+                "id": "27336",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CASSESE MARIA ARCANGELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.543106138706207,
+                    40.82859549793288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MATERA BORGO VENUSIO C/O C.C. COOP",
+                "id": "6764",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.57372108465574,
+                    40.72234356122209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DIGISERVICE SRL",
+                "id": "27468",
+                "amenity": "fuel",
+                "operator": "DIGISERVICE SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.568943858146667,
+                    40.8138896183945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP PELLEGRINO DOMENICO",
+                "id": "18278",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PELLEGRINO DOMENICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.560007988430012,
+                    40.82258520862915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "19788",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "NATALE GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.558701165151206,
+                    40.83340798079886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASAREALE",
+                "id": "14515",
+                "amenity": "fuel",
+                "operator": "CASAREALE VINCENZO SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.549634635448456,
+                    40.81608603552074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ADRIATICA FUEL SNC",
+                "id": "19028",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ADRIATICA FUEL S.N.C. DI PIETRO CARLONE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.557003583605933,
+                    40.83207665037768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO Q8 VIA MATERA",
+                "id": "27402",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ZIENNA DOMENICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.553580164909363,
+                    40.81576368241278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALBERGO LUCA",
+                "id": "18340",
+                "amenity": "fuel",
+                "operator": "ALBERGO LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.55791461467743,
+                    40.83284745926313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO ITALIA S.R.L.",
+                "id": "27571",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PLANTAMURA CARBURANTI DI NINIVAGGI FILIPPO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.559298634529114,
+                    40.83379153586473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "zienna domenico",
+                "id": "31055",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ZIENNA DOMENICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.55610680580139,
+                    40.78465207711459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SANROCCO CARBURANTI SRL",
+                "id": "11294",
+                "amenity": "fuel",
+                "operator": "SANROCCO CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.53020051788553,
+                    40.84039381684474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "24174",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FIOMI CARBURANTI DI FIORE NICOLA  & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.53440176011884,
+                    40.82746955497852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EUROCARBURANTI SRL",
+                "id": "27670",
+                "amenity": "fuel",
+                "operator": "EUROCARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.56178370118141,
+                    40.83035326268066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALTAMURA VIA CORATO",
+                "id": "23376",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.544580691401734,
+                    40.83579336340907
+                ]
+            }
+        }
+    ]
+}

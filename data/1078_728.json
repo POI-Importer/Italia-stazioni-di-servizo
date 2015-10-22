@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP MISMETTI MATTEO",
+                "id": "8825",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MISMETTI MATTEO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.649226605509966,
+                    45.968280335117704
+                ]
+            }
+        }
+    ]
+}

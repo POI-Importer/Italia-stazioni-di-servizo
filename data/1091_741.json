@@ -1,0 +1,439 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LINGASAUTO",
+                "id": "13065",
+                "amenity": "fuel",
+                "operator": "EREDI DI BABINI FERNANDO S.N.C. DI BABINI DANIELE E FAROLFI ELSA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.900603595631424,
+                    44.43243523921472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SERRA ROBERTO",
+                "id": "12224",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERRA ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.929983761901894,
+                    44.384291340176304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SANTERNO OVEST",
+                "id": "3915",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "Ravaioli Nello"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.847548687171868,
+                    44.341908674883484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "21613",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MANARA ANGELO & BEZZI ANGELO  S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.856081336736679,
+                    44.44263341451107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ricci Garotti Romano e c. snc",
+                "id": "22013",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "RICCI GAROTTI ROMANO E C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.920886188745499,
+                    44.41707027650592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PB",
+                "id": "18645",
+                "amenity": "fuel",
+                "operator": "F.A.P. SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.914671003704825,
+                    44.426865091163634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VULCANGAS",
+                "id": "30542",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BO.BO. DI ANDREA BONAVITA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.950206756591799,
+                    44.4169116475886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PB",
+                "id": "19900",
+                "amenity": "fuel",
+                "operator": "CP OIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.884915083646774,
+                    44.45529496045032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PB",
+                "id": "4024",
+                "amenity": "fuel",
+                "operator": "F.A.P. SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.89537435770035,
+                    44.40013420815416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALGAS SAS DI ZANZI GIAMBATTISTA & C.",
+                "id": "10884",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ALGAS DI ZANZI GIAMBATTISTA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.897423565387726,
+                    44.425887682811435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Q8 di Laghi Fabio",
+                "id": "14074",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "LAGHI FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.901609897613525,
+                    44.409173951990695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE AVIA MASSALOMBARDA",
+                "id": "14414",
+                "amenity": "fuel",
+                "operator": "NUOVA C.L.A.R.  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.838683340228274,
+                    44.44088971412324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Agip",
+                "id": "17524",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CIVIDA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.938042507934599,
+                    44.45729853225751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE AVIA BARBIANO",
+                "id": "14416",
+                "amenity": "fuel",
+                "operator": "NUOVA C.L.A.R.  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.8874452153442,
+                    44.38582211590975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO VULCANGAS DI TAGLIONI GIAN LUCA E C. SNC",
+                "id": "30749",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "TAGLIONI GIAN LUCA E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.950201392173767,
+                    44.4168940221008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Marchi Andrea_",
+                "id": "15461",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MARCHI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.925550550222397,
+                    44.42200939859262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE TAMOIL AUTOLAVAGGIO FAMAK",
+                "id": "14602",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FAMAK DI FOSCHINI FEDERICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.874643564224243,
+                    44.435396301731735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MORDANO",
+                "id": "14375",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "C.I.S. NORD S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.811312913491859,
+                    44.39636204179254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ego",
+                "id": "9667",
+                "amenity": "fuel",
+                "operator": "CH4 SERVICE DI ORIANI ERMENEGILDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.935717463493347,
+                    44.419470348811075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "22007",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE CARBURANTI DI CREMONINI GUERRINO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.820536434992164,
+                    44.44847080779247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO BEYFIN",
+                "id": "29185",
+                "amenity": "fuel",
+                "operator": "TAGLIONI GIAN LUCA E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.936506032943726,
+                    44.3652569782757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio totalerg",
+                "id": "11037",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TARONI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.944223847885155,
+                    44.38559468611836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Daniele Babini",
+                "id": "13055",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "BABINI DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.900608960049453,
+                    44.43244290042378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SISTI PIETRO",
+                "id": "12039",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SISTI PIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.847382113532147,
+                    44.35896616828973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SANTERNO EST",
+                "id": "3904",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GILCA SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.846924083328302,
+                    44.343018427122175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore carburante IP",
+                "id": "20667",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CAVINA MONICA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.79958462715149,
+                    44.45498173871787
+                ]
+            }
+        }
+    ]
+}

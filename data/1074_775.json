@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil fordongianus",
+                "id": "25796",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FLORE VINCENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.810752183198929,
+                    39.99660190836158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO IP DI LOI ANNA MARIA",
+                "id": "29143",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LOI ANNA MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.936626893301423,
+                    39.94247787419136
+                ]
+            }
+        }
+    ]
+}

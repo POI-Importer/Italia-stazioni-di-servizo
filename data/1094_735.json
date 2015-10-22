@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rosolina",
+                "id": "30030",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "RETITALIA  S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.311507016420368,
+                    45.136981419098824
+                ]
+            }
+        }
+    ]
+}

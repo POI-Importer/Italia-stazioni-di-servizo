@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "P P ENERGY",
+                "id": "24223",
+                "amenity": "fuel",
+                "operator": "LEVANTE PETROLI SOCIETA' A RESPONSABILITA' LIMITATA UNIPERSONALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.929397940635681,
+                    41.15530369199747
+                ]
+            }
+        }
+    ]
+}

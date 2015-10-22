@@ -1,0 +1,87 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil Lunano",
+                "id": "14758",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ALTOFOGLIA SERVICE DI GUARANDELLI GIOVANNA & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.445889711380008,
+                    43.73256912971611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOMBINI TILDE",
+                "id": "22771",
+                "amenity": "fuel",
+                "operator": "TOMBINI TILDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.340380085262154,
+                    43.7831116346854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto gestione paglierani giuliano",
+                "id": "24674",
+                "amenity": "fuel",
+                "operator": "IMPIANTO IP GESTIONE PAGLIERANI GIULIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.441601475612176,
+                    43.80375776717719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "28763",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GENTILI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.408557303822706,
+                    43.724837359827895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "salucci lorena",
+                "id": "13365",
+                "amenity": "fuel",
+                "operator": "SALUCCI LORENA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.36622214317322,
+                    43.80324344749816
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP Auletta (SA)",
+                "id": "10455",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ADDESSO SERVICE S.A.S. DI ADDESSO ANTONIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.42456328868866,
+                    40.581312725309786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL ERG",
+                "id": "27968",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GRIECO ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.400897152119455,
+                    40.658599183579035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CITRO CARBURANTI",
+                "id": "21476",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CITRO CARBURANTI DI MARY CITRO E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.293875336647032,
+                    40.611069262460745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AXA PETROLI SRL",
+                "id": "32202",
+                "amenity": "fuel",
+                "operator": "AXA PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.40549793005948,
+                    40.662134878794646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "cervino eduardo di cervino maria carmela",
+                "id": "25803",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CERVINO EDUARDO DI CERVINO MARIA CARMELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.297021455929325,
+                    40.63991901538098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FULL PETROL VIA DEL SOLE S. GREGORIO M.",
+                "id": "23403",
+                "amenity": "fuel",
+                "operator": "ROTRANS - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.396447008598335,
+                    40.65733572178921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FULL PETROL S. CALORIO S.GREGORIO MAGNO",
+                "id": "23404",
+                "amenity": "fuel",
+                "operator": "ROTRANS - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.385870814061493,
+                    40.65933632770144
+                ]
+            }
+        }
+    ]
+}

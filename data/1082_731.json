@@ -1,0 +1,411 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore eni",
+                "id": "7105",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LOIUDICE FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.267018675804138,
+                    45.583821001699825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Auchan /eni",
+                "id": "7055",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AUCHAN S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.226863995194437,
+                    45.58627705602036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio q8 di pontara claudio",
+                "id": "19101",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PONTARA CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.199927240610123,
+                    45.627333779061324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BONERA LUIGI DI BONERA UMBERTO E C. S.N.C.",
+                "id": "12089",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BONERA LUIGI DI BONERA UMBERTO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.226452946662903,
+                    45.58381048945484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LA FENICE Tavola Calda-Bar-Tabacchi",
+                "id": "10161",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LA FENICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.276842457672158,
+                    45.58437719216947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IES",
+                "id": "21363",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "M.T. DI MACCARINELLI PARIDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.286774110450096,
+                    45.65323686440315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAPRA MAURIZIO",
+                "id": "9217",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CAPRA MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.24417283617595,
+                    45.655117169478686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV IP GRUPPO API CONCESIO",
+                "id": "12755",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CORINI MARIO E FIGLI S.N.C. DEI F.LLI CORINI PIERANGELO, FAUSTO E FERDINANDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.205172300338747,
+                    45.6140111449122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio IP di Adoni Giuliano",
+                "id": "31796",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ADONI GIULIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.242070650297137,
+                    45.58478064091265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore IP di Melzani Anna",
+                "id": "13958",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MELZANI ANNA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.324614998238644,
+                    45.69495113325981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GAV DI TAVERNITI ANTONIO",
+                "id": "16518",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GAV DI TAVERNITI ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.270936156554626,
+                    45.64943758018682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE AGIP",
+                "id": "6244",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PATOIL SERVICE S.N.C. DI PATERLINI DOCILE E FIGLI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.20375542342663,
+                    45.64938426048294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "POLOTTI F.LLI",
+                "id": "11058",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "POLOTTI F.LLI DI POLOTTI SANDRO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.268688507262596,
+                    45.64831950974567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rossetti Anna Farida",
+                "id": "27423",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ROSSETTI ANNA FARIDA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.252373327200418,
+                    45.65384535830375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LUMEZZANE DI ROSAGHE-VIA MONTESUELLO",
+                "id": "11540",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.250773876905441,
+                    45.649673008333096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EFUEL",
+                "id": "30981",
+                "amenity": "fuel",
+                "operator": "SIIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.310368537902832,
+                    45.60580021609349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Primoil",
+                "id": "5156",
+                "amenity": "fuel",
+                "operator": "PRIMOIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.238905967914548,
+                    45.651246238516485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO AGIP DI SALERA GIUSEPPE",
+                "id": "14927",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO AGIP DI SALERA GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.19860839391788,
+                    45.657023766597945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STRAPPARAVA EMILIO",
+                "id": "7783",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "STRAPPARAVA EMILIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.247838205676317,
+                    45.65401857124136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GRANETTI GIOVANNI",
+                "id": "22659",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GRANETTI GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.201331450478394,
+                    45.62528046684086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "B.M. DI BERTUSSI MAURO E C. S.N.C.",
+                "id": "29054",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "B.M. DI BERTUSSI MAURO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.212500349667835,
+                    45.70514754403419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO MARCHETTI DI CARLO E ENRICO SNC",
+                "id": "12789",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAZIONE SERVIZIO MARCHETTI DI CARLO E ENRICO SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.201643217057835,
+                    45.622820516853096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione api di Giacomelli Isacco",
+                "id": "11989",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GIACOMELLI ISACCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.233851820230484,
+                    45.59188837272806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione q8 di pace maurizio",
+                "id": "23688",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PACE MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.257447212934494,
+                    45.65010425232196
+                ]
+            }
+        }
+    ]
+}

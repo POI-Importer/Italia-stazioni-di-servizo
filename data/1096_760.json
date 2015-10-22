@@ -1,0 +1,596 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COLLE TASSO NORD",
+                "id": "3897",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "fevalma di Laura Vecchione e La Via snc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.738122108216315,
+                    41.92772330353017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GIRMA srl",
+                "id": "21160",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "GIRMA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.659001946449278,
+                    41.9358648042952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ludoil",
+                "id": "26557",
+                "amenity": "fuel",
+                "operator": "RA.GA. DI PRISCO GAETANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.697912752628326,
+                    41.95920607606491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "imp 17060",
+                "id": "24055",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SGR S.A.S DI PAOLINI GIORGIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.80935451388359,
+                    41.95368373373498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Marcellina NI003675",
+                "id": "30021",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CORO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.762080579996109,
+                    42.009995310150096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "31699",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GENIC S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.75474138557911,
+                    41.969596220812114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARBURANTI IP",
+                "id": "16195",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PUCELLA CRISTIAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.802275872079237,
+                    41.962305941872515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ROMA VIA DI LUNGHEZZA 32",
+                "id": "6639",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6722884214264,
+                    41.92294282591088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DI DOMENICO CLAUDIO",
+                "id": "9876",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DI DOMENICO CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.780044674873348,
+                    41.95674715106527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Angelo Pasquarelli",
+                "id": "19408",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PASQUARELLI ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.744129130182728,
+                    42.02096583300279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DE PAOLA BRUNO STAZIONE SERVIZIO KUWAIT OIL ITALIANA",
+                "id": "16992",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DE PAOLA BRUNO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.800183706325015,
+                    42.02489523928921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "UMILIO MARIO FRANCO S.A.S.",
+                "id": "14177",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "UMILIO MARIO FRANCO S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.755019664764404,
+                    41.956346629200894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cocco Fabio",
+                "id": "23722",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "COCCO FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.708729675430051,
+                    41.95450446931805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip petroli di marabitti giuseppe",
+                "id": "10910",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MARABITTI GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.822314558657467,
+                    41.96029400358841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ANGELINI DOMENICO",
+                "id": "12734",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ANGELINI DOMENICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.757378272934828,
+                    41.96134075563467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "29274",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DI FRANCESCO DISTRIBUTORI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.687749862670898,
+                    42.019010408446164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "to.mas di bisonni antonio e c sas",
+                "id": "9685",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "TO.MAS. DI BISONNI ANTONIO & C. - SOCIETA' IN ACCOMANDITA SEMPLIC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.66190141439438,
+                    41.95810188522045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tivoli",
+                "id": "23032",
+                "amenity": "fuel",
+                "operator": "DIBEOL ECOLOGICA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.802038213872946,
+                    41.96523896345829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "19815",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "COLORIFICIO TOMEI SOCIETA A RESPONSABILITA LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.800664812073931,
+                    41.95942874681292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GUIDONIA VIA ROMA  196",
+                "id": "6653",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.715779564942977,
+                    41.986388884903164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DGM AUTOSERVIZI SNC",
+                "id": "17620",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "DGM AUTOSERVIZI DI DI GASPARE MICHELE & C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.66257861097563,
+                    41.99181113660079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area Servizio v. del Casalone di D.O.C.C.A. Srl",
+                "id": "31558",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "D.O.C.C.A. DISTRIBUZIONE OLII COMBUSTIBILI CARBURANTI AFFINI S.R. L. IN SIGLA D.O.C.C.A. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.678323239088057,
+                    41.92095295132691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ricci davide",
+                "id": "9789",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "RICCI DAVIDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.791555374860764,
+                    41.954392254306995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI di Adolfo Laurenti",
+                "id": "28458",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LAURENTI ADOLFO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.697300508474427,
+                    41.97323598305486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C.B. STATION SERVICE DI CORSI ANTONIO  E BENEDETTO BRUNO S.N.C.",
+                "id": "12754",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "C.B. STATION SERVICE DI CORSI ANTONIO E BENEDETTO BRUNO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.75926560163498,
+                    41.944665764977636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sant'Angelo Romano",
+                "id": "30069",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.677827030420302,
+                    42.0064118732425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BAGNI DI TIVOLI VIA TIBURTINA KM. 21+700",
+                "id": "24785",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.724892422556877,
+                    41.95248469629972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Guidonia",
+                "id": "9361",
+                "amenity": "fuel",
+                "operator": "I.C.M. SOCIETA' IN NOME COLLETTIVO DI BRUNO, CRISTIANO E FABRIZIO MAGGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.713230848312378,
+                    41.97053090572767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg - BA.CO. s.n.c.",
+                "id": "19524",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DITTA BA.CO. DI CORRIVETTI G. E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.761161923408507,
+                    41.94976279166429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COLLE TASSO SUD",
+                "id": "30022",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LOTO PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.738921046257019,
+                    41.926913361260304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BUCCI MARIA GRAZIA",
+                "id": "8479",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BUCCI MARIA GRAZIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.736820876598356,
+                    41.95257426083397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI Via Casalbianco",
+                "id": "30079",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "D.O.C.C.A. DISTRIBUZIONE OLII COMBUSTIBILI CARBURANTI AFFINI S.R. L. IN SIGLA D.O.C.C.A. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.697303592487287,
+                    41.97325741840118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "METANO TIBURTINA",
+                "id": "29245",
+                "amenity": "fuel",
+                "operator": "METANO TIBURTINA SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.67695397138596,
+                    41.95116016359335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOP SERVICE 2013",
+                "id": "21998",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TOP SERVICE 2013 DI MASSI ANDREA SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.727146819233893,
+                    41.95240091644713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RI.MA.S.A.S.",
+                "id": "24635",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "RI.MA. S.A.S. DI MASSI MASSIMO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.752788066864014,
+                    41.955936530649026
+                ]
+            }
+        }
+    ]
+}

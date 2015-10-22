@@ -1,0 +1,209 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio IP",
+                "id": "21138",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CIMOLI CARLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.019304991770468,
+                    44.252543389238554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AULLA V.LE LUNIGIANA",
+                "id": "6599",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.966753846032702,
+                    44.21663904723197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "nico petrol",
+                "id": "9195",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "NICO PETROL DI MUSETTI ANGELO E BALDINI LAILA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.95107520685201,
+                    44.29401036308869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S. BENEDETTO EST",
+                "id": "3880",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TOTALERG S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.927311539649963,
+                    44.312627055271946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S. BENEDETTO OVEST",
+                "id": "29505",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GE.SE.CO. DI MARTINELLI MIRCO & C. SOCIETA' IN NOME COLLETTIVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.926801919937132,
+                    44.311285118058024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GHELFI PAOLO",
+                "id": "21636",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GHELFI PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.997114688158035,
+                    44.23779682324102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Q8 Groppoli di Mulazzo",
+                "id": "24862",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CALANI SIMONE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.920152723789215,
+                    44.311646707175655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "10028",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PIOLA ALESSIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.930892288684845,
+                    44.331664977582236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE IP",
+                "id": "26897",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BARBIERI GABRIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.9916032854278,
+                    44.31372031341585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "lam",
+                "id": "8013",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "LAM DI MUSETTI MASSIMO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.951735734939575,
+                    44.29283881765152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "9590",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CANTONI FABRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.013233423233032,
+                    44.250149943415266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE TOTALERG DI VIVIANI PAOLO",
+                "id": "9869",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "VIVIANI PAOLO E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.966339660713174,
+                    44.21658573417742
+                ]
+            }
+        }
+    ]
+}

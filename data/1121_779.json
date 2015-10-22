@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "17777",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ARTESE SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.054394856095314,
+                    39.43565024923723
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,191 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO Q8 S.P.90",
+                "id": "23637",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CALOVI FULVIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.18214917221371,
+                    46.250383587015364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP MEZZOCORONA",
+                "id": "23885",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MENEGUOT GIORGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.12315886375427,
+                    46.21235765129994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO SAN FLORIANO",
+                "id": "11142",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MA.BI. SAS DI MARTA ARMANDO & C. % MA.BI. KG DES MARTA ARMANDO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.240644454956055,
+                    46.28352952101621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio ENI di Mosele Andrea",
+                "id": "32089",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MOSELE ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.206758171688877,
+                    46.239792012057165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "8347",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MERLO SNC DI MERLO MAURIZIO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.093906164169312,
+                    46.210251085065586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SCARI SRL",
+                "id": "31237",
+                "amenity": "fuel",
+                "operator": "SCARI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.119110882282259,
+                    46.20380289519736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MEZZOLOMBARDO-VIA CAVALLEGGERI UDINE 13",
+                "id": "11846",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.08776973743443,
+                    46.21633875465665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FIRMIN",
+                "id": "30138",
+                "brand": "Firmin",
+                "amenity": "fuel",
+                "operator": "PALMISANO DANIEL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.212656944990158,
+                    46.245847469247245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE DA GREG DI LAMUSTA GREGORIO",
+                "id": "21404",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE DA GREG DI LAMUSTA GREGORIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.127630919218063,
+                    46.20703803655159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO DALLA TORRE LUCIA",
+                "id": "26165",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DALLA TORRE LUCIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.088844835758207,
+                    46.21539045825737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Retitalia",
+                "id": "26335",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "MODOLO IMPIANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.101236331282735,
+                    46.196236068379385
+                ]
+            }
+        }
+    ]
+}

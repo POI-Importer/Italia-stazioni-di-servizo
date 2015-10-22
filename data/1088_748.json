@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore petri giuseppe",
+                "id": "23367",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE PETRI GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.28962101696584,
+                    43.46013167659828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Agip",
+                "id": "12486",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "IOZZELLI GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.388164609670639,
+                    43.48958843569855
+                ]
+            }
+        }
+    ]
+}

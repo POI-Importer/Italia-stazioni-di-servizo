@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "X FUEL CASTEL DEL MONTE",
+                "id": "25636",
+                "amenity": "fuel",
+                "operator": "X FUEL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.723320286611512,
+                    42.366428239322644
+                ]
+            }
+        }
+    ]
+}

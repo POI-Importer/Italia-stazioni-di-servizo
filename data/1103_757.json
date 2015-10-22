@@ -1,0 +1,157 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "9345",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MANTINI PIERINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.95271450281143,
+                    42.403584165577264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO IP",
+                "id": "18480",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DELLA VOLPE ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.899988979101181,
+                    42.3294404350143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "23216",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DIAR S.N.C. DI D'ADDAZIO VINCENZO & C"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.929872810840607,
+                    42.42331752523229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Più",
+                "id": "6296",
+                "amenity": "fuel",
+                "operator": "PETROLBITUMI - SOCIETA A RESPONSABILITA LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.04712615106507,
+                    42.324913744897636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Self Area Eni di Di Credico Fiorello  06892",
+                "id": "26579",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DI CREDICO  FIORELLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.059726595878601,
+                    42.31113088286413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SCIARRA ALBERTO",
+                "id": "19569",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SCIARRA ALBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.933699652552603,
+                    42.30661271710979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PACE MARINO",
+                "id": "23361",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PACE MARINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.053222909569744,
+                    42.401823604737785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "18903",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CERASA PASQUALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.022008031606672,
+                    42.354852731490794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso/Goldengas",
+                "id": "26732",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DI BIASE VINCENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.047104120254515,
+                    42.299247994719146
+                ]
+            }
+        }
+    ]
+}

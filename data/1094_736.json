@@ -1,0 +1,54 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PR CARBURANTI",
+                "id": "22252",
+                "amenity": "fuel",
+                "operator": "TREVISAN PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.365024657294498,
+                    45.05070036267734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORO F.LLI SPA",
+                "id": "29015",
+                "brand": "Loro",
+                "amenity": "fuel",
+                "operator": "LORO F.LLI-S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.424691557672077,
+                    44.99923424520883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PR",
+                "id": "12965",
+                "amenity": "fuel",
+                "operator": "PREO & RIGON - SOCIETA' IN NOME COLLETTIVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.36507207155228,
+                    45.05070794013682
+                ]
+            }
+        }
+    ]
+}

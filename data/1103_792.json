@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "fasciana cataldo & c. s.a.s.",
+                "id": "25667",
+                "amenity": "fuel",
+                "operator": "FASCIANA CATALDO & C. SOCIETA' IN ACCOMANDITA SEMPLICE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.915021419525146,
+                    37.599213511873806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eredi cucchiara di cucchiara salvatore sas",
+                "id": "25688",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "EREDI CUCCHIARA DI CUCCHIARA SALVATORE S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.040943756699562,
+                    37.59014193163621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C.SO CASTELNUOVO RESUTTANO",
+                "id": "23708",
+                "brand": "Giap",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.027048588954928,
+                    37.678688105534135
+                ]
+            }
+        }
+    ]
+}

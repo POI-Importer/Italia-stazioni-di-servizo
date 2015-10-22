@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ambra Gioia Elda Emma Cortellini",
+                "id": "24039",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CORTELLINI AMBRA GIOIA ELDA EMMA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.331768602132797,
+                    44.90771072865025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto ENI 2704",
+                "id": "22816",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VISCONTI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.436899796128273,
+                    44.96474346422339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SCRIVANI",
+                "id": "14224",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SCRIVANI & MAINI DI SCRIVANI ARMANDO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.393102106903825,
+                    44.949281192487156
+                ]
+            }
+        }
+    ]
+}

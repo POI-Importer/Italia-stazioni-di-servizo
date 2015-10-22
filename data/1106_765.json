@@ -1,0 +1,140 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN LORENZELLO 1",
+                "id": "23178",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "EWA OIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.552174806594847,
+                    41.278280565961204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio IP ONOFRIO srl",
+                "id": "21706",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ONOFRIO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.474412202835085,
+                    41.27738517782692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CERRETO SANNITA",
+                "id": "28828",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.55364868044853,
+                    41.28051132343751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eredi conte snc",
+                "id": "20822",
+                "amenity": "fuel",
+                "operator": "EREDI CONTE S.N.C. DI CONTE MAURIZIO E MANUEL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.42038580775261,
+                    41.31638586321262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA SERVIZIO PRECE",
+                "id": "21255",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PRECE MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.51184846460819,
+                    41.33555059737907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REPSOL",
+                "id": "25506",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "ORSO GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5823872089386,
+                    41.25626924280121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.lli Lavorgna & C. s.n.c.",
+                "id": "27262",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "F.LLI LAVORGNA DI LAVORGNA FRANCO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.527544670130967,
+                    41.2648138030567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REPSOL",
+                "id": "20537",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "FADDIMM  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.550777375698093,
+                    41.27450239579786
+                ]
+            }
+        }
+    ]
+}

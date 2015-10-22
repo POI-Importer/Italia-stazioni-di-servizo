@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LOC. CROCIATE",
+                "id": "7697",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.401770597553195,
+                    37.75554909603222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "16012",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "COMPOSTO LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.399799853563307,
+                    37.749841596048164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SS117 LOC.PANOTT",
+                "id": "7696",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.383340794033531,
+                    37.74620209114626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO SAN MICHELE",
+                "id": "22925",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO SAN MICHELE S.A.S. DI PIZZO SALVATRICE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40805234014988,
+                    37.75300342808906
+                ]
+            }
+        }
+    ]
+}

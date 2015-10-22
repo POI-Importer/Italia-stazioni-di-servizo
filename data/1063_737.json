@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Economy S.r.l - Sestriere",
+                "id": "26529",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ECONOMY S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.874850392341614,
+                    44.954521707444684
+                ]
+            }
+        }
+    ]
+}

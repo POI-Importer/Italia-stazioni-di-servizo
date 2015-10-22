@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "pinet jimmy",
+                "id": "8262",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PINET JIMMY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.686073780059814,
+                    45.67011819556192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip pinet jimmy",
+                "id": "29047",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PINET JIMMY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.688387555750297,
+                    45.6689829769962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hedo sas",
+                "id": "7639",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "HE.DO DI HERERA GUIDO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.68607646226883,
+                    45.67011632126519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Verres",
+                "id": "26536",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CLERIN ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.693725915344205,
+                    45.66327650949705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio ESSO",
+                "id": "24079",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MERCURIO VINCENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.687764549768074,
+                    45.666471019643666
+                ]
+            }
+        }
+    ]
+}

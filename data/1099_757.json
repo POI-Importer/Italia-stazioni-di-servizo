@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIZZOLI FRAZ P.TE CERMONE",
+                "id": "27070",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.305988868122883,
+                    42.40692376201824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "E.LECLERC - CONAD",
+                "id": "21345",
+                "brand": "CONAD",
+                "amenity": "fuel",
+                "operator": "SOGIPER SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.350880444049833,
+                    42.348422219347825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VALLE ATERNO NORD",
+                "id": "3825",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MANETTA ERNESTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.353500962257385,
+                    42.3472677065981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Valente Elisa",
+                "id": "22136",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "VALENTE ELISA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.324526154080559,
+                    42.35412706630145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VALLE ATERNO SUD",
+                "id": "3836",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "VIFRAN - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.355182707309725,
+                    42.346688855701515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aliucci Costantino",
+                "id": "13171",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ALIUCCI COSTANTINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.283060789108276,
+                    42.331547249445734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.LLI DI CRESCE",
+                "id": "14306",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DI CRESCE VALERIO E ETTORE S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.290654122829439,
+                    42.36019688348157
+                ]
+            }
+        }
+    ]
+}

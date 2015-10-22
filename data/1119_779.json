@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO Q8 TALGRECO",
+                "id": "19038",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "TALGRECO DI GRECO EMILIO CATALDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.832379284356307,
+                    39.4658016542849
+                ]
+            }
+        }
+    ]
+}

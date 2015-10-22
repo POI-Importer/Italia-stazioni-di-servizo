@@ -1,0 +1,226 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LOMBRIASCO - S.S.663",
+                "id": "29701",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.627714961628499,
+                    44.83398143778674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP pv 40883",
+                "id": "9404",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "D&G POINT SERVICE SNC DI MARGHERITO GIOVANNI E PALU' DIEGO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.730987370014189,
+                    44.83888247662682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "22827",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MAGNINI PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.616752088069916,
+                    44.81307201863922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "13336",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "VATTANEO GIANFRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.592875063419341,
+                    44.831824728178475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO SOCOGAS DI LINO SEBASTIANO",
+                "id": "6381",
+                "brand": "Socogas",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO SOCOGAS DI LINO SEBASTIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6990315318107605,
+                    44.8121411684168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Servizio Q8",
+                "id": "10438",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GE.PA. S.N.C. DI GERBINO FRANCESCO E PAUTASSO WALTER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.680172920227052,
+                    44.7741132200229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carmagnola",
+                "id": "10106",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.710684388875962,
+                    44.826950789945805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RACCONIGI - PRINCIPE DI PIEMONTE",
+                "id": "30928",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.674866472387294,
+                    44.758066669514115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione ESSO Racconigi",
+                "id": "19703",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LA CAPINERA SNC DI QUINTO GILBERTO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.67623496508179,
+                    44.752413435673844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio IP",
+                "id": "25775",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PENATI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.592340880649773,
+                    44.80212910030569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARS DI CARENA SILVIA E MICHELA & C s.n.c.",
+                "id": "11091",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CARS DI CARENA SILVIA E MICHELA & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.729879617691041,
+                    44.78387894416513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "19584",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "QUINTO GILBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.625595604754608,
+                    44.823147446726544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OIL ITALIA RACCONIGI",
+                "id": "24374",
+                "brand": "Oil Italia",
+                "amenity": "fuel",
+                "operator": "OIL ITALIA SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.680725455284118,
+                    44.783312005063294
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,392 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LB di Baron Luciano",
+                "id": "10803",
+                "amenity": "fuel",
+                "operator": "BARON LUCIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.200749781623017,
+                    45.74710160531919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Oleochimica del Piave",
+                "id": "11221",
+                "amenity": "fuel",
+                "operator": "OLEOCHIMICA DEL PIAVE - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.236712276935577,
+                    45.783097878517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL FAVARO",
+                "id": "29652",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FAVARO MASSIMILIANO & MELANIA E C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.285002276318323,
+                    45.71934945361269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SOTTANA",
+                "id": "15214",
+                "amenity": "fuel",
+                "operator": "SOTTANA S.A.S. DI DE VIDO C. & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.17870725223679,
+                    45.785625486024024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stellaambrozzodistellasonia",
+                "id": "21307",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "STELLA AMBROZZO DI STELLA SONIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.201704674868783,
+                    45.81909454345932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg Anoè",
+                "id": "14136",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ANOE' MARIA GIOVANNA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.233779951930046,
+                    45.74122857829002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Eni 13638",
+                "id": "31162",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GAS STATION S.A.S. DI NAVE ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.280418872833252,
+                    45.736537552035564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "89033 - Villorba",
+                "id": "28329",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "RETITALIA  S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.250198638623033,
+                    45.73512758847455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COSTANTIN - CARBONERA",
+                "id": "28539",
+                "brand": "Costantin",
+                "amenity": "fuel",
+                "operator": "COSTANTIN DISTRIBUZIONE E SERVIZI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2913659356567,
+                    45.7401074384692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "17919",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SSCC CARBURANTI S.A.S. DI CREA MARIA E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.249547988176344,
+                    45.74712311138473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "8893",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BARBON MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.25606052513126,
+                    45.774027885379255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "shell/ecogas spa distributore benzine",
+                "id": "6111",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "ECOGAS S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.291257110450713,
+                    45.74027397556981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Drusian s.a.s.",
+                "id": "23212",
+                "amenity": "fuel",
+                "operator": "DRUSIAN S.A.S. DI DRUSIAN RENATO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.259378284215927,
+                    45.73540606066918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RETE ITALIA",
+                "id": "7566",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "COOPERATIVA AGRICOLA SPAZIO - SOCIETA' COOPERATIVA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.132854461669924,
+                    45.73341410104087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "feltrina carburanti",
+                "id": "20247",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FELTRINA CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.142083942890167,
+                    45.72727752002354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SUSEGANA IV NOVEMBRE 32",
+                "id": "6484",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.254606195770295,
+                    45.82383437002293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Smile",
+                "id": "6261",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SMILE DI TORRESAN GRAZIELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.158480286598206,
+                    45.79159794880371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Petrolman di Manfron Roberto & c sas",
+                "id": "5359",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PETROLMAN DI MANFRON ROBERTO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.253002947885077,
+                    45.72826974421303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NUOVA PRIULA SNC",
+                "id": "8838",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NUOVA PRIULA S.N.C. DI C. OLIVOTTO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.253875732421875,
+                    45.82170416781147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Repsol_Ponzano_V._(TV004)",
+                "id": "7067",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "REPSOL ITALIA S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.199853360652924,
+                    45.72492800613404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SCHIEVEN S.A.S.",
+                "id": "6320",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SCHIEVEN S.A.S. DI SCHIEVEN AUGUSTO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.232618391401731,
+                    45.73198240055204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIAVE EST",
+                "id": "3984",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SALVETTI RETE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.280134868717141,
+                    45.75057031592698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VEGA NERVESA DELLA BATTAGLIA",
+                "id": "31525",
+                "brand": "Vega",
+                "amenity": "fuel",
+                "operator": "VEGA CARBURANTI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.249688804149624,
+                    45.80927063759703
+                ]
+            }
+        }
+    ]
+}

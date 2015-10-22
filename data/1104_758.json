@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "marroncelli &c. sas di marroncelli camillo",
+                "id": "8917",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MARRONCELLI & C. SOCIETA' IN ACCOMANDITA SEMPLICE DI MARRONCELLI CAMILLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.218427538871762,
+                    42.201679499762875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "30238",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "COCCIAGLIA ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.18874017894268,
+                    42.214779824734165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MARRONCELLI & C. SOCIETÀ IN ACCOMANDITA SEMPLICE DI MARRONCELLI CAMILLO E ROBERTO",
+                "id": "29999",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MARRONCELLI & C. SOCIETA' IN ACCOMANDITA SEMPLICE DI MARRONCELLI CAMILLO E ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.220181033015253,
+                    42.193185754121394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip",
+                "id": "23458",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LISIO ROCCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.13836359977722,
+                    42.218984965713815
+                ]
+            }
+        }
+    ]
+}

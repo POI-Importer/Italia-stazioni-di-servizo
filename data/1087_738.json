@@ -1,0 +1,190 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PETROL STATION & CAR WASH DI VICENZI ANDREA",
+                "id": "11249",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PETROL STATION & CAR WASH DI VICENZI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.136547052114906,
+                    44.8357606346388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MICHELINI DANIELE",
+                "id": "16806",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MICHELINI DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.146138279098523,
+                    44.838608859210204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO DI SALMI GIORGIO",
+                "id": "22708",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO ESSO DI SALMI GIORGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.143724843859673,
+                    44.724109924176474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ardilli e Silvestri snc",
+                "id": "9648",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ARDILLI E SILVESTRI DI SILVESTRI CLAUDIA E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.134981513023378,
+                    44.803179728790155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni Camposanto 6255",
+                "id": "21339",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ZAVATTA ALBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.135552823543549,
+                    44.79246725805487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BEYFIN DI REGA VITO GIULIO",
+                "id": "25447",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE BEYFIN DI REGA VITO GIULIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.11691951751709,
+                    44.7978979702678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE TAMOIL DI DONDI RICCARDO",
+                "id": "23155",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE TAMOIL DI DONDI RICCARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.091319071688758,
+                    44.772735920246795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI AGIP",
+                "id": "19760",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO IL POLO DI MARCHETTI JHONATAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.120787262916565,
+                    44.83331182312157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FERRARI SNC",
+                "id": "14289",
+                "amenity": "fuel",
+                "operator": "FERRARI S.N.C. DI FERRARI GIANLUCA E FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.152892634272574,
+                    44.722755895187404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA DI SERVIZIO BARALDI",
+                "id": "10814",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "AREA DI SERVIZIO BARALDI DI BARALDI MATTEO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.149688065052032,
+                    44.83150440238511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione costantin",
+                "id": "13303",
+                "brand": "Costantin",
+                "amenity": "fuel",
+                "operator": "VIT SNC DI CAIAZZO LUCA E DAVIDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1221082508564,
+                    44.7303458618532
+                ]
+            }
+        }
+    ]
+}

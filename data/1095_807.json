@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ditta Costanzo Rosario Distributore Carburanti",
+                "id": "26359",
+                "amenity": "fuel",
+                "operator": "COSTANZO ROSARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.601562553687474,
+                    35.50090521590136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Petrol Service Lampedusa",
+                "id": "24796",
+                "amenity": "fuel",
+                "operator": "PETROL SERVICE LAMPEDUSA DI CASERTA G. E FORLANI F.S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.606536749553358,
+                    35.49971976643542
+                ]
+            }
+        }
+    ]
+}

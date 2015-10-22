@@ -1,0 +1,205 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "area di servizio q8 di borriello gianluigi",
+                "id": "14843",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BORRIELLO GIANLUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.082504525780678,
+                    41.1339808464514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA DI SERVIZIO Q8 ATALNTIDE SAS",
+                "id": "17361",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ATLANTIDE S.A.S. DI TISO MONICA E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.082131028175354,
+                    41.145642444184055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IrpiniaCarburanti S.r.l",
+                "id": "13347",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "IRPINIA CARBURANTI E LUBRIFICANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.040686875581741,
+                    41.19537308927824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso De Gruttola",
+                "id": "8767",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DE GRUTTOLA DAVIDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.100788474082949,
+                    41.15835994975656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore gpl borriello gianluigi",
+                "id": "27657",
+                "amenity": "fuel",
+                "operator": "BORRIELLO GIANLUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.078590512275698,
+                    41.12225534706655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "6867",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LI PIZZI CARMINE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0823886354126,
+                    41.138887683371166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA DI SERVIZIO Q8BORRIELLO GIOVANNI",
+                "id": "16458",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "*BORRIELLO GIOVANNI*"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.094333067536354,
+                    41.160685065822534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.P. PETROLI SRL",
+                "id": "27419",
+                "amenity": "fuel",
+                "operator": "F.P. PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.103332549333572,
+                    41.16286471149785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "servizio ip",
+                "id": "12784",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DE GRUTTOLA FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.09785732963655,
+                    41.152611466287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "millenium petroli",
+                "id": "31113",
+                "amenity": "fuel",
+                "operator": "MILLENIUM PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.99020367860794,
+                    41.21940171096937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO Schettino Franco",
+                "id": "16261",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "*SCHETTINO FRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.08330047130585,
+                    41.14711082909273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "area servizio mainolfi",
+                "id": "17728",
+                "amenity": "fuel",
+                "operator": "AREA SERVIZIO MAINOLFI DI PARADISO ANTONIO E C. S.A.S. DETTA BREVEMENTE AREA SERVIZIO MAINOLFI S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.000139921903612,
+                    41.22764887676758
+                ]
+            }
+        }
+    ]
+}

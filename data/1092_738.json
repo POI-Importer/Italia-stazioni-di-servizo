@@ -1,0 +1,158 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Massa Fiscaglia",
+                "id": "14815",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BIANCHI & C. DI BIANCHI GIUSEPPE & C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.012814414541594,
+                    44.811125428201194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore carburanti",
+                "id": "12671",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ROSATTI LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.973878649900257,
+                    44.8007515170011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BRAGA PAOLA CARBURANTI-LAVAGGIO AUTO- AGIP",
+                "id": "7311",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BRAGA PAOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.103583007934507,
+                    44.834694817887424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gierresnc stazione di servizio",
+                "id": "7133",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GIERRE S.N.C. DI GHELLI SERGIO E REALDINI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.961793899536133,
+                    44.7886274597221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "agip",
+                "id": "29589",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GRASSI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.013274878263474,
+                    44.8122077668394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Telloli e Panizza",
+                "id": "24622",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE TELLOLI E PANIZZA DI TELLOLI STEFANO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.082042694091799,
+                    44.83543226506027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PL di Previati Luca",
+                "id": "28430",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PL DI PREVIATI LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.018183320760729,
+                    44.809298195276625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Campolungo di Ostellato",
+                "id": "14814",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BIANCHI & C. DI BIANCHI GIUSEPPE & C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.961799711639403,
+                    44.74727616622503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CODIGORO VIA POMPOSA NORD 12",
+                "id": "6521",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.119261084655818,
+                    44.83332084962404
+                ]
+            }
+        }
+    ]
+}

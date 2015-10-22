@@ -1,0 +1,158 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "15218",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GUIDO LUCIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.94731229543686,
+                    40.62703106227929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Via Benedetto Brin",
+                "id": "21809",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.93396175872192,
+                    40.645430887273704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "impianto ENI 09195",
+                "id": "13288",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MARTUCCI COSIMO E RIBEZZI ANNA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.93727144598961,
+                    40.62896942830279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "20659",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DI PIERRO GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.941373884677887,
+                    40.626856806066534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA APPIA 216 BRINDISI",
+                "id": "25485",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.930546122684515,
+                    40.63244343304146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "29591",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO Q8 DI NEGLIA GIUSEPPE ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.94042035937309,
+                    40.64901056790986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BRINDISI - VIA SANT'ANGELO",
+                "id": "21842",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.93107150000003,
+                    40.62533324247939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "19118",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MOSPAL S.N.C. DI PALAGIANO ALBERTO E MOSCA ELVIRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.95554420101621,
+                    40.61726274360433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENERGIA E SERVIZI SNC - AGIP",
+                "id": "16866",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENERGIA E SERVIZI DI IAVASILE A. & GIUDICE R. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.936684742327884,
+                    40.64719385260484
+                ]
+            }
+        }
+    ]
+}

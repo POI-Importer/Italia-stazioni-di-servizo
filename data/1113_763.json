@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAMER MANFREDONIA",
+                "id": "4373",
+                "brand": "Camer",
+                "amenity": "fuel",
+                "operator": "CAMER PETROLEUM EUROPA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.749804303241037,
+                    41.568671871630166
+                ]
+            }
+        }
+    ]
+}

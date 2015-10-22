@@ -1,0 +1,461 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "B.L.F. CV",
+                "id": "31119",
+                "amenity": "fuel",
+                "operator": "BLF PETROLI SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.78957455824843,
+                    42.0965159011193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ramoni Paolo",
+                "id": "12078",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "RAMONI PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.800682149252227,
+                    42.09166639061455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "B.L.F. TOLFA",
+                "id": "31120",
+                "amenity": "fuel",
+                "operator": "BLF PETROLI SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.937469837088884,
+                    42.14953436232834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PEZONE MASSIMO",
+                "id": "26265",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PEZONE MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.797363093254035,
+                    42.097965196458325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "26788",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PERETTI FRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.873600453154724,
+                    42.037442961102116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CIVITAVECCHIA-V.LE BACCELLI 117",
+                "id": "11805",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.80456959274318,
+                    42.08710276295995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Favella Carburanti Sas",
+                "id": "28411",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FAVELLA CARBURANTI S.A.S. DI FAVELLA SANDRO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.803422532975674,
+                    42.0894107300497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STRIANO FRANCESCO",
+                "id": "10154",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STRIANO FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.805347343585936,
+                    42.084656178819195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CIVITAVECCHIA FABIO SACCHETTI 2",
+                "id": "6628",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.788481986425722,
+                    42.12875820718255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sa.Ma. di Salvati Manuela",
+                "id": "23766",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SA.MA. DI SALVATI MANUELA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.809481978416441,
+                    42.073090885625994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "16485",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "AURELIA NUOVA SOCIETA IN ACCOMANDITA SEMPLICE DI ALBERTO PERETTI E C"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.87865749001503,
+                    42.038722073372725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore carburante IP di Manola Blasi",
+                "id": "10452",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BLASI MANOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.790422683189378,
+                    42.096732142591065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rosati Stefano",
+                "id": "9445",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ROSATI STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.786705294517335,
+                    42.10209365927798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Total Erg Muneroni",
+                "id": "4226",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MUNERONI FRANCO & C. SOCIETA' IN NOME COLLETTIVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.85554623603821,
+                    42.033587938328736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "24033",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ESSERGIA - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.789588433783251,
+                    42.096547917231554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FABBI ANTONIO",
+                "id": "13751",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FABBI ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.901379368997366,
+                    42.15621106575215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TORRENOVA CARB. SAS - PERTINI",
+                "id": "19316",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "TORRENOVA CARBURANTI S.A.S. DI SBRICCOLI MARCO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.808693408966064,
+                    42.08219617226281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Moscatelli ERG",
+                "id": "28533",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MOSCATELLI CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.798529658605618,
+                    42.09292678563476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DUBOIS SANTA MARINELLA",
+                "id": "17891",
+                "amenity": "fuel",
+                "operator": "DUBOIS LUCIANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.871369928121567,
+                    42.034408328120286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto Agip n. 6972",
+                "id": "27510",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BELMA DI BELLI GIUSEPPINA E C. SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.788387306221013,
+                    42.09915874024862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOLFA EST",
+                "id": "3528",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "mameli massimiliano & c. S.a.s."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.8242,
+                    42.1223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "30683",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "VITALE ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.80119942382146,
+                    42.08629623089291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "traiana gas sas",
+                "id": "23520",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "TRAIANA GAS DI PERRI DANIELA & C.SOCIETA' IN ACCOMANDITA SEMPLICE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.824757158756256,
+                    42.10535524926317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carburanti FUNARI",
+                "id": "15258",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CARBURANTI FUNARI S.N.C. DI FUNARI ENRICO  &  C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.806622356917046,
+                    42.08196777714464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Rifornimento Q8",
+                "id": "31253",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "S.G. PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.928914040327072,
+                    42.15089637017384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "54059 Civitavecchia",
+                "id": "26852",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI RETE OIL&NONOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.778793372233395,
+                    42.1082904284301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV ENERPETROLI - PECORELLI",
+                "id": "11143",
+                "brand": "Enerpetroli",
+                "amenity": "fuel",
+                "operator": "ENERPETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.79602304116395,
+                    42.10069731046595
+                ]
+            }
+        }
+    ]
+}

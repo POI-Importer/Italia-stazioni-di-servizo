@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CICIMIA",
+                "id": "4930",
+                "brand": "Lukoil",
+                "amenity": "fuel",
+                "operator": "ND PETROLI DI DIBENNARDO NUNZIO & C. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.631941020488739,
+                    37.05690494048222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GRS PETROLI",
+                "id": "27163",
+                "amenity": "fuel",
+                "operator": "CARUSO MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.709403216838837,
+                    37.15848996051862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SP ENERGIA SICILIANA",
+                "id": "12232",
+                "brand": "SP Energia Siciliana",
+                "amenity": "fuel",
+                "operator": "ENERGIA SICILIANA DI ROCCUZZO GIAMPAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.655246734619137,
+                    37.02500902451342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C.SO EUROPA CHIARAMONTE",
+                "id": "29913",
+                "brand": "Giap",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.700515841987567,
+                    37.03229126717075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COFFA",
+                "id": "4932",
+                "brand": "Lukoil",
+                "amenity": "fuel",
+                "operator": "ND PETROLI DI DIBENNARDO NUNZIO & C. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.658666551113129,
+                    37.03235881905789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SERVIZIO CARBURANTI GRECO",
+                "id": "30783",
+                "brand": "SP Energia Siciliana",
+                "amenity": "fuel",
+                "operator": "GRECO SEBASTIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.699272513389586,
+                    37.155938223807745
+                ]
+            }
+        }
+    ]
+}

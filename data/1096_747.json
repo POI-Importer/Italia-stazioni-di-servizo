@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTELLUCCI MARIA ELISA",
+                "id": "24669",
+                "amenity": "fuel",
+                "operator": "CASTELLUCCI MARIA ELISA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.830069214105604,
+                    43.68844028404921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SASSO NORD",
+                "id": "6095",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MENGACCI ANTONELLA - AREA SERVIZIO SASSO NORD"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.806623681506379,
+                    43.68245172842811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FOSSOMBRONE - GALILEI",
+                "id": "23785",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.817469537258148,
+                    43.69220904636322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO DI GELSOMINI ENZO E C.",
+                "id": "15749",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GELSOMINI FRANCESCO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.814616746032698,
+                    43.69140985416204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil Fossombrone",
+                "id": "13571",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "TORELLI GIORGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.785612940788273,
+                    43.68575747605555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio esso",
+                "id": "22572",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SERAF S.A.S. DI DUCCI SERGIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.675873586776556,
+                    43.59744836316535
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "8124",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BELLIZZI MARGHERITA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.16213321685791,
+                    39.722285105418464
+                ]
+            }
+        }
+    ]
+}

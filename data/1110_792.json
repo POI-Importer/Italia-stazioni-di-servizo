@@ -1,0 +1,563 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di servizio Giarre",
+                "id": "12026",
+                "brand": "SP Energia Siciliana",
+                "amenity": "fuel",
+                "operator": "SERVIZI INTEGRATI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.170936295002205,
+                    37.704808893256185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A.Z.SERVICE S.R.L. -SANTA VENERINA",
+                "id": "6911",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "A.Z.SERVICE - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.168514251708983,
+                    37.701842321863026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA POZZO ACI CATENA",
+                "id": "29188",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.136983057672067,
+                    37.59731954300889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PERNICE GRAZIA",
+                "id": "22366",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PERNICE GRAZIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.166639826732645,
+                    37.60207993373972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso night&day petrol",
+                "id": "21460",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NIGHT&DAY PETROL S.R.L. UNIPERSONALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.168588012456892,
+                    37.60136706607224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio di nicotra alfio",
+                "id": "13420",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "NICOTRA ALFIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.129577723942587,
+                    37.61361147530245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sicilpetroli srl Acireale S. M. Grazie",
+                "id": "23776",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SICILPETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.166388352114835,
+                    37.59071961396333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ACIREALE WAGNER",
+                "id": "24737",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PETROL COMPANY  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.158147513866426,
+                    37.6048847863477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio IP",
+                "id": "24722",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "TOMARCHIO ROSARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.12490036743111,
+                    37.64706328542674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP gestione CUTULI ALFIO",
+                "id": "25760",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CUTULI ALFIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.125462114810944,
+                    37.60169666018689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di servizio Santa Venerina",
+                "id": "25652",
+                "brand": "SP Energia Siciliana",
+                "amenity": "fuel",
+                "operator": "SERVIZI INTEGRATI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.16245430801689,
+                    37.69557129469233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Russo Grazia",
+                "id": "18497",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "RUSSO GRAZIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.168543756008148,
+                    37.66879440536942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ACIREALE COLOMBO",
+                "id": "26528",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PETROL COMPANY  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.14865146287161,
+                    37.62018159387386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SS 114 KM 75 ACIREALE",
+                "id": "25329",
+                "brand": "Giap",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.163902193307878,
+                    37.66081614116184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO IP",
+                "id": "20242",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LA SPINA ROSARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.155787840485573,
+                    37.69383110612578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ACI S.ANTONIO OVEST",
+                "id": "3852",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI RETE OIL&NONOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.129335224628447,
+                    37.59797583817628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di servizio Santa Venerina",
+                "id": "25651",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SERVIZI INTEGRATI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.16245430801689,
+                    37.69557129469233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO GIARRE",
+                "id": "28607",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SALAMANCA ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.190753787755968,
+                    37.717019830714435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bandiera Bianca",
+                "id": "16133",
+                "amenity": "fuel",
+                "operator": "FRATELLI PAPPALARDO DI PAPPALARDO EMANUELA S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.170768137576031,
+                    37.62189122062267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ACI S.ANTONIO EST",
+                "id": "3851",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI RETE OIL&NONOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.130577087402347,
+                    37.59817985174349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Crilom Pneus di Puglisi Concetta Area di servizio Carburanti",
+                "id": "31233",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CRILOM PNEUS DI PUGLISI CONCETTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.165700614452362,
+                    37.66417753750737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di servizio Acireale",
+                "id": "12032",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI INTEGRATI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.143649677866053,
+                    37.62119862498147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "StationCar",
+                "id": "8388",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STATION CAR S.A.S. DI CURRO' ROSA E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.179366469383238,
+                    37.718174047915326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "mapilula sas",
+                "id": "22115",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MAPILULA S.A.S. DI SORBELLO GRAZIA LUISA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.140629336237907,
+                    37.57990864416014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA DELLE TERME",
+                "id": "12027",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.166683253967223,
+                    37.60149618586303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "area di servizio ip di Gestione Maugeri Vincenzo",
+                "id": "23823",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MAUGERI VINCENZO CARMELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.124733224511148,
+                    37.61213092722968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DBS Serv. Petrol. srl impianto carb. Bellini",
+                "id": "23770",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DBS SERVIZI PETROLIFERI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.123803499336193,
+                    37.581158648751185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "concarb snc",
+                "id": "30020",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CONCARB DI CONSENTINO GERLANDINA ERMINIA E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.159924477338791,
+                    37.643713999904485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "9272",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DI MARCO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.174954235553745,
+                    37.71136984708709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rif. TAMOIL di Gianmarco Di Bella",
+                "id": "17676",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "DI BELLA GIANMARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.193702206015585,
+                    37.68946519365595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A.Z.SERVICE s.r.l.-Aci S.Antonio",
+                "id": "6903",
+                "amenity": "fuel",
+                "operator": "A.Z.SERVICE - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.133221745491028,
+                    37.61858433212969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 56553",
+                "id": "30763",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.166333615779878,
+                    37.588430990772984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GM gas",
+                "id": "27980",
+                "amenity": "fuel",
+                "operator": "GM GAS DI MILITI MARGHERITA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.16916401684284,
+                    37.58288110801125
+                ]
+            }
+        }
+    ]
+}

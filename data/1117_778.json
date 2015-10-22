@@ -1,0 +1,122 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "f.lli bua sas",
+                "id": "15154",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F.LLI BUA S.A.S. DI SAMMARRO BUA MARIA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.50710016489029,
+                    39.6326045818125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENERGY",
+                "id": "29288",
+                "amenity": "fuel",
+                "operator": "ENERGY SERVICE DI MILENA MARGHERITA & C.S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.365069150924683,
+                    39.57214435589629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "guido santo giuseppe & c. sas",
+                "id": "30602",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GUIDO SANTO GIUSEPPE & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.518950164318085,
+                    39.61873033385371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL FERRARO SG",
+                "id": "31160",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FERRARO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.456139534711838,
+                    39.52650770323671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil di Fusaro Maria",
+                "id": "6151",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FUSARO MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.453257501125336,
+                    39.56837683952061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "staz.serv.ip aiello roberto",
+                "id": "22576",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "AIELLO ROBERTO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.51726305484772,
+                    39.62666005575408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENERGETICHE",
+                "id": "30676",
+                "amenity": "fuel",
+                "operator": "ENERGETICHE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.49573028087616,
+                    39.63824372472175
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sandro Giovannenze",
+                "id": "19361",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GIOVANNENZE SANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.033072044349181,
+                    42.58825396803905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rinaldi Luciano",
+                "id": "18509",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "RINALDI LUCIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.16264625644453,
+                    42.58999758249832
+                ]
+            }
+        }
+    ]
+}

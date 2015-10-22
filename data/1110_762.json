@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pagano Carburanti",
+                "id": "30511",
+                "amenity": "fuel",
+                "operator": "PAGANO SANTE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.262288019239463,
+                    41.73213075015693
+                ]
+            }
+        }
+    ]
+}

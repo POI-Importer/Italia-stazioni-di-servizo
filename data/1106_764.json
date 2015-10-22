@@ -1,0 +1,121 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "8728",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ANTONECCHIA ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.519559144973755,
+                    41.47383946749114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PETROL SERVICE - S.N.C. DI BERNARDO, DI CAMILLO & C.",
+                "id": "6025",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PETROL SERVICE - S.N.C. DI BERNARDO, DI CAMILLO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.456095397472382,
+                    41.50115633840512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BOJANO - MONTEVERDE",
+                "id": "29833",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.481016093254082,
+                    41.491252237325995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI 07263",
+                "id": "19850",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PETROLI DI ANTONECCHIA ANTONIO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.480233990455988,
+                    41.4845768493541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALL RENT PIETRAROJA",
+                "id": "23087",
+                "amenity": "fuel",
+                "operator": "ALL RENT SERVICE S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.546008227539001,
+                    41.4350304248482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CB1 SGMet",
+                "id": "4390",
+                "amenity": "fuel",
+                "operator": "SOCIETA' GAS METANO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.535856246948246,
+                    41.49004460230803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ride",
+                "id": "20575",
+                "amenity": "fuel",
+                "operator": "ROTUNDO GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.517701346994613,
+                    41.4741416388968
+                ]
+            }
+        }
+    ]
+}

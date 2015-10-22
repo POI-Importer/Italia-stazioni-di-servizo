@@ -1,0 +1,515 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "7877",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TABER DANIEL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.307444870471956,
+                    46.495934321375294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MULTI ENERGY SRL",
+                "id": "30516",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MULTI ENERGY S.R.L. % MULTI ENERGY G.M.B.H."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.316863951037588,
+                    46.47140552556538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BOLZANO VIA VOLTA LOC.PONTERESIA",
+                "id": "25117",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.324265003204347,
+                    46.48121502416606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 Notdurfter C. & L. OHG",
+                "id": "9307",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "NOTDURFTER C. & L. OHG % NOTDURFTER C. & L. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.306723356246948,
+                    46.491381083126804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MOSER ROBERTO",
+                "id": "25240",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MOSER ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.340072827489735,
+                    46.4801154112172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "29095",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GUTMORGETH ROLAND  &  CO. SNC % GUTMORGETH ROLAND  &  CO. OHG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.26548171043396,
+                    46.461289080531614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI CHECK di Artioli Elena",
+                "id": "30366",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ARTIOLI ELENA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.33824735879898,
+                    46.4774053745605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 Eisenstecken Mebo",
+                "id": "20257",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "EISENSTECKEN STEFAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.294172462771598,
+                    46.48474865190395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 des Karl Pichler",
+                "id": "9080",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PICHLER KARL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.260645687580109,
+                    46.4447876594024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI Cardano",
+                "id": "10764",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ZOESCHG WOLFGANG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.394024661376989,
+                    46.491821943138895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FAMIGLIA MION",
+                "id": "17449",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MION DANIEL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.337882578372955,
+                    46.495049495811784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "7866",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GATTERER SNC DI GATTERER GUENTHER & CO."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.268873507748365,
+                    46.45674791279622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio ENI di Guerra Claudio",
+                "id": "7619",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GUERRA CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.299006640911102,
+                    46.488637035039574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni Brida Sandro",
+                "id": "14112",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BRIDA SANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.347107439162981,
+                    46.50564757435238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "soppera manuel",
+                "id": "26120",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SOPPERA MANUEL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.370766768164003,
+                    46.49245712861247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MEBORAST",
+                "id": "7923",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MEBO RAST DES KOMPATSCHER RICHARD & CO., KG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.281425082566441,
+                    46.494763973062824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.lli Sartori Di De Curtis Mauro e Primerano Carmelo & C S.n.c.",
+                "id": "7880",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "F.LLI SARTORI DI DE CURTIS MAURO E PRIMERANO CARMELO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.327220797538759,
+                    46.502965144197745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "soppera walter",
+                "id": "24362",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SOPPERA WALTER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.337214708328249,
+                    46.473692621159714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GNP S. GELTRUDE",
+                "id": "4397",
+                "brand": "GNP",
+                "amenity": "fuel",
+                "operator": "GRUPPO NORD PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.347757981614679,
+                    46.48728878697027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "10362",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GUOLO WALTER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.339037980148303,
+                    46.47845206212689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mion Mauro",
+                "id": "10727",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MION MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.337797857256872,
+                    46.49800122465863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TSCHIGG HELMUT",
+                "id": "27263",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "TSCHIGG HELMUT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.261109908598314,
+                    46.4586399954298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "29498",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "G.O.W.  O.H.G. DES PICHLER GOTTFRIED"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.392642557621002,
+                    46.49483419598546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG di Bologna Tiziano",
+                "id": "22307",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE CARBURANTI DI BOLOGNA TIZIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.321047693490982,
+                    46.49166331732332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GNP PIE' DI VIRGOLO",
+                "id": "4396",
+                "brand": "GNP",
+                "amenity": "fuel",
+                "operator": "GRUPPO NORD PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.354870221033025,
+                    46.493000715924275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg",
+                "id": "8686",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "THURNER MARKUS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.296142041683197,
+                    46.503859071801095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LBE di Passerini",
+                "id": "16250",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LBE DI PASSERINI LUIGI E C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.34294266246252,
+                    46.48729022885435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Servizio Esso Tumiati Giacomo & C",
+                "id": "7642",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "TUMIATI GIACOMO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.336477084655826,
+                    46.4507641411532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "18250",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "F.LLI SADA SAS DI SADA P. & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.33585924634042,
+                    46.496562291952706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BOLZANO VIALE RESIA",
+                "id": "21853",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.315421457672072,
+                    46.492518465651976
+                ]
+            }
+        }
+    ]
+}

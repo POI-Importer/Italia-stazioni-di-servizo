@@ -1,0 +1,289 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mosco Moto Noaloil snc",
+                "id": "20703",
+                "brand": "Noaloil",
+                "amenity": "fuel",
+                "operator": "MOSCO MOTO S.N.C. DI MOSCO PAOLO E CRISTIAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.127965168216862,
+                    45.329447654660285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OIL PLANET",
+                "id": "4599",
+                "amenity": "fuel",
+                "operator": "OIL PLANET S.A.S. DI LONGO LUCA E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.02909733491822,
+                    45.280961602485895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio valli carburanti correzzola",
+                "id": "17782",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO VALLI CARBURANTI - AUTOLAVAGGIO SMILE DI CIATO ANNA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.064170351203984,
+                    45.2155373264839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.LLI REDREZZA SNC DI REDREZZA BRUNO & C.",
+                "id": "19603",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "F.LLI REDREZZA S.N.C. DI REDREZZA BRUNO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.03888863325119,
+                    45.29993842843365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO TROLESE GIOVANNI",
+                "id": "28893",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "TROLESE GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.082034987310863,
+                    45.336093865712606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PONTELONGO",
+                "id": "24744",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "EUROPAM S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.023571898361523,
+                    45.24281599202942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IES",
+                "id": "18659",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "VIVARINI GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.031108804893506,
+                    45.289104204533814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SMP",
+                "id": "8805",
+                "amenity": "fuel",
+                "operator": "DONA' ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.045903280377388,
+                    45.32756324776014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "I.P. Ciprian Antonio",
+                "id": "22469",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CIPRIAN ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.023953422904013,
+                    45.243332852977865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIOVE SACCO VIA CARRARESE  29",
+                "id": "6494",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.030202598147524,
+                    45.30002869954797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "vallicarburanti arzerello",
+                "id": "14486",
+                "amenity": "fuel",
+                "operator": "VALLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.028498283019985,
+                    45.267325453175246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIOVE DI SACCO",
+                "id": "5843",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TotalErg SpA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.069950842922253,
+                    45.287203629880835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shell",
+                "id": "22837",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "CAVALLINI RENATO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.083886712789536,
+                    45.27989560667102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REPSOL",
+                "id": "10693",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "BITUMCALOR S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.988036287988281,
+                    45.21343861191803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REPSOL",
+                "id": "30652",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "CONTIERO ERMANNO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.06580325961113,
+                    45.29001451655078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "vallicarburanti vigorovea",
+                "id": "14485",
+                "amenity": "fuel",
+                "operator": "VALLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.004406525733886,
+                    45.31761765457076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Total Erg di Lunardi Flavio",
+                "id": "18464",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "LUNARDI FLAVIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.116285115480423,
+                    45.26516089283699
+                ]
+            }
+        }
+    ]
+}

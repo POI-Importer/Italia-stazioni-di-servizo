@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vincenzi Massimo",
+                "id": "27296",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "VINCENZI MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.796867609024048,
+                    44.2071385864721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cutigliano",
+                "id": "31952",
+                "brand": "Win",
+                "amenity": "fuel",
+                "operator": "KSENYA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.74872598052025,
+                    44.1007745842977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio IP Cutigliano",
+                "id": "21095",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "EREDI BUGELLI SNC DI CORSINI VILMA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.748725709123162,
+                    44.10077830874049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "claudio rosati e simone sichi snc",
+                "id": "17634",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CLAUDIO ROSATI E SIMONE SICHI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.746742887696882,
+                    44.10151277651064
+                ]
+            }
+        }
+    ]
+}

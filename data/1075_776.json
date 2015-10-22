@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Meloni Ignazio",
+                "id": "29310",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MELONI IGNAZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.054500609636307,
+                    39.86265229974707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ditta pisu pietro",
+                "id": "18671",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PISU PIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.073718637228012,
+                    39.78667952918938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 Melis Pierpaolo",
+                "id": "9239",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MELIS PIER PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.039682745933533,
+                    39.778830839882964
+                ]
+            }
+        }
+    ]
+}

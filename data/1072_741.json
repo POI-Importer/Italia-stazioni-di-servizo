@@ -1,0 +1,123 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "area di servizio",
+                "id": "19759",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ZUNINO ARMANDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.47388818860054,
+                    44.429671089502904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIANI D'INVREA SUD",
+                "id": "3592",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SCORZA GB SAS DI SCORZA GIUSEPPE E SCORZA MONICA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.610831052064896,
+                    44.36914151811626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "9798",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "POZZO GEROLAMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.587843179702759,
+                    44.360845021967734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore carburanti di Stella",
+                "id": "15402",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "REBAGLIATI GIOVANNI BATTISTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.496964042827813,
+                    44.39187877500057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ferro e Caramia di Ferro Marco e c. sas",
+                "id": "23113",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FERRO E CARAMIA DI FERRO MARCO E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.543488086616549,
+                    44.3418472333379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.lli Caviglia di Caviglia Giorgio e Caviglia Elisabetta snc",
+                "id": "12843",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F.LLI CAVIGLIA DI CAVIGLIA GIORGIO E CAVIGLIA ELISABETTA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.510754252114907,
+                    44.34171056793451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OIL ITALIA",
+                "id": "20025",
+                "amenity": "fuel",
+                "operator": "TILLI CARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.569815597672916,
+                    44.3571382216933
+                ]
+            }
+        }
+    ]
+}

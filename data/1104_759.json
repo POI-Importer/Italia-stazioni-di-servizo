@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "X FUEL PALOMBARO",
+                "id": "31179",
+                "amenity": "fuel",
+                "operator": "X FUEL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.234647130502026,
+                    42.13531978830979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Punto Vendita TotalErg CH035",
+                "id": "15862",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MED OIL - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.230554682209004,
+                    42.101124039604464
+                ]
+            }
+        }
+    ]
+}

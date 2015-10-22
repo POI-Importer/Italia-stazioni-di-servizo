@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "p.v. PREMENO",
+                "id": "21415",
+                "brand": "SACED",
+                "amenity": "fuel",
+                "operator": "SACED S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.59099544584751,
+                    45.97490463050128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Total Erg",
+                "id": "24666",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ERCOLE ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.438782095909119,
+                    45.963618997512924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RE.GI. sas",
+                "id": "18376",
+                "amenity": "fuel",
+                "operator": "RE.GI.SAS DI GIORDANO ROSARIO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.539658635854721,
+                    45.954576826453355
+                ]
+            }
+        }
+    ]
+}

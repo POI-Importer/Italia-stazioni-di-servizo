@@ -1,0 +1,326 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area Servizio ESSO Le Segalaie",
+                "id": "10331",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "OK DI STOPPONI GIANNI E SANTINELLI AGNESE S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.275711655616762,
+                    43.23135966972298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "10760",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PALLARI FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.42055570044181,
+                    43.23357781850065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PELLIZZONI FAUSTO",
+                "id": "8296",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PELLIZZONI FAUSTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.343198716640472,
+                    43.293028514999044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Staz. Eni di Parenti Federico",
+                "id": "26278",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAZIONE ENI DI PARENTI FEDERICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.348392814397812,
+                    43.32236277019211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Siena",
+                "id": "4687",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.354272216558456,
+                    43.300407228937125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ip Viale Toselli",
+                "id": "23573",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LO.SI.MA. DI LOPEZ VINCENZO ALESSANDRO - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.353144347667692,
+                    43.31775786951209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "8153",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "AUTOTRASPORTI F.LLI TIBURZI DI TIBURZI & C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.359328180551529,
+                    43.31204009071841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "7162",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BARTALESI FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.341201812028883,
+                    43.29534307333706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Beyfin",
+                "id": "6163",
+                "amenity": "fuel",
+                "operator": "CP PETROL DI COPPOLA E PICOZZI SOCIETA' IN NOME COLLETTIVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.309016644954681,
+                    43.29874056668045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Siena",
+                "id": "9369",
+                "amenity": "fuel",
+                "operator": "I.C.M. SOCIETA' IN NOME COLLETTIVO DI BRUNO, CRISTIANO E FABRIZIO MAGGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.32137894630432,
+                    43.30462482433076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CECCARINISAS di Ceccarini Simone e C.",
+                "id": "19663",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CECCARINI S.A.S. DI SIMONE CECCARINI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.320655420422554,
+                    43.32437942649362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Agip",
+                "id": "7018",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ANTONIO CASINI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.312067767584267,
+                    43.310112784873745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SIENA",
+                "id": "5439",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "enirete oil&nonoil S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.305133703041063,
+                    43.31600432798485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Total Erg",
+                "id": "30567",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "RAFFAELLI PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.317096317860432,
+                    43.32142774330563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SIENA - RUFFOLO",
+                "id": "29612",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.369236034393337,
+                    43.302676576571955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gentili & Parenti snc Taverne",
+                "id": "11272",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GENTILI E PARENTI S.N.C. DI GENTILI SIMONE E PARENTI VINICIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.396353315313718,
+                    43.29433779261462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "10974",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STORI BARBARA & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.324320088577224,
+                    43.30259634003801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL 8096",
+                "id": "22959",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "F.LLI BARTOLI S.N.C. DI BARTOLI S. & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.423853355819688,
+                    43.22755328602454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni 5460 - Sabia Paolo & C. snc",
+                "id": "12067",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SABIA PAOLO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.317393183708191,
+                    43.31323810047706
+                ]
+            }
+        }
+    ]
+}

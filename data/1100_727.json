@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SUPERFAST ESSO SAS",
+                "id": "17552",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SUPERFAST ESSO DI ROIATTI ROBERTO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41584491819833,
+                    46.09072537573869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOMAT FRANCA",
+                "id": "8628",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TOMAT FRANCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.407174646854402,
+                    46.111611642491404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "14304",
+                "id": "13037",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TERLICHER ANTONIO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.505345882406575,
+                    46.115388322870324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FANTINI GIUSEPPE",
+                "id": "22912",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FANTINI GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.424107432365417,
+                    46.08186979004963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CIVIDALE S.S. 54 KM 17+390",
+                "id": "9002",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.442614645667843,
+                    46.09990449502037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "edi zambon",
+                "id": "8777",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ZAMBON EDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.420311581093074,
+                    46.09237914882181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "53568",
+                "id": "31614",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI INNOVATIVI NORD EST S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.392643779516218,
+                    46.08269173517617
+                ]
+            }
+        }
+    ]
+}

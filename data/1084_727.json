@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "23696",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "POULI ANSELMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.721351990792868,
+                    46.08560690745404
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rifornimeto carburante tonino paci",
+                "id": "22035",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PACI TONINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.558492809534076,
+                    37.47511905772643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.P. 20 KM 19+780 CASTELTERMINI",
+                "id": "30771",
+                "brand": "Giap",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.652730882167816,
+                    37.54271305995729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "24889",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO DI CALTABELLOTTA ALESSIO FILIPPO CESARE E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.69799852371216,
+                    37.52124369216934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DBS Serv.Petr. srl COMITINI",
+                "id": "23772",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DBS SERVIZI PETROLIFERI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.65965550805663,
+                    37.445185640773154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore carburanti Q8",
+                "id": "13960",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "FANTAUZZO ELVIRA GIUSEPPA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.646484017372135,
+                    37.54201293991072
+                ]
+            }
+        }
+    ]
+}

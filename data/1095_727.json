@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "29477",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BUTTO' MAURIZIO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.652416554431285,
+                    46.086354365703095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BARCIS",
+                "id": "7329",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SOM S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.563879344889072,
+                    46.19128079387239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ulè de Riva",
+                "id": "21045",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ULE' DE RIVA DI MELLINA-GOTTARDO SARA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.59566526587696,
+                    46.09377250191896
+                ]
+            }
+        }
+    ]
+}

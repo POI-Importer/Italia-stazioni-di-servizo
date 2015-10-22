@@ -1,0 +1,157 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RONCIGLIONE VIA S.CIMINA KM 22+713",
+                "id": "6661",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.226426005363466,
+                    42.27962163717341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Oriolo Romano",
+                "id": "25004",
+                "brand": "CP",
+                "amenity": "fuel",
+                "operator": "C & C PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.136872410774231,
+                    42.17984720696821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "XXX MIGLIA CARBURANTI",
+                "id": "20767",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "XXX MIGLIA CARBURANTI S.A.S. DI FAVELLA SANDRO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.269335985183716,
+                    42.26064182401656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "agea",
+                "id": "23030",
+                "amenity": "fuel",
+                "operator": "AGEA SNC DI AMADIO FLAVIO E EUSEPI OMAR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.197447618385354,
+                    42.22481572879594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Giulia Morucci",
+                "id": "10036",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MORUCCI GIULIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.137672813491802,
+                    42.168221987991764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "30779",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FGS GAS S.A.S. DI CIVITELLA GIORGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.269297093153002,
+                    42.26060112979653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Z GAS",
+                "id": "27388",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "KANGAROO PETROLIO S.N.C. DI SALLUSTIO ALESSANDRA E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.131025195121765,
+                    42.28391304362746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "mantrici petroli srl",
+                "id": "22862",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MANTRICI PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.172822058200836,
+                    42.25816974955563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NEPI XXX MIGLIA - PV ENERPETROLI",
+                "id": "28872",
+                "brand": "Enerpetroli",
+                "amenity": "fuel",
+                "operator": "ENERPETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.294162511825562,
+                    42.24561929573794
+                ]
+            }
+        }
+    ]
+}

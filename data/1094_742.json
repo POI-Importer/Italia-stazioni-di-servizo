@@ -1,0 +1,291 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cecchini Maurizio",
+                "id": "5588",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CECCHINI MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.339916151034915,
+                    44.25561139764261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GB Carburanti",
+                "id": "18566",
+                "amenity": "fuel",
+                "operator": "BELLEFFI GRAZIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.323016375303265,
+                    44.32679689875548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio EGO",
+                "id": "10076",
+                "brand": "Ego",
+                "amenity": "fuel",
+                "operator": "MAESTRI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.351935390213045,
+                    44.26467426733415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CERVIA-SS 16 KM 170+616 MADONNA DEL PINO",
+                "id": "11796",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.32325364418034,
+                    44.27504609089473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASALBONI LUCA",
+                "id": "29866",
+                "amenity": "fuel",
+                "operator": "CASALBONI LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.306151822820537,
+                    44.293433177281244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CERVIA - SS 16 KM 172+211.",
+                "id": "32055",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.332629504299122,
+                    44.26228271217022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO",
+                "id": "30812",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ESPOSITO ENRICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.351127266883854,
+                    44.22771295623759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ERG",
+                "id": "9558",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MACORI ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.373030185699465,
+                    44.22113935125369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "D'Altri Christian",
+                "id": "29089",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "D'ALTRI CHRISTIAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.351038753986359,
+                    44.25815493242364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "17226",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MOTTOLA E DELLI GATTI - S.N.C.   DI GIOVANNI MOTTOLA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.35250726342201,
+                    44.25644751824657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "7363",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ALESSI BRUNO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.36775853447648,
+                    44.22586391222327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Agip Eni Galbucci",
+                "id": "17383",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GALBUCCI GUGLIELMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.347550406995992,
+                    44.27381539518724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip  cervia",
+                "id": "6239",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "3G SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.332571744918825,
+                    44.262304925415485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO TIPIKO",
+                "id": "22470",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SMEA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.37506866455078,
+                    44.218581982891656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lido Carburanti",
+                "id": "28898",
+                "amenity": "fuel",
+                "operator": "LIDO CARBURANTI DI GAMBI MARZIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.344577312469482,
+                    44.30634087440458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GEP CELLI GIULIANO SRL PV CERVIA",
+                "id": "4310",
+                "brand": "Gep carburanti",
+                "amenity": "fuel",
+                "operator": "CELLI GIULIANO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.315319776535034,
+                    44.283436453772296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO TIPIKO",
+                "id": "30841",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MALP S.A.S. DI BALDISSERRI DAVIDE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.359770109600845,
+                    44.234969471285204
+                ]
+            }
+        }
+    ]
+}

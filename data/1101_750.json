@@ -1,0 +1,575 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "17319_CASETTE D'ETE",
+                "id": "19121",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CORO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.691687285900112,
+                    43.259438768081075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "21650",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CORSETTI SERGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.585040616146896,
+                    43.26987443859057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sabina Carburanti di Rossini Sabina & C. snc",
+                "id": "7938",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SABINA CARBURANTI DI ROSSINI SABINA & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.629205226898197,
+                    43.232425894287225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "17367",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CAMPITELLI S.N.C. DI CAMPITELLI SIMONE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.56435477733612,
+                    43.269405457549624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BEYFIN",
+                "id": "27914",
+                "amenity": "fuel",
+                "operator": "BFPT S.A.S. DI BIANCUCCI GIANNI & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.69353801012039,
+                    43.24201247870072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BEYFIN",
+                "id": "28228",
+                "amenity": "fuel",
+                "operator": "TOP SERVICE DI TRENTANNI PATRIZIO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.634102372885081,
+                    43.22310904326085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ITALIANA CARBURANTI s.r.l.",
+                "id": "21794",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "BENEDETTI LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.706569706683924,
+                    43.291838740139546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "METANO CORRIDONIA",
+                "id": "24972",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "METANO 96 SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.564338684082031,
+                    43.26940077028204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OilOne Morrovalle",
+                "id": "24105",
+                "amenity": "fuel",
+                "operator": "GATTARI ENRICA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.595519363880157,
+                    43.274846720429046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTEGRANARO",
+                "id": "28000",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PETROL PICENA  SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.645281046628952,
+                    43.237818680118544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIB. Retitalia Corridonia",
+                "id": "24072",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "PETROLIFERA ADRIATICA S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.543750047683712,
+                    43.2739712532247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CIVITANOVA MARCHE LATO NORD",
+                "id": "25819",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VAL DI CHIENTI CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.665838837623596,
+                    43.279072141919116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "shell mmt carburanti",
+                "id": "18044",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "MMT CARBURANTI DI MARINOZZI LEONELLA & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.683916926383974,
+                    43.28260956929205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Civitanova Marche SP10",
+                "id": "32095",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.697191178798677,
+                    43.30964936748904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LUCE - FALERIENSE",
+                "id": "4536",
+                "amenity": "fuel",
+                "operator": "METANAUTO GIULIANOVA SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.709247708320616,
+                    43.20314562803024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CIMINARI E PETTINARI",
+                "id": "26499",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CIMINARI LORENZO & PETTINARI FABRIZIO - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.630302250385286,
+                    43.2816566944883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "24852",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "VELLA GIULIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.689903616905214,
+                    43.29701568512337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CIVITANOVA MARCHE LATO SUD",
+                "id": "25816",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VAL DI CHIENTI CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.663864731788635,
+                    43.27818951040761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO VULCANGAS Casette",
+                "id": "31768",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GRUPPO BEMA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.665627256608559,
+                    43.26773932609955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO CIPRIANI FRANCESCO",
+                "id": "21062",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CIPRIANI FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.641108870506287,
+                    43.316318839542916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil Montegranaro",
+                "id": "10951",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "IMMOBILIARE G - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.647272586822512,
+                    43.24331141712951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "7755",
+                "id": "24084",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "T.D.M. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.649189759863246,
+                    43.27794428270206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA PLUS CARBURANTI E SERVIZI DI CUTINI MARUSCA & C. SAS",
+                "id": "26533",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "AREA PLUS CARBURANTI E SERVIZI DI CUTINI MARUSCA & C. SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.674432635307314,
+                    43.20935954571487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CRA",
+                "id": "32038",
+                "amenity": "fuel",
+                "operator": "C.R.A. SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.678775131702425,
+                    43.31858587190273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SANT'ELPIDIO A MARE S.P. BRANCADORO",
+                "id": "20248",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.656900673016366,
+                    43.2721572700391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OMA SRL",
+                "id": "14715",
+                "amenity": "fuel",
+                "operator": "OMA SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.708208357022158,
+                    43.23396183633489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTE SAN GIUSTO",
+                "id": "28839",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.58678072690964,
+                    43.25080556350883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GALTOR OIL",
+                "id": "15742",
+                "amenity": "fuel",
+                "operator": "TORRESI REAL ESTATE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.582102954387665,
+                    43.29569446619018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "car service",
+                "id": "20377",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CAR SERVICE DI MARINOZZI NAZARENO & C.  S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.588027954101562,
+                    43.236699203847415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VULCANGAS",
+                "id": "12289",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BENEDETTI DANILO CARBURANTI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.706077337265018,
+                    43.300454467961565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BAR E STAZIONE DI SERVIZIO DI VESPRINI OTELLO",
+                "id": "13867",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "VESPRINI OTELLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.666698568634047,
+                    43.23679261624816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore ip",
+                "id": "23859",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "EUROBENZINA S.N.C. DI PAGNANINI MARIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.581649661064144,
+                    43.31091017123362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MILLEVOLTE NIKI & ANTHONY SNC",
+                "id": "26612",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MILLEVOLTE NIKI & ANTHONY S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.646918535232546,
+                    43.20667417246501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "f.lli tamburrini & C. SNC",
+                "id": "27834",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "F.LLI TAMBURRINI & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.641849160194397,
+                    43.234081866612364
+                ]
+            }
+        }
+    ]
+}

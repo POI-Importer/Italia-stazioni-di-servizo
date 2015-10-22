@@ -1,0 +1,428 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.LLI MAZZI SRL",
+                "id": "24999",
+                "amenity": "fuel",
+                "operator": "F.LLI  MAZZI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.880088448524475,
+                    43.452021653026215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "servizio esso di Brezzi Cesare & c.",
+                "id": "21684",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SERVIZIO ESSO ALBERORO S.N.C. DI BREZZI CESARE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.808181777596474,
+                    43.36938406743179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO di Arturi Maurizio",
+                "id": "24059",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ARTURI MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.85983605287322,
+                    43.446220527428196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "bottegucci federico",
+                "id": "14980",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BOTTEGUCCI FEDERICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.87940716743469,
+                    43.36861213290608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.LLI MAZZI SRL",
+                "id": "12155",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "F.LLI  MAZZI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.880088448524475,
+                    43.452021653026215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.LLI MILIGHETTI SNC",
+                "id": "12226",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F.LLI MILIGHETTI S.N.C. DI MILIGHETTI MARINO E LIDO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.907621134918143,
+                    43.35040956219107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREZZO BATTIFOLLE",
+                "id": "28625",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "STAR SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.783526241779327,
+                    43.439180775929856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CIVITELLA VAL DI CHIANA",
+                "id": "28626",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "STAR SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.799391508102417,
+                    43.402032441419685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTIGLION FIORENTINO S.S.71 UMBRO CASENTINESE 159",
+                "id": "6594",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.923259943723677,
+                    43.333816722319355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREZZO VIA DANTE - P.V. Q8",
+                "id": "6593",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.86065208650814,
+                    43.44885856272305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO IP",
+                "id": "19649",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BARNESCHI ALBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.90799921957398,
+                    43.34356367587078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO DI TIANO CHRISTIAN",
+                "id": "31164",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO DI TIANO CHRISTIAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.860502958297728,
+                    43.383053811754024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Arezzo - Battifolle",
+                "id": "5273",
+                "amenity": "fuel",
+                "operator": "BEYFIN S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.796854138374329,
+                    43.444695637629316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "21788",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SM CARBURANTI S.N.C. DI SANDALI GIAN LUCA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.866512087927276,
+                    43.44612587802912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso Dalla Torre Maurizio & C. S.a.s.",
+                "id": "15535",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DALLA TORRE MAURIZIO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.890865564346313,
+                    43.44925429860688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREZZO SAN MARCO",
+                "id": "28803",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SIRTAM S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.866230815649033,
+                    43.44610475033754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO AGIP CAFE 4653 SNC",
+                "id": "8336",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAZIONE SERVIZIO AGIP CAFE' 4653 S.N.C. DI MARCHESINI E SOGGETTI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.91654771566391,
+                    43.3413882875462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "26932",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "A.G.A. S.N.C. DI ANGIUS ALESSANDRO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.879401803016664,
+                    43.368602773723886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO ESSO TANI",
+                "id": "8193",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "TANI GIUSEPPE DI TANI D. & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.80255115032196,
+                    43.412439484096375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENICAFE",
+                "id": "5333",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LAURENZI ERMANNO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.848218441009521,
+                    43.41671885331177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Arezzo 2 Mari",
+                "id": "4640",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.86698853969574,
+                    43.445772533004806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BATTIFOLLE",
+                "id": "5455",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "enirete oil&nonoil S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.783466004962975,
+                    43.43977299664932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREZZO-VIA ROMANA SS. 71",
+                "id": "11464",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.858509212303147,
+                    43.44515442276785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "total erg di camilloni gianluca",
+                "id": "21761",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CAMILLONI GIANLUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.810532063245775,
+                    43.33609344133613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EUROCARBURANTI Q8 srl",
+                "id": "8520",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "EUROCARBURANTI Q 8 S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.85713936931154,
+                    43.44444718543664
+                ]
+            }
+        }
+    ]
+}

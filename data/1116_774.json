@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore carburanti Sergio Petroli srl",
+                "id": "23137",
+                "amenity": "fuel",
+                "operator": "SERGIO PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.218286603689194,
+                    40.12256146828935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sinnica Carburanti",
+                "id": "19291",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SINNICA CARBURANTI DI MIRAGLIA ANTONIO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.310525089502335,
+                    40.13805499690236
+                ]
+            }
+        }
+    ]
+}

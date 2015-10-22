@@ -1,0 +1,427 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NI006685 STRAMBINO",
+                "id": "24207",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CORO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.882652878761293,
+                    45.4076559064464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PAVONE CANAVESE",
+                "id": "5549",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.857340411045015,
+                    45.44667964529431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL AUDA GIOANET BARTOLOMEO",
+                "id": "15195",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "AUDA GIOANET BARTOLOMEO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.766981166037112,
+                    45.4416068610836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALICE SUPERIORE - SP VALCHIUSELLA",
+                "id": "30833",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.767264988183115,
+                    45.458039576038445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE GAS AUTO",
+                "id": "20899",
+                "amenity": "fuel",
+                "operator": "CARBURO SNC DI RENZO MASSAIA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.764804661273956,
+                    45.343329185573296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "24159",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "COSENTINO PASQUALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.868585256396272,
+                    45.401168685532376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VITELLO MAURIZIO LEONARDO",
+                "id": "31726",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "VITELLO MAURIZIO LEONARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.761623561382293,
+                    45.38200479664596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI 782",
+                "id": "6289",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "EMMEA S.N.C. DI BARO MARCO E PISTONE ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.884578704833985,
+                    45.394969395966775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SCARMAGNO OVEST",
+                "id": "6801",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "R.S.M. S.N.C. DI ROMAGNOLLO MARCO LUCA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.846528887748719,
+                    45.40683187078166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C.P.P. IVREA",
+                "id": "12439",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "C.P.P. COMPAGNIA PETROLIFERA PIEMONTESE - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.878803440475395,
+                    45.45698999999998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SCARMAGNO EST",
+                "id": "3468",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CAMPESATO ALBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.84822940826416,
+                    45.40805737483785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AUTORIPARAZIONI NIGRO SAS",
+                "id": "20124",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "AUTORIPARAZIONI NIGRO S.A.S. DI NIGRO GIAMPIERO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.751377522945404,
+                    45.40643415995121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 516",
+                "id": "24925",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.879214286804197,
+                    45.45462262847809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IVREA STRADALE TORINO 200",
+                "id": "7491",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.877922539286829,
+                    45.44668155411896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OZEGNA-STRADA PROVLE OZEGNA-RIVAROLO",
+                "id": "11889",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.741099999999959,
+                    45.343830163089905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IVREA-VIA TORINO 216",
+                "id": "11876",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.877760525131179,
+                    45.445784680817724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "4393",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FRATELLI DI BITETTO S.N.C. DI CHRISTIAN DI BITETTO E C. SIGLABILE F.LLI DI BITETTO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.845138162374497,
+                    45.44508111274952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "10313",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "COSENTINO PASQUALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.873517274856568,
+                    45.38272840607434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL 2522",
+                "id": "16476",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MILAZZO DARIO LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.859317145893898,
+                    45.45795830057049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI s.p.a.",
+                "id": "26421",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CHIARABAGLIO IVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.753354552282646,
+                    45.347963846814125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Petroltermica Colleretto",
+                "id": "21509",
+                "amenity": "fuel",
+                "operator": "PETROLTERMICA COMAC - OLCEA S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.826479375362398,
+                    45.436691344239414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGLIE'-S.P. 41 VIA CIRCONVALLAZIONE",
+                "id": "11874",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.759493469905918,
+                    45.362277267760085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTALENGHE-S.P. 82 KM 17+ 235",
+                "id": "11877",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.835840284824372,
+                    45.33777452096672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil3296",
+                "id": "8656",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "VACCHIO ELENA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.877428001862881,
+                    45.4427909387948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "olicarb",
+                "id": "12982",
+                "amenity": "fuel",
+                "operator": "DISTRIBUZIONE OLI-CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.862503410559044,
+                    45.38651100692483
+                ]
+            }
+        }
+    ]
+}

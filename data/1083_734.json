@@ -1,0 +1,208 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto colori Retitalia CastelGoffredo",
+                "id": "26754",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "BRIXIA FINANZIARIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.480851732199882,
+                    45.297402976550856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Energy Rete srl - Casalmoro",
+                "id": "27950",
+                "brand": "Energy Rete",
+                "amenity": "fuel",
+                "operator": "ENERGY RETE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.414910316467283,
+                    45.25962216414404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Repsol_Piubega (MN001)",
+                "id": "20819",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "REPSOL ITALIA S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.532063841819763,
+                    45.22349711640473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "26808",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BASAGLIA SAMUELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.467968434095383,
+                    45.30283493384634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "24715",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GANDELLINI FRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.419684648513794,
+                    45.21550450170754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "22823",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ACCINI VITTORIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.484260651867658,
+                    45.25135133776763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "carminati angelo",
+                "id": "18792",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CARMINATI ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.416258126497267,
+                    45.22337582992632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAR SERVICE DI RONCHETTI MAURO",
+                "id": "10667",
+                "amenity": "fuel",
+                "operator": "STAR SERVICE DI RONCHETTI MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.477043688297274,
+                    45.264384619873006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Retitalia",
+                "id": "29468",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "OFFICINA LEALI DI GOFFI DAVIDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.520083320237745,
+                    45.326444715441866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COMPAGNONI GRAZIANO - ENI",
+                "id": "13815",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "COMPAGNONI GRAZIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.477407798171043,
+                    45.297207054175765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MEDOLE - DELLA REPUBBLICA 48",
+                "id": "31950",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.515259008598377,
+                    45.32419434246113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Repsol",
+                "id": "8043",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "SOLAZZI GRAZIANO - AGIP"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.491688251495361,
+                    45.298590308769505
+                ]
+            }
+        }
+    ]
+}

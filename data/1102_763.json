@@ -1,0 +1,104 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FIONDA ANTONIA",
+                "id": "18836",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FIONDA ANTONIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.86441476608684,
+                    41.53772934008338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2D petroli",
+                "id": "17050",
+                "amenity": "fuel",
+                "operator": "CENTRO DUEDI DI   DE LUCA GIUSEPPE & D'AGOSTINO DOMENICO - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.838541303735381,
+                    41.62064886114006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE IP ATINA",
+                "id": "18862",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IANNETTA LUCIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.789439935908943,
+                    41.63310363000677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BC CARBURANTI",
+                "id": "11375",
+                "amenity": "fuel",
+                "operator": "BASTIANELLI FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.792417645454407,
+                    41.62688538956607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Enerway - Atina",
+                "id": "26080",
+                "amenity": "fuel",
+                "operator": "ENERWAY S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.791873157024382,
+                    41.625882924300704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA SERVIZIO 509 - ATINA",
+                "id": "20413",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "C.S.I. CAIRA SERVIZI INTEGRATI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.794184502410872,
+                    41.61494191516194
+                ]
+            }
+        }
+    ]
+}

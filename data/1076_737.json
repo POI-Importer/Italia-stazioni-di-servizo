@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MIRINA VAL DI NIZZA",
+                "id": "6823",
+                "brand": "Eurfuel",
+                "amenity": "fuel",
+                "operator": "EURFUEL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.161381274461746,
+                    44.876089155129634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BAR DISTRIBUTORE L'ALPINO",
+                "id": "21385",
+                "amenity": "fuel",
+                "operator": "BAR L'ALPINO DI MONTAGNA ANTONELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.191037095331467,
+                    44.91444881425319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE CARBURANTE CORRADI MATTEO",
+                "id": "29142",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE CARBURANTE CORRADI MATTEO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.264486042968883,
+                    44.8668100451686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ambra Gioia Cortellini",
+                "id": "20183",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CORTELLINI AMBRA GIOIA ELDA EMMA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.26481845644878,
+                    44.88152590000001
+                ]
+            }
+        }
+    ]
+}

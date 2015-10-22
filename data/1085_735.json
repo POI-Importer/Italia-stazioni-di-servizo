@@ -1,0 +1,597 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FRASSON",
+                "id": "16482",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FRASSON GIULIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.81605076789856,
+                    45.163573534862294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "12739",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "AV FUEL SNC DI VENTURI VALERIO E ARVANI MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.769455432891846,
+                    45.1425722071192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI STATION RISTO & BAR",
+                "id": "29545",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI STATION RISTO & BAR DI STERNIERI MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.86346685886383,
+                    45.137030234477315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE REPSOL DI BIGHINATI CATERINA",
+                "id": "15753",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "BIGHINATI CATERINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.780896690807367,
+                    45.10966372241904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 52494",
+                "id": "30655",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.786864310503006,
+                    45.17428571709128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "3423",
+                "id": "30918",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "T.D.M. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.789025500416756,
+                    45.13173900397589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mantova",
+                "id": "23223",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.787324812303154,
+                    45.174235400627374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ENI DI PETRULLI ANTONINO",
+                "id": "7730",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PETRULLI ANTONINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7868607263199,
+                    45.174297371132596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AUTOLAVAGGIO GOBBI E BELLINTANI SNC",
+                "id": "24418",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AUTOLAVAGGIO GOBBI MASSIMO E BELLINTANI LUCA - S.N.C., IN SIGLA AUTOLAVAGGIO GOBBI & BELLINTANI - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.829327702522278,
+                    45.15040255095901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "miro impianto agip",
+                "id": "16331",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MIRO DI MIRANDOLA ANDREA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.89513972401619,
+                    45.20745369380066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MANTOVA TANGENZIALE NORD KM 3+400",
+                "id": "6518",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.82420602440834,
+                    45.17016431446269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "lunetta srl",
+                "id": "23441",
+                "brand": "Costantin",
+                "amenity": "fuel",
+                "operator": "LUNETTA SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.81876516342163,
+                    45.164341729365695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP VIALE PIAVE",
+                "id": "13027",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "R.E.C.A. DI URBANI VITTORIO E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.78091584146023,
+                    45.15564579421885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "agip di casalino angelo",
+                "id": "17290",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CASALINO ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.772825628519058,
+                    45.11904557494526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTR. ESSO LAGHEZZA MICHELE",
+                "id": "13537",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LAGHEZZA MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8462212589302,
+                    45.16125899999998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MANTOVA - TE' BRUNETTI",
+                "id": "24968",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.779462449073776,
+                    45.14540378357795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI Muzzini Alfredo e Mario",
+                "id": "13788",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MUZZINI ALFREDO E MARIO S.N.C. DI MUZZINI ALFREDO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.789234230688407,
+                    45.185779027507515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "_PITSTOP",
+                "id": "4104",
+                "amenity": "fuel",
+                "operator": "PIT-STOP S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.824269711358625,
+                    45.17071038496663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dalloca & Cappellari",
+                "id": "12836",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DALLOCA GIANLUCA E CAPPELLARI ALBERTO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.79771988093853,
+                    45.18170390617049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL di DALL'ACQUA MIRKO",
+                "id": "23748",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "TAMOIL DI DALL'ACQUA MIRKO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.78269213438034,
+                    45.12596056949343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "17466",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "IN.CO. S.N.C. DI INGARGIOLA LUCA E CORNIANI ALESSANDRO E PAOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.771316885948183,
+                    45.18926290400198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MAZZOLA E BIGNARDI SPA",
+                "id": "10976",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "MAZZOLA & BIGNARDI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.841830149292944,
+                    45.15677374864642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "12611",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CANTARELLI GILBERTO E MAURO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.768158021356953,
+                    45.15592068509462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OIL GLOBAL EUROPA SAS",
+                "id": "25997",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "OIL GLOBAL EUROPA S.A.S. DI CARAVAGGI MARINA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7873614154596,
+                    45.17536694971229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BERTELLI CARBURANTI",
+                "id": "17036",
+                "amenity": "fuel",
+                "operator": "I.B.M. DI BOSCO ILARIA E MATTEO S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.843186676502228,
+                    45.14921913930051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FERRO DAVIDE - TAMOIL",
+                "id": "15609",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FERRO DAVIDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.79382598400116,
+                    45.20694006326538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MANTOVA-LOC.BELFIORE STRADA CREMONESE",
+                "id": "11715",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.762662449073787,
+                    45.15558273015319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore eni di Aiftinca Gabriel",
+                "id": "26431",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AIFTINCA GABRIEL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.825907441819595,
+                    45.16854462139207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "METAMANTOVA SNC",
+                "id": "5034",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "METAMANTOVA S.N.C. DI ROMANO MARCO E SPERANDIO MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.80920771289743,
+                    45.17458861811484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore agip salvagni fausto",
+                "id": "16108",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SALVAGNI FAUSTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.726247727870941,
+                    45.13583065146318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "12433",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BONATTI EMANUELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.829361230134964,
+                    45.16249309014043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.LLI GUAITA",
+                "id": "14922",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FRATELLI GUAITA DI GUAITA STEFANO & ALESSANDRO - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.78820139169693,
+                    45.12892404423366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IL GIGANTE SELF 24 H",
+                "id": "25784",
+                "amenity": "fuel",
+                "operator": "RIALTO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.724211260676382,
+                    45.152268417366784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO - GIRELLI V. E R. SNC",
+                "id": "14246",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GIRELLI VITTORIO E ROBERTO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.827003568410873,
+                    45.10724549111668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sereni Carlo e c.sas",
+                "id": "28346",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERENI CARLO E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8125276863575,
+                    45.16310867948037
+                ]
+            }
+        }
+    ]
+}

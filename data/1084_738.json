@@ -1,0 +1,392 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CELLA",
+                "id": "14432",
+                "brand": "Ego",
+                "amenity": "fuel",
+                "operator": "C.I.S. NORD S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.564035773277283,
+                    44.72171781664304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C.P.L. CASOTTI PETROLI LUBRIFICANTI",
+                "id": "7349",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "C.P.L. CASOTTI PETROLI LUBRIFICANTI DI CASOTTI ADRIANO & C. SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.666678547859192,
+                    44.75531869814984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE ESSO DI AMICO GIUSEPPE",
+                "id": "13452",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "AMICO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.646920213561316,
+                    44.72067758214906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE    \"OK\"",
+                "id": "9436",
+                "amenity": "fuel",
+                "operator": "A.C.E. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.576926469802858,
+                    44.71767128588825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gas auto",
+                "id": "31687",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GAS AUTO S.N.C. DI TRIVELLONI E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.558285117149353,
+                    44.7240367445296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "18538",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE JK DI EL  KHOURY JOSEPH ABDALLAH"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.651180782803294,
+                    44.73289183601091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore €uroself",
+                "id": "13139",
+                "brand": "Euroself",
+                "amenity": "fuel",
+                "operator": "LUCKY E JOHN SNC DI SPISNI GIAN LUCA E DROGO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.666584964031928,
+                    44.77068495298049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE B.H. DI BOUREZG HICHAM",
+                "id": "15489",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE B. H. DI BOUREZG HICHAM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.597859054492119,
+                    44.76299017524236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BAGNOLO_VIA_EUROPA",
+                "id": "14446",
+                "brand": "Euroself",
+                "amenity": "fuel",
+                "operator": "C.I.S. NORD S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.666574235195865,
+                    44.77070780318123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "P.V. ENI 58414",
+                "id": "4388",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "B.S.SERVICE SNC DI BURANI PIETRO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.644542276859285,
+                    44.71574092690235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "dei gonzaga",
+                "id": "31316",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DINO SERVICES S.N.C. DI POLETTI FABIO & DE CARLI CRISTIAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.621713995933533,
+                    44.7193637276407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Reggio Emilia Marx",
+                "id": "28484",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.597163736820221,
+                    44.75229092326593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EGO",
+                "id": "23476",
+                "brand": "Ego",
+                "amenity": "fuel",
+                "operator": "AUTOSERVICE DI PULINO ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.604059493712725,
+                    44.72374424593976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL DI CAPRETTI CLAUDIO",
+                "id": "19571",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CAPRETTI CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.619664788246153,
+                    44.80569634937377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OK",
+                "id": "25109",
+                "amenity": "fuel",
+                "operator": "OK S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.583139806985853,
+                    44.77139833214163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore EGO",
+                "id": "4754",
+                "brand": "Ego",
+                "amenity": "fuel",
+                "operator": "CILLONI STEFANO & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.642755925655365,
+                    44.71989203372403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Iper carburanti",
+                "id": "31360",
+                "amenity": "fuel",
+                "operator": "SULIS MONICA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.567024035720806,
+                    44.805532370509894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Servizio TotalErg",
+                "id": "24724",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ALIASANAJ MURAT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.608177870638999,
+                    44.78174066715928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LA COMETA DI DI CRISTO ROBERTO",
+                "id": "30439",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LA COMETA DI DI CRISTO ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.611702804893524,
+                    44.794147127657055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE ENI DI CUCCHI VILIAM N. 55642",
+                "id": "9809",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CUCCHI VILIAM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.561218720237774,
+                    44.8098920786462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MASSENZATICO",
+                "id": "24487",
+                "amenity": "fuel",
+                "operator": "TRIMBOLI MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.695880570586496,
+                    44.73972819060828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN BIAGIO",
+                "id": "12056",
+                "brand": "Ego",
+                "amenity": "fuel",
+                "operator": "SACCANI GIAMPIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.568990063229421,
+                    44.801659429599944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REGGIO EMILIA",
+                "id": "5540",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.641862077909877,
+                    44.720032351293554
+                ]
+            }
+        }
+    ]
+}

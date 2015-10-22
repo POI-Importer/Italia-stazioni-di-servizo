@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil di Orsi Maria",
+                "id": "13851",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ORSI MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.175191115665939,
+                    44.19997586200658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "26879",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SOCIETA' IN NOME COLLETTIVO F.LLI PIETRINI & C. DI PIETRINI GRAZIANO E PIETRINI ROBERTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.122404542489676,
+                    44.166786968081674
+                ]
+            }
+        }
+    ]
+}

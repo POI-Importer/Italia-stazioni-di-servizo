@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CERVAREZZA",
+                "id": "7902",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "C.I.S. NORD S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.32883822917938,
+                    44.395602031288895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE CARBURANTI COMUNE DI COLLAGNA",
+                "id": "14335",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "COMUNE DI COLLAGNA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.265999436378477,
+                    44.34292608949593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore tamoil di Tur Alina",
+                "id": "19610",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "TUR ALINA DISTRIBUTORE TAMOIL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.276673287153246,
+                    44.411615722828515
+                ]
+            }
+        }
+    ]
+}

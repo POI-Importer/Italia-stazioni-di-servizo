@@ -1,0 +1,138 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto Eni 4614",
+                "id": "7712",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ACCIAI PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.837686747312548,
+                    43.639565359674926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "R.O.S. SNC DISTRIBUTORE ESSO",
+                "id": "20751",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "R.O.S. S.N.C. DI PAGGETTI O. E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.81045427918434,
+                    43.69907490847342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ENI \"INNOCENTI&GALASTRI SNC\"",
+                "id": "13931",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "INNOCENTI & GALASTRI S.N.C. DI GALASTRI R. & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.829680525131264,
+                    43.68109180721533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "zavagli snc di zavagli gianni e c.",
+                "id": "13757",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ZAVAGLI S.N.C. DI ZAVAGLI GIANNI E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.810502483317237,
+                    43.6982741737426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA DI SERVIZIO LECHIANE",
+                "id": "4214",
+                "amenity": "fuel",
+                "operator": "AREA DI SERVIZIO LE CHIANE DI LODDI DAVID E SPINOSO MICHELE & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.802805598384566,
+                    43.694241768334976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Repsol di Rossi Roberta",
+                "id": "24567",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "FENIX 22 DI ROSSI ROBERTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.840786039829254,
+                    43.662834671255396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A&G di Bartolini Gloria e c. sas",
+                "id": "21777",
+                "amenity": "fuel",
+                "operator": "A. & G. DI BARTOLINI GLORIA E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.936725138535849,
+                    43.6973028105598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bibbiena Carburanti",
+                "id": "23240",
+                "amenity": "fuel",
+                "operator": "COENDAMASCHIPETROLI S.R.L. (IN BREVE CDP S.R.L.\")"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.803836000000047,
+                    43.70156746165888
+                ]
+            }
+        }
+    ]
+}

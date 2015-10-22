@@ -1,0 +1,526 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pirotti Giuseppina",
+                "id": "12256",
+                "amenity": "fuel",
+                "operator": "PIROTTI GIUSEPPINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.182285010814667,
+                    45.10503322443688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO TAMOIL",
+                "id": "7941",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SINGH GURMAIL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.04613399114237,
+                    45.13035344582767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CREMONA-VIA MANTOVA 66/A",
+                "id": "11567",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.059146355819735,
+                    45.142343783856475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione d servizio di kumar surinder",
+                "id": "26127",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "KUMAR SURINDER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.048190702655006,
+                    45.18287509910657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NIA BAR NON SOLO BENZINA DI BALIA IGNAZIO",
+                "id": "19322",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BALIA IGNAZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.192855596542358,
+                    45.13132423242269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PANTALEO MICHELE",
+                "id": "10210",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PANTALEO MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.031265264154968,
+                    45.127835512775896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CREMONA SUD",
+                "id": "22119",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "F.LLI IEVA S.N.C. DI ALBERTO IEVA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.057908296585083,
+                    45.1150341230922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "KEROPETROL CR SEDE",
+                "id": "15933",
+                "amenity": "fuel",
+                "operator": "KEROPETROL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.022645834918194,
+                    45.15131881592923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "8855",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GRASSI EMILIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.045538789632928,
+                    45.130601523015024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso - Malagnino",
+                "id": "27846",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BRIXIA FINANZIARIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.115532875061035,
+                    45.11766353537103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAVALLERI MARCO & C. S.A.S.",
+                "id": "7423",
+                "amenity": "fuel",
+                "operator": "CAVALLERI MARCO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.170818567276001,
+                    45.16504485838861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAR SYSTEM SNC",
+                "id": "8695",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CAR SYSTEM SOCIETA' IN NOME COLLETTIVO DI MESSINA A. & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.034699151589964,
+                    45.14128117081964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "API",
+                "id": "15908",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CALOR SYSTEMS S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.021777726268283,
+                    45.129122475083264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni",
+                "id": "31572",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "R.B. STATION DI BOCCU' RICCARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.043009506607063,
+                    45.131739500532056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 2030",
+                "id": "27842",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.03812058399194,
+                    45.15300682100245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bonetti Alessandro",
+                "id": "7381",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BONETTI ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.03639175707781,
+                    45.14804507684594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GADESCO PIEVE DELMONA",
+                "id": "24150",
+                "amenity": "fuel",
+                "operator": "IPER MONTEBELLO S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.100436061620712,
+                    45.15448490554477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO CABRINI DI CABRINI NICOLA E C. SNC",
+                "id": "14123",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO CABRINI DI CABRINI NICOLA E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.056583775007653,
+                    45.1263378044247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg Vescovato",
+                "id": "27494",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CUNSOLO FRANCESCO GIAMPIERO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.155825018882751,
+                    45.162443350982045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CREMONA - VIA GIUSEPPINA",
+                "id": "24706",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.07793830919263,
+                    45.12226593399112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "43688",
+                "id": "15165",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GARDEN BAR DI MAFFEI LUCIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.097614865921061,
+                    45.15144205639698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CREMONA NORD",
+                "id": "22118",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "F.LLI IEVA S.N.C. DI ALBERTO IEVA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.070155262947083,
+                    45.13986939909906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "30331",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "B.B.M. S.N.C. DI MICHELE BRUTTI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.192914009094238,
+                    45.13131553874991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RETITALIA",
+                "id": "26451",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "TAGLIAFERRI GIUSEPPE E RIVAROLI ROSSANO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.08842580384362,
+                    45.17444099974804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL ERG VESCOVATO",
+                "id": "31155",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "INCOLLA' NICOLINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.155827744227622,
+                    45.162409451786644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Keropetrol",
+                "id": "26327",
+                "amenity": "fuel",
+                "operator": "METANOTRE DI LOMBARDO ANTONINO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.058653950691223,
+                    45.13502082415296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CHIARI PIERLUIGI",
+                "id": "7396",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CHIARI PIERLUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.04898190498352,
+                    45.14896660183898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Grazioli Mario & Contini Eugenio Snc",
+                "id": "13122",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GRAZIOLI MARIO E CONTINI EUGENIO SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.044219157147154,
+                    45.13822420433047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CREMONA - VIA MANTOVA",
+                "id": "29398",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.040083676576614,
+                    45.13803169660679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto Retitalia Cremona",
+                "id": "26752",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "BRIXIA FINANZIARIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.05170296133656,
+                    45.14268925151944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL 8040",
+                "id": "7456",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CREMONA OIL SOCIETA' IN NOME COLLETTIVO DI MALINVERNO GIANNI E CAVALLOTTI BARBARA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.02787879711127,
+                    45.149439368978825
+                ]
+            }
+        }
+    ]
+}

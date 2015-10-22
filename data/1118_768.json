@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GRUMO APPULA",
+                "id": "30745",
+                "amenity": "fuel",
+                "operator": "MODI - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.639677733182907,
+                    40.94219043111459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di servizio di Calia Berardino - Eni",
+                "id": "28094",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CALIA BERARDINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.578600979559265,
+                    40.84849381982713
+                ]
+            }
+        }
+    ]
+}

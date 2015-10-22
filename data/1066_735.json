@@ -1,0 +1,226 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Manuel Musi",
+                "id": "27309",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MUSI MANUEL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.503296355819656,
+                    45.1559067369627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VAL DELLA TORRE",
+                "id": "5891",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TotalErg SpA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.488700999999993,
+                    45.131996215532496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "27754",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PALMERI NUNZIO MARIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4990320205688485,
+                    45.1074454080888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE RIF. TAMOIL",
+                "id": "18680",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BOERIO GIANFRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.385655640633104,
+                    45.135085730024564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Biondi Antonio 2",
+                "id": "29131",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BIONDI ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.547006607055663,
+                    45.21033318936503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EUROPAM-ALMESE",
+                "id": "31358",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "EUROPAM S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.40094557404518,
+                    45.10670634656755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "8359",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ROCCATI GIULIANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.553480789065362,
+                    45.10047137246544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio ENI",
+                "id": "8455",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FONTANA E IGNOTI S.N.C. DI FONTANA LAURA E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5378343730163815,
+                    45.140007296388546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALPIGNANO",
+                "id": "5889",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TotalErg SpA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.534279233135296,
+                    45.1020028932287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALMESE S.P. ALMESE-COL DEL LYS KM 3",
+                "id": "6389",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.390994232540834,
+                    45.113941699341055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARENA MASSIMO",
+                "id": "10722",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CARENA MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.54732997128872,
+                    45.10375599913974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RETEITALIA MILANERE",
+                "id": "29235",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "GLI ANGELI S.N.C. DI CASABIANCA SALVATORE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.422704994678496,
+                    45.10693692237651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE ESSO",
+                "id": "7872",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NECCHIO ADRIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.505966126918793,
+                    45.11918184652125
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP GALA ANTONIO",
+                "id": "16198",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GALA ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.530333876609802,
+                    41.128518285596954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "POLTU QUATU",
+                "id": "26571",
+                "brand": "CP",
+                "amenity": "fuel",
+                "operator": "C & C PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.494803994894028,
+                    41.14236178785872
+                ]
+            }
+        }
+    ]
+}

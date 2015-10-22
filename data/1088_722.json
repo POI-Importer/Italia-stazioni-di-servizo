@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LUNELLI",
+                "id": "26894",
+                "amenity": "fuel",
+                "operator": "LUNELLI ROBERT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.367869675159456,
+                    46.770680497752004
+                ]
+            }
+        }
+    ]
+}

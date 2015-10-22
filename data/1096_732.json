@@ -1,0 +1,139 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A.F. PETROLI",
+                "id": "10676",
+                "brand": "AF Petroli",
+                "amenity": "fuel",
+                "operator": "A.F. PETROLI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.66087248723841,
+                    45.55039553325502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ERACLEA ESSO",
+                "id": "31804",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SOM S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.675794051589946,
+                    45.57568276566654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Staz.F.lli Vianello S.r.l - Piazza Granatieri,36 - Cortellazzo-Jesolo (VE)",
+                "id": "23480",
+                "amenity": "fuel",
+                "operator": "F.LLI VIANELLO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.719367742538452,
+                    45.53579674364051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "22365",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PARAGUAI GIORGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.672493696820084,
+                    45.51446249081521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "peroil",
+                "id": "16522",
+                "amenity": "fuel",
+                "operator": "PERAZZOLO F.LLI S.N.C. DI PERAZZOLO LUIGINO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.746095955371857,
+                    45.549067322511846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BUSCATO AUTOSERVICE SNC",
+                "id": "21494",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BUSCATO AUTOSERVICE S.N.C. DI BUSCATO DORINO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.65739127993584,
+                    45.529256296946436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP JESOLO",
+                "id": "12909",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "EUROPAM S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.668759822845459,
+                    45.55620796524138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "zamuner emanuele",
+                "id": "23412",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ZAMUNER EMANUELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.669044137001038,
+                    45.5760372802953
+                ]
+            }
+        }
+    ]
+}

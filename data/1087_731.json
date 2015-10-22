@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORO F.LLI SPA",
+                "id": "24838",
+                "brand": "Loro",
+                "amenity": "fuel",
+                "operator": "LORO F.LLI-S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.22756267225577,
+                    45.61827365466036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Presa - Carburanti Tamoil",
+                "id": "21789",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "AUTORIPARAZIONI PRESA S.N.C. DI PRESA ENRICO E GIORGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.206187456846237,
+                    45.595086356388094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ANSELMI LUCA",
+                "id": "29295",
+                "amenity": "fuel",
+                "operator": "ANSELMI LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.147773777771022,
+                    45.59789559503835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "14138",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TURCATO ROMI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.240822593917867,
+                    45.705053656400956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Retitalia",
+                "id": "23127",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "PELLIZZARI MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.238061763229325,
+                    45.610614195950085
+                ]
+            }
+        }
+    ]
+}

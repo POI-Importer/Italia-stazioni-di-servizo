@@ -1,0 +1,158 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "alessandra tortore",
+                "id": "10282",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "TORTORE ALESSANDRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.797759740722654,
+                    44.753736674446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "27866",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GALLO ALESSANDRO GESTORE IMPIANTO ERG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.778972089290618,
+                    44.776964114776476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore IES",
+                "id": "30035",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "GRAMAGLIA LORENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.903830149464738,
+                    44.74438540857927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EUROPAM-CERESOLE-ALBA",
+                "id": "30839",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "EUROPAM S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.81138594841002,
+                    44.802300704306276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Staz. servizio ENI CM PNEUS Snc",
+                "id": "26550",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CM PNEUS S.N.C. DI CANE MARIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.774004638195039,
+                    44.786106287203715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALBACHIARA SNC",
+                "id": "25527",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ALBACHIARA S.N.C. DI RAFFAELE VINCENZO & C. SIGLABILE OVE CONSENTITO \"ALBACHIARA S.N.C.\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.801252188816079,
+                    44.803183557087436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BRA",
+                "id": "28394",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.827424854040146,
+                    44.71785768559509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO ENI 10223",
+                "id": "30406",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BERTOLUSSO ALDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.8977201879024514,
+                    44.74823586361386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SANFRE' VIA CIRCONVALLAZIONE",
+                "id": "24226",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.803429859524501,
+                    44.74904299687565
+                ]
+            }
+        }
+    ]
+}

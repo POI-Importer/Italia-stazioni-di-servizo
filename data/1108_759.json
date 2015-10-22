@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTENERO DI BISACCIA",
+                "id": "5525",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.77809166669647,
+                    42.06178580336737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TRIGNO EST",
+                "id": "3539",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TRIGNOEST S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8143,
+                    42.0474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TRIGNO OVEST",
+                "id": "3525",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "TRIGNO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.814125712966868,
+                    42.04660081937676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DI.T.S. AGIP",
+                "id": "8093",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DI.T.S. S.A.S. DI TRANCHETTI SANDRO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.773296117782591,
+                    42.06756806892084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni",
+                "id": "6303",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PETROLBITUMI - SOCIETA A RESPONSABILITA LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.832084774971012,
+                    42.041133610987615
+                ]
+            }
+        }
+    ]
+}

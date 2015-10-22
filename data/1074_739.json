@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Eni",
+                "id": "14428",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ELTA ALBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.883282414155588,
+                    44.691433354864266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "impianto agip 56802 via bertelli 9 gavi",
+                "id": "19283",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "IMPIANTI AGIP DI SCHEMBRI VOLPE FERDINANDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.80808874964714,
+                    44.68823585024831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Benassi Roberto",
+                "id": "11450",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BENASSI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.819594085216524,
+                    44.690466880384875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "P&P SRL",
+                "id": "29320",
+                "amenity": "fuel",
+                "operator": "NEW TRUCK S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.8926107341955,
+                    44.70632019324717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GIOVI OVEST",
+                "id": "3821",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GIOVI OVEST DI NAGLIERO FRANCESCO & C.- S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.952964228172279,
+                    44.604182996445275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VALLE SCRIVIA OVEST",
+                "id": "3766",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "giemme sas di lanza luigi & c"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.906022623348235,
+                    44.67030052477258
+                ]
+            }
+        }
+    ]
+}

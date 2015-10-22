@@ -1,0 +1,190 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione IP",
+                "id": "18811",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CUCCHI GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.480973273532074,
+                    44.13589872853848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GEP CELLI GIULIANO SRL PV TOLEMAIDE",
+                "id": "25020",
+                "brand": "Gep carburanti",
+                "amenity": "fuel",
+                "operator": "CELLI GIULIANO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.484715167134027,
+                    44.096097673318766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "56714",
+                "id": "16523",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GARATTONI RENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.495930343866346,
+                    44.106500527417396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Repsol_Igea_M. (RN006)",
+                "id": "23312",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "REPSOL ITALIA S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.493360160713221,
+                    44.12368426973237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GEP CELLI GIULIANO SRL PV TOLEMAIDE",
+                "id": "4311",
+                "brand": "Gep carburanti",
+                "amenity": "fuel",
+                "operator": "CELLI GIULIANO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.484715167134027,
+                    44.096097673318766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "29686",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LUNA 2003 SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.488196066131648,
+                    44.1047326013782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Maestri spa",
+                "id": "20236",
+                "amenity": "fuel",
+                "operator": "SERAFINI MARINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.513345079149989,
+                    44.10663806798825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PB",
+                "id": "19835",
+                "amenity": "fuel",
+                "operator": "AOM OIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.481435686349867,
+                    44.09222941899507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "maestri",
+                "id": "20235",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERAFINI MARINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.524152547121046,
+                    44.0953250917533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "q8 fll.ZAGHINI D. & M. snc",
+                "id": "10354",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "F.LLI ZAGHINI MASSIMO E DAVIDE S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.517060212689213,
+                    44.08764338754898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.A.M. San Giovanni",
+                "id": "5128",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SOC. AUTOTRASPORTI MONTEFELTRO-S.A.M."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.505016326904299,
+                    44.09518292928471
+                ]
+            }
+        }
+    ]
+}

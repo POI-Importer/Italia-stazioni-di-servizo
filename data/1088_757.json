@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "capalbio sud - l'oasi di Capalbio",
+                "id": "31229",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PANTA IMPIANTI DISTRIBUZIONE CARBURANTI E AFFINI  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.384947744152896,
+                    42.41462638642552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAPALBIO LC.NUNZIATELLA S.S. 1 AURELIA KM. 133",
+                "id": "6573",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.351958741738825,
+                    42.41502670808589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BAR IL GIRASOLE",
+                "id": "13840",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ROSI SAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.425706592343204,
+                    42.41485213221702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAPALBIO - AURELIA",
+                "id": "29614",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.407037550926248,
+                    42.41490396044221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AUTOGRILL CAPALBIO",
+                "id": "29676",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BIAGI ALFIDIO & C. SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.36535108089447,
+                    42.41494987355315
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO DI CAPORALE PIERLUIGI",
+                "id": "28370",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CAPORALE PIERLUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.706046491861343,
+                    42.662852322009456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA DI SERVIZIO IP",
+                "id": "14673",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CASTELLI BRUNO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.663072139024733,
+                    42.68229698133218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE Q8 DI PISCIELLA E D'ANGELANTONIO SNC",
+                "id": "9186",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PISCIELLA E D'ANGELANTONIO S.N.C DI PISCIELLA PASQUALE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.707705438137053,
+                    42.66045495443963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "cona benz sas",
+                "id": "13283",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CONA BENZ S.A.S. DI SINIGAGLIA TOMMASO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.681639261307511,
+                    42.652101890858425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE IP",
+                "id": "14512",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "D'ANGELANTONIO MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.656970113515854,
+                    42.62798291945086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GROTTA PASQUALE",
+                "id": "18358",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "GROTTA PASQUALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.628527969121935,
+                    42.58032489961129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "20405",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BONADUCE GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.655823012096677,
+                    42.65837504614438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Piano della lenta",
+                "id": "30685",
+                "amenity": "fuel",
+                "operator": "CARGRILL SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.674360215663912,
+                    42.67751765408093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "area di servizio ip",
+                "id": "18641",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MARCI ELIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.649469986557959,
+                    42.582201308947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ip (ex Api)",
+                "id": "9329",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CARBURANTI MARTEGIANI DI MARTEGIANI ERCOLE E MARTEGIANI MASSIMO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.633348911253394,
+                    42.579311201828126
+                ]
+            }
+        }
+    ]
+}

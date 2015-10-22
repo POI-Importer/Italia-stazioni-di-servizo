@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "agip di manicone & manicone srl",
+                "id": "16770",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MANICONE & MANICONE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.74492359161377,
+                    40.79233732631202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP 09163",
+                "id": "4629",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LATERZA PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.75929469391781,
+                    40.80088541148726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP 19033",
+                "id": "4628",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LATERZA PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.752624213695526,
+                    40.82406195052754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MGS CARBURANTI",
+                "id": "27357",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MGS CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.725863814353943,
+                    40.76383302179513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO",
+                "id": "19051",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PERNIOLA TOMMASO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.766465753316883,
+                    40.79388141717265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI CAFE'",
+                "id": "19431",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LSN DI NUZZI NICOLA & C. SOCIETA' IN NOME COLLETTIVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.776943802833557,
+                    40.79291971517189
+                ]
+            }
+        }
+    ]
+}

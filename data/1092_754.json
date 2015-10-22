@@ -1,0 +1,204 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orvieto",
+                "id": "24092",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.105843882017325,
+                    42.712421462948264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Romealla",
+                "id": "9415",
+                "amenity": "fuel",
+                "operator": "I.C.M. SOCIETA' IN NOME COLLETTIVO DI BRUNO, CRISTIANO E FABRIZIO MAGGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.081270217895508,
+                    42.735177077623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "29490",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PAIOLETTI SANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.093591350244878,
+                    42.72722115727977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Le Prese",
+                "id": "9411",
+                "amenity": "fuel",
+                "operator": "I.C.M. SOCIETA' IN NOME COLLETTIVO DI BRUNO, CRISTIANO E FABRIZIO MAGGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.038320004940035,
+                    42.767247551101846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "soca",
+                "id": "14892",
+                "amenity": "fuel",
+                "operator": "STANGHERLIN EMILIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.12698444724083,
+                    42.722750160483926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL 5123",
+                "id": "20718",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BURACCIONI RENATO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.09676269671013,
+                    42.71510869395181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "patassini giacomo",
+                "id": "30403",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PATASSINI GIACOMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9725938141346,
+                    42.70256175436408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "METAN PETROLI - IP",
+                "id": "4339",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "METAN PETROLI S.N.C. DI ROMANELLI BRUNO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.125480656327795,
+                    42.719145273355664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "erg di brugi claudio",
+                "id": "19542",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BRUGI CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.117305696010591,
+                    42.71297781961969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PANARA GIOVANNI",
+                "id": "20784",
+                "amenity": "fuel",
+                "operator": "PANARA GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.099519544001963,
+                    42.68637411852075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni F.lli Trequattrini s.n.c.",
+                "id": "17814",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FRATELLI TREQUATTRINI DI TREQUATTRINI ALBERTO E RUGGERO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.12389588356018,
+                    42.7173721148554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Viale I° Maggio",
+                "id": "9410",
+                "amenity": "fuel",
+                "operator": "I.C.M. SOCIETA' IN NOME COLLETTIVO DI BRUNO, CRISTIANO E FABRIZIO MAGGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.126245498657227,
+                    42.72037411969436
+                ]
+            }
+        }
+    ]
+}

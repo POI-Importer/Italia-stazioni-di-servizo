@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SCILLATO SUD",
+                "id": "3787",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LA SORGENTE DI NICCHI MARIA E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.898906707763672,
+                    37.85944017640388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "18370",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SCIALABBA FILIPPO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.005761221051213,
+                    37.9417922483103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso Gratteri",
+                "id": "25818",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MARRETTA ODDO ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.972578787471322,
+                    37.96920349102368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "impianto eni 29760",
+                "id": "8716",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MANGANELLO ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.92505556344986,
+                    37.92239145735142
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,190 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MANCINI CARBURANTI",
+                "id": "27265",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MANCINI CARBURANTI DI MANCINI LUCIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.842022478580473,
+                    41.555599771358224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GAS AUTO CISTERNA SAS",
+                "id": "27411",
+                "amenity": "fuel",
+                "operator": "GAS AUTO CISTERNA S.A.S. DI PIETROPAOLO ANTONIO  &  C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.85006910562515,
+                    41.60494949369069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LATINA SCALO VIA DEL MURILLO",
+                "id": "6668",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.953922897577284,
+                    41.53038570196545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Respol - B.go Podgora",
+                "id": "32200",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "T. PETROL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.856117486953735,
+                    41.50937058510577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONDO PETROLI SPA",
+                "id": "28282",
+                "amenity": "fuel",
+                "operator": "MONDO PETROLI - S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.860617836212214,
+                    41.601827064509976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ERG DI TOMEI MASSIMO",
+                "id": "18311",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TOMEI MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.942457795143124,
+                    41.52532355535133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "9611",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PERCIBALLE POLDINA MADDALENA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.928950190544128,
+                    41.51990394886542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio TOTALERG di Ottaviani Settimia Maria",
+                "id": "29716",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "OTTAVIANI SETTIMIA MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.890893558105518,
+                    41.52876660745399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "13783",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GIRASOLE BIAGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.834539115428921,
+                    41.5809700335143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NORMA",
+                "id": "4055",
+                "brand": "Fiamma 2000",
+                "amenity": "fuel",
+                "operator": "FIAMMA 2000 - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.966930270195004,
+                    41.59149494808545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gattamelata A&A di Angela Gattamelata Snc",
+                "id": "27217",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GATTAMELATA A. & A. DI ANGELA GATTAMELATA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.901539231304923,
+                    41.63938873342879
+                ]
+            }
+        }
+    ]
+}

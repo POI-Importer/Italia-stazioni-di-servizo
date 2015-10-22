@@ -1,0 +1,173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio Formenti Roberto e C. snc",
+                "id": "22520",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO FORMENTI ROBERTO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.733916223049164,
+                    45.33533457964996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO ENI CASTELLEONE",
+                "id": "17662",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BMB DI BELLANI CINZIA & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.762127824328672,
+                    45.3015079354661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "API",
+                "id": "15930",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CALOR SYSTEMS S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.704700261354446,
+                    45.2934596670334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARBURANTI FRESCHI",
+                "id": "24825",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FRESCHI GIANPIERO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.810863435268402,
+                    45.24467653071178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP SORESINA",
+                "id": "24863",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SAINI FUEL & WASH DI SINGH RAJINDER E C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.842612066423158,
+                    45.28900022734245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARBURANTI FRESCHI",
+                "id": "27416",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FRESCHI GIANPIERO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.810863435268402,
+                    45.24467653071178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ideal service",
+                "id": "27811",
+                "amenity": "fuel",
+                "operator": "IDEAL SERVICE S.N.C. DI ARIENTI GIULIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.800628125667572,
+                    45.26579179563418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "keropetrol spa",
+                "id": "27591",
+                "amenity": "fuel",
+                "operator": "GAGLIARDI DAVIDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.71116608726959,
+                    45.281338312860406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio tamoil",
+                "id": "7934",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "AL CHIOSCO DI MATTEO SAMARANI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.692427814006805,
+                    45.33573618450712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fendillo Simona Matilde",
+                "id": "7407",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FENDILLO SIMONA MATILDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.754829406738281,
+                    45.295177069395706
+                ]
+            }
+        }
+    ]
+}

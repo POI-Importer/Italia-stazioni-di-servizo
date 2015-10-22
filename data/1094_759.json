@@ -1,0 +1,226 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vallelunga Carburanti",
+                "id": "16072",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "VALLELUNGA CARBURANTI DI FAVELLA SANDRO E C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.370090484619139,
+                    42.152440648320244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CESANO - VIA DELLA STAZIONE  440",
+                "id": "31856",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.333542690807349,
+                    42.069108144415644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI PASCOLI ANGELO",
+                "id": "5018",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PASCOLI ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3721906542778,
+                    42.0900581260074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIPPA GIUSEPPE",
+                "id": "14176",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PIPPA GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.44940474629402,
+                    42.1053805218229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cesano",
+                "id": "4693",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.354166209697727,
+                    42.06302847867113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ROMA CASSIA KM 20+070",
+                "id": "6646",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.376226423942622,
+                    42.033170528529325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FORMELLO",
+                "id": "5868",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TotalErg SpA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.37248049570087,
+                    42.06182982664882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "20931",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DE ANGELIS FEDERICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.35838934779167,
+                    42.15435632846214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MARANGIO ANTONIO",
+                "id": "15839",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MARANGIO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.396212518215178,
+                    42.0443561557104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "cassia carburanti - braccianese",
+                "id": "12693",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CASSIA CARBURANTI DUE DI GIULIANI FEDERICO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.312418491654055,
+                    42.036334567875144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Venanzi Carburanti 68 snc",
+                "id": "23512",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "VENANZI CARBURANTI 68 SNC DI LUCA VENANZI & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.333582877384972,
+                    42.06908196425952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAMPAGNANO",
+                "id": "4694",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.363394349813463,
+                    42.118987837704026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FORMELLO - FORMELLESE",
+                "id": "30994",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.397812455892566,
+                    42.06296017720606
+                ]
+            }
+        }
+    ]
+}

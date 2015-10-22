@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE BEYFIN TOCCACELI PAOLA",
+                "id": "27847",
+                "amenity": "fuel",
+                "operator": "TOCCACELI PAOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.39830561463509,
+                    42.764492587230954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bazar di Mola",
+                "id": "7506",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BAZAR DI MOLA - F.LLI VAGO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.377576649188995,
+                    42.75914040767337
+                ]
+            }
+        }
+    ]
+}

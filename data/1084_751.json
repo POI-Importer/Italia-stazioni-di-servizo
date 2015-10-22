@@ -1,0 +1,154 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BEYFIN",
+                "id": "28951",
+                "amenity": "fuel",
+                "operator": "SALVADORI ENRICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.585202425718307,
+                    43.16870423695784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTAGNETO CARDUCCI-FZ.DONORATICO VIA AURELIA",
+                "id": "11620",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.567041188478472,
+                    43.175630138856945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil San Carlo Castagneto Carducci",
+                "id": "28960",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SAN CARLO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.606826077489131,
+                    43.15990647104478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dome carburanti",
+                "id": "21246",
+                "amenity": "fuel",
+                "operator": "DOME CARBURANTI DI ALESSIO FEDELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.561151199405685,
+                    43.17856035480998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Metanocar",
+                "id": "21740",
+                "amenity": "fuel",
+                "operator": "METANO CAR S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.556581810711691,
+                    43.07962077121753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN VINCENZO",
+                "id": "5808",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TotalErg SpA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.551936000000067,
+                    43.09099275241669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTAGNETO CARDUCCI AURELIA SUD 241",
+                "id": "6564",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.563358693254031,
+                    43.16204885944747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE SASSETTA",
+                "id": "14718",
+                "amenity": "fuel",
+                "operator": "CO. E CI. TRANS OIL SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.64503456912962,
+                    43.13126635534652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CONAD",
+                "id": "6851",
+                "brand": "CONAD",
+                "amenity": "fuel",
+                "operator": "FORMENTERA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.56634247303009,
+                    43.17362028803772
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "13388",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PANCRAZI ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.83504745364189,
+                    42.63191949154456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TASCIO VINCENZO",
+                "id": "17868",
+                "amenity": "fuel",
+                "operator": "TASCIO VINCENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.866995245218277,
+                    42.676608203364715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "anselmetti david",
+                "id": "24761",
+                "amenity": "fuel",
+                "operator": "ANSELMETTI DAVID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.881102865473622,
+                    42.561215489814565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bolsena",
+                "id": "31660",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.938583766864781,
+                    42.65538485173938
+                ]
+            }
+        }
+    ]
+}

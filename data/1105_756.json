@@ -1,0 +1,122 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DI IULIO GIUSEPPE IP",
+                "id": "26548",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DI IULIO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.278802112233734,
+                    42.42740195779034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni",
+                "id": "31927",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BELLANTE LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.264097511768341,
+                    42.43335945045097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "8143",
+                "id": "27745",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "T.D.M. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.255585521459581,
+                    42.44257992682259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 6606 eni rete Francavilla al Mare",
+                "id": "31022",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI RETE OIL&NONOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.274474978446962,
+                    42.426953013843836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GASOLIN SELF",
+                "id": "31187",
+                "amenity": "fuel",
+                "operator": "PETROL SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.275999464942972,
+                    42.42930507583069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OK CARBURANTI FVILLA",
+                "id": "30004",
+                "amenity": "fuel",
+                "operator": "ALENTO FUEL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.254556894302368,
+                    42.439606877196574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "26818",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "FEA DI FRANCESCO BAGNATO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.27157014608383,
+                    42.428521819908205
+                ]
+            }
+        }
+    ]
+}

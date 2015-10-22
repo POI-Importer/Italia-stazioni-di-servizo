@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DILL'S",
+                "id": "26720",
+                "amenity": "fuel",
+                "operator": "DILCA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.696657888596746,
+                    41.0952831301965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DILL'S TORITTO",
+                "id": "30960",
+                "brand": "Dill s",
+                "amenity": "fuel",
+                "operator": "MODI - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.694978177547455,
+                    41.00665460901217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DILL'S PALOMBAIO",
+                "id": "26837",
+                "brand": "Dill s",
+                "amenity": "fuel",
+                "operator": "MODI - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.62628814578056,
+                    41.07580028087575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso di Michele Piscopo",
+                "id": "22745",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PISCOPO MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.559596359729767,
+                    41.0466772177892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg",
+                "id": "20213",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MARINELLI VINCENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.69328771531582,
+                    41.10407452994887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bitonto",
+                "id": "10134",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.68095827102661,
+                    41.103455063193536
+                ]
+            }
+        }
+    ]
+}

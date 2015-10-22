@@ -1,0 +1,121 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "self area agip di forbicioni a.e f. snc",
+                "id": "31150",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SELFAREA AGIP DI FORBICIONI ALESSIO E FABIO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.145187258720398,
+                    42.71580031012001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Servizio Esso - R.B.C. snc",
+                "id": "8482",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "RBC DI ROSATI ANTONIO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.143614143133163,
+                    42.71674722081752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA DI SERVIZIO TAMOIL DI PORCARI IVANO",
+                "id": "20231",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PORCARI IVANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.139255553483963,
+                    42.730168938625745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Amerina",
+                "id": "9412",
+                "amenity": "fuel",
+                "operator": "I.C.M. SOCIETA' IN NOME COLLETTIVO DI BRUNO, CRISTIANO E FABRIZIO MAGGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.182094454765322,
+                    42.698216874553665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PAOLANTONI ANGELO",
+                "id": "23539",
+                "amenity": "fuel",
+                "operator": "PAOLANTONI ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.286676877239417,
+                    42.71064914685623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GIONTELLA S.R.L. - ORVIETO",
+                "id": "29048",
+                "amenity": "fuel",
+                "operator": "GIONTELLA S.R.L"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.132631324214799,
+                    42.72140360064747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ORVIETO - S.S. 205",
+                "id": "30409",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.138115334987674,
+                    42.7196408829012
+                ]
+            }
+        }
+    ]
+}

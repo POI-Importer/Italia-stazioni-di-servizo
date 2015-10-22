@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil Caldarola",
+                "id": "11110",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PERSICOROSSI GINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.223397731781008,
+                    43.14379454715451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RETEITALIA",
+                "id": "29564",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "FABBRIZI ORIANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.242854758860744,
+                    43.16646322875629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IS CARBURANTI",
+                "id": "18553",
+                "amenity": "fuel",
+                "operator": "TARQUINI RITA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.310428617931732,
+                    43.16813511045504
+                ]
+            }
+        }
+    ]
+}

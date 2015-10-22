@@ -1,0 +1,156 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "KEROPETROL BIGARELLO",
+                "id": "15823",
+                "amenity": "fuel",
+                "operator": "KEROPETROL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.901398076057374,
+                    45.18120628201604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MORESCHI ALBERTO",
+                "id": "23229",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MORESCHI ALBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.008925065398216,
+                    45.18486109369583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "19129",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "QUAGLIA LUIGI E PAROLIN STEFANO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.052541136741638,
+                    45.19124696273963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE IP DI PASINI MATTEO",
+                "id": "16801",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PASINI MATTEO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.976729993539037,
+                    45.18868864946361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GB CARBURANTI",
+                "id": "9898",
+                "amenity": "fuel",
+                "operator": "BRAGLIA GIANCARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.915764570236206,
+                    45.152039915586855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FR SNC",
+                "id": "9769",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FR S.N.C. DI RODOLFO BORINI & FABIO RINALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.044459640979767,
+                    45.17940301907938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL CALEFFI MARCO",
+                "id": "12653",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CALEFFI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.948868393898008,
+                    45.09480108559945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "16140",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SETTANTA G.BATTISTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.98304733464056,
+                    45.185383900578444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil Nogara",
+                "id": "7669",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "VACCARI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.059629148410068,
+                    45.18548206917333
+                ]
+            }
+        }
+    ]
+}

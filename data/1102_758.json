@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "27199",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DIGI.CAM S.N.C. DI CAMARRA MASSIMO & DI GIOVANNI ATTILIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.834308385848999,
+                    42.166093722340804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore carburanti",
+                "id": "16199",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SALVATI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72567757964134,
+                    42.23489001864224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vulcangas Ofena",
+                "id": "24095",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DEL ROSSI MARIELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.745831698179245,
+                    42.28629382411575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CORAZZINI FRANCO",
+                "id": "9019",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CORAZZINI FRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.82034882903099,
+                    42.2149645715625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni",
+                "id": "9045",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DEL FATTORE RINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.83099317550659,
+                    42.17451974640664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO IP DI CASCIANO E DEL CONTE",
+                "id": "16845",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CASCIANO JEAN CHARLES E DEL CONTE GABRIELE - S.N.C"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.83690342307091,
+                    42.175657151790546
+                ]
+            }
+        }
+    ]
+}

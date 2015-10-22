@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Brandi Fabrizio",
+                "id": "25894",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BRANDI FABRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.307008270433016,
+                    42.774691427590064
+                ]
+            }
+        }
+    ]
+}

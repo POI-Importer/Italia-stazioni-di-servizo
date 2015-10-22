@@ -1,0 +1,155 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO TOTALERG",
+                "id": "25257",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MDS SERVICE S.A.S. DI DE SANTIS MASSIMILIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.188004369712303,
+                    41.389761530351365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RUSSO S.A.S. DI RUSSO AMEDEO & C.",
+                "id": "21550",
+                "amenity": "fuel",
+                "operator": "RUSSO S.A.S. DI RUSSO AMEDEO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.171281009912493,
+                    41.463357804526105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Serv/IP Capaldi",
+                "id": "8290",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CAPALDI RANIERI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.183241604136354,
+                    41.408378647066556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zeta Gas",
+                "id": "25915",
+                "amenity": "fuel",
+                "operator": "SUPERIOR GAS DI VETTESE ANTONIO E C. SOCIETA' IN NOME COLLETTIVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.064101278781893,
+                    41.492022393765716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ZANNITI SALVATORE",
+                "id": "11315",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ZANNITI SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.199485778808596,
+                    41.428149674007045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EWA GALLO MATESE",
+                "id": "29972",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.220050275325775,
+                    41.466510802306274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO CIORLANO",
+                "id": "29976",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.155014753341675,
+                    41.45822810203703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso masi domenico",
+                "id": "9639",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MASI DOMENICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.092053920030597,
+                    41.49951752234449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO PRESENZANO",
+                "id": "29973",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.10452216863632,
+                    41.3773550039837
+                ]
+            }
+        }
+    ]
+}

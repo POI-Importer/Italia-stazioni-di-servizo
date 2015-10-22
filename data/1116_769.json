@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARBURANTI ABBATECOLA",
+                "id": "25585",
+                "amenity": "fuel",
+                "operator": "ABBATECOLA CARBURANTI DI ABBATECOLA RAFFAELE & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.230723964187636,
+                    40.753271427317095
+                ]
+            }
+        }
+    ]
+}

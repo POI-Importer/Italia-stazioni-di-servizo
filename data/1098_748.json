@@ -1,0 +1,223 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "L'OASI DEL RIFORNIMENTO",
+                "id": "22652",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PITTORI PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.075940531829815,
+                    43.52965798684883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Staz servizio Ubaldi e Mattioli snc",
+                "id": "13371",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "UBALDI & MATTIOLI DI UBALDI LEO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.042720830688495,
+                    43.53469755438245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "22488",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ROSSI GIANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.140082955360414,
+                    43.503022886527205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PE.DO. SNC",
+                "id": "20067",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PE.DO. DI PERINI E DORAZI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.027545705487796,
+                    43.57841839999998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SCUPPA ROBERTO",
+                "id": "25742",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SCUPPA ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10438543558121,
+                    43.49710397113807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PETROLGAS",
+                "id": "4601",
+                "amenity": "fuel",
+                "operator": "PETROLGAS - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.127204496851048,
+                    43.51606452799004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distibutore IP di Frontalini Marco",
+                "id": "26094",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FRONTALINI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.175641000270842,
+                    43.47908216419336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fermana Castelbellino",
+                "id": "30467",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FERMANA CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.149234027151804,
+                    43.503998926784924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAM METANO",
+                "id": "4602",
+                "amenity": "fuel",
+                "operator": "S.A.M. - SOCIETA' AUTOTRAZIONE METANO DI BRUNETTI ANTONIO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.051340728998182,
+                    43.45936936526417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "METANO",
+                "id": "11331",
+                "amenity": "fuel",
+                "operator": "API EMIDIO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.032121181445289,
+                    43.56362251657364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "31049",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "EFFEMME SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.022596836090086,
+                    43.555759875464254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "route 76 s.r.l.",
+                "id": "17104",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ROUTE 76 S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.05653214454651,
+                    43.46547341275565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MARCUCCI M. & LORONI M. SNC",
+                "id": "7822",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MARCUCCI MICHELE E LORONI MICHELE SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.022580742835995,
+                    43.55576006985691
+                ]
+            }
+        }
+    ]
+}

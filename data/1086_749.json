@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "WIN di Canocchi Stefano",
+                "id": "30607",
+                "brand": "Win",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO DI CANOCCHI STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.049436479762333,
+                    43.341152203888775
+                ]
+            }
+        }
+    ]
+}

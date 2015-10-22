@@ -1,0 +1,175 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "31248",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LOMBARDO PANCRAZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.278986871242525,
+                    45.10790464902089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SOCOGAS Chiusa San Michele",
+                "id": "18604",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "ARNOUL FABRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.336115241050719,
+                    45.10496279997306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN DIDERO - FRAZ. BARACCONE S.S. 25 KM 40",
+                "id": "26569",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.210236034393348,
+                    45.12830140686131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "24876",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "COLOMBINO & POGNANT S.A.S. DI POGNANT ANDREA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.229846119880675,
+                    45.12422404562566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C.B. S.N.C. Di Bosco Pier Guido e C.",
+                "id": "4338",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "C.B. S.N.C. DI BOSCO PIER GUIDO E C.   CON SIGLA C.B. S.N.C. DI BOSCO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.28291630744934,
+                    45.10761993633914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "road 25 cafè sas",
+                "id": "31744",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ROAD 25 CAFE' DI BAROLO VIVIANA E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.328917533159258,
+                    45.10565151670665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONDO S.N.C.",
+                "id": "5583",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MONDO SNC DI JANNON FRANCA E JANNON GIORGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.250790148973465,
+                    45.11146116853869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SANT'AMBROGIO DI TORINO S.S. 25 KM 25+600",
+                "id": "6395",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.37498927116394,
+                    45.093830001540255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI di Borgarello Paola",
+                "id": "7574",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BORGARELLO PAOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.378762364387511,
+                    45.10294847359384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "4613",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BAR ANGEL DI PANE LUIGINA E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.328913509845734,
+                    45.105642051196355
+                ]
+            }
+        }
+    ]
+}

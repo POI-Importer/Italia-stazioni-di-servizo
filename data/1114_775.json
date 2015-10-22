@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CONAD SUPERMERCATO",
+                "id": "6333",
+                "brand": "CONAD",
+                "amenity": "fuel",
+                "operator": "SUANNO 89 S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.901269614696503,
+                    40.01457785531048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTELLUCCIO SS 19 KM 151+500",
+                "id": "8644",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.975347837434354,
+                    40.005399571840684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "kuwait",
+                "id": "31652",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ROTONDARO E ATTADIA PETROLS S.N.C. DI ROTONDARO GIUSI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.988469570875164,
+                    39.9701678343195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GALDO EST",
+                "id": "3995",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ZACCAGNINO SERVICE STATION SNC DI ZACCAGNINO DINA E ZACCAGNINO LEONARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.899012538189481,
+                    40.018474203840555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GALDO EST",
+                "id": "3988",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ZACCAGNINO SERVICE STATION SNC DI ZACCAGNINO DINA E ZACCAGNINO LEONARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.898771139378141,
+                    40.01822359887427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GALDO OVEST",
+                "id": "22090",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DI.MA S.A.S. DI MARIA ROSARIA ERRICHIELLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.899886296958925,
+                    40.01691024145285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Forastieri Pasquale",
+                "id": "26586",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "FORASTIERI PASQUALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.98857954144478,
+                    39.9701329920882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE IES",
+                "id": "27484",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "PESCE NICOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.836062431335447,
+                    40.034978360843844
+                ]
+            }
+        }
+    ]
+}

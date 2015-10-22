@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gestione Carburanti Ettore Desideri",
+                "id": "16184",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "DESIDERI ETTORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.840576767921448,
+                    42.49148632052065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIETI",
+                "id": "5541",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.85738047999996,
+                    42.427059779674465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FORMICHETTI MARIO",
+                "id": "16273",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "FORMICHETTI MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.910044640302656,
+                    42.433792593798245
+                ]
+            }
+        }
+    ]
+}

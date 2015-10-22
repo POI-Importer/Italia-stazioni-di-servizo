@@ -1,0 +1,495 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SS 115 VITT-GELA",
+                "id": "7690",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.512932355819657,
+                    36.961580226906314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "31663",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "B&V DI BERTOLONE R. E VITTORIA B. & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52078692615032,
+                    36.949160629234584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SP Energia Siciliana",
+                "id": "18536",
+                "brand": "SP Energia Siciliana",
+                "amenity": "fuel",
+                "operator": "SALLEMI GIANCARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.531035883151958,
+                    36.944277233555724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di servizio Comiso S.P. Comiso-S.Croce",
+                "id": "29388",
+                "brand": "SP Energia Siciliana",
+                "amenity": "fuel",
+                "operator": "SERVIZI INTEGRATI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.584241285920143,
+                    36.93614823743515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GEN CASCINO",
+                "id": "14556",
+                "brand": "Lukoil",
+                "amenity": "fuel",
+                "operator": "ND PETROLI DI DIBENNARDO NUNZIO & C. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.522681252778627,
+                    36.958160797036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Spina carburanti",
+                "id": "18886",
+                "amenity": "fuel",
+                "operator": "FRATELLI SPINA DI SPINA GIUSEPPE E ALESSANDRO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.519843459129332,
+                    36.93278116035046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VITTORIA VIA G CASCINO",
+                "id": "16791",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52635134907382,
+                    36.95657145495783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Agip - S.P. Comiso - Santa Croce",
+                "id": "19345",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SALLEMI CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.588470458984375,
+                    36.93808008567801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LICALZI CARBURANTI & C. SAS",
+                "id": "30588",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "LI CALZI CARBURANTI DI LI CALZI SALVATORE & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.524835050106047,
+                    36.96760890499607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Q8 Giannone Francesco & c. sas",
+                "id": "15062",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GIANNONE FRANCESCO & C. - S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.528624527647366,
+                    36.941969674357736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NEGHELLI",
+                "id": "14554",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ND PETROLI DI DIBENNARDO NUNZIO & C. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.523078203201294,
+                    36.950195737067645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "23651",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "GUARINO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.433457900366195,
+                    36.89525786572359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO VITTORIA",
+                "id": "21076",
+                "amenity": "fuel",
+                "operator": "REGALGAS DI GRASSO CONCETTO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.50455,
+                    36.93579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SS115",
+                "id": "4914",
+                "brand": "Lukoil",
+                "amenity": "fuel",
+                "operator": "ND PETROLI DI DIBENNARDO NUNZIO & C. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.507718533277513,
+                    36.9615340593058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2D DI DI STEFANO GIUSEPPINA & C SNC",
+                "id": "32029",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "2D DI DI STEFANO GIUSEPPINA & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.523710861376912,
+                    36.957942393922465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "lukoil",
+                "id": "14245",
+                "brand": "Lukoil",
+                "amenity": "fuel",
+                "operator": "RENDA UMBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.539033649073758,
+                    36.95599635298497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE ESSO",
+                "id": "28179",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LOREFICE ELIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.545919895172117,
+                    36.95512950784961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "29159",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DI PASQUALE FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.558086395263672,
+                    36.95886591151352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RUSSO MARIO & C. S.A.S. DI RUSSO SALVATORE",
+                "id": "28315",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RUSSO MARIO & C. S.A.S. DI RUSSO SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.520720541477205,
+                    36.93825931138908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA GARIBALDI VITTORIA",
+                "id": "20504",
+                "brand": "Giap",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.541258017049474,
+                    36.954472692008565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DIAZ",
+                "id": "14551",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ND PETROLI DI DIBENNARDO NUNZIO & C. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.528305828571321,
+                    36.957217551159346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sallemi Carburanti",
+                "id": "6938",
+                "brand": "Lukoil",
+                "amenity": "fuel",
+                "operator": "SALLEMI CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.460234045982357,
+                    36.926721118879264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA ROMA",
+                "id": "27717",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ND PETROLI DI DIBENNARDO NUNZIO & C. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52885458361072,
+                    36.94949710803807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "q8",
+                "id": "28401",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CARBURANTE SERVICE ERG SCOGLITTI DI PUCCIO ANGELA BEATRICE SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.43547323346138,
+                    36.89837249493163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "V. ADUA VITTORIA",
+                "id": "12296",
+                "brand": "Giap",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.528420396133129,
+                    36.944229102155646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FANELLO",
+                "id": "14547",
+                "brand": "Lukoil",
+                "amenity": "fuel",
+                "operator": "ND PETROLI DI DIBENNARDO NUNZIO & C. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.498144388198856,
+                    36.945745252282954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SP VITTORIA-ACAT",
+                "id": "12313",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.514535879623395,
+                    36.984737008979465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA INCARDONA",
+                "id": "12319",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.503771974205053,
+                    36.94654235089755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GOITO",
+                "id": "14273",
+                "amenity": "fuel",
+                "operator": "ND PETROLI DI DIBENNARDO NUNZIO & C. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.532961221838946,
+                    36.94579882784587
+                ]
+            }
+        }
+    ]
+}

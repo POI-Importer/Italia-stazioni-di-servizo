@@ -1,0 +1,698 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pozza Carburanti",
+                "id": "28942",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "POZZA CARBURANTI SNC DI LENTI LUCA E CUOGHI DAVIDE E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.898397266864777,
+                    44.52554202649048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "7204",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CORTI MARINO E GIAN CARLO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.791579505696063,
+                    44.53862014752292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "19723",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BARCO DI BAROZZINI PAOLO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.817667607162434,
+                    44.55137069420888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO MARANELLO",
+                "id": "9932",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LARDI GIANLUCA & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.86331737672117,
+                    44.53509062387018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "10419",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PANCANI MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.77808141708374,
+                    44.53550704838939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "9966",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TUCCI BENEDETTO E CASONI MARIELLA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.847828076057453,
+                    44.57202997106063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "METANO MARANELLO",
+                "id": "24441",
+                "amenity": "fuel",
+                "operator": "METANO MARANELLO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.89270830154419,
+                    44.531052101219665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "10425",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MORINI LAZZARO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.810579061508179,
+                    44.552977858431056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "corti franco",
+                "id": "24677",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CORTI FRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.808497666795347,
+                    44.538870170866765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP Marazzi  Franco",
+                "id": "13973",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MARAZZI FRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.731330033683205,
+                    44.509647468198544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio totalerg",
+                "id": "10490",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DIPASQUALE MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.774318277835846,
+                    44.529508277312374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DINAZZANO",
+                "id": "22970",
+                "brand": "Ego",
+                "amenity": "fuel",
+                "operator": "C.I.S. NORD S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.743931531906126,
+                    44.5777490018758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "San Michele",
+                "id": "11296",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F.LLI GIBERTINI FU GINO S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.74688618154528,
+                    44.51007548477935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "L.B Benz di Baroni Lorenza",
+                "id": "20259",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "L.B BENZ DI BARONI LORENZA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.853181928396227,
+                    44.560028775091645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE AGIP FERRARI RINO",
+                "id": "15367",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FERRARI RINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.732225111728098,
+                    44.51144015434667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO EGO",
+                "id": "16756",
+                "amenity": "fuel",
+                "operator": "PANEBIANCO VINCENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.873098000884058,
+                    44.50188959663294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE IP GRUPPO API",
+                "id": "20868",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "V.D.B. DI BASCHIERI IVANO E C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.821675377510017,
+                    44.54074338016766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BERTELLI FIORANO",
+                "id": "30212",
+                "brand": "Bertelli Carburanti",
+                "amenity": "fuel",
+                "operator": "BERTELLI WALTER E ROLANDO  - CARBURANTI - S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.806871652603151,
+                    44.54340467068723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SASSUOLO RADICI IN PIANO",
+                "id": "6528",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.801891386508942,
+                    44.55965247510212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OIL ITALIA",
+                "id": "26119",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CAST PNEUMATICI DI CASTELLI GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.787720513851923,
+                    44.539730709031055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP- VECCHI DAVIDE",
+                "id": "18817",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "VECCHI DAVIDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.838157031877133,
+                    44.57798483158914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Self Area Eni lista giovanna",
+                "id": "17816",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LISTA GIOVANNA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.86516872048378,
+                    44.53031862739045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "giovanni del gatto",
+                "id": "31511",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DEL GATTO GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.839593290074164,
+                    44.533546451410125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TORELLI ANSELMO PAOLO SNC",
+                "id": "15555",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TORELLI ANSELMO PAOLO E C.- S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.780199285913795,
+                    44.54547903776093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "europe station center",
+                "id": "10468",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "EUROPE STATION CENTER  DI BASSINGHI CHRISTIAN E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.768522024154665,
+                    44.5503699573225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione ENI 6357",
+                "id": "4348",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BENEDETTI E RICCI S.N.C. DI BENEDETTI LUCA E RICCI STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.888665877246126,
+                    44.53155983612448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EGO",
+                "id": "10423",
+                "brand": "Ego",
+                "amenity": "fuel",
+                "operator": "FRANCESCHETTI MARINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.796631574630737,
+                    44.54562635105913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "8843",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GROSSO RAFFAELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.841569818524134,
+                    44.53507305677718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cappi Ennio & C. snc",
+                "id": "9957",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CAPPI ENNIO & C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.87655088000952,
+                    44.52815247977568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO D.G.",
+                "id": "30134",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "D.G. DI DE GREGORIO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.85014633834362,
+                    44.540873564306345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "10873",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ZANNI ALDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.775989294052122,
+                    44.532197800836066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eurogasenergia",
+                "id": "5355",
+                "amenity": "fuel",
+                "operator": "EUROGASENERGIA DI DAVIDDI GEOM. GIUSEPPE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.768817067146301,
+                    44.55121556920586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MIDA RACE COFFEE",
+                "id": "5586",
+                "brand": "Ego",
+                "amenity": "fuel",
+                "operator": "MIDA S.N.C. DI CASOLARI TIZIANA E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.831744372844696,
+                    44.54945628502891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "V",
+                "id": "23998",
+                "amenity": "fuel",
+                "operator": "COLUMBUS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.772744815869146,
+                    44.54790996908572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP di BUCCIARELLI FRANCESCO",
+                "id": "19238",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BUCCIARELLI FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.753609100776318,
+                    44.560225666664685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "10418",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SORIELLO ENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.787329153442442,
+                    44.547709115210075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREASERVIZIO IP CT SRL",
+                "id": "27092",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.826811481323261,
+                    44.57038635786135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BARBERGAS SAS",
+                "id": "4877",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BARBERGAS DI ODORICI COSTANZA & C.- S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.845198333263397,
+                    44.471739420977826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Agip Dinazzano di Magnani A&F s.n.c",
+                "id": "20737",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AGIP DINAZZANO S.N.C. DI MAGNANI ALDO E FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.740356147289274,
+                    44.573077940886954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "METANO MARANELLO",
+                "id": "24442",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "METANO MARANELLO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.89270830154419,
+                    44.531052101219665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ME-TRA srl",
+                "id": "5064",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ME-TRA - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.789778530597689,
+                    44.58503684991336
+                ]
+            }
+        }
+    ]
+}

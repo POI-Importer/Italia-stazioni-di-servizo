@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CIVITELLA PAGANICO CIPRESSINO",
+                "id": "23295",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SIRTAM S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.266331970691681,
+                    42.929206485204986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PAGANICO",
+                "id": "8297",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SIRTAM S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.265846490859985,
+                    42.92893389536095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CINIGIANO",
+                "id": "32035",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.398530006408691,
+                    42.89377359271528
+                ]
+            }
+        }
+    ]
+}

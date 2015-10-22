@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione servizio Tamoil",
+                "id": "25175",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CARUSEL S.R.L.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.01486384868622,
+                    41.93352549801782
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gema Snc",
+                "id": "6043",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GEMA S.N.C. DI GERMANO ROSARIO VINCENZO E MARZIALE MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.05066267724612,
+                    40.07160694205576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ERG MILEO",
+                "id": "27368",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GEMA S.N.C. DI GERMANO ROSARIO VINCENZO E MARZIALE MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.02360770467817,
+                    40.06006046620513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "q8 latronico",
+                "id": "9274",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SOC. P. & P. DI PONZO A. E PAPALEO G. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.999524295330046,
+                    40.086406701999564
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "18171",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ROSSI LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.982821255922318,
+                    39.67768916251288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2P di Pisu Pietro S.A.S",
+                "id": "18090",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "2 P DI PISU PIETRO S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.10839021205902,
+                    39.74054498711321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "p.v. Esso 6145",
+                "id": "25933",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PISANO EGIDIO & FIGLI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.131213128566744,
+                    39.65009971077401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ISILI - VITTORIO EMANUELE",
+                "id": "31333",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.10839999999996,
+                    39.740545374519535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE ESSO",
+                "id": "24786",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PALA FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.998846113681793,
+                    39.69776624813364
+                ]
+            }
+        }
+    ]
+}

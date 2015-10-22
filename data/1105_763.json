@@ -1,0 +1,122 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PETROL GAMMA",
+                "id": "28432",
+                "amenity": "fuel",
+                "operator": "AGAMA PETROLI DI MASSIMILIANO IZZI & C. - SOCIETA' IN ACCOMANDITA SEMPLICE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.243665784597399,
+                    41.601291582337524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "21972",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "FIDIS - SOCIETA' IN NOME COLLETTIVO DI FIELLI ANTONIO E DI STEFANO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.245028443369279,
+                    41.598203755168164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil Pesche (IS)",
+                "id": "6269",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BOCCIA ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.24206852912903,
+                    41.601894897374436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "3 B BREAK",
+                "id": "9640",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "3B BREAK S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.365565478801724,
+                    41.53799544522615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL ERG - CANTALUPO NEL SANNIO",
+                "id": "23950",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "AUTIERO GAETANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.391139671206473,
+                    41.531531206148884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zeta Gas",
+                "id": "21677",
+                "amenity": "fuel",
+                "operator": "SUPERIOR GAS DI VETTESE ANTONIO E C. SOCIETA' IN NOME COLLETTIVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.27655503153801,
+                    41.58436397303955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "21115",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DI MAGGIO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40066617849584,
+                    41.52811329948757
+                ]
+            }
+        }
+    ]
+}

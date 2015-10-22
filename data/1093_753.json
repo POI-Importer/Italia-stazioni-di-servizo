@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Rifornimento IP Farnesi",
+                "id": "12574",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FARNESI FEDERICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.26763507804867,
+                    42.868115151141005
+                ]
+            }
+        }
+    ]
+}

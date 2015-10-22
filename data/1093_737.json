@@ -1,0 +1,157 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "7588",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CACCIATORI ALMERINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.226651310920714,
+                    44.94271688801241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI Biolcati Franco",
+                "id": "4616",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BIOLCATI FRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.230500280857088,
+                    44.90672631608814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MANGOLINI STEFANO distributore AGIP",
+                "id": "6970",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MANGOLINI STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.228669999999966,
+                    44.87739342388591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP MOSCHINI FILIPPO",
+                "id": "4661",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MOSCHINI FILIPPO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.231610338623117,
+                    44.9231667813111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Loro F.lli Spa",
+                "id": "30105",
+                "brand": "Loro",
+                "amenity": "fuel",
+                "operator": "LORO F.LLI-S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.187555658895462,
+                    44.92181252225048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "f.lli ghezzo snc",
+                "id": "4723",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "S.N.C. FRATELLI GHEZZO DI GHEZZO PATRIZIO SANDRO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.291952371597288,
+                    44.851655210163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO UMILIO RENZO",
+                "id": "13767",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "UMILIO RENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.13167860454405,
+                    44.94977147556568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "area di servizio ROMAGNOLI MAICOL",
+                "id": "24045",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ROMAGNOLI MAICOL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.149010747671127,
+                    44.864501915627365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOMM",
+                "id": "17957",
+                "amenity": "fuel",
+                "operator": "TOMM S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.227559513204936,
+                    44.93172121720788
+                ]
+            }
+        }
+    ]
+}

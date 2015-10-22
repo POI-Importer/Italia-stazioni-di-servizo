@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Li Fonti Gaetano",
+                "id": "13725",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "LI FONTI GAETANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.651552936990361,
+                    37.99654760093777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO CASTELDACCIA",
+                "id": "7677",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DI TUSA GIOVANNI & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.536828607320784,
+                    38.06335746627188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "G.M. CARBURANTI E SERVIZI DI GAMBINO MARCO",
+                "id": "30799",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "G.M.CARBURANTI E SERVIZI DI GAMBINO MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.616393655538557,
+                    38.0173272639857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto ESSO f.lli lo bosco sas",
+                "id": "7494",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FRATELLI LO BOSCO S.A.S. DI LO BOSCO MASSIMILIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.551174402236938,
+                    38.04526316900312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 - Campo Gianfranco",
+                "id": "28269",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CAMPO GIANFRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62957403063774,
+                    38.00829865653215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALTAVILLA MILICIA VIA COMUNALE",
+                "id": "24522",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.551143987172054,
+                    38.04561847942345
+                ]
+            }
+        }
+    ]
+}

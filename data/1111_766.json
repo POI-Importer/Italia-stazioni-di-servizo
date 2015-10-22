@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COLOTTI CARBURANTI",
+                "id": "25769",
+                "amenity": "fuel",
+                "operator": "SO. CLT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.41025906801224,
+                    41.15836116141941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 BOTTICELLA GRAZIANO",
+                "id": "19616",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BOTTICELLA GRAZIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.38607331785556,
+                    41.22544700753046
+                ]
+            }
+        }
+    ]
+}

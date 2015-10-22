@@ -1,0 +1,70 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GHEPARDOIL",
+                "id": "29754",
+                "amenity": "fuel",
+                "operator": "BRIGIDA MATTEO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.863774344325064,
+                    41.64147831549253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PETROL GARGANICA DI BISCEGLIA ANTONIO E GIUSEPPE SNC",
+                "id": "22274",
+                "amenity": "fuel",
+                "operator": "PETROL GARGANICA DI BISCEGLIA ANTONIO E GIUSEPPE S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.97151202181249,
+                    41.70469910477438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di Sevizio ENI",
+                "id": "20593",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PIEMONTESE ANGELO RAFFAELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.966136157512667,
+                    41.70482339637809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GHEPARDOIL - SCHIAVONE ANTONIA",
+                "id": "20980",
+                "amenity": "fuel",
+                "operator": "SCHIAVONE ANTONIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.865459442138672,
+                    41.64142539771047
+                ]
+            }
+        }
+    ]
+}

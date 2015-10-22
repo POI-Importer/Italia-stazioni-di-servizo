@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV ENERPETROLI - PORTO C.VECCHIA",
+                "id": "11140",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ENERPETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.769878570178207,
+                    42.11269060994532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SO.COM.CI. SRL",
+                "id": "9873",
+                "amenity": "fuel",
+                "operator": "SO.COM.CI. - SOCIETA COMBUSTIBILI CIVITAVECCHIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.770307754587177,
+                    42.115123867049185
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 Fidale",
+                "id": "29381",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "FIDALE GIACOMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.069344878196716,
+                    38.402021810619544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CITTANOVA",
+                "id": "26711",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ZETA GAS S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.061401516199112,
+                    38.35140798508157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COGITEL SRL",
+                "id": "30368",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "COGITEL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.077683682843713,
+                    38.40720817667999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Parrello Vincenzo",
+                "id": "11053",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PARRELLO VINCENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.07851922124689,
+                    38.35560374469177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Muratori sas di Muratori Rosa",
+                "id": "7853",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MURATORI S.A.S. DI MURATORI ROSA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.04600965976715,
+                    38.356111548996125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "POLISTENA - VIA PROV PER TAURIANOVA",
+                "id": "31876",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.06933051474994,
+                    38.402028980848286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MAMONE CONCETTA",
+                "id": "5061",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MAMONE CONCETTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.025966852903366,
+                    38.358007864169274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "area di servizio",
+                "id": "31579",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI DI ZURZOLO FRANCESCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.006248593330383,
+                    38.353347753177545
+                ]
+            }
+        }
+    ]
+}

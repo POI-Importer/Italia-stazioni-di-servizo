@@ -1,0 +1,258 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SETTE Aquino",
+                "id": "29876",
+                "amenity": "fuel",
+                "operator": "AL-GEDI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.701160444952393,
+                    41.49394794516332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "4761 tamoil GELFUSA",
+                "id": "26424",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "GELFUSA FABRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.677867203950882,
+                    41.44425805858664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP - Pontecorvo",
+                "id": "13385",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IPNA PETROLI SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.669111907661996,
+                    41.45541708791118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SELF SERVICE ESSO FOLCARELLI RICCARDO",
+                "id": "20274",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SELF-SERVICE ESSO DI FOLCARELLI RICCARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.66672396659851,
+                    41.45938151645817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "14010",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CORELLI PINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7091815753937,
+                    41.402496670124265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "G.F.G.SRL",
+                "id": "4757",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "G.F.G. SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.680952361482012,
+                    41.44264872921177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MELFINI SRL",
+                "id": "27343",
+                "amenity": "fuel",
+                "operator": "MELFINI  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.668566644191744,
+                    41.481826999940424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "repsol",
+                "id": "16150",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "MORETTI GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.706029057502747,
+                    41.50788392853743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASILINA OVEST",
+                "id": "3719",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "Polsinelli Antonio e Elio s.n.c."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6845490945816,
+                    41.496197758515976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PICO SS. 82 KM.97+357",
+                "id": "6680",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.559486567974092,
+                    41.45314825155149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil ditta ferrara luisa maria",
+                "id": "9578",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FERRARA LUISA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.688013777578021,
+                    41.38289009410939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASILINA EST",
+                "id": "3584",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "F.lli Morsilli S.r.l."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.683410321426434,
+                    41.497683706314845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Repsol FR009",
+                "id": "20939",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "IMPERO MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.557604998350143,
+                    41.49365939033622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI di Meresi Tiziano",
+                "id": "29764",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MERESI TIZIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.626441210508343,
+                    41.451853197969626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "mallozzi santamaria teresa",
+                "id": "8589",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MALLOZZI SANTAMARIA TERESA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.677940964698795,
+                    41.49392820100324
+                ]
+            }
+        }
+    ]
+}

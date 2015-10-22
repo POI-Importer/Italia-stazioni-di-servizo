@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MAESTRI CRISTIAN & C.",
+                "id": "13532",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MAESTRI CRISTIAN & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.64877736568451,
+                    43.92610289380372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "29907",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F.A.P. SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.639535814523699,
+                    43.91520294663612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "13605",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "FILIPPINI CARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.643239178504242,
+                    43.90922346821985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP -  Monte Colombo loc. Taverna",
+                "id": "13660",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ACEMA S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.557468265295027,
+                    43.91209399562272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Te.ba carburanti di Terenzi Viviana, Barbieri Andrea & C. Snc",
+                "id": "19078",
+                "amenity": "fuel",
+                "operator": "TE.BA CARBURANTI DI TERENZI VIVIANA, BARBIERI ANDREA E C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.63396218419075,
+                    43.913491014822405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP -  Tavoleto",
+                "id": "13640",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ACEMA S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.598019242286684,
+                    43.852601199429685
+                ]
+            }
+        }
+    ]
+}

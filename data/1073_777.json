@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARBURANTI DISCOUNT",
+                "id": "27176",
+                "amenity": "fuel",
+                "operator": "P.L.E.C. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.636043816804888,
+                    39.72327741279537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "3s Carburanti Lubrificanti Autolavaggio Gas auto",
+                "id": "28076",
+                "amenity": "fuel",
+                "operator": "3 S DI SCANO DIEGO  &  C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.645199537277222,
+                    39.756246901455775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TERRALBA SS. 126 KM. 112+887",
+                "id": "19753",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.638197657077853,
+                    39.724368670527554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MOGORO",
+                "id": "4050",
+                "brand": "Fiamma 2000",
+                "amenity": "fuel",
+                "operator": "FIAMMA 2000 - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.735933303833008,
+                    39.66255989469529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO Q8",
+                "id": "14773",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PISANO GIAMPAOLO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.771288841962814,
+                    39.680442547567566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni s.p.a. efisio angelo serra",
+                "id": "23021",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERRA EFISIO ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.637914457672082,
+                    39.725716756511495
+                ]
+            }
+        }
+    ]
+}

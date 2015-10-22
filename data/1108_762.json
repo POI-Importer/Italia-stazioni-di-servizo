@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ip",
+                "id": "24328",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PETROLBITUMI - SOCIETA A RESPONSABILITA LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.846251988746644,
+                    41.73782692049675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "20934",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MDS GLOBAL OIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.90377351641655,
+                    41.70367395716098
+                ]
+            }
+        }
+    ]
+}

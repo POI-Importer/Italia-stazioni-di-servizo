@@ -1,0 +1,358 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI San Martino in Strada",
+                "id": "11180",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ZAMPIERI ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.524478701188627,
+                    45.273426923076904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "uga",
+                "id": "10020",
+                "amenity": "fuel",
+                "operator": "SESINI F.LLI S.N.C. DI SESINI GIANLUCA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.53936219215393,
+                    45.33349432574942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Car Service sas",
+                "id": "12612",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CAR SERVICE S.A.S. DI GIANFRANCO FORTI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.499306082725523,
+                    45.217925227819585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LODI DALMAZIA 7",
+                "id": "6429",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.497701065676099,
+                    45.3129039770274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LODI - OLMO",
+                "id": "24811",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.529061454633847,
+                    45.29023202638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LODI-VIALE MILANO 23",
+                "id": "11624",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.492325305557188,
+                    45.319803771985185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "KEROPETROL MAIRAGO",
+                "id": "15923",
+                "amenity": "fuel",
+                "operator": "KEROPETROL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.58837017416954,
+                    45.269838694590625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lodi Sud",
+                "id": "4710",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.522850513458252,
+                    45.30144320349465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN MARTINO IN STRADA-VIA EMILIA KM. 292",
+                "id": "11625",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.536098076057442,
+                    45.28230188724045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MARAZZINA FERDINANDO - KEROPETROL",
+                "id": "22298",
+                "amenity": "fuel",
+                "operator": "MARAZZINA FERDINANDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.493148401379585,
+                    45.26376691645091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "5114",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "NURE - S.A.S. DI RAUL CRESCIMANNA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.530759627317138,
+                    45.289563780680794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rivel  snc",
+                "id": "6324",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "RIVEL S.N.C. DI MICHELI TIZIANO E BELLONI ERNESTINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.493153095245361,
+                    45.30196314901377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Europam",
+                "id": "26314",
+                "amenity": "fuel",
+                "operator": "MANCASTROPPA ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.598307233898936,
+                    45.228397958013964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio di Pocchia Pasquale ad insegna Q8",
+                "id": "25970",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "POCCHIA PASQUALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.493281841278076,
+                    45.299539211159484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LODI - GIUSEPPE MAZZINI",
+                "id": "31903",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.507728841127118,
+                    45.30683850934115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip",
+                "id": "15229",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SESINI E CASTOLDI SNC DI SESINI MASSIMILIANO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.515738636255264,
+                    45.29842191599188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VARESI CARBURANTI SAS",
+                "id": "21639",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "VARESI CARBURANTI S.A.S. DI VARESI L. & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.505330324172974,
+                    45.296555180245875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg",
+                "id": "27470",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PIARA S.N.C. DI F.LLI SINGH PARMJIT E SINGH TARLOCHAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.535279870033264,
+                    45.24754073364756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "22911",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "OCCHIATO FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.529030323028566,
+                    45.29021906521981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lodi Nord",
+                "id": "4711",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.52366590499878,
+                    45.30065459770969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni p.le crema",
+                "id": "14608",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PAGANI LUCIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.510071933065774,
+                    45.320048268191826
+                ]
+            }
+        }
+    ]
+}

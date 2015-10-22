@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP di SERRAVALLE",
+                "id": "19010",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PEDRIALI GUIDO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.044820338487625,
+                    44.96400427614232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "POZZATI DENNJ",
+                "id": "31748",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "POZZATI DENNJ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.977486381614654,
+                    44.88163713789072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PAVANI SANDRO",
+                "id": "12113",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PAVANI SANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.977491746032683,
+                    44.88162953580146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA DI SERVIZIO AGIP BIANCHI E CREPALDI SNC",
+                "id": "4573",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BIANCHI MAURA E CREPALDI ENRICO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.10303097963333,
+                    44.89903394355447
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "29307",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PERETTI EUGENIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.402344286441803,
+                    45.87480095192601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OMEGNA FZ. CRUSINALLO-VIA IV NOVEMBRE SS. 229",
+                "id": "11929",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.412210728836044,
+                    45.89498506598475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE TOTALERG",
+                "id": "21074",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ALBERGANTI DANIELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.410224506151621,
+                    45.89073566895314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg di Possenti Michele",
+                "id": "16908",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE ERG DI POSSENTI MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.431182155155966,
+                    45.92629882239028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione esso di primitivi fausto",
+                "id": "23364",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PRIMITIVI FAUSTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.433194518385335,
+                    45.9278466802394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP GRUPPO API",
+                "id": "5115",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MAZZONETTO MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.429161012172699,
+                    45.941520374711125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "22476",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DEL BOCA STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.41192021349184,
+                    45.86224581436982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OMEGNA STRADA RER CRUSINALLO",
+                "id": "6416",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.409241701852352,
+                    45.883381745717614
+                ]
+            }
+        }
+    ]
+}

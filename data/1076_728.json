@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Raineri Motors di Raineri Paolo",
+                "id": "14799",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "RAINERI MOTORS DI RAINERI PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.2624127116394,
+                    45.97753126770965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "4064",
+                "id": "22640",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "T.D.M. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.261382073163986,
+                    45.97405405165971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil mauro campana",
+                "id": "18927",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CAMPANA MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.302123486995697,
+                    46.04134255991146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "10862",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LARIO CENTRO S.A.S. DI TRAVELLA CARLO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.22312865889546,
+                    45.98255347824575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "25728",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GRANDOLA CARBURANTI DI ORTELLI GIOVANNI S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.207199793229504,
+                    46.02571705624464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "9503",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BOTTA GIOVANNI TAMOIL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.19162693750377,
+                    45.969555917953514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "9347",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PONCIA MAURO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.23607562698362,
+                    46.01729470776219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CONCA GIORDANO STAZIONE AGIP",
+                "id": "18863",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CONCA GIORDANO STAZIONE AGIP"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.302356168627739,
+                    46.04017546179714
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BC",
+                "id": "10605",
+                "amenity": "fuel",
+                "operator": "ENERGIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.18006370393073,
+                    45.22722657632611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PR lova",
+                "id": "4887",
+                "amenity": "fuel",
+                "operator": "PREO & RIGON - SOCIETA' IN NOME COLLETTIVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.134726643562317,
+                    45.33208618929214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "dorigo gianluca",
+                "id": "9047",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DORIGO GIANLUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.154660820960997,
+                    45.236230379525374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "30167",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DE ANTONI SILVANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.19724491238594,
+                    45.22382394629684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "vallicarburanti conche",
+                "id": "14481",
+                "amenity": "fuel",
+                "operator": "VALLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.161558121442797,
+                    45.23468949812669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 3718",
+                "id": "25900",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.189781665802004,
+                    45.22498049342693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "21333",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VI.SCA. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.30062161020453,
+                    45.263799855541684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip",
+                "id": "4911",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GUIDARINI PIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.137553691864014,
+                    45.24808534460462
+                ]
+            }
+        }
+    ]
+}

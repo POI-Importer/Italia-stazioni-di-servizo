@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE CARBURANTI ENI",
+                "id": "15970",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MANNU ANTONIO E FRATELLI & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.490579532575568,
+                    40.29748358855091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "impianto tamoil",
+                "id": "31475",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CARTA MARIA GRAZIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.550136685371399,
+                    40.275582419154134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "impianto tamoil",
+                "id": "30748",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CARTA MARIA GRAZIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.550136685371399,
+                    40.275582419154134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Scanu Nicola",
+                "id": "22638",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SCANU NICOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.564506828935919,
+                    40.187845359016826
+                ]
+            }
+        }
+    ]
+}

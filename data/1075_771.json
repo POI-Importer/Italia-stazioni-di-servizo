@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stzione servizio esso doneddu",
+                "id": "16408",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DONEDDU MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.101569354534147,
+                    40.576120176069125
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE Q8 DI UCCHEDDU ALBERTO",
+                "id": "29234",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE Q8 DI UCCHEDDU ALBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.77368539571762,
+                    38.96748485441563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SOSTA MARE - TAMOIL",
+                "id": "9421",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SOSTA MARE S.N.C. DI SEU GIULIANA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.643271028995514,
+                    39.00362147724099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 IBBA MICHELE",
+                "id": "9097",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "IBBA MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.629070073366165,
+                    39.06967944359839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ornella Carburanti",
+                "id": "15405",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ORNELLA CARBURANTI DI MASCIA ALBERTINA E G. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.630290478467941,
+                    39.047567412736626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore ESSO",
+                "id": "20852",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SANNA GIANLUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.761197701096535,
+                    38.96242355450422
+                ]
+            }
+        }
+    ]
+}

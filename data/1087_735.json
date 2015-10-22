@@ -1,0 +1,208 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Total Erg",
+                "id": "9022",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BOLOGNA DINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.224362105329305,
+                    45.187030874295296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "12659",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BOZZOLIN CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.20371177792549,
+                    45.19122220022552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DELTA ENERGY SRL - Casaleone",
+                "id": "23845",
+                "brand": "Delta energy",
+                "amenity": "fuel",
+                "operator": "DELTA ENERGY S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.19364836314344,
+                    45.17856158574697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Metanauto Casaleone S.r.l.",
+                "id": "27285",
+                "amenity": "fuel",
+                "operator": "METANAUTO CASALEONE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.188129484653473,
+                    45.19289449558798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IES di Casaleone",
+                "id": "28846",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "BALLOTTARI GIORGIO PATRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.20118666745907,
+                    45.16918973799928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REPSOL BRENNERO NORD",
+                "id": "29464",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "ROME S.N.C. DI ALI A., IQBAL N. E ROME I."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.140752956271172,
+                    45.08987160899912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL1656 ONGARO LUCA",
+                "id": "30844",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ONGARO LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.178444538692474,
+                    45.181137267790575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NI011916 NOGARA",
+                "id": "29416",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CORO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.076135858893394,
+                    45.16475428448828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.LLI ZANOLLI S.A.S. DI ZANOLLI PARIDE & C.",
+                "id": "13808",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "F.LLI ZANOLLI S.A.S. DI ZANOLLI PARIDE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.111070960760117,
+                    45.146113891059535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SANGUINETTO S.S. 10",
+                "id": "6504",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.14915071842006,
+                    45.18447103646107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Quadrifoglio Esso",
+                "id": "7360",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "QUADRIFOGLIO S.A.S. DI SCHIAVO GIORGIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.222680040753177,
+                    45.1873112069152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "18254",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PETROCAR S.N.C. DI DALLASERRA ROBERTO E FRANCHI LUCIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.208045050262399,
+                    45.192598121778694
+                ]
+            }
+        }
+    ]
+}

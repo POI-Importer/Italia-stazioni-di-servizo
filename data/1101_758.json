@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NAVELLI",
+                "id": "30785",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.695498704910278,
+                    42.24934568018492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "14092",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "COLICCHIA GABRIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.549785017967224,
+                    42.28957573268648
+                ]
+            }
+        }
+    ]
+}

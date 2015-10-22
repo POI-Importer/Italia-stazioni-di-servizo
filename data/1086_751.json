@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "keropetrol",
+                "id": "15366",
+                "amenity": "fuel",
+                "operator": "SOZZI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.015451550483704,
+                    43.07839327334394
+                ]
+            }
+        }
+    ]
+}

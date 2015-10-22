@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL VISANI",
+                "id": "17828",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "VISANI CARBURANTI DI VISANI VALERIO E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.73917591571808,
+                    44.20520819305719
+                ]
+            }
+        }
+    ]
+}

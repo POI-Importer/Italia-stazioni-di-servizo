@@ -1,0 +1,392 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BTP CARBURANTI",
+                "id": "23066",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BTP CARBURANTI DI BUTTACCIO TARDIO PABLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.073588698147546,
+                    43.7670500528945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONDOLFO - PONTE RIO",
+                "id": "25480",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10199731779096,
+                    43.73268449526937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FANO",
+                "id": "22303",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.066504597663881,
+                    43.818439521754996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore di carburante di Vitali Stefano",
+                "id": "30514",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE DI CARBURANTE DI VITALI STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.038716908073411,
+                    43.83416869216822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PM  PETROLI MARCHE",
+                "id": "31678",
+                "amenity": "fuel",
+                "operator": "PETROLI-MARCHE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.098434954881668,
+                    43.75160159213526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO IP F.LLI PERETTI FANO",
+                "id": "16332",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "F.LLI PERETTI S.N.C. DI PERETTI EMANUELE & MIRCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.01331958836056,
+                    43.83414211979476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SENIGALLIA S.S. 16 KM 267+542 CESANO",
+                "id": "6607",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.175985344180274,
+                    43.745021495403144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "10155",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GIULINI DAVIDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.122407197952269,
+                    43.779035917251406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP dei F.lli Giorgini & C. snc",
+                "id": "20548",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "F.LLI GIORGINI & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.009105324745182,
+                    43.82172482074238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FANO VIA SANDRO PERTINI SNC",
+                "id": "6554",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.011801584655815,
+                    43.8329129255964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO - VULCANGAS",
+                "id": "8442",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MARIOTTI TIZIANO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.076055943965912,
+                    43.7101692818555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TRE P",
+                "id": "10274",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TRE P DI PAZZAGLIA CLAUDIO, DELONTE PAOLO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.036550258721945,
+                    43.82286805849965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chiaruccia",
+                "id": "5339",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO API S.N.C. DI ZAMBELLI DAVIDE GINO, VAGNINI MIRKO E CAVALLINI FABRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.010961413383484,
+                    43.80151163887066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio IP - Gregorini Adrio",
+                "id": "27604",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GREGORINI ADRIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.178112503110471,
+                    43.743777037991165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "METAURO OVEST",
+                "id": "3649",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PIETR.OIL SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1449,
+                    43.754799999999996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Auchan",
+                "id": "23487",
+                "brand": "Auchan",
+                "amenity": "fuel",
+                "operator": "AUCHAN S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.011116981506348,
+                    43.79911499255413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA DI SERVIZIO IL BUON CAFFE'",
+                "id": "27612",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "AREA DI SERVIZIO IL BUON CAFFE' DI FRATTESI LAURA E TONUCCI ALESSANDRO SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.017784953117374,
+                    43.816714357689506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gieffe Gestioni srl",
+                "id": "15525",
+                "amenity": "fuel",
+                "operator": "GIEFFE GESTIONI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.08581918478012,
+                    43.719608847120845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "METAURO EST",
+                "id": "3992",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PIETR.OIL S.A.S. DI PIETRALUNGA PIETRO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.14560229409642,
+                    43.7556475230565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LOTITO MICHELE",
+                "id": "4571",
+                "amenity": "fuel",
+                "operator": "LOTITO MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.053952344180288,
+                    43.82369397028794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Savelli Maurizio e Massimo & C.snc",
+                "id": "5340",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SAVELLI MAURIZIO E MASSIMO & C.  - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.113955025795008,
+                    43.78401771150505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONDOLFO SS.16 KM.265 567 LOC.MAROTTA",
+                "id": "6552",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.157566647885117,
+                    43.756851472540774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "staz di serv. f.lli marzoli",
+                "id": "8906",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO F.LLI MARZOLI SNC DI MARZOLI SAMUELE E MARZOLI GIANLUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.143779551203123,
+                    43.76567465005707
+                ]
+            }
+        }
+    ]
+}

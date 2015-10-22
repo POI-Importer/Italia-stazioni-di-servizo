@@ -1,0 +1,191 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV ENERPETROLI - TORRI IN SABINA",
+                "id": "11126",
+                "brand": "Enerpetroli",
+                "amenity": "fuel",
+                "operator": "ENERPETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.639044970273972,
+                    42.3551026754519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FLAMINIA OVEST",
+                "id": "3522",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI FLAMINIA OVEST SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.491860525131187,
+                    42.31613026675804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DONATI SILVIO",
+                "id": "7593",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "DONATI SILVIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.588928737434342,
+                    42.29978566212287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FLAMINIA EST",
+                "id": "3600",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "cingolani marco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.492685830688515,
+                    42.317068896244635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP DI PERTICARANI DANIELE",
+                "id": "27293",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP DI PERTICARANI DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.480912569523298,
+                    42.36263832701846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Tamoil di Maria Ida De Angelis",
+                "id": "15353",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "DE ANGELIS MARIA IDA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.56683319807053,
+                    42.40522247868635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di Servizio IP di Angelelli Devid",
+                "id": "27118",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ANGELELLI DEVID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.622699588537214,
+                    42.30900374753209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MAGNONI MARIO",
+                "id": "22188",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MAGNONI MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.48424865305424,
+                    42.36235300721217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "23984",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CACERES ARRIOLA MIGUEL ANGEL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.594318464398384,
+                    42.37023940174239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil collevecchio",
+                "id": "23983",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CACERES ARRIOLA MIGUEL ANGEL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.504216358065607,
+                    42.32656791530172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tuscia Petroli",
+                "id": "15032",
+                "amenity": "fuel",
+                "operator": "ECOGESTIONE S.N.C. DI SPERANZA CINZIA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.58444458246231,
+                    42.31943482973986
+                ]
+            }
+        }
+    ]
+}

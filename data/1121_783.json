@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carburanti e Lubrificanti Petrolillo Francecso",
+                "id": "26594",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PETROLILLO FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.092181816697117,
+                    38.95895599350917
+                ]
+            }
+        }
+    ]
+}

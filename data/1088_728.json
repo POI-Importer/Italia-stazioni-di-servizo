@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FIRMIN",
+                "id": "16971",
+                "brand": "Firmin",
+                "amenity": "fuel",
+                "operator": "MAX LINE SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.259127557277678,
+                    45.99661056731985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORO F.LLI SPA",
+                "id": "25673",
+                "brand": "Loro",
+                "amenity": "fuel",
+                "operator": "LORO F.LLI-S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.289508515065792,
+                    46.00423636806818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GNP MARTER",
+                "id": "4408",
+                "brand": "GNP",
+                "amenity": "fuel",
+                "operator": "GRUPPO NORD PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.395140460633684,
+                    46.03427284759555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "5008",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "G.M. SNC DI CONTIERO DAVIDE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.422868371009827,
+                    46.04481931798304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE AGIP DI STEFANI FEDERICO & C. SNC_",
+                "id": "8052",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAZIONE AGIP DI STEFANI FEDERICO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.295454055070875,
+                    46.00289597816724
+                ]
+            }
+        }
+    ]
+}

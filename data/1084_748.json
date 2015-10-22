@@ -1,0 +1,174 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore IP",
+                "id": "26768",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CERELLI ELISABETTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.641525439923496,
+                    43.55504510066319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "API IP Gestione Cobel Srl (Chianni)",
+                "id": "29424",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "COBEL - COMMERCIO BENZINA LUBRIFICANTI - S.R.L. O COBEL - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.640430450439453,
+                    43.48633940460526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "QUATTROPETROLI",
+                "id": "12484",
+                "amenity": "fuel",
+                "operator": "ACERBI ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.594018176198007,
+                    43.570370679897266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Di Rifornimento IP di salonicchi michele",
+                "id": "9330",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI RIFORNIMENTO IP DI SALONICCHI MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.689011525629779,
+                    43.56766601891333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TERRICCIOLA - SOIANELLA",
+                "id": "31110",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.641527580356637,
+                    43.555047516588104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore IP di Cerelli Elisabetta",
+                "id": "12756",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CERELLI ELISABETTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.704186034393274,
+                    43.542431115255845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil di Vanni Giacomo",
+                "id": "5388",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "VANNI GIACOMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.69823741912842,
+                    43.54698897022325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASCIANA TERME",
+                "id": "24186",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TIBER S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.619789123535156,
+                    43.535743713378906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE BEYFIN",
+                "id": "4847",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BOVE GRAZIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.710580945014954,
+                    43.56557277944743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASCIANA TERME V.DANTE ALIGHIERI 29",
+                "id": "6557",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.620603561401367,
+                    43.52447958466973
+                ]
+            }
+        }
+    ]
+}

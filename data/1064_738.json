@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "25839",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "LAIOLO LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1669965982437125,
+                    44.80682140923855
+                ]
+            }
+        }
+    ]
+}

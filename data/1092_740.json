@@ -1,0 +1,202 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Amadesi Alberto",
+                "id": "18249",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "AMADESI ALBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.040411017196673,
+                    44.50833666190003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "6895",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CACCHI GIAMPIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.087802160188174,
+                    44.466401593458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE AVIA FUSIGNANO",
+                "id": "14421",
+                "amenity": "fuel",
+                "operator": "NUOVA C.L.A.R.  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.963649828836084,
+                    44.465882501123474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni",
+                "id": "17508",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MANARA PIER PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0355224609375,
+                    44.51056949166205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FUSIGNANO  SEVEROLI",
+                "id": "31130",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.964669154596322,
+                    44.46663924072555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "_robgas pv1",
+                "id": "4586",
+                "amenity": "fuel",
+                "operator": "ROBGAS COMMERCIALE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.054402530193327,
+                    44.49886234763886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "METANO",
+                "id": "29912",
+                "amenity": "fuel",
+                "operator": "COATTI SILVANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.10085704922676,
+                    44.574205235527515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FARINA SILVESTRO",
+                "id": "21637",
+                "amenity": "fuel",
+                "operator": "FARINA SILVESTRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.080863610410347,
+                    44.565012722868396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Metano Rossetta",
+                "id": "17813",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "METANO ROSSETTA DI TARRONI GIANLUCA & FROLLO ALESSANDRO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.041167101396923,
+                    44.49082398743595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ASSO",
+                "id": "10871",
+                "amenity": "fuel",
+                "operator": "CATTANI ALEX"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.025874217474326,
+                    44.50690817728098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AVIA",
+                "id": "13486",
+                "amenity": "fuel",
+                "operator": "ROMAGNOLI ODDONE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.011700932540862,
+                    44.58653159023683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE STELLINI GIANLUCA",
+                "id": "20359",
+                "amenity": "fuel",
+                "operator": "STELLINI GIAN LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.956412979762261,
+                    44.46586228085896
+                ]
+            }
+        }
+    ]
+}

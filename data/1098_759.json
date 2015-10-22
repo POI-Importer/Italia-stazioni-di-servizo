@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TURANENSE",
+                "id": "18581",
+                "amenity": "fuel",
+                "operator": "PETROLMEG SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.058924674987795,
+                    42.09618123938425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CIPOLLONI ALESSANDRO",
+                "id": "30054",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CIPOLLONI ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.042206466197968,
+                    42.06335266051887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ARSOLI",
+                "id": "30197",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "T. PETROL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.016190381571503,
+                    42.04142928226553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CIVITA SUD",
+                "id": "3886",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERAFINI GIANCARLO & C. S.A.S. DI SERAFINI DAVIDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.03721755743027,
+                    42.06596915385447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CIVITA NORD",
+                "id": "3502",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "EREDI TABACCHI PAOLO SAS DI DONATELLA DI GIOVANNI & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.037335574626926,
+                    42.067064305505355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARSOLI TIBURTINA",
+                "id": "18591",
+                "amenity": "fuel",
+                "operator": "DIBEOL ECOLOGICA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.06410402059555,
+                    42.08608108966498
+                ]
+            }
+        }
+    ]
+}

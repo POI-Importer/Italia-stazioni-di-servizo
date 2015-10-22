@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GIAIMO ANTONIO",
+                "id": "22271",
+                "amenity": "fuel",
+                "operator": "GIAIMO  ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.192226800000002,
+                    37.9154506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 TUSA",
+                "id": "11226",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "LOMBARDO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.236629449101656,
+                    37.98173718975791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "9683",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "LEONARDA BARTOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.15432006120682,
+                    37.86428139865288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 di Sferruzza Pietro",
+                "id": "9016",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SFERRUZZA PIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.090185761451721,
+                    37.934170688963825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "21964",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CARABILLO' PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.091732054948807,
+                    37.935632065563155
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP 41105 Di Vittoria Scocca",
+                "id": "20749",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SCOCCA VITTORIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.914482241094449,
+                    41.50863537445845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO IP N. 47511",
+                "id": "15251",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LINEA GOMME S.N.C. DI IAPALUCCI LINA, MIGNOGNA GIUSEPPE E PASSARE LLI FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.799289810450773,
+                    41.517774866098925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DI BONA SALVATORE",
+                "id": "21894",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "DI BONA SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.783518016338348,
+                    41.565018145450146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "20823",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DITTA IACOVELLI ANTONIO DI IACOVELLI PIETRO & MICHELINO - SOCIETA ' IN NOME COLLETTIVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.884641319513321,
+                    41.53439497832943
+                ]
+            }
+        }
+    ]
+}

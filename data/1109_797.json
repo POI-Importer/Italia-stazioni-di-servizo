@@ -1,0 +1,123 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA CIRCON.AVOLA",
+                "id": "5174",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.114661661376884,
+                    36.89750559951372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "trapani",
+                "id": "24479",
+                "amenity": "fuel",
+                "operator": "TRAPANI SALVATORE E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.07233090296927,
+                    36.88703703253466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "euroenergy",
+                "id": "25497",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "EURO ENERGY DI LATINO ASSUNTA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.061512887477878,
+                    36.881312093814934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SP Energia Siciliana",
+                "id": "31424",
+                "brand": "SP Energia Siciliana",
+                "amenity": "fuel",
+                "operator": "LENTINI SERGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.077187716960909,
+                    36.88490885026238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "32116",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ALICATA CORRADO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.076527893543245,
+                    36.88961323346433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Esso di Leanti Nunzio",
+                "id": "18021",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LEANTI NUNZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.077025443315502,
+                    36.8853591569425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SP PACH.-NOTO C.DA PASSO ABATE",
+                "id": "29296",
+                "brand": "Giap",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.083767961971262,
+                    36.880109436441295
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni 39404",
+                "id": "18804",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ARCURACI GAETANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.347449644705192,
+                    38.01328961428681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio Q8 marguglio angelo",
+                "id": "31104",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MARGUGLIO ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.334966838359831,
+                    38.014036232490945
+                ]
+            }
+        }
+    ]
+}

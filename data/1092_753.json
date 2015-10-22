@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE IP DI PASQUALETTI MARCO",
+                "id": "7922",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PASQUALETTI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.067994624376297,
+                    42.851002632538204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTELEONE D'ORVIETO",
+                "id": "30701",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.054983228445053,
+                    42.921804289888634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA DI SERVIZIO FONDOVALLE DEI F.LLI PISTELLA ALFREDO, ANTONIO E C. S.N.C.",
+                "id": "4279",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "AREA DI SERVIZIO FONDOVALLE DEI F.LLI PISTELLA ALFREDO, ANTONIO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.967716699061612,
+                    42.93206870817178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FABRO OVEST",
+                "id": "3855",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI RETE OIL&NONOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0180344581604,
+                    42.87565157135933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG EUROFUEL SAS",
+                "id": "18360",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "EUROFUEL SAS DI CINFRIGNINI E SILVESTRINI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.037484496831892,
+                    42.87667073115646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FABRO EST",
+                "id": "3905",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "memo s.a.s."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.018480058860746,
+                    42.87667174013964
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DOMITIA SERVICE S.A.S.",
+                "id": "5320",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DOMITIA SERVICE DI ANTONIO D'AMATO S.A.S. IN SIGLA: DOMITIA SERVICE S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.876746296882631,
+                    41.11792238031171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "21728",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SANTORO BRUNO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.852487824398054,
+                    41.202226166007875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ECO TRADING AREA SRL",
+                "id": "14043",
+                "amenity": "fuel",
+                "operator": "ECO TRADING AREA S.R.L. - DISTRIBUZIONE CARBURANTI ECOLOGICI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.798252791166307,
+                    41.22701403525159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "30775",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F.LLI CERRETO S.A.S. DI ROBERTO CERRETO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.765236139297489,
+                    41.243108500791436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SS.DOMIZIANA - MONDRAGONE",
+                "id": "28080",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.883546084655793,
+                    41.11278021261193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "baia fuel",
+                "id": "13714",
+                "amenity": "fuel",
+                "operator": "SANTILLI ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.810746520757677,
+                    41.19249496337749
+                ]
+            }
+        }
+    ]
+}

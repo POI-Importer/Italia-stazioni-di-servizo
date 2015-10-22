@@ -1,0 +1,157 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MOLINELLA",
+                "id": "5780",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TotalErg SpA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.671568533729555,
+                    44.63175218248276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "metano la palazzina",
+                "id": "12994",
+                "amenity": "fuel",
+                "operator": "LA PALAZZINA  SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.67128273558194,
+                    44.6314275052369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MOLINELLA VIA PROVINCIALE SUPERIORE 16",
+                "id": "6545",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.663959055819761,
+                    44.617571320383945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ip",
+                "id": "23132",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SORRISO S.A.S. DI ALESSANDRO CEVININI E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.755945086479189,
+                    44.6957870637274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO IES",
+                "id": "20154",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "EREDI MINARELLI DI MAROZZI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.603116840124128,
+                    44.66949561936212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE AGIP",
+                "id": "13071",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RENO GAS ENERGY S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.63756713271141,
+                    44.61280474993638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.LLI BRUNI DI BRUNI TIBERIO E C. SNC",
+                "id": "11264",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "F.LLI BRUNI DI BRUNI TIBERIO E C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.652347445487976,
+                    44.615712665459114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "31134",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CALZOLARI PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.643571257591248,
+                    44.66235381750818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI di ONGARO e MARANI",
+                "id": "10163",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ONGARO & MARANI DI ONGARO MAURO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.661336809262139,
+                    44.617206793795646
+                ]
+            }
+        }
+    ]
+}

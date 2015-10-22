@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIFORNIMENTO IP DI CANTARERO ANGELO",
+                "id": "21239",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CANTARERO ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.636583924293518,
+                    37.648421335903244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "12817",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CASTIGLIONE GIUSEPPINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.738852568122867,
+                    37.622552106622486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA PALERMO REGALBUTO",
+                "id": "29452",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.634047895669935,
+                    37.64769778687417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "8380",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BONIFACIO ANGELA RITA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.740848265292696,
+                    37.62213824088961
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,439 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tuscanese",
+                "id": "4083",
+                "brand": "Cancellieri carburanti",
+                "amenity": "fuel",
+                "operator": "CANCELLIERI CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.078169584274292,
+                    42.42967721523677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENERPETROLI",
+                "id": "29263",
+                "amenity": "fuel",
+                "operator": "RENZETTI VALENTINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.973863840103148,
+                    42.52064101336608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VITERBO LOC. SEMIANELLO",
+                "id": "23286",
+                "amenity": "fuel",
+                "operator": "EPP DI FARINA ANTONIO E C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.108914405107498,
+                    42.432465043554856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.S. Cassia Nord Km.84,3 viterbo",
+                "id": "20783",
+                "brand": "Cancellieri carburanti",
+                "amenity": "fuel",
+                "operator": "CANCELLIERI NEWCO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.095314264297487,
+                    42.434250281309474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENERPETROLI VITERBO,VIA VICENZA",
+                "id": "24220",
+                "brand": "Enerpetroli",
+                "amenity": "fuel",
+                "operator": "ENERPETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.101011276245117,
+                    42.424462324962256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VITERBO TUSCANESE",
+                "id": "29150",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.076570987701418,
+                    42.42923691624034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio oasi",
+                "id": "5207",
+                "amenity": "fuel",
+                "operator": "PICCIAIA ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.073462307453157,
+                    42.46332994210565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Viterbo",
+                "id": "9417",
+                "amenity": "fuel",
+                "operator": "I.C.M. SOCIETA' IN NOME COLLETTIVO DI BRUNO, CRISTIANO E FABRIZIO MAGGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.10622379444271,
+                    42.427117487028035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV ENERPETROLI - VT POGGINO",
+                "id": "23332",
+                "brand": "Enerpetroli",
+                "amenity": "fuel",
+                "operator": "ENERPETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.093592286109924,
+                    42.44070822845635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "23129",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "A.S.C. S.A.S. DI CAPOCECERA ALESSIA  E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.036819613977856,
+                    42.544375648903156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Montefiascone",
+                "id": "4084",
+                "brand": "Cancellieri carburanti",
+                "amenity": "fuel",
+                "operator": "CANCELLIERI CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.053532153367998,
+                    42.51377177225954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Viterbo",
+                "id": "10272",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.098983526229858,
+                    42.4258737934617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Via Danielli",
+                "id": "25228",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CANCELLIERI NEWCO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.099383175373077,
+                    42.42418077979504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FELGAS VITERBO",
+                "id": "17573",
+                "amenity": "fuel",
+                "operator": "FELGAS PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.071732763618458,
+                    42.476310784357494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP BACCHIARRI GIOVANNI",
+                "id": "15094",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BACCHIARRI GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.036312371492386,
+                    42.542255236174775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Teverina Servizi s.n.c.",
+                "id": "14552",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TEVERINA SERVIZI SNC DI PEPPONI ALESSANDRO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.105102315545082,
+                    42.43012543004185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "male luigi",
+                "id": "12707",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MALE' LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.121087610721588,
+                    42.42719138624042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MANZI PETROLI",
+                "id": "14744",
+                "amenity": "fuel",
+                "operator": "MANZI PETROLI S.A.S. DI MANZI ANNA MARIA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.030812501907349,
+                    42.5500215946191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VITERBO-VIA GARBINI SNC C.C LECLERC/CONAD",
+                "id": "11968",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.09453218650822,
+                    42.43721583613307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg di Vagnetti Simone",
+                "id": "32067",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "VAGNETTI SIMONE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.10395097732544,
+                    42.43429165513401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Imp. Grotte",
+                "id": "24078",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CANCELLIERI NEWCO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.122420668601988,
+                    42.522646327517116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VITERBO",
+                "id": "26664",
+                "amenity": "fuel",
+                "operator": "ZETA GAS S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.11591362953186,
+                    42.495026484396774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV ENERPETROLI - VT PALAZZINA",
+                "id": "12131",
+                "brand": "Enerpetroli",
+                "amenity": "fuel",
+                "operator": "ENERPETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.101693898439406,
+                    42.424077605682285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TUSCIA PETROLI SRL",
+                "id": "14572",
+                "amenity": "fuel",
+                "operator": "TUSCIA PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.086695210450785,
+                    42.45034844179717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "valentini sas",
+                "id": "12722",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VALENTINI LUIGI & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.099495828151703,
+                    42.43331886785475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "P.V. ENERPETROLI - VT CASSIA NORD",
+                "id": "32179",
+                "brand": "Enerpetroli",
+                "amenity": "fuel",
+                "operator": "ENERPETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.096811417907702,
+                    42.42875463769863
+                ]
+            }
+        }
+    ]
+}

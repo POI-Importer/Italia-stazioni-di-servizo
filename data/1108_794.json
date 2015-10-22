@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.P. 105 C.DA FINOCCHIARO",
+                "id": "30739",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.908047616481783,
+                    37.42059983232252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI - FIA SERVICE",
+                "id": "30658",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FISICARO ALFIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.898249506950378,
+                    37.32229099913516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "POMPA BIANCA",
+                "id": "9244",
+                "amenity": "fuel",
+                "operator": "GIAMPAPA   SEBASTIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.859113395214079,
+                    37.30034697089914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 9556",
+                "id": "30760",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.817560613155365,
+                    37.38000852451023
+                ]
+            }
+        }
+    ]
+}

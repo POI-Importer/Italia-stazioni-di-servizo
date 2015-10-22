@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Q8",
+                "id": "10548",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SABA GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.493215282139545,
+                    39.439769161227424
+                ]
+            }
+        }
+    ]
+}

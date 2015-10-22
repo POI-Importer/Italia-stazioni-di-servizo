@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIRAS FRANCESCO",
+                "id": "13045",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PIRAS FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.390193131282784,
+                    39.49369774278086
+                ]
+            }
+        }
+    ]
+}

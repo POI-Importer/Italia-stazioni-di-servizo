@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DBS Serv. Petroliferi srl P.Armerina",
+                "id": "23768",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DBS SERVIZI PETROLIFERI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.370184913277626,
+                    37.38297552422039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Harpoil",
+                "id": "24455",
+                "brand": "Harpoil",
+                "amenity": "fuel",
+                "operator": "A.R.P.A.-AIELLO RIVENDITA PRODOTTI PER L'AGRICOLTURA DI AIELLO SEBASTIANO S.R.L.    CON SIGLA \"A.R.P.A. S.R.L. \""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.37227636575699,
+                    37.39192738954185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO CIMAENZA SAS DI GRECO MASSIMO",
+                "id": "17570",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CIMAENZA S.A.S. DI GRECO MASSIMO & C. E QUALE SIGLA CIMAENZA S .A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.372195556483463,
+                    37.38938461665013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "self area eni di Aronica Marco",
+                "id": "4025",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ARONICA MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.363509565591812,
+                    37.37537908001354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIAZZA ARMERINA VIA CHIARANDA', 93",
+                "id": "23686",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3691935220902,
+                    37.387458257202795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Self Area Eni di Maenza antonino",
+                "id": "17642",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MAENZA ANTONINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3718820810318,
+                    37.39103320967382
+                ]
+            }
+        }
+    ]
+}

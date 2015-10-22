@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO DI GIONTA NICOLA",
+                "id": "23760",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GIONTA NICOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.750664076377006,
+                    46.31150727699931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vegher Ivano Distributore IP",
+                "id": "27537",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "VEGHER IVANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.759239206789744,
+                    46.31139701616013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP-POLCHI S.N.C.",
+                "id": "8447",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "POLCHI S.N.C. DI PAOLO POLLINI & MATTIA CHIODEGA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.826287742707677,
+                    46.227360931745395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area servizio Fucine",
+                "id": "23560",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CAR SERVICE DI COSTANZI RUGGERO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.732175381934667,
+                    46.31121137269864
+                ]
+            }
+        }
+    ]
+}

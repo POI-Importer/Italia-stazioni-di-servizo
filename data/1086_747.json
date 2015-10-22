@@ -1,0 +1,157 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "aquila",
+                "id": "28716",
+                "brand": "Aquila",
+                "amenity": "fuel",
+                "operator": "R.C.M. DI MOIO NICOLA & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.98939388990402,
+                    43.58877087703086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "26072",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FOSSI M. & BARILI F.SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.907782316207886,
+                    43.701894408291864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ECO BLU SUPER...CORTESIA SNC",
+                "id": "23880",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ECO BLU SUPER ... CORTESIA DI LUCIA GHIZZANI E ANDREA CHESI S.N.C"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.967869162559508,
+                    43.61521686727322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTELFIORENTINO",
+                "id": "24982",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "OIL SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.96895545721054,
+                    43.59298181890575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "10861",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MANETTI GIANCARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.963396220901474,
+                    43.620037778081205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GAGGIOLI E CALONACI",
+                "id": "15746",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "F.LLI GAGGIOLI E CALONACI DI CALONACI GIANNI & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.961112678050995,
+                    43.69174979448175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "13654",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TOGNAZZI MARIDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.96646435558796,
+                    43.60068395641006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Marco Gozzi",
+                "id": "14215",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GOZZI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.065101251006126,
+                    43.64608012296584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MALORI FUELS AND EXTRA",
+                "id": "25218",
+                "amenity": "fuel",
+                "operator": "EREDI DI MALORI ALVARO S.D.F. DI MONCINI RINA E FIGLI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.965288877487184,
+                    43.582453911686194
+                ]
+            }
+        }
+    ]
+}

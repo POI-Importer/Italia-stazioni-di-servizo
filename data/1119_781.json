@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso di carvelli veronica & c. s.a.s.",
+                "id": "25292",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CARVELLI VERONICA & C. S.A.S"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.778501085041853,
+                    39.159098972769904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO ENI",
+                "id": "29822",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MAURO SANTO S.A.S. DI SEMINARA FRANCESCO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.85624197125435,
+                    39.122450547782634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "9337",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FRATELLI BIAFORA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.86686486005783,
+                    39.1893166238458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP GRUPPO API",
+                "id": "21030",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "D&F SAS DI DRAGO DONATELLA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.789531409740448,
+                    39.16016677460663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CLARA' CARBURANTI di Clarà Teresa",
+                "id": "21021",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CLARA' CARBURANTI DI CLARA' TERESA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.844380525131214,
+                    39.18790057752364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO Q8 7805",
+                "id": "30539",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PACE FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.80614617724609,
+                    39.09839559777309
+                ]
+            }
+        }
+    ]
+}

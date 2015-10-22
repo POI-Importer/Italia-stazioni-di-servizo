@@ -1,0 +1,140 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Le Panche",
+                "id": "21960",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "TAMOIL LE PANCHE DI NANNINI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.87448000907898,
+                    44.032106207897016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI San Marcello Pistoiese",
+                "id": "29023",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VIVIANI ENRICO CARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.77939554870852,
+                    44.05666971094679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "4PETROLI DI GAVINANA",
+                "id": "12973",
+                "amenity": "fuel",
+                "operator": "TAMBURINI ALFEA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.825663805007935,
+                    44.05217912279271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 F.LLI IORI",
+                "id": "9312",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "F.LLI IORI DI IORI SAMUELE & C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.765551507109308,
+                    44.07250695968642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN MARCELLO PISTOIESE PIANA 185 LOC.PONTEPETRI",
+                "id": "6575",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.880364194056709,
+                    44.037787061718895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Punto Auto Service di Bicci Sergio",
+                "id": "20748",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PUNTO AUTO SERVICE DI BICCI SERGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.897450447082518,
+                    43.96393600430703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN MARCELLO P.SE",
+                "id": "27068",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SIRTAM S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.771493911743164,
+                    44.05629543592416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV PISTOIA CAPOSTRADA",
+                "id": "29791",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ALA CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.897462478504169,
+                    43.96394533710075
+                ]
+            }
+        }
+    ]
+}

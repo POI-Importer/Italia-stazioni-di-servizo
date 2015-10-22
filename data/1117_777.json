@@ -1,0 +1,174 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "7",
+                "id": "29506",
+                "amenity": "fuel",
+                "operator": "CARBURANTI  PETRULLO  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.505914963781834,
+                    39.73079900941521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI SALIMBENI CLAUDIA",
+                "id": "23134",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SALIMBENI CLAUDIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.450641006231308,
+                    39.664869964980845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZ. SERV. Q8-ZGAS",
+                "id": "30740",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "C.F. AUTOGRILL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.452743285008978,
+                    39.69191843712747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SICAR CARBURANTI SRL",
+                "id": "4974",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SICAR CARBURANTI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.411302387714386,
+                    39.724766878514224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8-FULGORGAS",
+                "id": "14963",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "G. & G. DI GALLICCHIO MARIA GIUSEPPA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.46217316389084,
+                    39.76087554028962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CORIGLIANO CALABRO - S.S.106",
+                "id": "31085",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.507794635581945,
+                    39.67767109899454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SIBARI",
+                "id": "26650",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ZETA GAS S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.47212415933609,
+                    39.738720907827044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FALBO GIOVANNI BATTISTA",
+                "id": "14099",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "FALBO GIOVANNI BATTISTA STAZIONE DI SERVIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.374409943819046,
+                    39.76964617203755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VELA s.a.s.",
+                "id": "23033",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "VELA S.A.S. DI BAFFA COSMO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.513057351112366,
+                    39.661597686746774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CORIGLIANO CALABRO SS 106 KM 19 C.C. I PORTALI",
+                "id": "6786",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.508072861543607,
+                    39.67460451790884
+                ]
+            }
+        }
+    ]
+}

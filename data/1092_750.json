@@ -1,0 +1,189 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso Ricci-Miniati",
+                "id": "31713",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "RICCI - MINIATI DI RICCI BRUNO E C.  S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.975146398811376,
+                    43.26573619400034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE IP PICCIO BRUNO",
+                "id": "26780",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PICCIO BRUNO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.077248734527984,
+                    43.20364039584723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "L.C.DI LORENZONI EDI",
+                "id": "11222",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "L.C. DI LORENZONI EDI & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.97494810185242,
+                    43.2666941571157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP Lorenzoni Angelo",
+                "id": "9384",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LORENZONI ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.010658383369446,
+                    43.20728687644863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AQUILA",
+                "id": "10048",
+                "brand": "Aquila",
+                "amenity": "fuel",
+                "operator": "MACCARINI ALESSIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.981342509388924,
+                    43.25566343002833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIETRAIA",
+                "id": "25682",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SIRTAM S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.96637511253357,
+                    43.20327701362495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TM04675",
+                "id": "31211",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PIT STOP LANE SNC DI DEBOLI M. NAPPINI G. E POMERANI R."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.999130249023438,
+                    43.23673437709297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BEYFIN",
+                "id": "15950",
+                "amenity": "fuel",
+                "operator": "PERRINA EGIDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.959217637777327,
+                    43.25049298405119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Beyfin",
+                "id": "25369",
+                "amenity": "fuel",
+                "operator": "NAKO LEONARD"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.983482009578667,
+                    43.27320089506677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Arezzo - Camucia",
+                "id": "5274",
+                "amenity": "fuel",
+                "operator": "BEYFIN S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.95924311876297,
+                    43.250487123079374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "16025",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MACCARELLI STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.075159475207329,
+                    43.20279917525486
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore q8",
+                "id": "22490",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PERRICONE VITINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.825164794921873,
+                    37.8712320261968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio ESSO",
+                "id": "9905",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PARRINELLO GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.709172666072845,
+                    37.93906474784814
+                ]
+            }
+        }
+    ]
+}

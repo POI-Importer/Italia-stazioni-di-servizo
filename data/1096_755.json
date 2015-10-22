@@ -1,0 +1,207 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso Ballesi Sandro",
+                "id": "12820",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BALLESI SANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.67997682094574,
+                    42.55309530538337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "staz. servizio F.lli Perugini G&G S.n.c.",
+                "id": "15630",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F.LLI PERUGINI GIORGIO E GIANNI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.657973597553221,
+                    42.56720612297552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO IP",
+                "id": "22423",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ARGENTI GIANCARLO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.762593552470207,
+                    42.5867849532962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 pendola",
+                "id": "7205",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PENDOLA LEONARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.735274583101273,
+                    42.61314571821295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Terni Carburanti",
+                "id": "23241",
+                "amenity": "fuel",
+                "operator": "COENDAMASCHIPETROLI S.R.L. (IN BREVE CDP S.R.L.\")"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.656575999999973,
+                    42.55829595137451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.T.L. Petroli Srl   STRETTURA",
+                "id": "31956",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "S.T.L. PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.730854205530933,
+                    42.627911617215695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "bussetti alderico snc",
+                "id": "17932",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BUSSETTI ALDERICO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.67745353281498,
+                    42.57819207188134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "METANO SERVIZI SNC",
+                "id": "4330",
+                "amenity": "fuel",
+                "operator": "METANO SERVIZI S.N.C. DI CANEVA ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.681412955847234,
+                    42.58203381727852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione ESSO RCS Snc",
+                "id": "16683",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "R.C.S. DI PROIETTI BARSANTI SERGIO & C. S.N.C. IN SIGLA R.C.S. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.663011178374289,
+                    42.56868440971366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "22092",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FIOCCHI FLORIANA E MATTEUCCI MATTEO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.777327597141268,
+                    42.61538334731304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTEFRANCO BIVIO ARRONE",
+                "id": "6616",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.764165873610636,
+                    42.58828643265201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PASSERI MASSIMILIANO",
+                "id": "15151",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PASSERI MASSIMILIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.662065029144287,
+                    42.5685058370701
+                ]
+            }
+        }
+    ]
+}

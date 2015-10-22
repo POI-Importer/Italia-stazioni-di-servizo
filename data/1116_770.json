@@ -1,0 +1,54 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "carburanti la salitella",
+                "id": "23949",
+                "amenity": "fuel",
+                "operator": "HOTEL LA SALITELLA DI SAMPOGNA CARMELA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.276293396949768,
+                    40.58579703270411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FLLIMULIERI s.n.c.",
+                "id": "19993",
+                "amenity": "fuel",
+                "operator": "F.LLI MULIERI S.N.C. DI MULIERI ANGELO E DOMENICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.234261840581894,
+                    40.64302323962099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip-calciano giuseppe",
+                "id": "18214",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CALCIANO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.28915593028069,
+                    40.63011059917695
+                ]
+            }
+        }
+    ]
+}

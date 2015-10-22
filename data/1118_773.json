@@ -1,0 +1,157 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "dmg s.r.l. ip",
+                "id": "5611",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DMG S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.671449840068817,
+                    40.1951628741928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BELLINO NICOLA",
+                "id": "28383",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BELLINO NICOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.679188089024365,
+                    40.21328511581395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni di ianuzziello luigi antonio",
+                "id": "9459",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "IANUZZIELLO LUIGI ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.699149012565613,
+                    40.250413463496756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "area BLU",
+                "id": "12241",
+                "amenity": "fuel",
+                "operator": "CARBOGEST S.A.S. DI BORTIGLIO ANTONINO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.67735221303269,
+                    40.20461934634771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO MAIDA",
+                "id": "25504",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MAIDA PASTORE NICOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.569297909736633,
+                    40.28738119714735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "agip",
+                "id": "27268",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "OLIVIERI CARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.676631195106438,
+                    40.210440160522545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Q8 - Laguardia",
+                "id": "9263",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVICE CAR 2000 S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.681666374206543,
+                    40.213636905956896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "d.p.b.",
+                "id": "26295",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "D.P.B. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.659251153469086,
+                    40.211534551055415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE ENI",
+                "id": "25521",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LUCARELLI IMMACOLATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.57259702682495,
+                    40.28703091798202
+                ]
+            }
+        }
+    ]
+}

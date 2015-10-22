@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL ERG",
+                "id": "10810",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GULINELLI DANIELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.382654464631174,
+                    44.41269802377929
+                ]
+            }
+        }
+    ]
+}

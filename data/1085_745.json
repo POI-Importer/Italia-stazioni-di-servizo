@@ -1,0 +1,590 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTECATINI TERME E TET VIA DEL SALSERO 184",
+                "id": "22330",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.772646431282737,
+                    43.87446373153224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "7805",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "F.LLI GENTILI S.N.C. DI MARCO E MAURIZIO GENTILI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.81058086375424,
+                    43.86682481487059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VALMETANO SRL",
+                "id": "15843",
+                "amenity": "fuel",
+                "operator": "VALMETANO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.741697922348974,
+                    43.86068428137384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BEYFIN",
+                "id": "5592",
+                "amenity": "fuel",
+                "operator": "F.LLI RUOTOLO S.N.C. DI RUOTOLO CARMINE E GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.814468264579773,
+                    43.88883064372923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stefanelli e cardelli snc",
+                "id": "10451",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STEFANELLI & CARDELLI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.778718635581981,
+                    43.88039499841064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "quattropetroli",
+                "id": "10890",
+                "amenity": "fuel",
+                "operator": "ORSI SILVIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.786589288360574,
+                    43.8614361283082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONSUMMANO TERME",
+                "id": "28669",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "G.S.SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.818273648619652,
+                    43.862520726741415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg",
+                "id": "30894",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BIONDI GLORIA MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.732670277357101,
+                    43.8776423682887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SERRAVALLE SUD",
+                "id": "29788",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DG SERVICE SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.825573551099524,
+                    43.8912325231874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PISTOIA VIA SALVO D'ACQUISTO",
+                "id": "14651",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "G.S.SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.89644193649292,
+                    43.93373232539221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ADS PISTOIA LA FORTEZZA",
+                "id": "30460",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ALA CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.886490941047668,
+                    43.91858237930584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONSUMMANO P.TERZO",
+                "id": "23293",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SIRTAM S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.801725089550018,
+                    43.85984397656378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio LA FORTEZZA di Bugiani Federico",
+                "id": "20880",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO \"LA FORTEZZA\" DI BUGIANI FEDERICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.886415839195251,
+                    43.91854590212643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "19261",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CAMPIGLIA RAFFAELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.785418629830131,
+                    43.878966247164215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "montagnana",
+                "id": "28121",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ARCANGIOLI IVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.829168781638145,
+                    43.95126688060275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "QUATTROPETROLI",
+                "id": "25053",
+                "amenity": "fuel",
+                "operator": "PUCCINELLI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.723994661376992,
+                    43.839051337063495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pistoia - Raccordo Abetone",
+                "id": "5285",
+                "amenity": "fuel",
+                "operator": "BEYFIN S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.896995824310578,
+                    43.9499629033552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Garage Del Rosso Nino",
+                "id": "13313",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GARAGE DEL ROSSO DI DEL ROSSO NINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.777721168174935,
+                    43.880505882926606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "4 QUATTROPETROLI",
+                "id": "11225",
+                "amenity": "fuel",
+                "operator": "MARCHETTI LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7555719067459,
+                    43.86992182448317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PISTOIA",
+                "id": "5853",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TotalErg SpA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.89566683068847,
+                    43.947810724464716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTECATINI TERME - MATTEOTTI",
+                "id": "25071",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.779962449073762,
+                    43.880271000372275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di servizio IP Baldasseroni Alessandro",
+                "id": "27970",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BALDASSERONI ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.727610982803299,
+                    43.85174868919338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Torregas Srl - P.V. Panicagliora",
+                "id": "8884",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "TORREGAS - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.767694562673569,
+                    43.95804508964419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PONTE BUGGIANESE",
+                "id": "21733",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.756197273731232,
+                    43.8556757351077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Joe & Leo snc",
+                "id": "4208",
+                "amenity": "fuel",
+                "operator": "JOE & LEO S.N.C. DI CAMMARERI GIOVANNI E LEONARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.768990782152171,
+                    43.86237708578755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "04714",
+                "id": "29959",
+                "amenity": "fuel",
+                "operator": "VOLO - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.747113302350042,
+                    43.844454151709684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.LLI BARTOLOMEI",
+                "id": "4634",
+                "amenity": "fuel",
+                "operator": "F.LLI BARTOLOMEI DI BARTOLOMEI & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.886602252721786,
+                    43.94460531670743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COZZI PAOLO",
+                "id": "12839",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "COZZI PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.81567123532295,
+                    43.8652990743545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area servizio Shell Garenni",
+                "id": "8454",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "GARENNI DI GARENNI ALESSIA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.745958829115125,
+                    43.85454382424728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE CARBURANTI PELLEGRINI WALTER",
+                "id": "13618",
+                "amenity": "fuel",
+                "operator": "STAZIONE CARBURANTI PELLEGRINI WALTER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.781337906745877,
+                    43.8780472679309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONSUMMANO CINTOLESE",
+                "id": "28697",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SIRTAM S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.827979892492294,
+                    43.83958837226079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SERRAVALLE NORD",
+                "id": "3554",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "Nuova Sidap SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.824363965606722,
+                    43.891260827593925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO ENI PIEVE A NIEVOLE PT",
+                "id": "7077",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MEZZOMIGLIO S.N.C. SELFAGIP DI MACCIONI MARCO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.78775279223919,
+                    43.878395227282724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil 8480",
+                "id": "15550",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BONFANTI FEDERICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.762759358331097,
+                    43.88568454349624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "4633",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FALCO LIBERATO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.824530527006571,
+                    43.850380963033096
+                ]
+            }
+        }
+    ]
+}

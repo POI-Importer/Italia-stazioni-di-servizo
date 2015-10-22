@@ -1,0 +1,682 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO RAGUSA",
+                "id": "6877",
+                "amenity": "fuel",
+                "operator": "CALORGAS SERVICE S.R.L. IN LIQUIDAZIONE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.665954113006592,
+                    36.9368769472073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di rifornimento Schininà Mario",
+                "id": "4213",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SCHININA' MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.706715979223643,
+                    36.92157527806237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FIERAMOSCA",
+                "id": "14549",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ND PETROLI DI DIBENNARDO NUNZIO & C. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.696611762046814,
+                    36.90914161499595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 19898",
+                "id": "30478",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.72286656498909,
+                    36.91002435377816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GEN GIRLANDO",
+                "id": "14562",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ND PETROLI DI DIBENNARDO NUNZIO & C. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.606282790117005,
+                    36.95085444444359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA ARCHIMEDE RG",
+                "id": "12316",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.725149330024696,
+                    36.91749100157409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RAGUSA ZONA INDUSTRIALE",
+                "id": "22286",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.724948024249898,
+                    36.91499535347901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FB CARBURANTI",
+                "id": "31278",
+                "brand": "Lukoil",
+                "amenity": "fuel",
+                "operator": "BORROMETI MONICA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.716038779396055,
+                    36.92957739559878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RAGUSA V.LE DELLE AMERICHE, 212",
+                "id": "16964",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.692901281614695,
+                    36.92966219722612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VITAL CARBURANTI",
+                "id": "10921",
+                "amenity": "fuel",
+                "operator": "VITALE LUCIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.601007103919981,
+                    36.961562778073805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di servizio Comiso Via P. di Piemonte",
+                "id": "22973",
+                "brand": "SP Energia Siciliana",
+                "amenity": "fuel",
+                "operator": "SERVIZI INTEGRATI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.612283536761993,
+                    36.94892408263265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA SCHININA' RG",
+                "id": "12338",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.72140415211493,
+                    36.925107787723434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RAGUSA V.LE EUROPA",
+                "id": "6779",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.71513957486877,
+                    36.92984565687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ZONA INDUSTRIALE 3° FASE RG",
+                "id": "20050",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.702753533729492,
+                    36.8982204497172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "30301",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MONTEFORTE ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.700421839952469,
+                    36.928056496327024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MENDOLILLA",
+                "id": "14559",
+                "brand": "Lukoil",
+                "amenity": "fuel",
+                "operator": "ND PETROLI DI DIBENNARDO NUNZIO & C. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.615233540534973,
+                    36.968482394760564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Idc Via G. Girlando - Comiso",
+                "id": "29340",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SALLEMI CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.604332616919011,
+                    36.951400953108376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA RISORGIM. RG",
+                "id": "12310",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.731859682209006,
+                    36.91790208981916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Idc C.da Selvaggio",
+                "id": "18955",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SALLEMI CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.707544445991516,
+                    36.90474106561201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "area di servizio eni",
+                "id": "15247",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LIARDO & C. S.A.S. DI LIARDO NUNZIO SECONDO GIOSAFAT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.706278443336483,
+                    36.92583857334574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SS115 MONAC. SUD",
+                "id": "5063",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.669393252639793,
+                    36.92380072904993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIALE DELLE AMERICHE",
+                "id": "12300",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.66153261244199,
+                    36.94147354496811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "imp.lombardo gaspare",
+                "id": "10719",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LOMBARDO GASPARE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.720475208948642,
+                    36.92108517787217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "16445",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DICARA LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.603227466714088,
+                    36.94918057742069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Idc Agip Comiso - Chiaramonte",
+                "id": "18960",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SALLEMI CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.60699111223221,
+                    36.95920909069254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ST.COM. RG-SCCAM",
+                "id": "12343",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.684144463122948,
+                    36.903994687315844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Idc Agip Via E. Fieramosca",
+                "id": "18958",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SALLEMI CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.699918925762173,
+                    36.91501819807068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Agip S.p.25 Ragusa - Marina di Ragusa",
+                "id": "14914",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SALLEMI CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.685566425323486,
+                    36.88578221543473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIGAS Srl",
+                "id": "4237",
+                "amenity": "fuel",
+                "operator": "RIGAS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.688293177909827,
+                    36.8874189541981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Idc Via Risorgimento ang. Via Migliorisi, Ragusa",
+                "id": "18959",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SALLEMI CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.729543924331665,
+                    36.91774295009282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIAVE",
+                "id": "4931",
+                "brand": "Lukoil",
+                "amenity": "fuel",
+                "operator": "ND PETROLI DI DIBENNARDO NUNZIO & C. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.595508575439455,
+                    36.94063122516729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SS115 MONAC.NORD",
+                "id": "7689",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.67111791303637,
+                    36.92380716180635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "13521",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F.LLI CAPPUZZELLO S.A.S DI CAPPUZZELLO VINCENZO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.69228267669678,
+                    36.90658470322835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE CARBURANTI DI GUARRASI GIOVANNI E MASSARI EMANUELE SNC",
+                "id": "13919",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DISTRIBUZIONE CARBURANTI DI GUARRASI GIOVANNI E MASSARI EMANUELE S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.719977187081554,
+                    36.92327873483623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA V.EMANUELE C",
+                "id": "12347",
+                "brand": "Giap",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.611125085321193,
+                    36.9464391147371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LUKOIL",
+                "id": "17923",
+                "brand": "Lukoil",
+                "amenity": "fuel",
+                "operator": "F.LLI DIQUATTRO CLAUDIO & GIOVANNI  SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.704180285334589,
+                    36.927174073466816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nannaro",
+                "id": "21139",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "NANNARO ORAZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.602214097976685,
+                    36.951762626665925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "V.ARCH. ANG. CAR",
+                "id": "12354",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.722965228172367,
+                    36.919889493245925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "12854",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BRACCHITTA GIOVANNI & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.72773343324661,
+                    36.917633155551336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "10930",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "F.LLI PLUCHINO G.S. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.709866670044677,
+                    36.925968364335645
+                ]
+            }
+        }
+    ]
+}

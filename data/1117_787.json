@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP CAULONIA",
+                "id": "14032",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SORGIOVANNI ILARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.410068571567535,
+                    38.382065467703875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAULONIA - MARINA",
+                "id": "25826",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.46486513128275,
+                    38.34321051840052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA SERVIZIO ENI DI COLUCCIO GIUSEPPE",
+                "id": "13113",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "COLUCCIO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.398524343967438,
+                    38.31951699484153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI CAFE' & SHOP",
+                "id": "26549",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CARISTO ILARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.469924973999014,
+                    38.346213827343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "9530",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SORGIOVANNI ILARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.387374401092533,
+                    38.31588434402871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni 18825 cirillo ilario",
+                "id": "8742",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CIRILLO ILARIO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.450347304344177,
+                    38.337526462739966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CIRCOSTA",
+                "id": "9855",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FRATELLI CIRCOSTA DI CIRCOSTA GIUSEPPE S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.362295746803284,
+                    38.307533313099505
+                ]
+            }
+        }
+    ]
+}

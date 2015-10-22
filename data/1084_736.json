@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso Pieropan Paolo",
+                "id": "13794",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PIEROPAN PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.595759600400925,
+                    45.07934072489902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FG FIORASI E GNACCARINI",
+                "id": "29502",
+                "amenity": "fuel",
+                "operator": "FIORASI & GNACCARINI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.571642518043518,
+                    44.985485998017225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COMMESSAGGIO",
+                "id": "6957",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "IES ITALIANA ENERGIA E SERVIZI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.550276041030884,
+                    45.05067762126633
+                ]
+            }
+        }
+    ]
+}

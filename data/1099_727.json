@@ -1,0 +1,667 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "peres",
+                "id": "11096",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PERES PATRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.267737329006195,
+                    46.07327974921212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tricesimo",
+                "id": "6986",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "JETRENT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.206003964140335,
+                    46.17060833038397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SMP TAVAGNACCO",
+                "id": "25044",
+                "brand": "San Marco Petroli",
+                "amenity": "fuel",
+                "operator": "SAN MARCO PETROLI DISTRIBUZIONE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.22202980518341,
+                    46.1000457228208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio ESSO F.lli Simonin",
+                "id": "23506",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F.LLI SIMONIN S.N.C. DI FRANCESCO SIMONIN & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.237600777246142,
+                    46.07558413368082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAVAGNACCO",
+                "id": "7772",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DAL MAGRO TIZIANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.229480981826782,
+                    46.10461331812918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "smp sanmarcopetroli",
+                "id": "5077",
+                "brand": "San Marco Petroli",
+                "amenity": "fuel",
+                "operator": "BIEFFE DI POLICELLA ROBERTO & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.301141560077669,
+                    46.078733709312075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "UDINE - VIA COLUGNA",
+                "id": "25027",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PALLINI MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.217086645506585,
+                    46.08582806191253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Grattoni Nicola & C. S.a.s.",
+                "id": "19094",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GRATTONI NICOLA & C. SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.204218596220016,
+                    46.07414759605814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "31746",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MIANI CARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.197435289621353,
+                    46.09705017171349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil Reana 7768",
+                "id": "13865",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "TIEMME SERVICE S.A.S. DI TRIBOS DANIELE SEBASTIANO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.243647068738937,
+                    46.15811933492976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil Pagnacco 3881",
+                "id": "13869",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "TIEMME SERVICE S.A.S. DI TRIBOS DANIELE SEBASTIANO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.188733623942541,
+                    46.122112258462344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "UDINE - PIAZZALE CHIAVRIS",
+                "id": "25829",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23479999999995,
+                    46.078881864738285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Repsol di Pietroniro G.",
+                "id": "30826",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "PIETRONIRO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.207497596740724,
+                    46.08058233652593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAVAGNACCO-VIA NAZIONALE 10",
+                "id": "11911",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.230070495700827,
+                    46.10117768229762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BENETOLLO LAURA",
+                "id": "31261",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BENETOLLO LAURA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.191851627852884,
+                    46.092966988025324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "31961",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DE VITT CRISTIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.209279388885534,
+                    46.16568597396517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore carburanti Q8",
+                "id": "9664",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "AURORA S.N.C. DI SHAHU RENATO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.264880776405333,
+                    46.10711194499217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EMPORIO FIORITTO",
+                "id": "15557",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "EMPORIO FRATELLI FIORITTO DI FIORITTO FLAMINIO & C. S.N.C.\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.345783148053558,
+                    46.15260780866903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Tamoil Macorigh Mauro",
+                "id": "11329",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MACORIGH MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.222413038839704,
+                    46.091639481469244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "UDINE-VIA PIERI 18",
+                "id": "11912",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.226345948409971,
+                    46.075370705856585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Sostero F.lli",
+                "id": "21028",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SOSTERO F.LLI S.N.C. DI SOSTERO MARCO & MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.210730795160543,
+                    46.16003787296834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAVAGNACCO VIA PASCATS",
+                "id": "23443",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.224946743265491,
+                    46.09420247716503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "fema snc",
+                "id": "10460",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FEMA DI ANDREUTTI MARIO E XAUSA FEDERICA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.272508978843689,
+                    46.074629520587614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg Feletto",
+                "id": "26747",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "T.Z. DI TOSO VANESSA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.220230405557233,
+                    46.107070137320285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CG Service di Cattarossi Gianluca",
+                "id": "21598",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CG SERVICE DI CATTAROSSI GIANLUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.344058758266439,
+                    46.14980991435496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PECILE LUIGINO",
+                "id": "30162",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PECILE LUIGINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.29136088490486,
+                    46.153853460504564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "UDINE-VIA GENERAL CANTORE 4O",
+                "id": "11913",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.238671253967258,
+                    46.07516278628746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di serv. di Morello Gil & C. snc",
+                "id": "7232",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO DI MORELLO GIL & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.218762874603271,
+                    46.15357475510997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "KV TAVAGNACCO",
+                "id": "24421",
+                "amenity": "fuel",
+                "operator": "VANELLO EUGENIO & FIGLI S.P.A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.217400325131164,
+                    46.11822009376689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FLLI GILIBERTI SNC UDINE",
+                "id": "7366",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "F.LLI GILIBERTI S.N.C. DI GILIBERTI LUCA & TIZIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.261805623769758,
+                    46.10485386885042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "POLLI CRISTIAN",
+                "id": "8854",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "POLLI CRISTIAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.22169184684753,
+                    46.13977372865192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ip",
+                "id": "10492",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GASOLINE DI ANDREA DE BENEDETTI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.222281932830809,
+                    46.136597449327475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "UDINE - MARTIGNACCO",
+                "id": "25830",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2024490380287,
+                    46.073968367658104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "14308",
+                "id": "19841",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MAURO ANDREA E ZUTTION CATIA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.214456588029861,
+                    46.090631117129504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO Q8",
+                "id": "30690",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DUEGI S.A.S. DI GATTESCO LUCA E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.28871488571167,
+                    46.096854876813545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Troina Massimo",
+                "id": "18579",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TROINA MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.233024179935455,
+                    46.0875186018202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazionediservizioenimeneghinfedericoec snc",
+                "id": "16630",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MENEGHIN FEDERICO E C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.256919980049133,
+                    46.19487203997601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP di FIORITTO LUCIANO",
+                "id": "7433",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FIORITTO LUCIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.25634088799279,
+                    46.16336938141807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "UDINE",
+                "id": "15941",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SAINI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.22184339165688,
+                    46.07366976099189
+                ]
+            }
+        }
+    ]
+}

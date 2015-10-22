@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A-Service Lutago",
+                "id": "8167",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "A - SERVICE K.G. DES ABFALTERER KARL & CO."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.922783851623533,
+                    46.94694443197587
+                ]
+            }
+        }
+    ]
+}

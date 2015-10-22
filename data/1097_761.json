@@ -1,0 +1,408 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Eni Fernando Pascucci",
+                "id": "27078",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PASCUCCI FERNANDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.912647724151608,
+                    41.77572484871942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PALESTRINA - SS 155 KM68 433",
+                "id": "7263",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.875326999999972,
+                    41.82716097218306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "vecchi snc GPL",
+                "id": "5187",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "VECCHI DI VECCHI WALTER E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.954221963882448,
+                    41.81958357675685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL ERG DI QUARESIMA MASSIMO",
+                "id": "23519",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "QUARESIMA MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.97512710094452,
+                    41.88401960950824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MILITA CRISTINA",
+                "id": "30208",
+                "amenity": "fuel",
+                "operator": "MILITA CRISTINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.95111661912324,
+                    41.86294643971872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STF Carburanti",
+                "id": "16340",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "STF CARBURANTI S.N.C. DI FAVELLA SANDRO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8660197069845,
+                    41.8245857470809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "API-IP",
+                "id": "19846",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SAN VITO CARBURANTI S.A.S. DI CIANFRIGLIA AUGUSTO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.974029618564371,
+                    41.88816617824205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LABICO",
+                "id": "4048",
+                "brand": "Fiamma 2000",
+                "amenity": "fuel",
+                "operator": "FIAMMA 2000 - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.863059043884277,
+                    41.795972083467646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FUSANO VIRGILIO",
+                "id": "12912",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "FUSANO VIRGILIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.861074209213253,
+                    41.84444300691194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.R. 155 Loc. Cimignano - Genazzano (RM)",
+                "id": "10290",
+                "amenity": "fuel",
+                "operator": "NUOVA FUEL CALOR S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.997570484876631,
+                    41.81937249136655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI Genazzano",
+                "id": "20000",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TOZZI GUGLIELMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.970119416713715,
+                    41.825641990205256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FUEL DISCOUNT",
+                "id": "30328",
+                "amenity": "fuel",
+                "operator": "LUCAFERRI GIACOMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.939056083559992,
+                    41.785505870608034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV INSECO SRL",
+                "id": "29553",
+                "amenity": "fuel",
+                "operator": "INSECO SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.914114221930504,
+                    41.823504121351554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG DI CASCIOLI",
+                "id": "25648",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CASCIOLI SERGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.881538122892378,
+                    41.890183738309844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zagarolo - Via Valle Del Formale",
+                "id": "28101",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ENERGY MIX - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.83444448479463,
+                    41.83526919412372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "la nuova stazione snc",
+                "id": "26482",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "LA NUOVA STAZIONE DI CANNONE ANDREA COSTANTINI STEFANO PELLEGRINI LUCA E PELLEGRINI EMANUELE - SOCIETA' IN NOME COLLETTIVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.924592941999437,
+                    41.77532479152853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Genazzano",
+                "id": "20961",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.970069795846939,
+                    41.82340018418402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "vecchi snc campo",
+                "id": "7184",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "VECCHI DI VECCHI WALTER E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.952864766120912,
+                    41.819541599606396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MILITA CRISTINA",
+                "id": "30207",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MILITA CRISTINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.926105707883835,
+                    41.82263784033862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio Minzocchi Paola",
+                "id": "26786",
+                "amenity": "fuel",
+                "operator": "MINZOCCHI PAOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.900111388313233,
+                    41.80764215854908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg - Valmontone",
+                "id": "31685",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MARINI - SOCIETA A RESPONSABILITA LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.92459093034267,
+                    41.775325991655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Petriglia e Mancini Carburanti",
+                "id": "27235",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PETRIGLIA & MANCINI CARBURANTI DI PETRIGLIA BENITO SOCIETA' IN ACCOMANDITA SEMPLICE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.833047807216644,
+                    41.802658557959745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "vecchi snc  rotatoria",
+                "id": "7185",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "VECCHI DI VECCHI WALTER E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.933833434819913,
+                    41.81923091780137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Quagliero Flavio",
+                "id": "27951",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "QUAGLIERO FLAVIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8884401539508,
+                    41.836969925528514
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,260 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chirico Francesco",
+                "id": "18760",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CHIRICO FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.640137769380997,
+                    38.101547184547265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REGGIO DI CALABRIA VIALE A. MORO DISTRIBUTORE Q8",
+                "id": "6781",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.634969163229357,
+                    38.08753766330705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore eni iacopino annunziato",
+                "id": "8925",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "IACOPINO ANNUNZIATO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.642742487102511,
+                    38.099091304633035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni",
+                "id": "7907",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SAVOCA CARMELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.480570495128635,
+                    38.06420766486592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8  musolino giuseppe",
+                "id": "20149",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MUSOLINO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.641646990523101,
+                    38.103426173638105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil8391",
+                "id": "15181",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "TAVELLA FABIO DOMENICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.635172352194784,
+                    38.101003808851196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Self Area di Placido Versace",
+                "id": "5990",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VERSACE PLACIDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.644277832540862,
+                    38.09067402411073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Piccione Claudio",
+                "id": "10866",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PICCIONE CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.521079897880554,
+                    38.130276345654636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rifornimento Q8",
+                "id": "28305",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PELLEGRINO DOMENICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.502792372502656,
+                    38.09482220775431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "8564",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BREZZA PETROLI DI SIMONA BREZZA E C. - S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.637299213678377,
+                    38.10461840517566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 BARTOLONE FILIPPO",
+                "id": "10263",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BARTOLONE FILIPPO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.494040548801424,
+                    38.077924356698986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "23075",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "AUTOTEST S.N.C. DEI FRATELLI MIDURI & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.510148555040358,
+                    38.11113739806819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso Laganà D.A.M. s.n.c.",
+                "id": "11997",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LAGANA' S.N.C. DEI F.LLI DOMENICO, ANTONINO E MAURIZIO LAGANA' & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.635535120964049,
+                    38.0880822569362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TREMESTIERI EST",
+                "id": "3986",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GIA.NA. CARBURANTI S.A.S. DI CARIDI GIACOMO E NADIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.521857738494871,
+                    38.13374981345842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REGGIO DI CALABRIA SS 106 KM 13+500 PELLARO",
+                "id": "6783",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.64343015952454,
+                    38.017667848214025
+                ]
+            }
+        }
+    ]
+}

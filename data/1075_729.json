@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "total erg",
+                "id": "30362",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DAMA S.A.S. DI CARLI DARIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.065814676477203,
+                    45.83645292192731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PROLOGO SAS",
+                "id": "13858",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "PROLOGO S.A.S. DI DAICO FRANGI & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.071659122090182,
+                    45.83212066499362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "benzinando",
+                "id": "22679",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BENZINANDO STAZIONE DI SERVIZIO ERG DI GRASSELLI F."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.115797379247285,
+                    45.857097336038706
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,258 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO IP GRUPPO API DI MAINI MAURIZIO",
+                "id": "9206",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MAINI MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.24380823969841,
+                    45.29321946806601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pan-Oil",
+                "id": "32068",
+                "amenity": "fuel",
+                "operator": "RONZI ALDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.209466576576231,
+                    45.22475209516756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FRAZ. PONTELUNGO VIDIGULFO",
+                "id": "21857",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.211996323907899,
+                    45.280342746124454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GETOIL",
+                "id": "4802",
+                "amenity": "fuel",
+                "operator": "ADRISE S.A.S. DI GIORDANO GAETANO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.24498438835144,
+                    45.33514829435853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SERVIZIO ESSO DI DAMIANI ANITA",
+                "id": "21401",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DAMIANI ANITA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.183398857712746,
+                    45.233734500884474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LACCHIARELLA",
+                "id": "25864",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.147142915344261,
+                    45.32787359987159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bonizzoni pietro giuseppe stazione tamoil",
+                "id": "12780",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BONIZZONI PIETRO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.233129695057869,
+                    45.255234106083925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LACCHIARELLA",
+                "id": "22415",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SIRTAM S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.18689712882042,
+                    45.322498127749334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MAVERNA CLAUDIO",
+                "id": "16580",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MAVERNA CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.206408389440869,
+                    45.32500716449097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "17271",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "RICCHINI E MASALA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.177477210760117,
+                    45.219211881524444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VEGA LANDRIANO",
+                "id": "31523",
+                "brand": "Vega",
+                "amenity": "fuel",
+                "operator": "VEGA CARBURANTI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.256531298160553,
+                    45.32509212772356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI ( AGIP)",
+                "id": "14693",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZIO SICURO S.N.C. DI SAMARATI STEFANO E SCAGLIONI GIANCARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.206323698163033,
+                    45.313719701558774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "merlini sandro",
+                "id": "16671",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MERLINI SANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.289207309484482,
+                    45.28957258318825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C.R.L. SNC",
+                "id": "14253",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "C.R.L.  S.N.C.  DI CLERICI RENZO E CLERICI LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.198233485221863,
+                    45.25172904249839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LANDRIANO",
+                "id": "5964",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.267743317790973,
+                    45.31510779695967
+                ]
+            }
+        }
+    ]
+}

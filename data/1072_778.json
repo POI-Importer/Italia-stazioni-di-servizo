@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio IP",
+                "id": "18999",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FOSCI WALTER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.598356635581922,
+                    39.51869955281389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "fausto zuddas",
+                "id": "8189",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ZUDDAS FAUSTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.606860041618347,
+                    39.52781976747373
+                ]
+            }
+        }
+    ]
+}

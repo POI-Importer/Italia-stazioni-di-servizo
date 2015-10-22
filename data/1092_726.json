@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI FADIGA' F.LLI",
+                "id": "20346",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FADIGA' F.LLI DI FADIGA' GIOVANNI & C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.038413882255552,
+                    46.27974201574408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Eni di Tomaselli Romano.",
+                "id": "31991",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TOMASELLI ROMANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0339501971672,
+                    46.28521421951697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip",
+                "id": "24166",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GIOTTO SILVIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.033040590195467,
+                    46.28640036796183
+                ]
+            }
+        }
+    ]
+}

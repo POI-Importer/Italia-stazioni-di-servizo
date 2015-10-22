@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio farchica vincenzo",
+                "id": "27718",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO FARCHICA VINCENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.37679722905159,
+                    37.28785190282225
+                ]
+            }
+        }
+    ]
+}

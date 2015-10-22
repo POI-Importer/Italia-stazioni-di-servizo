@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "sillaro alta",
+                "id": "20988",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "T. & K. DI BERTI IVAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.483102680843103,
+                    44.261376439602046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAPUTO ANGELO",
+                "id": "8302",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CAPUTO ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.589801013469696,
+                    44.28071146460233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore carburanti di Morara Pisani Fabrizio",
+                "id": "24834",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MORARA PISANI FABRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.504157364418006,
+                    44.21444650119334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip di conti gianni",
+                "id": "10358",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CONTI GIANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.555814743041994,
+                    44.25622236951281
+                ]
+            }
+        }
+    ]
+}

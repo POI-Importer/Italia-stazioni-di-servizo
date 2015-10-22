@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VOLTURO-DI GUIDA CARBURANTI 2000 (ESSO)",
+                "id": "25481",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "VOLTURO - DI GUIDA CARBURANTI 2000 DI A. DI GUIDA E C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.23926556110382,
+                    40.71875161534398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Repsol",
+                "id": "25469",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "CIBELLIS ROCCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.237990724216274,
+                    40.7210742875515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ciccone Ortensio",
+                "id": "10401",
+                "amenity": "fuel",
+                "operator": "CICCONE ORTENSIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.281108021736141,
+                    40.80058045484042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Imp.Q8 di Rosania Geremia",
+                "id": "13189",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "*ROSANIA GEREMIA*"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.23028619587421,
+                    40.81205305736217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Imp.Ip Pallante Lisetta",
+                "id": "13107",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PALLANTE LISETTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.236097201704979,
+                    40.81787498596681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ROAD OIL",
+                "id": "23296",
+                "amenity": "fuel",
+                "operator": "GRIMALDI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.242777857896725,
+                    40.75009008470227
+                ]
+            }
+        }
+    ]
+}

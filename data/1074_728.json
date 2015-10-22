@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "17380",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BELOTTI FEDERICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.855751603841783,
+                    45.96730599863671
+                ]
+            }
+        }
+    ]
+}

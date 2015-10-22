@@ -1,0 +1,174 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore carburanti totalerg AQ063",
+                "id": "29935",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MED OIL - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.916067481040956,
+                    42.06450600179333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SOSTA CELESTINIANA SRL",
+                "id": "16715",
+                "amenity": "fuel",
+                "operator": "SOSTA CELESTINIANA SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.906717300415039,
+                    42.07549534495726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DI.PA.snc",
+                "id": "19735",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DI.PA. DI DI BENEDETTO VENANZIO & PAOLUCCI GUGLIELMO SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.913983404636383,
+                    42.067717803387254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SULMONA - CIRC.NE ORIENTALE",
+                "id": "25068",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.92679924173353,
+                    42.05016614115034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "areaself17 di Giuseppe Parisse",
+                "id": "18948",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PARISSE GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8910236954689,
+                    42.09640653577664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "22653",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DI FONSO PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.928320764942896,
+                    42.04274082884423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SULMONA",
+                "id": "5444",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "enirete oil&nonoil S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.919943965606649,
+                    42.06011320774422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Total Erg",
+                "id": "20653",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DI BIASE ANNA MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.919885605573652,
+                    42.052276570955215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "xx",
+                "id": "31198",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ALESSANDRO SEVERI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.927728384733202,
+                    42.06531703185212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione IP M.F.",
+                "id": "30025",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MARINUCCI FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.932827869311499,
+                    42.03593748699027
+                ]
+            }
+        }
+    ]
+}

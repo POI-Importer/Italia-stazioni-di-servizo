@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Merli Giampiero e c sas",
+                "id": "8206",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MERLI GIAMPIERO & C. SOCIETA' IN ACCOMANDITA SEMPLICE IN SIGLA MERLI & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.769166371886968,
+                    46.477317697370125
+                ]
+            }
+        }
+    ]
+}

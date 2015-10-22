@@ -1,0 +1,140 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "magliari giovannina",
+                "id": "25703",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MAGLIARI GIOVANNINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.197632253170013,
+                    39.67839186625582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "De Marco S.r.L.",
+                "id": "26906",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DE MARCO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.286920309066772,
+                    39.71418561070732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SPEZZANO ALBANESE LOCALITA BAGNI/DISTR.Q8",
+                "id": "6729",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.299125234393276,
+                    39.69810685744366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "f.lli valente srl unipersonale",
+                "id": "28053",
+                "amenity": "fuel",
+                "operator": "FRATELLI VALENTE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.303271055221558,
+                    39.67446827693729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG NOIA",
+                "id": "17459",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "NOIA NICOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.29561577290781,
+                    39.66626556255327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "san lorenzo del vallo",
+                "id": "26206",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DE LUCA TERESA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.270320117473602,
+                    39.67136285587077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "9571",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MARIA MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.300849020481113,
+                    39.70336004169163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO TAMOIL",
+                "id": "19646",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FALBO S.A.S.DI FALBO GIOVANNI BATTISTA & C"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.265981644392014,
+                    39.74319356980581
+                ]
+            }
+        }
+    ]
+}

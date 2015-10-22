@@ -1,0 +1,593 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NI010455 Correggio",
+                "id": "23577",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CORO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.809098482131958,
+                    44.762086047510905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "22676",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "EMIL PETROL DI MAMMOLITI CARMELO & C. SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.882878023278865,
+                    44.77494677873052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA DI SERVIZIO F.LLI PIETRI SNC",
+                "id": "20584",
+                "amenity": "fuel",
+                "operator": "AREA DI SERVIZIO F.LLI PIETRI STEFANO ED ENRICO S.N.C. ABBREVIABILE IN \"AREA DI SERVIZIO F.LLI PIETRI S.N.C.\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.764793753623962,
+                    44.72766512371103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO SS 413",
+                "id": "29467",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ROME S.N.C. DI ALI A., IQBAL N. E ROME I."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.883229374885559,
+                    44.807530840270225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARPI - BIONDO",
+                "id": "29608",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.888803847885129,
+                    44.78301041919284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CORREGGIO-VIA PROVINCIALE PER CARPI 22",
+                "id": "11800",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.804316500663731,
+                    44.765597165110236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "11148",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MAX SIM CAR DI MASSIMILIANO ROVERI & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.860400823803728,
+                    44.784615819508275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARPI VIA LENIN N.16",
+                "id": "6531",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.878535225794963,
+                    44.777663668372625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TRAVERSA SAN GIORGIO - SANTA CROCE DI CARPI",
+                "id": "15559",
+                "amenity": "fuel",
+                "operator": "EUROCAP PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.86328134191672,
+                    44.76137695624449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carpi",
+                "id": "11299",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F.LLI GIBERTINI FU GINO S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.884506220901471,
+                    44.76887914908485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Correggio Petroli",
+                "id": "13339",
+                "amenity": "fuel",
+                "operator": "MERITRANS - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.790320336818695,
+                    44.75453396041039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARPI VIA GUASTALLA 4A",
+                "id": "23747",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.869371742010118,
+                    44.79437012111083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ASCARI SERVICE",
+                "id": "10644",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ASCARI SERVICE DI ASCARI GERMANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.812005996704103,
+                    44.81383997781996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN MARTINO IN RIO VIA PROVINCIALE",
+                "id": "21653",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.775832384824753,
+                    44.72920654427016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio di Tufo Marica",
+                "id": "15185",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "TUFO MARICA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.892142514819398,
+                    44.78972501552924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "enercoop srl - Correggio",
+                "id": "14703",
+                "amenity": "fuel",
+                "operator": "ENERCOOP S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.768322199583054,
+                    44.770753389468965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "q8 ferrari gianni carpi",
+                "id": "8924",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "FERRARI GIANNI E C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.850110128521921,
+                    44.76908834914861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Savioli",
+                "id": "10701",
+                "amenity": "fuel",
+                "operator": "SAVIOLI ODDINO S.N.C. DI SAVIOLI LAMBERTO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.801776051521301,
+                    44.811000228293615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "chiosco",
+                "id": "15971",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ROSSI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.875249803066254,
+                    44.79254415799769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Giavarini Ivan",
+                "id": "12577",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GIAVARINI IVAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.756199955940247,
+                    44.76412455325047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ZOLLO VANNI",
+                "id": "8673",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ZOLLO VANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.88208807605747,
+                    44.773619699011796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIUTORE REPSOL DI ZANTI ANDREA",
+                "id": "13908",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "ZANTI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.784497496295216,
+                    44.76977330233607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "14080",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "IMPIANTO AGIP DI SOLOMITA GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.879393815994263,
+                    44.79128785871856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP api",
+                "id": "28276",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "HAJ AYED BELLSAM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8013168141556,
+                    44.810858342836255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "G&G Giavarini",
+                "id": "12932",
+                "brand": "Ego",
+                "amenity": "fuel",
+                "operator": "G.  &  G. DI GIAVARINI GIORGIO  &  C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.784228479206831,
+                    44.74022672534752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vasco de Gama",
+                "id": "15583",
+                "amenity": "fuel",
+                "operator": "EUROCAP PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.875739306211472,
+                    44.770490611792916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "5275",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FRANCIOSI VALTER  E C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.874517867983968,
+                    44.76106450208339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Benetti F. & Siena E. snc",
+                "id": "15432",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BENETTI FABIO & SIENA ENRICO SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.881351871899142,
+                    44.77241218458025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 06408 Coreggio",
+                "id": "30177",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI RETE OIL&NONOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.774657288746651,
+                    44.771701724535745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "a b metano",
+                "id": "8413",
+                "amenity": "fuel",
+                "operator": "A.B. METANO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.878536998672415,
+                    44.805251041807004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GRELLA ADAMO STAZIONE ESSO",
+                "id": "9210",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GRELLA ADAMO STAZIONE ESSO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.879570236109657,
+                    44.7693977671963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PETROL SERVICE CAR",
+                "id": "11169",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PETROL SERVICE CAR DI SALATI ALESSANDRO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.756536573171617,
+                    44.83723728028893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL PONTE VETTIGANO",
+                "id": "29563",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "TRE-MENDI S.N.C. DI BENATI STEFANO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.78582763671875,
+                    44.82381034165064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAP CORREGGIO",
+                "id": "30517",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TANZI AURELIO PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.79105794429779,
+                    44.756538829840096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP/ENI",
+                "id": "31383",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LE PIRAMIDI DI GIGLIO SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.864191055297852,
+                    44.791486584280754
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil Pasciullo Gianfranco",
+                "id": "11344",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "TAMOIL PASCIULLO GIANFRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.642005122744193,
+                    41.86601000665243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AUTOSTAZIONE CARBURANTI",
+                "id": "22782",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "AUTOSTAZIONE CARBURANTI S.N.C. DI ALFONSO ROSSI E FERNANDO FERRARA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.604551643133162,
+                    41.85849974161399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "25574",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PETTA MARIA FELICIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.71354991197586,
+                    41.83307560575383
+                ]
+            }
+        }
+    ]
+}

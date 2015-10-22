@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "27880",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "AGRIGAS SICILIANA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.287993252277372,
+                    40.044234302307096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO IANNACO R. &  A. SNC",
+                "id": "19973",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "IANNACO R. & A. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.286585700470823,
+                    40.0367216304256
+                ]
+            }
+        }
+    ]
+}

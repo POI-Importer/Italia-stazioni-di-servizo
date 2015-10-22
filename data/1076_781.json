@@ -1,0 +1,174 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore IP FIGUS",
+                "id": "13242",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FIGUS PIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.276057875532501,
+                    39.219497927119704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "3761",
+                "id": "30622",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "T.D.M. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.258191585540771,
+                    39.22085345860099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore carburanti",
+                "id": "22049",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BAZZUCCHI WALTER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.220061302185059,
+                    39.229784483874575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "4979",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MATTANA ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.266891330480576,
+                    39.22018452302387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni 07638 cagliari",
+                "id": "12850",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GROSSO FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.143607411561563,
+                    39.20279904022791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO DI CARBURANTI ENI DI ARDAU SARA",
+                "id": "20588",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ARDAU SARA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.222993799336225,
+                    39.230038798142644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione eni di ottonello giancarlo",
+                "id": "10015",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "OTTONELLO GIANCARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.152961820363998,
+                    39.19566398677976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO Gastone",
+                "id": "15954",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GASTONE SNC DI ZEDDA LUCA E PIGA ALESSIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.157587501635701,
+                    39.19434650164415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PUDDU CARBURANTI",
+                "id": "24194",
+                "amenity": "fuel",
+                "operator": "PUDDU CARBURANTI  S.A.S.  DI PUDDU TANUCCIA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.162922203540802,
+                    39.192754261893036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Di Servizio IP - Maggi",
+                "id": "10059",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MAGGI MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.240403175354004,
+                    39.22651870802923
+                ]
+            }
+        }
+    ]
+}

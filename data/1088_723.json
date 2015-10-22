@@ -1,0 +1,54 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "22065",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RIZZI S.A.S. DI RIZZI WILHELM & C.% RIZZI K.G. DES RIZZI WILHELM & CO."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.364152133464815,
+                    46.66439261682921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GNP SARENTINO",
+                "id": "4400",
+                "amenity": "fuel",
+                "operator": "GRUPPO NORD PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.358959376811983,
+                    46.635261621608485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "shell",
+                "id": "9872",
+                "amenity": "fuel",
+                "operator": "AINHAUSER MARKUS FLORIAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.373397707939148,
+                    46.62217540843159
+                ]
+            }
+        }
+    ]
+}

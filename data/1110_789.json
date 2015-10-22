@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni di Calabrò Giuseppe",
+                "id": "4098",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CALABRO' GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.142561197280884,
+                    38.12842545683149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "G.R.S. Petroli S.n.c.",
+                "id": "25423",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MANDANICI PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.210749575171574,
+                    38.100245365286305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "QUATTROCCHI ANGELO DAVIDE OTTAVIO",
+                "id": "21887",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "QUATTROCCHI ANGELO DAVIDE OTTAVIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.121818541723995,
+                    38.102212505874185
+                ]
+            }
+        }
+    ]
+}

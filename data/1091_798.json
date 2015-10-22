@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "dal zotto s.a.s.",
+                "id": "17428",
+                "amenity": "fuel",
+                "operator": "DAL ZOTTO S.A.S. DI DAL ZOTTO ARMANDO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.939812984494209,
+                    36.83093928314218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "POMPA BIANCA",
+                "id": "17081",
+                "brand": "EOS",
+                "amenity": "fuel",
+                "operator": "CESARJ VITTORIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.944541171194489,
+                    36.83330447853721
+                ]
+            }
+        }
+    ]
+}

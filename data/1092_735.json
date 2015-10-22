@@ -1,0 +1,121 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COSTANTIN",
+                "id": "30024",
+                "brand": "Costantin",
+                "amenity": "fuel",
+                "operator": "COSTANTIN S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.119444811947687,
+                    45.13960350094931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Collesei Stefano",
+                "id": "17427",
+                "amenity": "fuel",
+                "operator": "COLLESEI STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.96370790555727,
+                    45.17189285454322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SPINELLO SANDRA",
+                "id": "13395",
+                "amenity": "fuel",
+                "operator": "SPINELLO SANDRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.057127076860072,
+                    45.0960558625835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "loro",
+                "id": "6154",
+                "amenity": "fuel",
+                "operator": "L. & L. S.N.C. DI FECCHIO DAVIDE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.07353520722836,
+                    45.131215860859456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Agip di Pinato Guido",
+                "id": "16508",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PINATO GUIDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.957186878573566,
+                    45.1696369983552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 13717",
+                "id": "25903",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.075342535972595,
+                    45.12083487092114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "14268",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BACCAGLINI GABRIELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.075870474868792,
+                    45.13658105748049
+                ]
+            }
+        }
+    ]
+}

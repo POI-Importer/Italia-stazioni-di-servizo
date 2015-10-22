@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "8667",
+                "id": "16757",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GARAGUSO SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.552082151174545,
+                    40.41901955301563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Giasi Petroli",
+                "id": "19510",
+                "amenity": "fuel",
+                "operator": "VICENTI GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.695933043956757,
+                    40.39992551866163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "8664",
+                "id": "16753",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GARAGUSO SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.564640253782272,
+                    40.38820647003587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO Q8 BENEDETTO CARLO",
+                "id": "20787",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BENEDETTO CARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.664498895406723,
+                    40.35973176839867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EttorreStella&CassanoRosa snc",
+                "id": "21685",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ETTORRE STELLA E CASSANO ROSA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.689031720161438,
+                    40.36447450466041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MEGALSRL di Esposito",
+                "id": "18111",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MEGAL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.676827669143673,
+                    40.41998828404838
+                ]
+            }
+        }
+    ]
+}

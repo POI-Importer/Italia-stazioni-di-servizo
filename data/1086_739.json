@@ -1,0 +1,799 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "12150",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "IMPIANTO AGIP DI PRIORI CARLONI MARINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.91362381904901,
+                    44.64154701283449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "KUWAIT",
+                "id": "10431",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SOTTILE SANTO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.913093773541277,
+                    44.633135842485046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Via Emilia Ovest",
+                "id": "22424",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F.LLI GIBERTINI FU GINO S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.915611684322357,
+                    44.651052528987265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG SAN DAMASO",
+                "id": "32043",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PIT STOP S.N.C. DI FIAZ AHMED"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.969371870014585,
+                    44.59988251257018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MODENA-VIA EMILIA EST.1050",
+                "id": "11720",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.964385015869084,
+                    44.63022831604293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE ESSO",
+                "id": "6045",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PRANDINI OMER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.008558273315428,
+                    44.67280354086824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTELFRANCO EMILIA",
+                "id": "29111",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.01465184292215,
+                    44.61229919137929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione Esso  nonantolana",
+                "id": "25095",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "COLICCHIO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.946492442956922,
+                    44.65464264396167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LAROTONDA",
+                "id": "14384",
+                "brand": "Ego",
+                "amenity": "fuel",
+                "operator": "C.I.S. NORD S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.927174687385557,
+                    44.62200914971387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO AGIP 55949",
+                "id": "22838",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PIVETTI MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.90464218161469,
+                    44.63678586728322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP SELF AREA",
+                "id": "27661",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MONTANARI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.908867288360625,
+                    44.65404235176423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VV",
+                "id": "14165",
+                "amenity": "fuel",
+                "operator": "CE. LAV S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.957324433729582,
+                    44.65424583947776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTELFRANCO EMILIA-VIA EMILIA OVEST 18",
+                "id": "11719",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.044309212303235,
+                    44.598071888199264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "11022",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SANTI CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.940735410450772,
+                    44.6317230746787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MODENA-VIA CONTRADA 286",
+                "id": "11721",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.916531020832053,
+                    44.61523054883973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "9150",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "C.F. DI CAPELLINI DIEGO E FRIGERI MARCO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.972947130688453,
+                    44.62653641469939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio Q8",
+                "id": "10797",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO KUWAIT DI BARBIERI EMANUELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.90348646315988,
+                    44.64986336138269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Modena",
+                "id": "23716",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.905767525131296,
+                    44.63846675864469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MOTORCENTER",
+                "id": "10715",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MO. C. DI MORELLI MARCELLO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.921456217765808,
+                    44.666739191838744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "8923",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F.LLI MARTINI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.964259579777718,
+                    44.68813917035347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "agip bronti",
+                "id": "19219",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BRONTI IGNAZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.90387939881134,
+                    44.634844657629266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIGNOLESE Modena",
+                "id": "5492",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "enirete oil&nonoil S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.952960155420215,
+                    44.62180999980052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SUPER GAS SRL",
+                "id": "5303",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SUPER GAS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.95330500118871,
+                    44.620830294064106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Modena - Vaciglio",
+                "id": "17275",
+                "amenity": "fuel",
+                "operator": "BEYFIN S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.93401700258255,
+                    44.60627238761353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni rete Modena Via Emilia",
+                "id": "30509",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI RETE OIL&NONOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.96185028553009,
+                    44.63118155013043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MALAVOLTI",
+                "id": "30964",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "G.B.M. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.959688425064085,
+                    44.65138167943351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 6369",
+                "id": "25034",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.909295082092285,
+                    44.607504279497604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "4326",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO DI PAGLIONE MICHELE & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.961807370185852,
+                    44.711254232947226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "4991",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CAR DI CAPELLINI GIANNI E ARLETTI PAOLO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.029628366231918,
+                    44.59874541646544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TEDESCHINI GINO srl",
+                "id": "8080",
+                "amenity": "fuel",
+                "operator": "TEDESCHINI GINO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.95572143793106,
+                    44.618529367019654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ego",
+                "id": "17905",
+                "brand": "Ego",
+                "amenity": "fuel",
+                "operator": "B.F. DI BARALDI FILIPPO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.927958562970163,
+                    44.634643301102436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE ELP di PETRELLA ANTONIO e C. snc",
+                "id": "29904",
+                "amenity": "fuel",
+                "operator": "PETRELLA ANTONIO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.96403115047076,
+                    44.629841899124386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SANDAMASO",
+                "id": "28913",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "C.I.S. NORD S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.96937457672118,
+                    44.599885545289744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg",
+                "id": "31371",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CAVAZZA STEFANO E C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.911499857902527,
+                    44.65293161887913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 6263",
+                "id": "25129",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.936519503593445,
+                    44.633949593147584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "22491",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BONASI GIANCARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.969539222753838,
+                    44.637217085466496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "effe uno sas",
+                "id": "16836",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "EFFE UNO SAS DI GASPARETTO MANUEL & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.937561541795732,
+                    44.681851196906344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL ERG",
+                "id": "27714",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ZECCHI WAINER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.941423585319512,
+                    44.64263305373451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MODENA VIA VIGNOLESE 386",
+                "id": "6530",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.936130892590311,
+                    44.634213681880865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "21355",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "C.A.R.T. DI BARATTA GIUSEPPE & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.95510828399199,
+                    44.63059954096379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MODENA - VIGNOLESE 888",
+                "id": "28104",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.947204606151557,
+                    44.627243904876515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GOBETTI 6.5.",
+                "id": "31183",
+                "brand": "Ego",
+                "amenity": "fuel",
+                "operator": "GOBETTI 6.5. DI PEDRETTI ALESSIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.927953479133294,
+                    44.634647120591495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "19021",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STEFFANINI DAVIDE & ENRICO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.97189448773861,
+                    44.66200164541342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Via Francia 5, Modena, MODENA",
+                "id": "23025",
+                "amenity": "fuel",
+                "operator": "EUROCAP PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.938005447387697,
+                    44.667912740212635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "V&P AUTOLAVAGGIO snc",
+                "id": "20722",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "V. & P. AUTOLAVAGGIO S.N.C. DI PUGLIESE ROCCO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.955488573541288,
+                    44.637164014954465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MODENA VIA DELLE MORANE 338",
+                "id": "6533",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.926729767459165,
+                    44.62868476215496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTELFRANCO EMILIA - GAGGIO DI PIANO",
+                "id": "30557",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.010610321426386,
+                    44.63504199032591
+                ]
+            }
+        }
+    ]
+}

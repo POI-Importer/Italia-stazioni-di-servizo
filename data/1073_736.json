@@ -1,0 +1,123 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 53738",
+                "id": "27635",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.661826550960539,
+                    45.00447953654912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "17209",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CABONA EZIO ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.630206881739014,
+                    45.022070818609876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL ITALIA SPA",
+                "id": "15112",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CAPELLINO IVANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.64679195337294,
+                    45.0108956137087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VALENZA PO VIA CIRCONV.NE OVEST",
+                "id": "6408",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.638562820237667,
+                    45.003648017777074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "30940",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CAPELLINO SARA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.646784722805023,
+                    45.01090058983015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OCCHIO AL PREZZO",
+                "id": "12620",
+                "amenity": "fuel",
+                "operator": "BALDO ALDO MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.66816630429912,
+                    45.05787307933495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ACI SERVIZI ALESSANDRIA",
+                "id": "16328",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ACI-SERVIZI ALESSANDRIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.63699197769165,
+                    45.007996982375445
+                ]
+            }
+        }
+    ]
+}

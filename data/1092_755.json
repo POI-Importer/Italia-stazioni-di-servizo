@@ -1,0 +1,156 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "21793",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GALLINELLA TIZIANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.988590508699419,
+                    42.64199896472453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BAGNOREGIO - TEVERINA",
+                "id": "27527",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.088852573373403,
+                    42.627108168148816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIAZZALE BATTAGLINI",
+                "id": "22036",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PARRANO E PARRANO S.N.C. DI PARRANO ADRIANO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.092568352818489,
+                    42.62748974502798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Capraccia",
+                "id": "9416",
+                "amenity": "fuel",
+                "operator": "I.C.M. SOCIETA' IN NOME COLLETTIVO DI BRUNO, CRISTIANO E FABRIZIO MAGGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.036300301551819,
+                    42.6281392188406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV ENERPETROLI - LUBRIANO",
+                "id": "12123",
+                "brand": "Enerpetroli",
+                "amenity": "fuel",
+                "operator": "ENERPETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.110157217196615,
+                    42.6362500788786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Rifornimento Totalerg",
+                "id": "28425",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SABATINI SABRINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.987749636173248,
+                    42.64308254604823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Imposto",
+                "id": "11328",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GRASSO DEMETRIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.12114930152893,
+                    42.55966249381988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "21546",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PIFERI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.045332260425427,
+                    42.56188163309953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PRATOLEVA",
+                "id": "30644",
+                "amenity": "fuel",
+                "operator": "BURLA PAOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.10599632448316,
+                    42.584026765231904
+                ]
+            }
+        }
+    ]
+}

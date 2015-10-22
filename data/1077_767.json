@@ -1,0 +1,158 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ARZACHENA VIA DELLA COSTA SMERALDA",
+                "id": "6684",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.392369804962982,
+                    41.07615180644814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ARZACHENA",
+                "id": "24496",
+                "brand": "Fiamma 2000",
+                "amenity": "fuel",
+                "operator": "FIAMMA 2000 - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.398202370178524,
+                    41.06452969892728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni Maresca Viola",
+                "id": "22410",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MARESCA VIOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.420668184869328,
+                    41.06845176980448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Retitalia",
+                "id": "24335",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "LAMON AUGUSTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.449673891067505,
+                    41.0690882587569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore esso di nurchis fabrizio",
+                "id": "18692",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NURCHIS FABRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.382409999999934,
+                    41.08212082588488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO ENI",
+                "id": "14874",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ORECCHIONI MARCELLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.438576094110658,
+                    41.10789061178229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO DI PILERI ANTONELLA",
+                "id": "23450",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PILERI ANTONELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.469904986122174,
+                    41.04586299335642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "_Fresi Gianfranco",
+                "id": "6982",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FRESI GIANFRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.39408302307129,
+                    41.074361034651744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Retitalia",
+                "id": "30668",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "PUSCEDDU TRASPORTI SRLS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.389688925009523,
+                    41.07851895533327
+                ]
+            }
+        }
+    ]
+}

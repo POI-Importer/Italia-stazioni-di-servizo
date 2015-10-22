@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DOGLIANI-VIA TORINO 8",
+                "id": "11554",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.936050295829773,
+                    44.53608903427382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TRAVERSA TOTAL ERG",
+                "id": "18666",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TRAVERSA MARIO SNC DI TRAVERSA MASSIMO E MARCO SIGLABILE TRAVERSA SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.059946822789357,
+                    44.55745936155874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE ESSO DI FORERO LUCELY",
+                "id": "17066",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FORERO LUCELY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.944555347045707,
+                    44.532520573142236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIT STOP CAR WASH & SERVICE DI DELMONTE ALESSIO",
+                "id": "31813",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PIT STOP CAR WASH & SERVICE DI DELMONTE ALESSIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.961865887045861,
+                    44.58571137095467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "p.v. MURAZZANO",
+                "id": "20994",
+                "brand": "SACED",
+                "amenity": "fuel",
+                "operator": "SACED S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.02234299480915,
+                    44.47181961810538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BOSSOLASCO",
+                "id": "4785",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "IES ITALIANA ENERGIA E SERVIZI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.049970284556139,
+                    44.528985721287675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "25599",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "EUROBAR DI FENOCCHIO FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.917034553138818,
+                    44.57309733662825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore TotalErg",
+                "id": "15657",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SACCATO MARGHERITA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.927996969900505,
+                    44.59011504549067
+                ]
+            }
+        }
+    ]
+}

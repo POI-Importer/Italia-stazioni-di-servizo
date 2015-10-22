@@ -1,0 +1,121 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TaOil",
+                "id": "9690",
+                "amenity": "fuel",
+                "operator": "F.LLI TANTARO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.839874029159544,
+                    37.73882852660733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAOIL",
+                "id": "20417",
+                "amenity": "fuel",
+                "operator": "DISTRIBUZIONE CARBURANTI S.A.S. DI ROSARIO GIUSEPPE NASTASI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.886737585067747,
+                    37.72640453893064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAOIL",
+                "id": "11301",
+                "amenity": "fuel",
+                "operator": "GESTIONE IMPIANTO CARBURANTI S.A.S. DI MARCHESE LEONARDO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.863831520080568,
+                    37.80549692944094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eos srl",
+                "id": "29879",
+                "brand": "EOS",
+                "amenity": "fuel",
+                "operator": "VIVIANO E SERIO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.89048375602692,
+                    37.72558397238977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "19647",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PETROLCOM S.A.S. DI FRANCESCO RECCARDO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.882016226649283,
+                    37.72779769564149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO Santa Ninfa",
+                "id": "28261",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "COMMERCIALE PETROLI TRAPANI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.868667542934418,
+                    37.768516057495624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "26870",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MARTINO GIACOMO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.880116552114488,
+                    37.77652131666434
+                ]
+            }
+        }
+    ]
+}

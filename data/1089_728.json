@@ -1,0 +1,157 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore \"esso\"  mirko rizzon",
+                "id": "21791",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "RIZZON MIRKO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.445382833480833,
+                    46.05116514740939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORO F.LLI SPA",
+                "id": "5043",
+                "brand": "Loro",
+                "amenity": "fuel",
+                "operator": "LORO F.LLI-S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.475841999053955,
+                    46.04870494125136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Sosta - Area di servizio",
+                "id": "16435",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LOTTO S.N.C. DI PASQUAZZO ALBINO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.485256552696226,
+                    46.05069604861968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "smp  telve  di Burlon",
+                "id": "22276",
+                "amenity": "fuel",
+                "operator": "BURLON ALTENIO E BURLON DIEGO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.482746005058287,
+                    46.06921721077452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GNP VILLA",
+                "id": "4407",
+                "brand": "GNP",
+                "amenity": "fuel",
+                "operator": "GRUPPO NORD PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.521908938884735,
+                    46.05942510085098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio eni",
+                "id": "20964",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PEROZZO ALBINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.469919681549072,
+                    46.055282621364945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SCURELLE",
+                "id": "21836",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "DE.KO S.A.S. DI KOVACEVIC ESED"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.500985026359558,
+                    46.06234490068143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GNP CASTELNUOVO",
+                "id": "28150",
+                "brand": "GNP",
+                "amenity": "fuel",
+                "operator": "GRUPPO NORD PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.475348472595215,
+                    46.049026620200074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO - BAR STAZIONE DI SERVIZIO MOLINARI",
+                "id": "21961",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MOLINARI S.A.S. DI MOLINARI MASSIMO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4843564824871,
+                    46.05127977464164
+                ]
+            }
+        }
+    ]
+}

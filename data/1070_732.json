@@ -1,0 +1,424 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IGAS",
+                "id": "21273",
+                "amenity": "fuel",
+                "operator": "IGAS SNC DI DALLACQUA ROBERTO E DAVIDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.259285986423492,
+                    45.57933059708864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "26587",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "DELL'OGLIO CHRISTIAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.094980483074323,
+                    45.5653391634668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "8641",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SPEED COFFEE DI VIGATO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.131572604179382,
+                    45.55544394583387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "candelo",
+                "id": "13475",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SELF PIES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.104966806745892,
+                    45.544493061147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VILLANOVA BIELLESE-LOCALITA' DONNA",
+                "id": "11497",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.211475860118867,
+                    45.469613166997966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AMBROSI ALDO",
+                "id": "5705",
+                "amenity": "fuel",
+                "operator": "AMBROSI ALDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.13146397471428,
+                    45.56636864080066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore ip",
+                "id": "28656",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "NEGRI MARA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.243596404790878,
+                    45.50505886574665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MASSERANO - 2 GIUGNO",
+                "id": "32150",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.241881224536883,
+                    45.563204694684245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIGLIANO BIELLESE VIA MILANO 2",
+                "id": "10110",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.088916871827678,
+                    45.566077311618194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AMBROSI ALDO",
+                "id": "5704",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "AMBROSI ALDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.13146397471428,
+                    45.56636864080066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE IP",
+                "id": "26964",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MARIANI DAVIDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.241867628697266,
+                    45.56318467191468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SACLA",
+                "id": "12166",
+                "amenity": "fuel",
+                "operator": "TRASPORTI ROVEGLIA DAVIDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.111219331622124,
+                    45.5413757202959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE EREDI CAMPIDONICO SPA QUAREGNA",
+                "id": "5236",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "EREDI CAMPIDONICO - S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.16453292965889,
+                    45.56473204839107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MASSERANO-LOC.ROLLINO VIA 2 GIUGNO",
+                "id": "11498",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.240808804893504,
+                    45.563530045811945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GUGLIELMINOTTI PAOLO",
+                "id": "17300",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "GUGLIELMINOTTI PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.094035759568214,
+                    45.579131411545205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PREALPINA DISTRIBUZIONE CARBURANTI SRL",
+                "id": "30056",
+                "amenity": "fuel",
+                "operator": "PREALPINA DISTRIBUZIONE CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.118454590439796,
+                    45.50683845963288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COSSATO",
+                "id": "5437",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "enirete oil&nonoil S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.17255344047544,
+                    45.56576971163891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO Q8 di Pansarasa Federico",
+                "id": "10142",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PANSARASA FEDERICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.150919377803802,
+                    45.55330921929522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio TOTALERG DI Max & Fra SNC",
+                "id": "12925",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MAX & FRA S.N.C. DI FANGAZIO M. E MARCUZZI F."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.186304660466021,
+                    45.57562794217256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CERRETO CASTELLO-BIELLA-COSSATO",
+                "id": "28618",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.153385830688421,
+                    45.564019252663144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "vargas s.r.l.",
+                "id": "4134",
+                "amenity": "fuel",
+                "operator": "VARGAS SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.240990793640096,
+                    45.55915929898186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "cossato",
+                "id": "13482",
+                "amenity": "fuel",
+                "operator": "SELF PIES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.196309059858322,
+                    45.52387080212083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIGLIANO BIELLESE - SS 142 KM 6.625",
+                "id": "32151",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.131575101852377,
+                    45.55545634400619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 108",
+                "id": "27843",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.129040598869324,
+                    45.554676911030924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore TAMOIL",
+                "id": "26211",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ROMAGNOLI ETTORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.11099781349185,
+                    45.540622802330525
+                ]
+            }
+        }
+    ]
+}

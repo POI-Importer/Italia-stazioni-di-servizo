@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "I P di RAVELLA AUGUSTO",
+                "id": "21365",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "RAVELLA AUGUSTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.702576930291002,
+                    44.44837788274269
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Carburanti per Natanti",
+                "id": "21751",
+                "amenity": "fuel",
+                "operator": "BAUDUCCO ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.239392966032028,
+                    38.798286934012395
+                ]
+            }
+        }
+    ]
+}

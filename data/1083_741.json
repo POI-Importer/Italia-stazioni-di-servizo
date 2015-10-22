@@ -1,0 +1,207 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GATTA",
+                "id": "14442",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "C.I.S. NORD S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.462954044342041,
+                    44.410557706616395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "giuseppe donadelli ego",
+                "id": "30229",
+                "brand": "Ego",
+                "amenity": "fuel",
+                "operator": "DONADELLI GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.458476096391678,
+                    44.456099450069786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FONTANA MARCO STAZIONE SERVIZIO RETITALIA",
+                "id": "9920",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "FONTANA MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.405716415599498,
+                    44.43415312914469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "27600",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "IZZO RAIMONDA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.513402466864816,
+                    44.453877019896154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GeB S.N.C di BELBUSTI CLAUDIO",
+                "id": "13620",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "G. & B. S.N.C. DI BELBUSTI CLAUDIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.403037340614333,
+                    44.4328121653259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LAMECCHI RENATO",
+                "id": "22363",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "LAMECCHI RENATO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.46483226120472,
+                    44.36902149027458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE AGIP ARDUINI TRISTANO SNC",
+                "id": "8229",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ARDUINI TRISTANO SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.411733700069362,
+                    44.432148489559125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "7851",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BIGGI EMI S.A.S. DI PROTTI CARLA E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.445589423179626,
+                    44.44422071002171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "POMPA BIANCA VASSALLO FIORENZO",
+                "id": "12438",
+                "amenity": "fuel",
+                "operator": "VASSALLO FIORENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.39827603194658,
+                    44.43780662773601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COSTI ENRICA GPL",
+                "id": "5088",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "COSTI ENRICA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.445605516433716,
+                    44.44421802915076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO CAVOLA DI RIOTTI TEODOLINDA",
+                "id": "28799",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "RIOTTI TEODOLINDA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.531986057758331,
+                    44.40310621639782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "QUARA",
+                "id": "14458",
+                "amenity": "fuel",
+                "operator": "C.I.S. NORD S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.506666581144602,
+                    44.352942240249234
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE RETITALIA - BUZZO CONTIN MAURIZIO",
+                "id": "30684",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "BUZZO CONTIN MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.547807962743265,
+                    46.56048480889668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL - DE CANDIDO EVA",
+                "id": "8501",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "DE CANDIDO EVA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.586858731302412,
+                    46.56719431730337
+                ]
+            }
+        }
+    ]
+}

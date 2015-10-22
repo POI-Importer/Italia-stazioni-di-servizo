@@ -1,0 +1,191 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni di torresan massimo",
+                "id": "16450",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TORRESAN MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0886072479492,
+                    45.67385304377614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AF PETROLI",
+                "id": "31388",
+                "brand": "AF Petroli",
+                "amenity": "fuel",
+                "operator": "NAUTICA FARO DI MATTINA GIANLUCA & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.144247675918564,
+                    45.69977040024972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Agip",
+                "id": "12640",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE AGIP DI CARDILLO VINCENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.139691966131522,
+                    45.68992939523857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LIGNANO SABBIADORO",
+                "id": "5906",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TotalErg SpA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.119537457672097,
+                    45.68352575691522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NAUTILIA (impianto marino)",
+                "id": "22596",
+                "amenity": "fuel",
+                "operator": "NAUTILIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.142812848091124,
+                    45.69730277301206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore ENI di ZAMPAR Martina",
+                "id": "18651",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ZAMPAR MARTINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.061497329857959,
+                    45.639526639961225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "18904",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GALIZIO GIORGIO  & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.090999778390481,
+                    45.67165647154658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN MICHELE AL TAGLIAMENTO-FZ.BIBIONE - VIA PINEDA 21/B",
+                "id": "11942",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.060966296958897,
+                    45.65047124831579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LIGNANO SABBIADORO-FZ.LIGNANO PINETA SS. 354 KM.15+300",
+                "id": "11908",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.094348279762245,
+                    45.66927750810651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MORREALE",
+                "id": "26691",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MORREALE SELENE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.061523735523224,
+                    45.64166964183326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "15502",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "APRILIA MARITTIMA 2000 S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.068725466728207,
+                    45.69603971123521
+                ]
+            }
+        }
+    ]
+}

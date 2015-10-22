@@ -1,0 +1,258 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DA ANGELA",
+                "id": "14643",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DA ANGELA DI FABRIS GIACOMINO & C. - S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.937282472848892,
+                    46.02695258617841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "10819",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FRATELLI SAMBUCCO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.989031672477722,
+                    45.96157627528158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Esso di Manuel Ciuffoli",
+                "id": "29145",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CIUFFOLI MANUEL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.837014366201057,
+                    45.95615559390948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BIG",
+                "id": "29740",
+                "amenity": "fuel",
+                "operator": "BIG SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.968475809007034,
+                    45.966849702046375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Imp. IP di Faro Salvatore Andrea",
+                "id": "9996",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FARO SALVATORE ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.955060778295888,
+                    45.96478072450505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "repsol",
+                "id": "6787",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "CANCIAN ROBERTO & CHIAROT CLAUDIA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.944834232330324,
+                    45.965781709975595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso Fratelli Cristofoli",
+                "id": "25383",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FRATELLI CRISTOFOLI DI CRISTOFOLI RINALDO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.835009433729509,
+                    46.039034981299416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "porfido snc",
+                "id": "22903",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PORFIDO S.N.C. DI PORFIDO CLAUDIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.968077659606935,
+                    45.997307087428794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso armani marta",
+                "id": "9338",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ARMANI MARTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.97034731779104,
+                    45.96741906749927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "17149",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PARUSSINI MANUEL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.984058856964111,
+                    45.96047135424193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "9575",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "TIGI SAS DI TRIBOS GIOVANNI & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9644306706391,
+                    45.96527430944927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "21505",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "COLLAVITI GABRIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.86671355366707,
+                    46.04562803848308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VALVASONE",
+                "id": "5847",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TotalErg SpA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.866038728836086,
+                    45.99033372708899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio esso uliana mariano",
+                "id": "26668",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ULIANA MARIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.001172646891062,
+                    45.96992564752386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "h6",
+                "id": "9824",
+                "amenity": "fuel",
+                "operator": "M. &. G. DI MORETTO C. E GAVA D. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.835702457672141,
+                    45.956663541289494
+                ]
+            }
+        }
+    ]
+}

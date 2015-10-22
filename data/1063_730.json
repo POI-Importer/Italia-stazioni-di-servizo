@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "6234",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STEFANIA & SABRINA GAGLIANONE SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9700366258621225,
+                    45.787165340522385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Eni",
+                "id": "7879",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MOIO ANNE MARIE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.030115425586701,
+                    45.760017372935444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ip La THuile",
+                "id": "8440",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MUSETTI FLAVIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.947127878665923,
+                    45.71656647021835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "area di servizio ESSO monte bianco",
+                "id": "27040",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MAS.PIL. DI MASALA GIOVANNI MARIA E PILO FRANCESCO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.960306592590314,
+                    45.81209552185433
+                ]
+            }
+        }
+    ]
+}

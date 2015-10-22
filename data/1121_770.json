@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Appia Service",
+                "id": "15471",
+                "amenity": "fuel",
+                "operator": "APPIA SERVICE DI FORNARO MARCELLO & C.S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.222199950822073,
+                    40.5968269439213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C.I. 47287",
+                "id": "15191",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MONTEMURRO FLORIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11563371121883,
+                    40.58715078062142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "44882",
+                "id": "28026",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CASTELLANO MARIA SCALA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.123012468218807,
+                    40.58517188771478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MASSAFRA",
+                "id": "5888",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TotalErg SpA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11311287427918,
+                    40.597938339203004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.S. 7 KM 632+176 -  MASSAFRA",
+                "id": "28187",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.09374621349184,
+                    40.59286431669564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gam carburanti",
+                "id": "19076",
+                "amenity": "fuel",
+                "operator": "GAM CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11575977504253,
+                    40.582035889608704
+                ]
+            }
+        }
+    ]
+}

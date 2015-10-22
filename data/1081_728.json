@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL BAR POSTA",
+                "id": "13249",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BETTINESCHI TIZIANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.101707055193401,
+                    45.97745135643892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GRASSI DELIA",
+                "id": "26143",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GRASSI DELIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.148036824287374,
+                    46.00978628044799
+                ]
+            }
+        }
+    ]
+}

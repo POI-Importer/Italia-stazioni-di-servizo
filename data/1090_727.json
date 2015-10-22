@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "8372",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "LA FORNACE DI ORSINGHER ELENA & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.735259566741886,
+                    46.14992270693955
+                ]
+            }
+        }
+    ]
+}

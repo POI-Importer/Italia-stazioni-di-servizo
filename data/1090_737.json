@@ -1,0 +1,224 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mora Fratelli di Mora Stefano & C. S.n.c.",
+                "id": "23007",
+                "amenity": "fuel",
+                "operator": "CONSORZIO IMPRENDITORI PETROLIFERI EMILIA ROMAGNA - C.I.P.E.R. - SOCIETA' COOPERATIVA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.617972254753111,
+                    44.953400290996946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ferrara Via Padova",
+                "id": "23789",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.602832182733891,
+                    44.849987848464295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "API VIA COPPARO",
+                "id": "29283",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LUBRIZ SERVICE S.N.C. DI COVEZZI LUCA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.642446216532903,
+                    44.8452416207588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE IES",
+                "id": "13129",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "SIVIERI BARALDI ZAGAGNONI DI SIVIERI ONORIO, BARALDI SERGIO E ZAGAGNONI FABRIZIO - SOCIETA' IN NOME COLLETTIVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.613506376743317,
+                    44.85760663625328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ROMANIN PETROLI",
+                "id": "19427",
+                "amenity": "fuel",
+                "operator": "ROMANIN PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.606335506082132,
+                    44.91061478574315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GARBELLINI",
+                "id": "16902",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GARBELLINI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.678762510418892,
+                    44.858549300933454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE IES",
+                "id": "13123",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "SIVIERI BARALDI ZAGAGNONI DI SIVIERI ONORIO, BARALDI SERGIO E ZAGAGNONI FABRIZIO - SOCIETA' IN NOME COLLETTIVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.614600718021393,
+                    44.85541627875375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MANFRINATO ALBERTO",
+                "id": "9716",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MANFRINATO ALBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.603357819049053,
+                    44.899328897557204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FERRARA",
+                "id": "5792",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TotalErg SpA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.649863728836067,
+                    44.8413891777895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORO F.LLI SPA",
+                "id": "5653",
+                "brand": "Loro",
+                "amenity": "fuel",
+                "operator": "LORO F.LLI-S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.76409363746643,
+                    44.93601591901653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NI010459 CANARO",
+                "id": "26177",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CORO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.685990393161774,
+                    44.924455697517004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SMP OCCHIOBELLO",
+                "id": "5228",
+                "brand": "San Marco Petroli",
+                "amenity": "fuel",
+                "operator": "SAN MARCO PETROLI DISTRIBUZIONE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.603107452392578,
+                    44.911132675592434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FERRARA VIA GUIDO CARLI 15 15/A",
+                "id": "6520",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.64482921361923,
+                    44.84790511558614
+                ]
+            }
+        }
+    ]
+}

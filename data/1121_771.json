@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO",
+                "id": "29371",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE DI CARBURANTI ESSO DI SCALIGINA NICOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.113912403583527,
+                    40.58057957133814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO GRUPPO ITALGEST",
+                "id": "14114",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GRUPPO ITALGEST S.A.S. DI F. ANACLERIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.21273802142946,
+                    40.488024677152254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "20857",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERGEST ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.21868216991425,
+                    40.482487661482054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "R.&P. Service S.n.c. di Roberto Siciliano",
+                "id": "29794",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "R. & P. SERVICE DI ROBERTO SICILIANO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.12259739637375,
+                    40.58055532966735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "29925",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "LATTARULO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.130693644285202,
+                    40.56296944302547
+                ]
+            }
+        }
+    ]
+}

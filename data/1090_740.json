@@ -1,0 +1,87 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nardi e Tabellini srl",
+                "id": "21241",
+                "amenity": "fuel",
+                "operator": "NARDI E TABELLINI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.628094373888416,
+                    44.48147134035826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 54861",
+                "id": "25389",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.65219187736511,
+                    44.48439886638334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BC MEDICINA",
+                "id": "29147",
+                "amenity": "fuel",
+                "operator": "ENERGIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.615439558413755,
+                    44.485877632354324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PB",
+                "id": "18627",
+                "amenity": "fuel",
+                "operator": "CFC OIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.657406091690063,
+                    44.47754165682464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 5511",
+                "id": "24938",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.630176112966865,
+                    44.48075205132067
+                ]
+            }
+        }
+    ]
+}

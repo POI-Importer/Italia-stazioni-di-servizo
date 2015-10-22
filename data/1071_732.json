@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP Valera Lazzaro",
+                "id": "26019",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "VALERA LAZZARO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.263379038035055,
+                    45.47585955651099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore IP di Mantuano Salvatore",
+                "id": "21622",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE IP DI MANTUANO SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.380460143089294,
+                    45.559732498915956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OGNI VOLTA - REPSOL",
+                "id": "22595",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "OGNI VOLTA DI VAERINI PAOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.386328273510571,
+                    45.46857218561022
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "G.P. Srl",
+                "id": "6081",
+                "amenity": "fuel",
+                "operator": "GASOLINE PROJECT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.552620868387976,
+                    39.43394722404173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "sarrabus cafè",
+                "id": "26947",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SARRABUS 2010 S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.539258824961848,
+                    39.38763259957297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "loddo anna maria",
+                "id": "15039",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LODDO ANNA MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.583641439676285,
+                    39.418178067311445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gabriele Melis",
+                "id": "9727",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MELIS GABRIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.569960832595825,
+                    39.43866950181678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Autorif. Dino Cireddu & F Snc",
+                "id": "9584",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "AUTORIFORNIMENTI DINO CIREDDU E FIGLI SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.552810788154602,
+                    39.433754733927906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio ENI di Cauli Pablo",
+                "id": "8871",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CAULI PABLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.583642541000359,
+                    39.41816780946246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MURAVERA VIA ROMA (S.S. 125 KM 64,700)",
+                "id": "6928",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.570846976721214,
+                    39.42168453193198
+                ]
+            }
+        }
+    ]
+}

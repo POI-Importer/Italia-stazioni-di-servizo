@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Total Erg Baccinello",
+                "id": "18193",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MAIANI LORENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.361436396837234,
+                    42.7891085092811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL SCANSANO",
+                "id": "16843",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SCANSANO - CARBURANTI SNC DI PAPALINI E. E ROSSI SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.321021455474693,
+                    42.69343591561957
+                ]
+            }
+        }
+    ]
+}

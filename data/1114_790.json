@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Autolitano S.a.s.",
+                "id": "25723",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "AUTOLITANO S.A.S. DI AUTOLITANO DOMENICO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.982541884655804,
+                    37.91927208243649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Autolitano S.a.s.",
+                "id": "25722",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "AUTOLITANO S.A.S. DI AUTOLITANO DOMENICO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.982526489379893,
+                    37.91928702520942
+                ]
+            }
+        }
+    ]
+}

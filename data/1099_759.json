@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "22974",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FELICISSIMO SANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.251007050275799,
+                    42.074040575348626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTE VELINO SUD",
+                "id": "3516",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SARNI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.346634507179262,
+                    42.09372123762279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "18262",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DI FELICE LUCIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.336926251649857,
+                    42.062296474682725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTE VELINO NORD",
+                "id": "3768",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GE.IM. S.A.S. DI MARROCCO ANGELO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34643065929413,
+                    42.094741871659856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "L'Aquila - Tagliacozzo",
+                "id": "5267",
+                "amenity": "fuel",
+                "operator": "BEYFIN S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.302407562732697,
+                    42.052899948523
+                ]
+            }
+        }
+    ]
+}

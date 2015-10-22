@@ -1,0 +1,678 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ANCONA ASSE NORD/SUD - LOC.COLLEVERDE",
+                "id": "6605",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.520997881089786,
+                    43.59345925982531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FATTORI DANIELE",
+                "id": "11358",
+                "amenity": "fuel",
+                "operator": "FATTORI DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.52449751038125,
+                    43.614247037393355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PORTO TURISTICO DI ANCONA",
+                "id": "9515",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LA MARINA DORICA - S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.481850028038025,
+                    43.61000480561429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BARGILLI RICCARDO & C. S.N.C.",
+                "id": "14698",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BARGILLI RICCARDO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.44965815544128,
+                    43.59965857678299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 40111",
+                "id": "5358",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ZETAPI DI ZANNINI S. & PANNI E. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.376109038687103,
+                    43.637493347910485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "8483",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GIANGIACOMI DANILO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.50853532552719,
+                    43.59969120892457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ANCONA",
+                "id": "16008",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "METANO 96 SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.498352534897322,
+                    43.61378154161841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "s.sanzio srl",
+                "id": "27567",
+                "amenity": "fuel",
+                "operator": "S. SANZIO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36338347493165,
+                    43.604432692231505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ro.ma,srl",
+                "id": "19813",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "RO.MA. - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.524318784475327,
+                    43.586701043275774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Asse Nord-Sud",
+                "id": "19939",
+                "amenity": "fuel",
+                "operator": "INTERPETROL - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.519966900348663,
+                    43.593398312420916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "metano fmc",
+                "id": "19754",
+                "amenity": "fuel",
+                "operator": "F.M.C. DI CARLETTI FABIO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.368569806220991,
+                    43.64006753768644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "API-IP",
+                "id": "17968",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ANGALONE CIRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.406925201416016,
+                    43.626004063761386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 40192",
+                "id": "5356",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ZETAPI DI ZANNINI S. & PANNI E. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.378501569128387,
+                    43.613480167679505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SELF AREA ENI DI BRINCHI LEONARDO",
+                "id": "19708",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BRINCHI LEONARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.508436149073756,
+                    43.59871298389587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 Viale",
+                "id": "6004",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "IMPIANTI DISTRIBUZIONE PETROLI - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.52164706567612,
+                    43.61621772907166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BBP DI BORGNOLO L. SNC",
+                "id": "7489",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BBP DI BORGNOLO LOREDANA & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.394903540611267,
+                    43.615734766856114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP STAZIONE DI SERVIZIO GROSSI MIRCO",
+                "id": "21621",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GROSSI MIRCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.515149652957916,
+                    43.60958648503416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI RIFORNIMENTO COFANELLI MAURIZIO",
+                "id": "11424",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "COFANELLI MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.400522768497463,
+                    43.62879496357489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DICO Carburanti Discount",
+                "id": "6001",
+                "amenity": "fuel",
+                "operator": "IMPIANTI DISTRIBUZIONE PETROLI - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.513373301258069,
+                    43.59647615399645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "5730",
+                "id": "4996",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MALVASI E CASTELLUCCI DI MALVASI ANTONIO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.363122045993807,
+                    43.643507609566875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio esso di Brinchi Leonardo",
+                "id": "31587",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BRINCHI LEONARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.449805676937103,
+                    43.60016942353077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "palombina",
+                "id": "14877",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CARBUPAN - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.43777060508728,
+                    43.61444534979911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BELLIGONI",
+                "id": "31994",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MAR.FI. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.503050314982147,
+                    43.61305778793994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di servizio TOTALERG di Gattini Massimo",
+                "id": "13978",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GATTINI MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.381632465081791,
+                    43.61898291647043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP Ancona Loc. Posatora",
+                "id": "28812",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ACEMA S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.47846964927362,
+                    43.6020200257226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SIMPLY TAMOIL FALCONARA",
+                "id": "6366",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SMA S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.378837108612062,
+                    43.62086536278774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Schiaroli Giuliano & C. s.n.c.",
+                "id": "5374",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SCHIAROLI GIULIANO & C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.386601840353363,
+                    43.633669122376354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "M.G.M. DI FALCETTA E C. S.N.C.",
+                "id": "19748",
+                "amenity": "fuel",
+                "operator": "M.G.M. DI FALCETTA E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.461423665285107,
+                    43.594396020077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carburanti Rizzuto e Guidi Snc",
+                "id": "22020",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CARBURANTI RIZZUTO E GUIDI S.N.C. DI RIZZUTO FERDINANDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.372151011778215,
+                    43.61661488630718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio IS - Ancona",
+                "id": "25535",
+                "amenity": "fuel",
+                "operator": "SIMONETTI MARIO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.504981302922033,
+                    43.60012649389328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI 5700",
+                "id": "29527",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MALVASI E CASTELLUCCI DI MALVASI ANTONIO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.493539765477182,
+                    43.606018154304294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIB. Retitalia Montagnola",
+                "id": "7814",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "PETROLIFERA ADRIATICA S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.508795499801638,
+                    43.59882645054104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FALCONARA M.MA - PALOMBINA VECCHIA",
+                "id": "22293",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.414276442956863,
+                    43.62265727866362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Petrolsanzio srl",
+                "id": "7151",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PETROLSANZIO SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.499753773212433,
+                    43.582853768814815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BINI S.N.C.",
+                "id": "27593",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BINI SNC DI BINI DONATELLO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.375914563765146,
+                    43.61234282205618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione pinocchio",
+                "id": "5208",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "METANO SENIGALLIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.499767184257507,
+                    43.58284599707932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE CARBURANTI IP LOC.PONTELUNGO SS16 VARIANTE KM 301,053",
+                "id": "5729",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BARTOLUCCI SAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.496508300304415,
+                    43.580498887058454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "29183",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "EFFEMME SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.394950980881504,
+                    43.6312679133541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIB Retitalia AN Via G.Bruno",
+                "id": "7578",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "PETROLIFERA ADRIATICA S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.505712302516145,
+                    43.60426212163649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "30459",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "LUCONI FEDERICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.455928440861499,
+                    43.609662938847165
+                ]
+            }
+        }
+    ]
+}

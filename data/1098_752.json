@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FERRANTI SNC",
+                "id": "21159",
+                "amenity": "fuel",
+                "operator": "FERRANTI S.N.C. DI LORENZO FERRANTI & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.166088312864305,
+                    43.03780078222807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ERG",
+                "id": "19871",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MARIOTTI MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.050156533718111,
+                    43.04307648133944
+                ]
+            }
+        }
+    ]
+}

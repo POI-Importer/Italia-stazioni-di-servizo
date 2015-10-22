@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "26000",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "AUTOLAVAGGIO DI MAFFE' FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.39414119709545,
+                    45.350819192120426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "olicarb",
+                "id": "12985",
+                "amenity": "fuel",
+                "operator": "DISTRIBUZIONE OLI-CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.392969132743815,
+                    45.33909515759307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VILLARBOIT NORD",
+                "id": "3472",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "NUOVA GESA CARBURANTI - S.N.C. DI VALERA PIER GIORGIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.3459609746933,
+                    45.45719082767642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VILLARBOIT SUD",
+                "id": "3881",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TOTALERG S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.347522020339966,
+                    45.45573459443261
+                ]
+            }
+        }
+    ]
+}

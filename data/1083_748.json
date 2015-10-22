@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL BIENTINESI MASSIMILIANO",
+                "id": "5143",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BIENTINESI MASSIMILIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.517173558473587,
+                    43.497212541080096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kerotris - Rosignano",
+                "id": "14531",
+                "amenity": "fuel",
+                "operator": "KEROSERVICE - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.467414557933807,
+                    43.47777386085307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fauglia",
+                "id": "20110",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.505634930059387,
+                    43.551613971970845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAVALANO OVEST",
+                "id": "3607",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PUNTO GRILL SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.492377877235413,
+                    43.4591041950259
+                ]
+            }
+        }
+    ]
+}

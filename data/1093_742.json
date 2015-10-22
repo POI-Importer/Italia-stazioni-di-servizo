@@ -1,0 +1,209 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil mirabilandia",
+                "id": "6240",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "3G SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.258585691452026,
+                    44.32704249967018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "5132",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SIMAX DI TOGNI D."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.220444679260252,
+                    44.23322806742219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL Castiglione",
+                "id": "12199",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CASCIANO CARMINE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.27029510550233,
+                    44.256572335559184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Merlo Silverio",
+                "id": "22763",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MERLO SILVERIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.262849280656608,
+                    44.2613518115083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "shell 24 ore",
+                "id": "21580",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "PARENTI SAS DI PARENTI ROBERTO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.21346020698547,
+                    44.275184481200604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BEVANO OVEST",
+                "id": "3587",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BEVANO OVEST SNC DI LAZZARI G.& C"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.177193933868468,
+                    44.21638492107196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso / Vulcangas",
+                "id": "15457",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GENTILE RICCARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.294587995492524,
+                    44.256177501983224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BEVANO EST",
+                "id": "3467",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "Bevano s.n.c.di Cavallucci G.&C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.176606473541254,
+                    44.217976736620216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil 8298",
+                "id": "8257",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BEVITORI BENEDETTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.144731283187866,
+                    44.302975632589906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Repsol_Ravenna (RA006)",
+                "id": "23311",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "REPSOL ITALIA S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.284898161888123,
+                    44.30967598136256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore total fina elf di acquaviva mirco",
+                "id": "21644",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ACQUAVIVA MIRCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.211248725652695,
+                    44.32271363291983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "29221",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "NARDI MIRKA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.180106937885283,
+                    44.28671525983095
+                ]
+            }
+        }
+    ]
+}

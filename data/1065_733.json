@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CERESOLE REALE",
+                "id": "19965",
+                "amenity": "fuel",
+                "operator": "PETROLGAS DI CAORSI, SARRA E C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.254393696784973,
+                    45.43244404243691
+                ]
+            }
+        }
+    ]
+}

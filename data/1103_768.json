@@ -1,0 +1,187 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VASTA",
+                "id": "8895",
+                "amenity": "fuel",
+                "operator": "VASTA ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00613605976105,
+                    40.95449032610142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Staz. di servizio IP D&B Sas",
+                "id": "18926",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "D. & B. S.A.S. DI DOMENICO IANNARELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.987078964710237,
+                    40.978552708242376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Varcaturo",
+                "id": "28713",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "META PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.044042378664015,
+                    40.901574021716485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ECO GPL",
+                "id": "27854",
+                "amenity": "fuel",
+                "operator": "ECO G.P.L. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.054804408467819,
+                    40.903611110982865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENERGAS",
+                "id": "23466",
+                "amenity": "fuel",
+                "operator": "ENERGAS S.P.A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.992038369178774,
+                    40.9748210292867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE RIFORNIMENTO \"ESSO\" DI D'ORTA FRANCESCO",
+                "id": "21915",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "D'ORTA FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.04209777712822,
+                    40.93263861484669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP PEZONE",
+                "id": "11214",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PEZONE PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.989205956459045,
+                    40.973313556393435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ferrara ciro",
+                "id": "31445",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FERRARA CIRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.032164216041568,
+                    40.92055582698201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "energas",
+                "id": "23468",
+                "amenity": "fuel",
+                "operator": "ENERGAS S.P.A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.991990089416506,
+                    40.974829130028404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CIFAGAS SRL",
+                "id": "21003",
+                "amenity": "fuel",
+                "operator": "CIFAGAS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.034701585769655,
+                    40.9233822397991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO PORTO",
+                "id": "26789",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PEZONE PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.98328632116318,
+                    40.97579203974683
+                ]
+            }
+        }
+    ]
+}

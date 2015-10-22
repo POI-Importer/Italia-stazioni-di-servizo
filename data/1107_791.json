@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "8874",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ZINGALE ALFREDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.710992551503521,
+                    37.844897464134455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rifornimento IP",
+                "id": "17722",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CATANIA ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.593953564763071,
+                    37.78093848829785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA SAN SILVESTRO TROINA",
+                "id": "25107",
+                "brand": "Giap",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.595045650668796,
+                    37.782634050517444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SP energia siciliana di RUCCELLA GIANLUCA S.",
+                "id": "15269",
+                "brand": "SP Energia Siciliana",
+                "amenity": "fuel",
+                "operator": "R.G.S. DI RUCCELLA GIANLUCA SILVESTRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.602158442139626,
+                    37.78375043938481
+                ]
+            }
+        }
+    ]
+}

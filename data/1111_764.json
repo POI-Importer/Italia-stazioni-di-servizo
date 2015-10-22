@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VI.GI. Srl",
+                "id": "26041",
+                "amenity": "fuel",
+                "operator": "VI. GI. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.366804061427274,
+                    41.37848066082778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Agip-Eni",
+                "id": "20412",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LIONETTI GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.378092676401138,
+                    41.496950536450136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SELF AREA ENI",
+                "id": "31335",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DI GIOVINE FRANCESCO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.343247626983612,
+                    41.50401554582303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PETITO PETROLI SRL",
+                "id": "13542",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "PETITO PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.312768816947935,
+                    41.4969453131667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TERMANAFTA S.R.L.",
+                "id": "25313",
+                "amenity": "fuel",
+                "operator": "TERMONAFTA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.329344868659975,
+                    41.49332789592471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PETITO PETROLI SRL",
+                "id": "13538",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "PETITO PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.312768816947935,
+                    41.4969453131667
+                ]
+            }
+        }
+    ]
+}

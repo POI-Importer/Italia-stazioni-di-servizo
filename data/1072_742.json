@@ -1,0 +1,410 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ENI",
+                "id": "4035",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GALLEANO EMANUELE & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.464992642402649,
+                    44.320992742885494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni pv1351",
+                "id": "6319",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "NORESE ALDO & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.45299646258354,
+                    44.29416696979845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAVONA-VIA NAZIONALE PIEMONTE 7 R",
+                "id": "11842",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.466198658895564,
+                    44.32062302756176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO di genta & giacchino",
+                "id": "14917",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GENTA GRAZIANO E GIACCHINO BARTOLOMEO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.485103845596313,
+                    44.31032777917711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO  EUROPAM",
+                "id": "31423",
+                "amenity": "fuel",
+                "operator": "FIGALLI ELVIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.49511037301636,
+                    44.32063955282292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AURELIA SUD",
+                "id": "3885",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TotalErg S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.44046500481636,
+                    44.287157028003875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "impianto ip",
+                "id": "20181",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CEPPI ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.458552658557892,
+                    44.29448066893604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q. A. D. Servizi & TLC - Srl",
+                "id": "13103",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "Q. A D. SERVIZI & TLC - SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.449140787124634,
+                    44.28964483241615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ferro e Cervetto snc",
+                "id": "14714",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORI CARBURANTE DI FERRO E CERVETTO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.451541364192963,
+                    44.28957072122416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore IP",
+                "id": "24550",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "I KI YONG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.485300000000002,
+                    44.3072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip gruppo api",
+                "id": "15206",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "RM CAR SERVICE S.N.C. DI OLIVIERI MAURO E VECCHIO ROSSANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.458835631608963,
+                    44.297419836629835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni 55298",
+                "id": "6862",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ROVERARO DAVIDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4579598903656,
+                    44.30110750654566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LIGURIA GAS",
+                "id": "25736",
+                "amenity": "fuel",
+                "operator": "LIGURIA GAS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.498088419437408,
+                    44.33805280656641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAVONA VIA TORINO, 181 R",
+                "id": "24845",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.47197731586914,
+                    44.31647656105537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cassani Massimo",
+                "id": "14848",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CASSANI MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.451208254630615,
+                    44.28892010424214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAVONA",
+                "id": "5435",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "enirete oil&nonoil S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.492563226194534,
+                    44.31739151040076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "7177",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DELFINO G. E C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.443109840154648,
+                    44.26380126373947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore IP",
+                "id": "29194",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "I KI YONG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.485327513118364,
+                    44.307174588142495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAVONA - VIA STALINGRADO",
+                "id": "21846",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.465794635581915,
+                    44.30221919565257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.CRISTOFORO NORD",
+                "id": "3551",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "Nuova Sidap SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.453148542327881,
+                    44.30436179653082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni pv55446",
+                "id": "6313",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "NORESE ALDO & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.464761972427368,
+                    44.300002573574666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAVONA-VIA NIZZA 115R",
+                "id": "11844",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.446667406082156,
+                    44.28488125899501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VADO LIGURE - AURELIA 17",
+                "id": "24258",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.442367813491842,
+                    44.27866159331191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Europam",
+                "id": "25252",
+                "amenity": "fuel",
+                "operator": "VARACALLI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.45615342259407,
+                    44.29587002472941
+                ]
+            }
+        }
+    ]
+}

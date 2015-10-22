@@ -1,0 +1,290 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP BIONDI FRANCO",
+                "id": "17288",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BIONDI FRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.679578453302385,
+                    43.17746760299592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SI FUEL",
+                "id": "30415",
+                "amenity": "fuel",
+                "operator": "BRANCO CARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.669161644180347,
+                    43.19654388394396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Bruni Silvano",
+                "id": "27772",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "STAZIONE RIFORNIMENTO API DI BRUNI SILVANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62192107738497,
+                    43.17235001799122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PETROL PICENA - MONTEGIORGIO",
+                "id": "31732",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PETROL PICENA  SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.56404162943363,
+                    43.11374239177943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL ERG BIONDI FRANCO",
+                "id": "17285",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BIONDI FRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.644025772809982,
+                    43.16334387996203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FERMO PROSPERI",
+                "id": "23344",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.67310268220899,
+                    43.176198043991235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil Grottazzolina",
+                "id": "23743",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "EFFEMME SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.597844839096066,
+                    43.12070800109446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2R",
+                "id": "30441",
+                "amenity": "fuel",
+                "operator": "IMMOBILIARE 2R SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.55083028232423,
+                    43.1175368027938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REMIA ZEFFIRO",
+                "id": "25645",
+                "amenity": "fuel",
+                "operator": "REMIA ZEFFIRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.630038033580943,
+                    43.091666367732444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "18051",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ANTINORI ROSSANA & C.- SOC.IN NOME COLLETTIVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.590460651447644,
+                    43.16076144139559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL Girola",
+                "id": "28798",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FERMANA CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.666128839286786,
+                    43.16211743835056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE ENI ROCCHI SANDRO",
+                "id": "26410",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ROCCHI SANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.579061329364777,
+                    43.12090377931515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione rapagnano",
+                "id": "5206",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "METANO SENIGALLIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.612403869628906,
+                    43.141229979720904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio IP",
+                "id": "26454",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DE MATTIA GEMMA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.585012728836093,
+                    43.19553244610929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "14841",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CAPEZZANI ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.56547325849533,
+                    43.11467380920837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "18188",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "M.G.S. DI DEL GATTO MAURO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.705509757919346,
+                    43.163855932664084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio IS - Monte Urano",
+                "id": "25622",
+                "amenity": "fuel",
+                "operator": "SIMONETTI MARIO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.683789517813123,
+                    43.18375309625792
+                ]
+            }
+        }
+    ]
+}

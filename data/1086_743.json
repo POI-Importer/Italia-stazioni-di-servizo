@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "5989",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MUCCI LORENA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.99093315792993,
+                    44.13216773057586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio di Mattia Leoni",
+                "id": "23961",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO DI MATTIA LEONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.994123965501787,
+                    44.09674477034243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lenzi Raoul SPA",
+                "id": "16042",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LENZI RAOUL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.974708432127956,
+                    44.15944798633093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "7852",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "LENZI ROBERTINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9761055423279,
+                    44.182060005368825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BENUZZI GAS",
+                "id": "30254",
+                "amenity": "fuel",
+                "operator": "BENUZZI GAS DI BENUZZI FRANCO E STEFANO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.975545916671763,
+                    44.16872456464094
+                ]
+            }
+        }
+    ]
+}

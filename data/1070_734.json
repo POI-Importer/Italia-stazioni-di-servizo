@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI 00129",
+                "id": "17880",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "IL BAR DEL BABI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.180482685565947,
+                    45.24138400116381
+                ]
+            }
+        }
+    ]
+}

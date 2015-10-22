@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "16104",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PURRAZZELLA GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.23795273900032,
+                    37.6738701868633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 DI GIORGIO GIOVANNI",
+                "id": "16900",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DI GIORGIO GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.274493813514711,
+                    37.680553859307985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO - RADOSTA CARBURANTI",
+                "id": "8898",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "RADOSTA CARBURANTI DI FILIPPO RADOSTA E C.-S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.291043043136597,
+                    37.59076912509383
+                ]
+            }
+        }
+    ]
+}

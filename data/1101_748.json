@@ -1,0 +1,306 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL    Sauro Babini",
+                "id": "24436",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BABINI SAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61482858657837,
+                    43.517473820659745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio IS - Castelfidardo",
+                "id": "25618",
+                "amenity": "fuel",
+                "operator": "SIMONETTI MARIO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.569800296170111,
+                    43.4704503741995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OSIMO SCALO S.S. 16 KM 313+146",
+                "id": "6606",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.543050104893496,
+                    43.49697149454333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RAMAZZOTTI S.N.C.",
+                "id": "19827",
+                "amenity": "fuel",
+                "operator": "RAMAZZOTTI S.N.C. DI RAMAZZOTTI BERNARDO E RAMAZZOTTI SERGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.556298953327543,
+                    43.5270856313482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg",
+                "id": "26296",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "VISSANI SAMUELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.550136387348175,
+                    43.46197155510872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SIMPLY CASTELFIDARDO",
+                "id": "6365",
+                "amenity": "fuel",
+                "operator": "SMA S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.596374803704862,
+                    43.454961623496935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil Sirolo",
+                "id": "12572",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "GIACCHETTA NAZZARENO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.60097765922546,
+                    43.531313672234376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA SERVIZIO TOTAL SS 16 KM 314+135",
+                "id": "30816",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GOLDENGAS - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.553652763366703,
+                    43.493732369816016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil Camerano",
+                "id": "11016",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "RAF 28 SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.551187483289933,
+                    43.52921895252208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OSIMO",
+                "id": "6114",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "METANO 96 SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.53580851695335,
+                    43.499961516943294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ditta Ragni Morgan",
+                "id": "22183",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "RAGNI MORGAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.557693830688434,
+                    43.52314522056178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio IS - Numana",
+                "id": "25619",
+                "amenity": "fuel",
+                "operator": "SIMONETTI MARIO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.619261656591789,
+                    43.49837787715404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di Servizio Eni di Bufarini Fabrizio",
+                "id": "30671",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LAVAGGIO CAMERANO EST DI BUFARINI FABRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.561739886999476,
+                    43.49974629242213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CONERO OVEST",
+                "id": "3706",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "Petrolconero s.a.s"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.595604255294802,
+                    43.48072123010172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Borsella Marco",
+                "id": "25862",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BORSELLA MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.554382324218752,
+                    43.46405696422362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIB. Retitalia NUMANA",
+                "id": "23281",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "PETROLIFERA ADRIATICA S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.63006353378296,
+                    43.489912239425955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PETRACCINI",
+                "id": "30528",
+                "amenity": "fuel",
+                "operator": "PETRACCINI CANDIDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.553644716739655,
+                    43.49374793627507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CONERO EST",
+                "id": "3721",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "FRISARI GIROLAMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.595473879623341,
+                    43.48274492771117
+                ]
+            }
+        }
+    ]
+}

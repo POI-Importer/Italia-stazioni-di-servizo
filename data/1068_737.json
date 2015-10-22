@@ -1,0 +1,223 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "_eni",
+                "id": "8245",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "220   C.M. SNC DI GABRIELE CINZIA RAFFAELLA & AUDANO MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.787222564220428,
+                    44.955502492020436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione carburanti api-ip",
+                "id": "24851",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CAPECE COSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.896552085876466,
+                    44.86310117683849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIO DEI COCCHI OVEST",
+                "id": "3726",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "VIVOCAFFE' S.A.S. DI DAMIANO GIUSEPPE E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.746654152870177,
+                    44.873954870665735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Longobardi andrea",
+                "id": "17488",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "LONGOBARDI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.864077240228652,
+                    44.92211405063859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "4603",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "REFLEX S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.832032889127733,
+                    44.93203643323709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE EREDI CAMPIDONICO SPA VILLLASTELLONE",
+                "id": "5237",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "EREDI CAMPIDONICO - S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7551111578941345,
+                    44.930680253831156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni",
+                "id": "29253",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CAPECE ADOLFO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.8359073400497445,
+                    44.92680484512614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VILLASTELLONE - S.S. 393 KM 11 + 85",
+                "id": "21849",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.742704023313534,
+                    44.90994491200781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "qui 24",
+                "id": "30813",
+                "amenity": "fuel",
+                "operator": "IL PASSAGGIO DI SANNA GIUSEPPINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.855062335729599,
+                    44.90519571286084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PRALORMO - RISORGIMENTO 1",
+                "id": "31140",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.896548279762328,
+                    44.86310950567139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FULL OIL",
+                "id": "28428",
+                "amenity": "fuel",
+                "operator": "FULL POWER S.A.S. DI GHIGO CATERINA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.741917791180299,
+                    44.849502213791055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIO DEI COCCHI EST",
+                "id": "3722",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "B. & B. DI BAGGIO FABIO E C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7480167150497445,
+                    44.87341732850966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "staroil",
+                "id": "10849",
+                "amenity": "fuel",
+                "operator": "CARIDI ENRICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.774431139942636,
+                    44.95167140113206
+                ]
+            }
+        }
+    ]
+}

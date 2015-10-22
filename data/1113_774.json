@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "9542",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FALABELLA NICOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.737477838993073,
+                    40.13393576511342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dilenergie di Mavidil srl",
+                "id": "9948",
+                "amenity": "fuel",
+                "operator": "MAVIDIL - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.763841271400452,
+                    40.1336363687609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIVELLO",
+                "id": "22713",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DELTA CARBURANTI DI PALMIERI ANNA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.743668377399445,
+                    40.10309634662899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Di Servizio IP",
+                "id": "19212",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MARTINO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.798726003318846,
+                    40.0714876831101
+                ]
+            }
+        }
+    ]
+}

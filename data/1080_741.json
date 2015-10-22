@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "27683",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "STAZIONE SERVIZIO FINA DI CRESCI VALTER & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.884962141513826,
+                    44.37724474510354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "21879",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FERRARI FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.900062226858495,
+                    44.359601341480825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTAIO OVEST",
+                "id": "3876",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TOTALERG S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.871108531951904,
+                    44.41457967596007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LUNI SERVICE",
+                "id": "8433",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LUNI SERVICE SNC DI VINGIANI CLAUDIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.885141849517822,
+                    44.368524695143144
+                ]
+            }
+        }
+    ]
+}

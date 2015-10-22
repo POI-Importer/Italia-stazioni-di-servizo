@@ -1,0 +1,609 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 - LA BLU'",
+                "id": "28304",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DAMA PETROLI - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.070756995670308,
+                    41.010237285407165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SANTA MARIA CAPUA VETERE",
+                "id": "12082",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.23716276884079,
+                    41.04014145465692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARBURANTI TURCO",
+                "id": "12418",
+                "amenity": "fuel",
+                "operator": "TURCO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.084323793649672,
+                    41.003808887256326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BORGO CARBURANTI",
+                "id": "20525",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BORGO CARBURANTI SOCIETA' A RESPONSABILITA' LIMITATA IN SIGLA BORGO CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.189127087593079,
+                    40.98770564535276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN MARCELLINO",
+                "id": "21034",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ENERGY PLANTS MANAGEMENT SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.166373908519747,
+                    40.985422592006785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 Silvestre Agnese",
+                "id": "30637",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SILVESTRE AGNESE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.236403703689575,
+                    41.01664351816297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "guaglione",
+                "id": "20406",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GUAGLIONE VINCENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.080116383498876,
+                    41.00860854211574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TEVEROLA S.S.7 BIS KM 11 IMP.Q8",
+                "id": "6724",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.214907298147635,
+                    41.00785071088429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AP GESTIONE UNO S.R.L.",
+                "id": "16268",
+                "amenity": "fuel",
+                "operator": "AP GESTIONE UNO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.215827137231827,
+                    40.99435593406669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BASILE PETROLI S.A.S. DI BASILE LUIGI & C.",
+                "id": "21981",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BASILE PETROLI S.A.S. DI BASILE LUIGI & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.13688441460897,
+                    40.99174022068207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio gpl e carburanti di Golino Angelina",
+                "id": "31827",
+                "amenity": "fuel",
+                "operator": "GOLINO ANGELINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.199397936463358,
+                    41.099235864311424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO IP",
+                "id": "28087",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DELLO MARGIO MARIA ROSARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.232721848410053,
+                    40.98575050252686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ITAL CARBURANTI SRL",
+                "id": "20528",
+                "amenity": "fuel",
+                "operator": "ITAL CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.182728677988054,
+                    40.989687763948524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA DI SERVIZIO SAS",
+                "id": "20168",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "AREA DI SERVIZIO DI SERGIO DI RIENZO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.221277385950092,
+                    41.09115162746027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI BARBATO FRANCESCO SAS",
+                "id": "7935",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BARBATO FRANCESCO  S.A.S. DI BARBATO FRANCESCO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.216348826885223,
+                    40.99891688955483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione ip ctp petroli srl",
+                "id": "14511",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "C.T.P. PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.078705906867981,
+                    41.01272496348103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BO.RO.PETROLI SRL",
+                "id": "15679",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BO.RO PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.223636388778687,
+                    41.01533250201715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE ENI SPA",
+                "id": "15865",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VERDE E DE MICHELE S.A.S. DI VERDE ANDREA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.210018415097013,
+                    40.981954603427305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AP GESTIONE TRE S.R.L.",
+                "id": "16069",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "AP GESTIONE TRE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.219641238451,
+                    41.00946114475072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shell Casaluce",
+                "id": "16619",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "MAIELLO RAFFAELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.192359820008278,
+                    41.0003138594473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENERGAS SAN TAMMARO",
+                "id": "31962",
+                "amenity": "fuel",
+                "operator": "ENERGAS S.P.A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.231444299221037,
+                    41.06457138328052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione ctp san cipriano",
+                "id": "14526",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "C.T.P. PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.114094972610474,
+                    40.998062215196704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ECO TRADING AREA SRL",
+                "id": "14041",
+                "amenity": "fuel",
+                "operator": "ECO TRADING AREA S.R.L. - DISTRIBUZIONE CARBURANTI ECOLOGICI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.234164059162138,
+                    41.03471337292775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Repsol",
+                "id": "20585",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "ENERFUEL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.144894778728483,
+                    41.09087549257282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "B.A.C.  CARBURANTI",
+                "id": "8778",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "B.A.C. S.N.C. DI CASTALDO AMEDEO E BERNARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.135740399360657,
+                    41.004810642281456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA DI SERVIZIO ESSO di CTP PETROLI SRL",
+                "id": "20165",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "C.T.P. PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.071579277515411,
+                    41.020332761399075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg di Zuppa Raffaele",
+                "id": "20812",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ZUPPA RAFFAELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.209367036819458,
+                    41.0005124409501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fontana Nicola",
+                "id": "15372",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "FONTANA NICOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.151804149150848,
+                    40.999556167350526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "oil la fenice",
+                "id": "20903",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "OIL LA FENICE S.N.C. DI ZUPPA ANGELO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.18980836868286,
+                    40.99434459700344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "q8 de francesco carburanti sas",
+                "id": "17022",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DE FRANCESCO CARBURANTI S.A.S. DI DE FRANCESCO SALVATORE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.158614277839659,
+                    41.0172138161952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE  API  CAPUA",
+                "id": "16223",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LETIZIA GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.22731101512909,
+                    41.09555387392018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore carburanti ip",
+                "id": "12776",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CANTELLI RAFFAELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.175720669905788,
+                    40.9865142083414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso shop",
+                "id": "7356",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CAPPABIANCA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.202825129032135,
+                    41.11130781164263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Coviello carburanti",
+                "id": "19146",
+                "amenity": "fuel",
+                "operator": "COVIELLO NICOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.077210575342178,
+                    41.01242168165885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAPUA QUADRIVIO CAPUTO IMP. Q8",
+                "id": "6722",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.215483652114928,
+                    41.101669120261604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "di Grazia",
+                "id": "21691",
+                "amenity": "fuel",
+                "operator": "DIPATO SAS DI DI GRAZIA PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.20121017646159,
+                    40.98334260637001
+                ]
+            }
+        }
+    ]
+}

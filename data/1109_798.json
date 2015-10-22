@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Floriddia Francesco e figli Luigi e Corrado snc",
+                "id": "31683",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FLORIDDIA FRANCESCO E FIGLI LUIGI E CORRADO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.961615353822712,
+                    36.8234437998522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 Rosolini",
+                "id": "27592",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MUNNICH SIGRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.952744580812123,
+                    36.82167941405817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SS 115 KM 359+765 ROSOLINI",
+                "id": "20048",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.943970436840115,
+                    36.80757885248368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C.DA MASICUGNO",
+                "id": "12293",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.943146728836041,
+                    36.80786250765148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SS 115 KM 374+270 NOTO",
+                "id": "20047",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.053744626983645,
+                    36.877373828507885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ERG di Santacroce Corrado",
+                "id": "21722",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SANTACROCE CORRADO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.975738525390623,
+                    36.83167737529353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Maltese Patrizia",
+                "id": "15246",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MALTESE PATRIZIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.95887950062752,
+                    36.822181311511706
+                ]
+            }
+        }
+    ]
+}

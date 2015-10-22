@@ -1,0 +1,209 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PISCINA NORD",
+                "id": "3743",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DE.MA. DI DESANTIS ROBERTO E C. SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.431135177612306,
+                    44.90721643484924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "pv eni",
+                "id": "30087",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "N.F. DI MAGLIONE NICOLA E MAGLIONE FRANCO TEODORO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.528543621301652,
+                    44.93007715961998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg - Airasca",
+                "id": "9902",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ROLANDO RENATO & C. SNC SIGLABILE ROLANDO & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4605536460876465,
+                    44.91148675010332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG-SCALENGHE",
+                "id": "15668",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ROLANDO RENATO & C. SNC SIGLABILE ROLANDO & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.437443733215331,
+                    44.905699712601006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1",
+                "id": "15050",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "B. & B. S.N.C. DI BERRA MAURO E FULVIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.496987823455128,
+                    44.84629255050188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE CARBURANTI EREDI CAMPIDONICO SPA  SCALENGHE",
+                "id": "30968",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "EREDI CAMPIDONICO - S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.495467960834502,
+                    44.888647513067625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE ESSO DI ADESSO ANTONIO",
+                "id": "17525",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STAZIONE ESSO DI ADESSO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.502461820840834,
+                    44.921400978345154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL VIGONE",
+                "id": "5761",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SA.ADRI S.N.C. DI ACQUAFRESCA SAVERIO E MONFREDO ADRIANO SIGLABILE SA.ADRI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.507136613976514,
+                    44.84741639042313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ReD",
+                "id": "28644",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "R E D S.N.C. DI ROSSO MORENO E DE LUCA CHIARA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.413577437400817,
+                    44.95995271104358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "30777",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "FULL SERVICE S.A.S. DI ARENA GIROLAMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.38594263792038,
+                    44.889634135505965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PISCINA SUD",
+                "id": "3844",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI RETE OIL&NONOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.428807020187379,
+                    44.90716020437029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "13819",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DAMA SNC DI SCARDELLINO DAVIDE E ALASONATTI MARA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.506658136844636,
+                    44.95483679333941
+                ]
+            }
+        }
+    ]
+}

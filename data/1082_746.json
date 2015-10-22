@@ -1,0 +1,191 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BEYFIN",
+                "id": "30052",
+                "amenity": "fuel",
+                "operator": "TESSITORE SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.287824571132658,
+                    43.83450666040099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "6241",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FARNESI FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.334537980919663,
+                    43.77345397377693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione Q8  di gemignani gerj & C. snc",
+                "id": "9093",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GEMIGNANI GERJ & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.291877388954163,
+                    43.82692787729443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MIGLIARINO SUD",
+                "id": "3739",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "S.a.v. sas di Vanni V. & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3559,
+                    43.793699999999994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio AQUILA di Liana Benini",
+                "id": "22651",
+                "brand": "Aquila",
+                "amenity": "fuel",
+                "operator": "DITTA LIANA BENINI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.328097939491272,
+                    43.78096085761894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LA VEGLIA PETROLI",
+                "id": "24088",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LA VEGLIA PETROLI DI LA VEGLIA CONO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.365329682826996,
+                    43.74815907681679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VECCHIANO",
+                "id": "5959",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.362364046627022,
+                    43.78612768180689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "05241 San Giuliano Terme Madonna Dell'acqua",
+                "id": "31573",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI RETE OIL&NONOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.369479060173035,
+                    43.74568084697878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MIGLIARINO NORD",
+                "id": "3701",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "Micar sas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.355,
+                    43.793800000000005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 53703",
+                "id": "25271",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.275505185127258,
+                    43.82273731286641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ANGEL CARBURANTI",
+                "id": "27965",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ANGEL CARBURANTI DI MILUCCIO ANGELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.323444306850432,
+                    43.787314270278515
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil - OSCARS",
+                "id": "13692",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "OSCARS DI PRAMSOHLER OSKAR & C. SAS % OSCARS DES PRAMSOHLER OSKAR & CO. KG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.675036251544952,
+                    46.64035997862307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Kelder",
+                "id": "10303",
+                "brand": "Kelder",
+                "amenity": "fuel",
+                "operator": "AUTOSERVICE DI KELDER GEHARD E C. S.N.C. - OHG % AUTOSERVICE DI K ELDER GEHARD & C. S.N.C. - OHG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.655155718326569,
+                    46.57368875113082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Firmin",
+                "id": "31512",
+                "brand": "Firmin",
+                "amenity": "fuel",
+                "operator": "KUSSTATSCHER THOMAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.69352203607559,
+                    46.565108469423535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI INSAM",
+                "id": "27752",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DIMA DES INSAM ERWIN JOHANN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.68536812067032,
+                    46.56791511517544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTELROTTO-PONTIVES SS 242",
+                "id": "11543",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.639565889549202,
+                    46.5801188821698
+                ]
+            }
+        }
+    ]
+}

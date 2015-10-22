@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE TOTALERG NI008612",
+                "id": "24267",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CIRELLA MASSIMILIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.542088240385056,
+                    40.52109238340767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTESCAGLIOSO - B.GO SAN ROCCO",
+                "id": "30987",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.63637854232786,
+                    40.51555921812006
+                ]
+            }
+        }
+    ]
+}

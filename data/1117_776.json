@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VILLAPIANA SCALO S.S.106 LOV.TORRE CERCHIARA",
+                "id": "9120",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.480249845438376,
+                    39.79284413398783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EREDI DI TUCCI ROCCO SAS",
+                "id": "21120",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "EREDI DI TUCCI ROCCO SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.489366739988327,
+                    39.80978836619585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE  DI  SERVIZIO TAMOIL  DI  IMPERIO LORENZO",
+                "id": "31372",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "IMPERIO LORENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.47800087928772,
+                    39.789276461255014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "kuwait petroleum italia spa pv7907",
+                "id": "26341",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PALERMO S.N.C. DI PALERMO DOMENICO SANTE E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.46987646818161,
+                    39.79330357312619
+                ]
+            }
+        }
+    ]
+}

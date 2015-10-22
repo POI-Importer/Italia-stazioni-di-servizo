@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Antilia",
+                "id": "27671",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ANTILIA CARBURANTI - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.364723205566406,
+                    40.16155862932432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "16206",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FARNETANO NICOLINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.359800322753927,
+                    40.05496324218752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.LLI PALMIERI",
+                "id": "32190",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F.LLI PALMIERI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.358723104000093,
+                    40.094270262859524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Agip 28927 Roccagloriosa",
+                "id": "18945",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CICCIO S.A.S. DI FONSECA FRANCESCO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.454657673835754,
+                    40.089955043163215
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "millenium petroli",
+                "id": "31114",
+                "amenity": "fuel",
+                "operator": "MILLENIUM PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.064166933298111,
+                    41.24698266683166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Paradiso Rocchina Carmela",
+                "id": "18210",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PARADISO ROCCHINA CARMELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.007904210337303,
+                    41.32117185108564
+                ]
+            }
+        }
+    ]
+}

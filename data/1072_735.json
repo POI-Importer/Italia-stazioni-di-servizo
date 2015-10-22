@@ -1,0 +1,393 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GET OIL",
+                "id": "4973",
+                "amenity": "fuel",
+                "operator": "RAVAZZOTTO SANDRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.443952053785324,
+                    45.11382499184595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "01422",
+                "id": "26208",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BERTA GABRIEL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.451490402221678,
+                    45.111008949350136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "10959",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PALMERI PIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.44805727598191,
+                    45.13341941456097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASALE MONFERRATO VIA ADAM 47",
+                "id": "6404",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.444239019643419,
+                    45.148288078738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore tamoil",
+                "id": "11151",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "RIZZATO MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.547391444444656,
+                    45.09597540206322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Repsol_Casale M._(AL001)",
+                "id": "31488",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "REPSOL ITALIA S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.492206335067749,
+                    45.1197575904825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASALE MONFERRATO-LOC S BERNARDINO.",
+                "id": "7288",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.464308679103851,
+                    45.12285556849811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO REPSOL DI OLIVERI MARCO",
+                "id": "19493",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "OLIVERI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.492222428321838,
+                    45.11976516104126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASALE MONFERRATO",
+                "id": "5511",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.455730635581972,
+                    45.11831510731237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "la tortonese",
+                "id": "28556",
+                "amenity": "fuel",
+                "operator": "LA TORTONESE DI GRAZIOLI CARLO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.448679388885465,
+                    45.15369375522906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area Servizio ESSO",
+                "id": "17844",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FORNAROLI SILVANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.597324788570404,
+                    45.18109003029458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASALE MONFERRATO-CORSO VALENTINO 140",
+                "id": "11452",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.45124363899231,
+                    45.123769088828745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "6116",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F.LLI FARELLO GENIO DI FARELLO FABIO E FARELLO MARCO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.446642309427261,
+                    45.14412371917075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni",
+                "id": "24990",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PAMPURI EMILIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.460341691970825,
+                    45.162620369398084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Demichelis Luisa",
+                "id": "27342",
+                "amenity": "fuel",
+                "operator": "DEMICHELIS LUISA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.472290933132172,
+                    45.17988078695231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "12387",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DEMARIA IVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.471979796886444,
+                    45.13119518050285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "31127",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CASADEI MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.437961888726932,
+                    45.10778563226713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CIERRE CARBURANTI SAS",
+                "id": "24391",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CIERRE S.A.S. DI BALOSSINO CARLA E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.451957106590271,
+                    45.10921385578351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "10985",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "RABAGLIATI GIANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.445768039950508,
+                    45.14562027661047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VILLANOVA MONFERRATO.",
+                "id": "7297",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.465003093254156,
+                    45.16692691074831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO TAMOIL 4286",
+                "id": "27932",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MAZZA SANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.445530195106471,
+                    45.1242520103821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP 11421 DI TROVATO GIUSEPPE",
+                "id": "5125",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TROVATO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.475544452667238,
+                    45.129602253374834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip",
+                "id": "28352",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "G.P.F.  S.N.C. DI CHESSA PIETRINA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.450644165277481,
+                    45.14114760150987
+                ]
+            }
+        }
+    ]
+}

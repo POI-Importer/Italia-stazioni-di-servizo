@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SCUPPA ROBERTO",
+                "id": "25743",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SCUPPA ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.113791417786388,
+                    43.445618947616516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP SPARAPANI SETTIMIO",
+                "id": "25947",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SPARAPANI SETTIMIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.092318177223206,
+                    43.44560272362714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE SANT'ELIA",
+                "id": "25597",
+                "amenity": "fuel",
+                "operator": "SERINI ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.039698246256194,
+                    43.41940155787122
+                ]
+            }
+        }
+    ]
+}

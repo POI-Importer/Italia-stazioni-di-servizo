@@ -1,0 +1,476 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE IP",
+                "id": "27957",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "TEG BAHADUR S.A.S. DI SINGH MAJOR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.988987826319885,
+                    44.994941206650935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTEBELLO DELLA BATTAG S.S.10 KM138/FRAZ.GENESTRELLO",
+                "id": "6453",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.091897269975336,
+                    44.99919595566115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Restiani - Voghera",
+                "id": "24415",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "RESTIANI - S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.99335456758422,
+                    44.98672778878093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NEBBIOLO NICOLINO",
+                "id": "12979",
+                "amenity": "fuel",
+                "operator": "NEBBIOLO NICOLINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.048614348210888,
+                    45.03721032658172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio ip",
+                "id": "27930",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GRECO GIACOMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.996042495297047,
+                    45.00963909054519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "8205",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "FARINA PIERLUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.131129863507113,
+                    45.01643025958749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTEGGIO",
+                "id": "10144",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.128679782152176,
+                    45.02321652944532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GIOVI GAS",
+                "id": "30554",
+                "amenity": "fuel",
+                "operator": "GIOVI GAS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.108430445194243,
+                    45.00862921978015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BOZZI ANGELO DAVIDE. Distributore ENI",
+                "id": "7156",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BOZZI ANGELO DAVIDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.017495603635439,
+                    44.993418535045635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "6237",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE AGIP DI FERIGO CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.011700877246085,
+                    44.997001277087776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STRADA NUOVA 10 CODEVILLA",
+                "id": "21858",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.06159768584439,
+                    44.97301002498917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Voghera",
+                "id": "22291",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.976741189549216,
+                    44.99718530666907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO EXPRESS CASTEGGIO",
+                "id": "22662",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PISELLO GIUSEPPE FABRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.117169271163903,
+                    45.012345096630696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AUTOGAS VIOLA NICCOLO'",
+                "id": "29385",
+                "amenity": "fuel",
+                "operator": "AUTOGAS VIOLA NICCOLO'"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.041309505701065,
+                    44.998192427006465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VOGHERA-P.ZZA QUARLERI 5",
+                "id": "11793",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.017146931081697,
+                    44.996509595077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL 1435",
+                "id": "16795",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "DARAI MUSTAPHA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.031520783901213,
+                    44.99734992085656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TESSARIN ANDREA TAMOIL",
+                "id": "12209",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "TESSARIN ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.102451801300049,
+                    45.07112329120462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTEBELLO DELLA BATTAGLIA-LOC. CERRETO",
+                "id": "11788",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.109667813491797,
+                    45.00788293287752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore GPL di Moro Paolo",
+                "id": "27924",
+                "amenity": "fuel",
+                "operator": "MORO PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.069427379664603,
+                    45.00064852942218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VOGHERA",
+                "id": "24149",
+                "amenity": "fuel",
+                "operator": "IPER MONTEBELLO S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.069058299064634,
+                    44.99909940649677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO STRADALE TAMOIL",
+                "id": "23703",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "OILGEST S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.054001048207283,
+                    45.001072634690445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "repsol",
+                "id": "8452",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "MAGGI LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.130290448665619,
+                    45.03143554118058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cattani Lauretta",
+                "id": "13825",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CATTANI LAURETTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.985727429389954,
+                    44.99558976002434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NALIATO ANTONIO",
+                "id": "7071",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NALIATO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.135681688785553,
+                    45.05722006103694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO EXPRESS VOGHERA",
+                "id": "22647",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PISELLO GIUSEPPE FABRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.021878471163973,
+                    44.999090184277534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "la rosa dei venti",
+                "id": "15098",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "LA ROSA DEI VENTI DI GUARNASCHELLI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.083426892757416,
+                    45.0380726748187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BRESSANA BOTTARONE SP 1 KM 0+850",
+                "id": "6455",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.114620484794614,
+                    45.08424446347703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SBARRA MAURO",
+                "id": "13335",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SBARRA MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.007940143346786,
+                    44.9779722762034
+                ]
+            }
+        }
+    ]
+}

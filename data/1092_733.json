@@ -1,0 +1,660 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI STATION 13743 DI TROLDI LINDA",
+                "id": "29227",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TROLDI LINDA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.037967592976429,
+                    45.383703577456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Eni di Perin Adolfo",
+                "id": "24480",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PERIN ADOLFO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.04301877463604,
+                    45.44623516022975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio TAMOIL",
+                "id": "14324",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "STURARO ANNA REGINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.093041762709618,
+                    45.36207674909548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CALLEGARO ATTILIO SNC",
+                "id": "15491",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CALLEGARO ATTILIO S.N.C. DI CALLEGARO ATTILIO E DE BENETTI VANIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.013732194900513,
+                    45.34135873050161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VEGA FIESSO D'ARTICO",
+                "id": "31541",
+                "brand": "Vega",
+                "amenity": "fuel",
+                "operator": "VEGA CARBURANTI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.048284411430359,
+                    45.41782656013089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VEGA ARINO",
+                "id": "31449",
+                "brand": "Vega",
+                "amenity": "fuel",
+                "operator": "VEGA CARBURANTI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.042710781097412,
+                    45.44574802509737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "vallicarburanti vivai",
+                "id": "14463",
+                "amenity": "fuel",
+                "operator": "VALLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.009424567222595,
+                    45.35350644027049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VEGA PD VIGONOVESE",
+                "id": "31800",
+                "brand": "Vega",
+                "amenity": "fuel",
+                "operator": "VEGA CARBURANTI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.96997329592705,
+                    45.39726117882132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NOALOIL PV2",
+                "id": "4484",
+                "brand": "Noaloil",
+                "amenity": "fuel",
+                "operator": "NOALOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.047613859176636,
+                    45.43214853006006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VEGA VIGONZA",
+                "id": "25365",
+                "brand": "Vega",
+                "amenity": "fuel",
+                "operator": "BRAGAGNOLO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.98810636997223,
+                    45.449294722220436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "M",
+                "id": "28878",
+                "amenity": "fuel",
+                "operator": "MENIN FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.091564701991274,
+                    45.354494946978974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil di Marini Valter - Fiesso D'Artico",
+                "id": "27624",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MARINI VALTER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.036785056973713,
+                    45.417093586359734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO TAP",
+                "id": "26046",
+                "amenity": "fuel",
+                "operator": "FALK PETROLI - SOCIETA' A RESPONSABILITA' LIMITATA (IN LIQUIDAZIONE)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.089239060878754,
+                    45.417917307491564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Girardello Stefano",
+                "id": "15474",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GIRARDELLO STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.993375626983608,
+                    45.4572787702312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "_STAZ.DI SERVIZIO ENI DI F.LLI DISCARDI SNC",
+                "id": "7448",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "F.LLI DISCARDI S.N.C. DI DISCARDI ANDREA E MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.059587481963947,
+                    45.41889965963866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "L'OASI SNC",
+                "id": "26997",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "L'OASI  SNC DI SIMION ALESSANDRO E PATTARO FRANCESCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.077638506889343,
+                    45.45011211702484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A.F. PETROLI",
+                "id": "12368",
+                "brand": "AF Petroli",
+                "amenity": "fuel",
+                "operator": "A.F. PETROLI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.987510919570921,
+                    45.37396082386893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "20423",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ZOPPELLARO S.N.C. DI ZOPPELLARO VITTORINO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.092794328927994,
+                    45.36283887008704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "18858",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "F.LLI BRUSEGAN DI BORIS, SILVA & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.985658853967266,
+                    45.4191264658978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IPEROIL",
+                "id": "16978",
+                "amenity": "fuel",
+                "operator": "LAZZARO ENRICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.048645168542862,
+                    45.45476223554804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VEGA DOLO",
+                "id": "31543",
+                "brand": "Vega",
+                "amenity": "fuel",
+                "operator": "VEGA CARBURANTI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.107566595077515,
+                    45.42874343824223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAMPONOGARA",
+                "id": "5981",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.097036271163915,
+                    45.383461090306064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sia Fuel Padova",
+                "id": "31599",
+                "brand": "Sia fuel",
+                "amenity": "fuel",
+                "operator": "S.I.A. ENGINEERING CONSTRUCTION S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.955500818754558,
+                    45.39959688788431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ARINO EST",
+                "id": "24829",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI RETE OIL&NONOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.053447663784027,
+                    45.44165308890792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAONARA DEI VIVAI 25",
+                "id": "9622",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.969382154631033,
+                    45.382454177513104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE API-IP",
+                "id": "21101",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE API DI DE GASPARI ALBERTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.080584242939949,
+                    45.4213187223718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZ. DI SERV. Q8 F.LLI BETTELLA",
+                "id": "13309",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "F.LLI BETTELLA DI BETTELLA MIRCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.955485343933105,
+                    45.39917318687466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio REPSOL di Menegazzo Adriano",
+                "id": "22931",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "MENEGAZZO ADRIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0668731939179,
+                    45.39063217456052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Staz. F.lli Vianello S.r.l.-Via Riviera del Brenta, 13 - Fiesso d'Artico (Ve)",
+                "id": "12257",
+                "amenity": "fuel",
+                "operator": "F.LLI VIANELLO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.025336355819718,
+                    45.41641648324738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COSTANTIN VIGONZA",
+                "id": "31038",
+                "brand": "Costantin",
+                "amenity": "fuel",
+                "operator": "COSTANTIN DISTRIBUZIONE E SERVIZI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.980767846107483,
+                    45.421075676834015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NOVENTA PADOVANA VENEZIA-S.S.11",
+                "id": "6497",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.004044619643425,
+                    45.410816200707266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SMP SAONARA",
+                "id": "30364",
+                "brand": "San Marco Petroli",
+                "amenity": "fuel",
+                "operator": "SAN MARCO PETROLI DISTRIBUZIONE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.980903583050575,
+                    45.37601982432123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "mc carburanti",
+                "id": "14380",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO 2M S.A.S. DI MASIN ALESSANDRO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.985066125165986,
+                    45.36796460199708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "R8 via Dante",
+                "id": "26980",
+                "amenity": "fuel",
+                "operator": "FRA.RO.MA. S.A.S. DI ROMBOLOTTO MARCO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.002145051956177,
+                    45.40050997202193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PR Fosso'",
+                "id": "6963",
+                "amenity": "fuel",
+                "operator": "PREO & RIGON - SOCIETA' IN NOME COLLETTIVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.045237421989441,
+                    45.37068148626887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ARINO OVEST",
+                "id": "22329",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "Arino Petroli S.a.s."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.051191926002502,
+                    45.442330580488274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 52721",
+                "id": "25907",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.076790928840637,
+                    45.392653787198306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP CANAIA RINALDO",
+                "id": "26081",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CANAIA RINALDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.976685523986818,
+                    45.44026495857187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Costantin Vigonovo",
+                "id": "25561",
+                "brand": "Costantin",
+                "amenity": "fuel",
+                "operator": "ZANIN RITA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.986684799194336,
+                    45.39619817082672
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,223 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dal Monte Giuliana",
+                "id": "26804",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DAL MONTE GIULIANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.390856474654354,
+                    45.30466741165398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PASSILONGO ANTONIO",
+                "id": "26077",
+                "amenity": "fuel",
+                "operator": "PASSILONGO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.29057914018631,
+                    45.27348175178261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio di Venturini Luca",
+                "id": "19048",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "VENTURINI LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.381105035543442,
+                    45.322469839185224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COSTANTIN MINERBE",
+                "id": "32086",
+                "brand": "Costantin",
+                "amenity": "fuel",
+                "operator": "COSTANTIN DISTRIBUZIONE E SERVIZI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.367713822090082,
+                    45.2311765548413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE ENI di BIANCHIN GIANPAOLO",
+                "id": "29604",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE ENI DI BIANCHIN GIANPAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.401460319757462,
+                    45.28503983156013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "13748",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO DI BERTINATO LINO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.337918788194656,
+                    45.33631878927862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio di Iasiello Serena",
+                "id": "14049",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "IASIELLO SERENA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.28016211092472,
+                    45.2168409019185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Eni Paolo Vigolo",
+                "id": "15552",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VIGOLO PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.378379052917465,
+                    45.31114589604325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "quartarolo stefano",
+                "id": "10061",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "QUARTAROLO STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.334529817104338,
+                    45.23857240900334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Danese Susanna",
+                "id": "26048",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DANESE SUSANNA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.280751526355742,
+                    45.32119551965742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FIRST S.R.L.",
+                "id": "27667",
+                "amenity": "fuel",
+                "operator": "FIRST S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.377678513526915,
+                    45.33199115580789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORO F.LLI SPA",
+                "id": "5665",
+                "brand": "Loro",
+                "amenity": "fuel",
+                "operator": "LORO F.LLI-S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.30592942237854,
+                    45.25807134411923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAP Ma.ku. snc",
+                "id": "25509",
+                "amenity": "fuel",
+                "operator": "MA.KU. S.N.C. DI MARCHETTI ALESSIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.276895850896837,
+                    45.309887766813986
+                ]
+            }
+        }
+    ]
+}

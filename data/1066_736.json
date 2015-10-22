@@ -1,0 +1,886 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "8603",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SASSO ELIANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.470517128250094,
+                    44.982371431569355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ORBASSANO - TORINO 31",
+                "id": "22892",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.548517953372995,
+                    45.00867731776258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Q8 Autoriparazioni Zanellato Luca",
+                "id": "9290",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO Q8 AUTORIPARAZIONI ZANELLATO LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.519188855819721,
+                    45.057658114520294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE ESSO CRAVERO PIERLUCA",
+                "id": "10872",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CRAVERO PIERLUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.514433860778808,
+                    45.011095523757284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP AVIGLIANA",
+                "id": "16291",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GLI ANGELI S.N.C. DI CASABIANCA SALVATORE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.401102711639396,
+                    45.0818101486362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIVALTA DI TORINO",
+                "id": "5896",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TotalErg SpA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5416960932541315,
+                    45.028277260820424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ORBASSANO STRADA PIOSSASCO  72",
+                "id": "6397",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.523825676721231,
+                    45.001825810232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIVOLI",
+                "id": "3807",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MAGLIONE S.N.C. DI MAGLIONE DAVIDE E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.515726685523986,
+                    45.08370580351621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kerotris - Reano",
+                "id": "13410",
+                "amenity": "fuel",
+                "operator": "KT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.427382749073784,
+                    45.05107974825927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO ITALIANA SRL",
+                "id": "9795",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MARTINO ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.466839720237773,
+                    44.98966482439986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "28274",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "LA MATTINA MICHELANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.513000846557588,
+                    45.07866499457847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIVALTA DI TORINO-SDA PLE ORBASSANO-BRUINO KM18",
+                "id": "11866",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.492493119049072,
+                    45.01582176834587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIVOLI",
+                "id": "24712",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.536192000000029,
+                    45.066740741508085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "8967",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DI VICO NUNZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.403875887393953,
+                    45.08495647848998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "malacarne s.n.c.",
+                "id": "28701",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MALACARNE SNC DI MALACARNE GIOVANNI & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.503540952639811,
+                    45.013232276610225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SOCOGAS Orbassano",
+                "id": "16500",
+                "brand": "Socogas",
+                "amenity": "fuel",
+                "operator": "ZOTTI POMPEO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.548605203628542,
+                    44.99685943324287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "26973",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "F.LLI BUONO S.N.C. DI BUONO CLAUDIO & C. SIGLABILE F.LLI BUONO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.384309172630308,
+                    44.97464880403196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "9505",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "GIACONE DENIS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.39498395767214,
+                    45.07548426985646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni",
+                "id": "5737",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MARSANO DIEGO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.552534638800807,
+                    45.003125574857826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "8896",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ELOR DI ORIA GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.527287006378175,
+                    45.07448965738077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIVOLI",
+                "id": "25612",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.527093887329103,
+                    45.08462241246036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ACLA",
+                "id": "12092",
+                "amenity": "fuel",
+                "operator": "ACLA P.V. S.R.L"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.551968693733214,
+                    45.02102338025592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BUTTIGLIERA A - SP.RIVOLI/AVIGLIANA",
+                "id": "32022",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.434045597553223,
+                    45.06680947197759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIOSSASCO-VIA N. COSTA 2",
+                "id": "11879",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.481375860118874,
+                    44.98969810305087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg",
+                "id": "13831",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ACCASTELLO MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.451540303179967,
+                    45.026803079784344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ORBASSANO",
+                "id": "5900",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TotalErg SpA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5220740024815305,
+                    45.01418026407722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIVOLI-VIA RIVALTA 16",
+                "id": "11870",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.518519941139174,
+                    45.06095535653878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SPRINT S.N.C.",
+                "id": "7625",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SPRINT S.N.C. DI CHRISTIAN ZANOTTI & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.527185082435608,
+                    44.981535744202205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "8935",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PROIETTO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4879175424575815,
+                    44.99163678801162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIOSSASCO - STRADA PER ORBASSANO",
+                "id": "32058",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.494556326389331,
+                    44.993579134975924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LAVILLA NICOLA",
+                "id": "8331",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "LAVILLA NICOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5458276289646165,
+                    45.00828857407739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIVOLI-CORSO SUSA",
+                "id": "11890",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.498148341104525,
+                    45.08180578779675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE  EREDI CAMPIDONICO SPA - RIVALTA",
+                "id": "28588",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "EREDI CAMPIDONICO - S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.500389737859563,
+                    45.01435102210341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE IP",
+                "id": "13435",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "RAPID SERVICE S.A.S. DI GARELLO MARCO E GARELLO LUCA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.494557350873949,
+                    44.99357888085573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orbassano",
+                "id": "10334",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5426024198532104,
+                    45.007302916410644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP BUTTIGLIERA",
+                "id": "16305",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GLI ANGELI S.N.C. DI CASABIANCA SALVATORE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.434043742881726,
+                    45.06681101559981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CATANIA ANTONINO",
+                "id": "30893",
+                "brand": "Socogas",
+                "amenity": "fuel",
+                "operator": "CATANIA ANTONINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.483022511005401,
+                    45.086162433670616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg",
+                "id": "13693",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MAZZA S.N.C. DI MAZZA RENATO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5232087075710306,
+                    45.087503195715556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SA.ME.F.",
+                "id": "6849",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SA.ME.F. DI SARDO MICHAELA, MEOTTO GIANPIERO & C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.506170498672419,
+                    45.07734771733064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso Cirone Antonio",
+                "id": "16023",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CIRONE ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.524367035889326,
+                    45.07034012301174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP MGM RIVALTA SOCOGAS",
+                "id": "6380",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "M.G.M. SERVICES S.N.C. DI NEBIOLO LUCIA E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.525778849737548,
+                    45.03239638973849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "UNIONE GAS AUTO",
+                "id": "24708",
+                "amenity": "fuel",
+                "operator": "BURDISSO S.N.C. DI BURDISSO GIOVENALE E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.485436499118806,
+                    44.98086716023794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ORBASSANO SP 143 CIRCONVALLAZIONE ESTERNA",
+                "id": "23620",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.522818446159365,
+                    45.01403500090105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione ip di costanza",
+                "id": "23929",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "COSTANZA GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.53199213988114,
+                    45.07114989936375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BUTTIGLIERA ALTA-FZ. FERRIERE C.SO TORINO",
+                "id": "11859",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.431932186508221,
+                    45.08358484928732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "bellotti snc",
+                "id": "18813",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BELLOTTI S.N.C. DI BELLOTTI FILIPPO E DAVIDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.557070255279541,
+                    45.05783773413974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FRANCA CIRONE",
+                "id": "15388",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CIRONE FRANCA ROSA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.515288673610713,
+                    44.999147377379266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ferroni s.a.s",
+                "id": "8005",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FERRONI S.A.S. DI FERRONI SIMONE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.468675359802205,
+                    45.08425206810672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ORBASSANO-SP TO PINEROLO KM16 391",
+                "id": "7265",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.529048015869193,
+                    44.99617597919005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIVOLI-VIA SUSA 299 IPER",
+                "id": "11868",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.498857084655812,
+                    45.08322840777434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GI e GI  s.n.c.",
+                "id": "8617",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GI E GI SNC DI PERANO GIOVANNI E PITTON LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.481243818524149,
+                    45.01878841241254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "17599",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MURATORE S.A.S. DI MURATORE WALTER E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.550315889549211,
+                    45.07181180777595
+                ]
+            }
+        }
+    ]
+}

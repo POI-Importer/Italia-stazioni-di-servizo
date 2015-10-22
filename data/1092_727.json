@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tielle 2 di tonin lucio",
+                "id": "11149",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TIELLE 2 DI TONIN LUCIO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.036063264418091,
+                    46.08093971361627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "23289",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MORETTI ANTONIO & C. S.N.C. DI MORETTI LIONELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.096522599458696,
+                    46.1076772631455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REPSOL",
+                "id": "23389",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "FONTANA WALTER & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.052734196186066,
+                    46.08875083068912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso di caneve roberto",
+                "id": "20199",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CANEVE ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.090702205896378,
+                    46.10115306464842
+                ]
+            }
+        }
+    ]
+}

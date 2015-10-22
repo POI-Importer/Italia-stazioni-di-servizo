@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DE ANGELIS VITTORINA & FIGLI SAS",
+                "id": "22371",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DE ANGELIS VITTORINA & FIGLI S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.427657499999215,
+                    42.78476902984548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bianchini Anna IP",
+                "id": "18296",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BIANCHINI ANNA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.496384918689728,
+                    42.73606951627091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Q8",
+                "id": "29683",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PICENUM STATION SRL SEMPLIFICATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.493501605471804,
+                    42.80737476952577
+                ]
+            }
+        }
+    ]
+}

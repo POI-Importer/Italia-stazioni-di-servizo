@@ -1,0 +1,123 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FORTI ALBERTO",
+                "id": "6863",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FORTI ALBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.789561212062836,
+                    43.218198390214525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CORSI LUCA Tamoil 8071",
+                "id": "27363",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CORSI LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.826705783605574,
+                    43.28356881401184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil2304 corsi bruno",
+                "id": "31453",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CORSI BRUNO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.809571832418442,
+                    43.315892529767964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IL CAFFE' DELLE FARFALLE DI BIAGINI STEFANIA IMP.IP 45929",
+                "id": "28388",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IL CAFFE' DELLE FARFALLE DI BIAGINI STEFANIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.784691661596298,
+                    43.32289040496174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SIVOC",
+                "id": "4349",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SOCIETA' ITALIANA VENDITA OLII CARBURANTI - S.I.V.O.C.- SOCIETA A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.809263962539717,
+                    43.22368061564861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bettolle",
+                "id": "9370",
+                "amenity": "fuel",
+                "operator": "I.C.M. SOCIETA' IN NOME COLLETTIVO DI BRUNO, CRISTIANO E FABRIZIO MAGGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.805756390094757,
+                    43.21075536137445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "19731",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F.B. DI FAVILLI ROBERTO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.815696656703949,
+                    43.23118769627407
+                ]
+            }
+        }
+    ]
+}

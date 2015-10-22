@@ -1,0 +1,338 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO ENI GAMBA RICCARDO",
+                "id": "16499",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GAMBA RICCARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.258797645568848,
+                    45.18597665445785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Costantin Marega",
+                "id": "23890",
+                "brand": "Costantin",
+                "amenity": "fuel",
+                "operator": "BUFFO CARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.39538368406147,
+                    45.20000644410457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orogas",
+                "id": "5618",
+                "amenity": "fuel",
+                "operator": "OROGAS DI ZAMBONI ADRIANA E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.290240013561288,
+                    45.19260426942201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "17838",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "G.P. DI GALIA PIERANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.29874903439327,
+                    45.193004095182054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO",
+                "id": "8883",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO DI RAVAROTTO LUCIANA & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.310835011674158,
+                    45.199225754972574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sia Fuel Villa Bartolomea",
+                "id": "26162",
+                "brand": "Sia fuel",
+                "amenity": "fuel",
+                "operator": "S.I.A. ENGINEERING CONSTRUCTION S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.354552507400513,
+                    45.14527677880318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AZIENDA RICOMPRESSIONE METANO",
+                "id": "29885",
+                "amenity": "fuel",
+                "operator": "AZIENDA RICOMPRESSIONE METANO A.R.M. SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.280544996261595,
+                    45.18598119152134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A&B S.p.A., Legnago",
+                "id": "10294",
+                "amenity": "fuel",
+                "operator": "A & B SPA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.295267641544342,
+                    45.190467411317705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AZIENDA RICOMPRESSIONE METANO",
+                "id": "10824",
+                "amenity": "fuel",
+                "operator": "AZIENDA RICOMPRESSIONE METANO A.R.M. SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.280544996261595,
+                    45.18598119152134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE DI CARBURANTI TOSANO",
+                "id": "25472",
+                "amenity": "fuel",
+                "operator": "SUPERMERCATI TOSANO CEREA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.269344091415405,
+                    45.18659633794704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LEGNAGO-VIA MANTOVANA 14/A",
+                "id": "11958",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.300419126319865,
+                    45.193377317650054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "pompa bianca",
+                "id": "14356",
+                "amenity": "fuel",
+                "operator": "SORDO STEFANIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.412492513194708,
+                    45.11996483732208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OROGAS",
+                "id": "4280",
+                "amenity": "fuel",
+                "operator": "OROGAS DI ZAMBONI ADRIANA E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.255506575107574,
+                    45.202121007654014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DEGANI MIRKO & C.SNC",
+                "id": "10761",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DEGANI MIRKO  &  C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.314371675252916,
+                    45.20435974596828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DELTA ENERGY SRL - Villa Bartolomea",
+                "id": "27072",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DELTA ENERGY S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.359251737594604,
+                    45.13943386544207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LEGNAGO",
+                "id": "5918",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TotalErg SpA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.280920991401672,
+                    45.20296942270818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE AGIP DE TOMI LAURA",
+                "id": "31208",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DE TOMI LAURA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.389176653303595,
+                    45.17358832445944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2 EMME SERVICE SRL",
+                "id": "29843",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "2 EMME SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.258831173181534,
+                    45.18600841385141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BOGONI ALFONSO & C. SAS",
+                "id": "20987",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BOGONI ALFONSO & C. - S.A.S. DI BOGONI CARLO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.333517283201216,
+                    45.151959146288874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio \"ENI\"di Cavazza Giuliana & C.sas",
+                "id": "15018",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO AGIP DI CAVAZZA GIULIANA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.314104017196657,
+                    45.18427492612815
+                ]
+            }
+        }
+    ]
+}

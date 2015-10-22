@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "levice",
+                "id": "26090",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GALE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.139119447663347,
+                    44.54464549598867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DECASTELLI GIANCARLO",
+                "id": "16828",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DECASTELLI GIANCARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.116228212908936,
+                    44.4671536430274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kerotris - Prunetto",
+                "id": "13130",
+                "amenity": "fuel",
+                "operator": "KEROTRIS - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.142658844590187,
+                    44.488198384067196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL ERG SPA",
+                "id": "20161",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "F.LLI ARNALDO DI ARNALDO VALERIO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.191923648118973,
+                    44.58408284098767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE HELP",
+                "id": "25012",
+                "amenity": "fuel",
+                "operator": "COLLINO E C.- S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.20094458758831,
+                    44.57297915825567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "p.v. FEISOGLIO",
+                "id": "20992",
+                "brand": "SACED",
+                "amenity": "fuel",
+                "operator": "SACED S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.105630949139595,
+                    44.5454271631702
+                ]
+            }
+        }
+    ]
+}

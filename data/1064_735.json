@@ -1,0 +1,158 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SOCOGAS Bruzolo Vair Manuela",
+                "id": "22077",
+                "brand": "Socogas",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE IP DI VAIR MANUELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1759605407714835,
+                    45.13694774029445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni Agip Susa",
+                "id": "6035",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CALAROTA GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.051495313644409,
+                    45.135058666751696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A. e O. TAMOIL",
+                "id": "6904",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "A. E O. DISTRIBUTORE CARBURANTI - AUTOLAVAGGIO TAMOIL DI ASSETTA LEANDRO E ORTUSO DOMENICO S.N.C. SIGLABILE A. E O. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.070930600166323,
+                    45.137168355127265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione totalerg",
+                "id": "9323",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ROCCIA ALBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.055355012416838,
+                    45.13787295478249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SUSA TO-AUTOPORTO SUSA-FZ. TRADUERIVI 12",
+                "id": "11869",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.088273763656615,
+                    45.136095545827374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "25354",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "AERRE SNC DI TROTTA ANDREA E HOXHA MUHAREM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.052330937589887,
+                    45.13800404890918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio ESSO",
+                "id": "7350",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ROSSERO MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.157998244349641,
+                    45.1379791790539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso Sandro e Vittoria",
+                "id": "8632",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LOVALLO VITTORIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.183213233947755,
+                    45.1342722912345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SUSA - SAN GIULIANO",
+                "id": "28617",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.091783906745945,
+                    45.13802648847826
+                ]
+            }
+        }
+    ]
+}

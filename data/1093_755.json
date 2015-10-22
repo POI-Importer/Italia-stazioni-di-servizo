@@ -1,0 +1,139 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PETROCCHI CLAUDIO",
+                "id": "14266",
+                "amenity": "fuel",
+                "operator": "PETROCCHI CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.186182811856272,
+                    42.604498231538116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ricci Giuseppe",
+                "id": "9958",
+                "amenity": "fuel",
+                "operator": "RICCI GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.279683947563175,
+                    42.65928192768304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FREZZA GIOVANNI",
+                "id": "30886",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "FREZZA GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.200852483510971,
+                    42.57673150003276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Esso di Luigi Siciliano",
+                "id": "16396",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SICILIANO LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.25697100162506,
+                    42.613948320978814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "24873",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MISSORI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.295669913291931,
+                    42.59147291642527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TEVERE EST",
+                "id": "28757",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "TEVERE S.A.S. DI MESCHINI DANIELE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.231527566909788,
+                    42.625053023035434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TEVERE OVEST",
+                "id": "3483",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.230410426855087,
+                    42.624069781695844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di servizio Manzotti di Manzotti Raffaele",
+                "id": "28793",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "AREA SERVIZIO MANZOTTI DI MANZOTTI RAFFAELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.201468050479889,
+                    42.65267039242754
+                ]
+            }
+        }
+    ]
+}

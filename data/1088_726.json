@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 Egna",
+                "id": "20255",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "EISENSTECKEN STEFAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.272401253967248,
+                    46.311318193608706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gasmotors snc",
+                "id": "26338",
+                "amenity": "fuel",
+                "operator": "GAS MOTORS DI DELMARCO STEFANO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.419448479271978,
+                    46.272585807451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Casal Maria Sivlia",
+                "id": "20435",
+                "brand": "Som/Omv",
+                "amenity": "fuel",
+                "operator": "CASAL MARIA SILVIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.369249771596854,
+                    46.27912448945477
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "YOUNG OIL S.R.L.",
+                "id": "19652",
+                "amenity": "fuel",
+                "operator": "YOUNG OIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.698151290416716,
+                    41.3545099692764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Total Erg di Marseglia Incoronata",
+                "id": "19563",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MARSEGLIA INCORONATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.704950737434388,
+                    41.33203506853709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore basile petroli",
+                "id": "12401",
+                "amenity": "fuel",
+                "operator": "DIVIETRI VINCENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.729202133204582,
+                    41.255700665662665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Servizio AGIP",
+                "id": "19008",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DI FONSO SABINO COSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.779355168342592,
+                    41.28967805484989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CURCI MICHELE - ENI 29247",
+                "id": "27391",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CURCI MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.716983856652858,
+                    41.331569863650536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ORTA NOVA S.P. PER CARAPELLE",
+                "id": "6756",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.700779280950885,
+                    41.346264118296965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "27175",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MONACO VINCENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.73266964405775,
+                    41.25642973790447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "daunia metano srl",
+                "id": "5311",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DAUNIA METANO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.71349084377289,
+                    41.35887720832316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Novelli",
+                "id": "19658",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "NOVELLI PASQUALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.73069989681244,
+                    41.34832301550582
+                ]
+            }
+        }
+    ]
+}

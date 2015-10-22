@@ -1,0 +1,158 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Tamoil Fiorilli Luigi",
+                "id": "16056",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FIORILLI LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.713110202377264,
+                    43.506215091904764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO IP",
+                "id": "25461",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FRATELLI GORI DI GORI GIOVANNI E MARIO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.768151452535676,
+                    43.52241633560075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "andreini valerio",
+                "id": "22374",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ANDREINI VALERIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.680872703041132,
+                    43.47507717792901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PE.BA. SNC DI PELLENI ALESSANDRO E BAZZECHI NICO",
+                "id": "26790",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PE.BA. SNC DI PELLENI ALESSANDRO E BAZZECHI NICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.699382662773134,
+                    43.549195084232146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL ERG",
+                "id": "30975",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CHERUBINI MASSIMILIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.614918559789658,
+                    43.50098765601525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "B.M.",
+                "id": "10720",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "B.M. SNC DI BARTOLUCCI SONIA  &  MARRUGANTI MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.668690305557218,
+                    43.454764588145835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "pitstop caburanti",
+                "id": "6153",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PITSTOP CARBURANTI DI PROSPERI E CHERUBINI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.618020534515379,
+                    43.47564143316453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "M.P di Meoni Roberto & C S.N.C",
+                "id": "10776",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "M.P. DI MEONI ROBERTO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.613197922706604,
+                    43.50248183825745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PVS IL PIENO",
+                "id": "19399",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SISTI GIULIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.71675817790981,
+                    43.480802322655954
+                ]
+            }
+        }
+    ]
+}

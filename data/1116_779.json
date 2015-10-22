@@ -1,0 +1,257 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "G1 PETROLI",
+                "id": "26325",
+                "amenity": "fuel",
+                "operator": "DREAM SERVICE S.A.S. DI ABATE SILVIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.227989494800568,
+                    39.399872455140624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZ. RIF. AGIP DI EGIDIO CORALLO",
+                "id": "7446",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CORALLO  EGIDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.261726319789886,
+                    39.434804627879664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "26861",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "AF SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.239337921142578,
+                    39.41769153823852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BPOWER s.r.l.",
+                "id": "6900",
+                "amenity": "fuel",
+                "operator": "B POWER S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.21232807636261,
+                    39.379302648789015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LATTARICO",
+                "id": "26903",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "REGALGAS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.177896559238434,
+                    39.435748856066716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ROSE - C.DA PIANETTE",
+                "id": "22886",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.263510728836078,
+                    39.39093938515211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "KUWAIT",
+                "id": "25961",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ENERGAS S.P.A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.23538694906256,
+                    39.42874228913558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO PIANETTE DI PISANO SONIA & MASSIMO SNC",
+                "id": "29419",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO PIANETTE DI PISANO SONIA & MASSIMO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.196945225051532,
+                    39.43086116109115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE Q8",
+                "id": "7841",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "LENTO & GIORDANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.23452603816986,
+                    39.38011577181023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO MONTALTO",
+                "id": "27161",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO MONTALTO S.A.S. DI PILUSO ALESSANDRA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.237432956695557,
+                    39.43724411118169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "31655",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "COPLAST S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.239768700641662,
+                    39.40516438811973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "bfuelcs01srl",
+                "id": "28731",
+                "amenity": "fuel",
+                "operator": "BFUEL CS01 SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.21229723095894,
+                    39.37934867486911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BESIDIAE PETROLI",
+                "id": "22069",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BESIDIAE PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.24401569366455,
+                    39.49029927003326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL DI TURANO ARMANDO",
+                "id": "27034",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "TURANO ARMANDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.233824348071266,
+                    39.400342363262645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL DI NIGRO ANTONIO",
+                "id": "20660",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "NIGRO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.22297242283821,
+                    39.429727369562954
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TORRE FANTINE EST",
+                "id": "3764",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "Gallucci Silvio Vittorio"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.168023407459259,
+                    41.90975285144418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "18156",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GA.SI. SNC DI SIRICOLO SANDRA E GALANTINO LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.15688419342041,
+                    41.9207906970406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TORRE FANTINE OVEST",
+                "id": "3753",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "F.lli Donofrio di Donofrio Domenico & C. sas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.169585479831765,
+                    41.90866207357337
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Tiber di Altieri Alessandro",
+                "id": "26553",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "ALTIERI ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.342957258224486,
+                    42.242343040607125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Civita Carburanti",
+                "id": "28310",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CIVITA CARBURANTI S.N.C. DI CINGOLANI MARCO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.416606694459915,
+                    42.28815098075567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "P.V. ENERPETROLI",
+                "id": "14871",
+                "amenity": "fuel",
+                "operator": "MANCINI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.446342347918518,
+                    42.224448414228064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENERPETROLI-C.CASTELLANA",
+                "id": "29517",
+                "brand": "Enerpetroli",
+                "amenity": "fuel",
+                "operator": "ENERPETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.369897365570068,
+                    42.27962669762137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BOLZONI SERGIO",
+                "id": "21491",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BOLZONI SERGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.305571287870409,
+                    42.207800567853305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "JP",
+                "id": "27212",
+                "amenity": "fuel",
+                "operator": "BUCCI DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.307122945785522,
+                    42.205758555809865
+                ]
+            }
+        }
+    ]
+}

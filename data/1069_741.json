@@ -1,0 +1,140 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore carburanti via consolata 72 ceva",
+                "id": "10598",
+                "brand": "Socogas",
+                "amenity": "fuel",
+                "operator": "NEGRO MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.04417427790986,
+                    44.3874334471054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Raviolo Giorgio Distributore Agip",
+                "id": "7649",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RAVIOLO GIORGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.020474165678024,
+                    44.38623894369566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TERMOCEVA SRL",
+                "id": "31765",
+                "amenity": "fuel",
+                "operator": "TERMOCEVA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.066077367166145,
+                    44.37543592687127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PRIERO OVEST",
+                "id": "3736",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "POKER S.A.S. DI RASO SERGIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.076409739833593,
+                    44.371784824599025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni di Rizzon Enrico",
+                "id": "27375",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RIZZON ENRICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.033958819049076,
+                    44.38793686261499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "4938",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FRESIA MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.037598729133604,
+                    44.376316089557044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PRIERO EST",
+                "id": "3738",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "TRERRE S.A.S. DI GIRARDI SEVERINA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.078625244479895,
+                    44.373759598952354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SPG DI GHIGLIA",
+                "id": "20013",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "S.P.G. DI GHIGLIA SIMONE & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.913739681243898,
+                    44.37361899399984
+                ]
+            }
+        }
+    ]
+}

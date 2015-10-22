@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "_Stazione di Servizio ESSO",
+                "id": "7529",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DI NARDO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.203642315977505,
+                    45.70258237851556
+                ]
+            }
+        }
+    ]
+}

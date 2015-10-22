@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IES - G. G. PETROLI S.r.l.",
+                "id": "31554",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "G. G. PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.829877680426081,
+                    40.34471513175613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO DAMIANO FRANCESCO",
+                "id": "27282",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "DAMIANO FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.840033567373327,
+                    40.356166591866504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PETROL STATION VAL D'AGRI S.N.C.",
+                "id": "7338",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PETROL STATION VAL D'AGRI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.827350616455076,
+                    40.35426839968658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Carburanti Eni - Gagliardi Oil",
+                "id": "31045",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GAGLIARDI OIL DI GAGLIARDI MARIA ROSSELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.899426937103271,
+                    40.34586911441252
+                ]
+            }
+        }
+    ]
+}

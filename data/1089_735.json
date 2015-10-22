@@ -1,0 +1,209 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "15205",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BENEDUSI SIMONE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.590209533729533,
+                    45.19508975777879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Costantin Merlara",
+                "id": "12175",
+                "brand": "Costantin",
+                "amenity": "fuel",
+                "operator": "ENERCOM DI POLETTO SABRINA  &  C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.436675020901474,
+                    45.16462915147012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COSTANTIN",
+                "id": "13755",
+                "brand": "Costantin",
+                "amenity": "fuel",
+                "operator": "OFFICINA MECCANICA DI MAMARATO SILVANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.589188076057441,
+                    45.19476701135298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio Cavaton Juri",
+                "id": "10546",
+                "brand": "Major",
+                "amenity": "fuel",
+                "operator": "CAVATON JURI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.445410996675491,
+                    45.19448659906607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL SAN VITALE",
+                "id": "16216",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "GIOACHIN BRUNO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.522115468978882,
+                    45.20040267935235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA DI SERVIZIO TAMOIL",
+                "id": "18665",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PAVANELLO MONICA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.458156923942624,
+                    45.20062515810119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "zorzan carburanti srl",
+                "id": "20338",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "ZORZAN CARBURANTI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.508636027574541,
+                    45.092015727015976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "major",
+                "id": "13032",
+                "brand": "Major",
+                "amenity": "fuel",
+                "operator": "INCASSATI CALOGERO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.477494239807127,
+                    45.18880052663828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COSTANTIN SANTA MARGHERITA",
+                "id": "4031",
+                "brand": "Costantin",
+                "amenity": "fuel",
+                "operator": "COSTANTIN S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.567455530166626,
+                    45.19986214740848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COSTANTIN Castelbaldo",
+                "id": "22839",
+                "brand": "Costantin",
+                "amenity": "fuel",
+                "operator": "STEMAT S.N.C. DI MELOTTO MATTEO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.460946711639394,
+                    45.123100299675585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BOGONI ALFONSO & C. - S.A.S. DI BOGONI CARLO & C. \\t",
+                "id": "29544",
+                "brand": "Bogoni",
+                "amenity": "fuel",
+                "operator": "BOGONI ALFONSO & C. - S.A.S. DI BOGONI CARLO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.532848260110539,
+                    45.12529138768717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COSTANTIN",
+                "id": "12549",
+                "brand": "Costantin",
+                "amenity": "fuel",
+                "operator": "BERTONCIN MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.495604515075684,
+                    45.114644205450716
+                ]
+            }
+        }
+    ]
+}

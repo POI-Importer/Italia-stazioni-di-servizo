@@ -1,0 +1,932 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GI.MA GAS SRL",
+                "id": "4752",
+                "amenity": "fuel",
+                "operator": "GI.MA. GAS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.716513991355894,
+                    44.59072485538869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg Poli Luca",
+                "id": "15623",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "POLI LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.551205426454542,
+                    44.609404041442204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Reggio Emilia",
+                "id": "4691",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.68668782711029,
+                    44.691048078263364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.LLI CATALDO SNC DI CATALDO DIEGO & C.",
+                "id": "16204",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "F.LLI CATALDO SNC DI CATALDO DIEGO  &  C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.618143615205327,
+                    44.70711276532204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Metanauto S.r.l.",
+                "id": "12145",
+                "amenity": "fuel",
+                "operator": "METANAUTO - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.597646534442902,
+                    44.710404468538385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Liguria Gas Srl",
+                "id": "29246",
+                "amenity": "fuel",
+                "operator": "LIGURIA GAS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.716851949691774,
+                    44.59128317715838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO DI DATI ANDREA",
+                "id": "22575",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO ESSO DI DATI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.628915056586266,
+                    44.69293445218366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Reggio Emilia",
+                "id": "10135",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.644129216670988,
+                    44.68276088139228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione EGO",
+                "id": "22376",
+                "brand": "Ego",
+                "amenity": "fuel",
+                "operator": "CHINI ALESSANDRO S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.641434650262454,
+                    44.694697325606484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENPI EUROSELF",
+                "id": "30729",
+                "brand": "Euroself",
+                "amenity": "fuel",
+                "operator": "EN.PI. S.N.C. DI IEZZI A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.658838450908661,
+                    44.706424820337915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REGGIO EMILIA ALL'ANGELO",
+                "id": "5459",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "enirete oil&nonoil S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6174187566088,
+                    44.70343278514321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FORNACCIARI FAUSTO",
+                "id": "10842",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FORNACCIARI FAUSTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.634734521426367,
+                    44.68700831100723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EMMEDUE SNC  MARCHIO ENI",
+                "id": "15397",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "EMMEDUE S.N.C. DI MAZZA LUCA E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.550088286399843,
+                    44.63529481977645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vergnani s.n.c. di Vergnani Irma e figli",
+                "id": "31434",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VERGNANI SNC DI VERGNANI IRMA E FIGLI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.683994855156016,
+                    44.598766434790775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NI011286 REGGIO EMILIA",
+                "id": "26133",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CORO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.657047897449727,
+                    44.70223118247767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Esso Caruso Pasquale",
+                "id": "18474",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CARUSO PASQUALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.633459160713189,
+                    44.690050856366774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SCANDIANO-VIA MAZZINI 58/B",
+                "id": "11799",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.684031428241724,
+                    44.59932291790374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA_FRANCIA",
+                "id": "14408",
+                "brand": "Ego",
+                "amenity": "fuel",
+                "operator": "C.I.S. NORD S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.615952610969543,
+                    44.69166816870945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REGGIO EMILIA - MARTIRI TIEN AN MEN",
+                "id": "31853",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.687470596958974,
+                    44.69084708806046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "giemmegi snc",
+                "id": "12229",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GIEMMEGI SNC DI GRAZIANO E IORI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.618651957008296,
+                    44.6895489080325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO ESSO FANTINI SAS",
+                "id": "16943",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FANTINI E FIGLI SAS DI FANTINI SILVIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6743101104189,
+                    44.6136388256604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "suncar totalerg",
+                "id": "17248",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SUNCAR DI FERRARI DAVIDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.608324408531187,
+                    44.64714704048415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RANDHAWA",
+                "id": "16275",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "RANDHAWA & C S.N.C. DI SINGH KARAMJIT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.648630911114536,
+                    44.69259624327587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REGGIO EMILIA MARTIRI",
+                "id": "8421",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.61129093170166,
+                    44.711239555656725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GRE GAS SRL",
+                "id": "12247",
+                "amenity": "fuel",
+                "operator": "G.R.E. GAS REGGIO EMILIA - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.666210414826082,
+                    44.683158556627205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EGO di Andreoli Angelo Luciano",
+                "id": "11173",
+                "brand": "Ego",
+                "amenity": "fuel",
+                "operator": "ANDREOLI ANGELO LUCIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.712458491325378,
+                    44.61964489809557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG TIEN AN MEN",
+                "id": "25134",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DINO SERVICES S.N.C. DI POLETTI FABIO & DE CARLI CRISTIAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.677160620689392,
+                    44.70054739543016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RE-MARTIRI BETTOLA",
+                "id": "31984",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ENERGY RETE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.621063280242538,
+                    44.68222727741993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GAVASSA",
+                "id": "14449",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "C.I.S. NORD S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.684595704078676,
+                    44.708433645705476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "27445",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MORELLI ALBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.562490085983313,
+                    44.62688709298029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE TAMOIL DI FIORDALISI CARLO & C. SNC",
+                "id": "10987",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "P.F. DI FIORDALISI CARLO FRANCESCO & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.638501942157747,
+                    44.706496878454644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASALI PIERO",
+                "id": "16830",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CASALI PIERO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.655641629896534,
+                    44.60531953174998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "staz.serv. ComerGasPetroli",
+                "id": "23934",
+                "amenity": "fuel",
+                "operator": "COMER - S.N.C. DI CORRADO RAFFAELE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.643787235021591,
+                    44.65407892521309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 6405",
+                "id": "25909",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.640346758335907,
+                    44.69726279811481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REGGIO NELL'EMILIA-VIA EMILIA ALL'ANGELO 37",
+                "id": "11797",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.615949388885497,
+                    44.704028766062976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Giorgio Fornacciari",
+                "id": "23255",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FORNACCIARI GIORGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.625164912484935,
+                    44.674898032898696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore IP Giavelli SAS",
+                "id": "5574",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GIAVELLI S.A.S. DI GIAVELLI ROSSANO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.72083331051499,
+                    44.59130232878641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG DI M.G GHIRRI MASSIMO",
+                "id": "15021",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "M.G. DI GHIRRI MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.605715289711952,
+                    44.63475238112753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA_FRATELLI_CERVI",
+                "id": "14429",
+                "brand": "Euroself",
+                "amenity": "fuel",
+                "operator": "C.I.S. NORD S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.610432624816895,
+                    44.70586017120754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RE GORIZIA",
+                "id": "5400",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "enirete oil&nonoil S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.61344864947341,
+                    44.69727146539458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni 52889",
+                "id": "31352",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GIAVARINI IVAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.65325049882199,
+                    44.70778100396096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Enercoop Masone",
+                "id": "28737",
+                "amenity": "fuel",
+                "operator": "ENERCOOP S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.702122598886492,
+                    44.67283825570809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SB SERVICE DISTRIBUTORE Q8",
+                "id": "9629",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "S.B. SERVICE DI BORGESI GIUSEPPE E SPECCHIA ANDREA SNC ABBREVIABI LE IN S.B. SERVICE SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.687602460384367,
+                    44.69086197354024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REGGIO EMILIA-VIA GIOVANNI XXIII 6/A",
+                "id": "11798",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.648506122684468,
+                    44.686313348745195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GI.MA. GAS SRL",
+                "id": "4756",
+                "amenity": "fuel",
+                "operator": "GI.MA. GAS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.716519355773926,
+                    44.59072485538874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LUSOLI SNC",
+                "id": "15634",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LUSOLI SNC DI LUSOLI ROBERTO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.608878284692764,
+                    44.619048474390034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA_FRATELLI_BANDIERA",
+                "id": "14438",
+                "brand": "Euroself",
+                "amenity": "fuel",
+                "operator": "C.I.S. NORD S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.593620538711548,
+                    44.70505951136234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "enercoop srl",
+                "id": "14705",
+                "amenity": "fuel",
+                "operator": "ENERCOOP S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.60275211930275,
+                    44.6757515558158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Moretti e Zambrelli",
+                "id": "12554",
+                "brand": "Ego",
+                "amenity": "fuel",
+                "operator": "MORETTI FABRIZIO E ZAMBRELLI MARIO SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.64273312687874,
+                    44.66597499919169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EGO RIVALTA",
+                "id": "30721",
+                "brand": "Ego",
+                "amenity": "fuel",
+                "operator": "SUNCAR DI FERRARI DAVIDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.587725043296812,
+                    44.6592624138121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pigozzi F.lli snc di Pigozzi Stefania e Daniele",
+                "id": "8418",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PIGOZZI F.LLI SNC DI PIGOZZI STEFANIA E DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.681299269199371,
+                    44.606700517592955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione EGO",
+                "id": "16285",
+                "brand": "Ego",
+                "amenity": "fuel",
+                "operator": "CHINI ALESSANDRO S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.636495649814607,
+                    44.686758746651904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA_PIACENTINI",
+                "id": "14399",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "C.I.S. NORD S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.660270750522612,
+                    44.67153300246953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REGGIO EMILIA - MAKALLE'",
+                "id": "26992",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.637737550926206,
+                    44.7050038126961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO TOTALERG DI RONCHETTI CLAUDIO",
+                "id": "8809",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "RONCHETTI CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.652411676721158,
+                    44.69089933802921
+                ]
+            }
+        }
+    ]
+}

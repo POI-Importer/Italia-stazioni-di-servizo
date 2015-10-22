@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DEAN MIRKO",
+                "id": "18677",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DEAN MIRKO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.95448010052496,
+                    46.21093621211868
+                ]
+            }
+        }
+    ]
+}

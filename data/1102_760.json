@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil di Fratini Ezio Antonio",
+                "id": "7135",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FRATINI EZIO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.878114110932529,
+                    41.903188858493394
+                ]
+            }
+        }
+    ]
+}

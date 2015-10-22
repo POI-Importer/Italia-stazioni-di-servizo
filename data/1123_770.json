@@ -1,0 +1,138 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio \"IP\"",
+                "id": "27923",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LIGORIO ANTONIO ROCCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.423431140282446,
+                    40.623745810112595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rifornimento Carburante Ligorio Marianna",
+                "id": "27515",
+                "amenity": "fuel",
+                "operator": "LIGORIO MARIANNA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.43193240263042,
+                    40.617119050281644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio ENI",
+                "id": "24449",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SALONNA FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.508465349674225,
+                    40.65039600226512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso di ligorio rocco",
+                "id": "22512",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LIGORIO ROCCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.51468164705284,
+                    40.64259712723727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "54821 ENI CEGLIE MESSAPICA",
+                "id": "18194",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CAVALLO GIANLUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.520669400691983,
+                    40.645055775991736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MENGA PETROLI",
+                "id": "31490",
+                "amenity": "fuel",
+                "operator": "PETROLMENGA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.52494215965271,
+                    40.645797584443095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio ESSO",
+                "id": "21815",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GALETTA ROCCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.51054674386978,
+                    40.650352046554204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MENGA PETROLI",
+                "id": "11265",
+                "amenity": "fuel",
+                "operator": "PETROLMENGA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.525175511837006,
+                    40.62821990085921
+                ]
+            }
+        }
+    ]
+}

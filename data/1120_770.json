@@ -1,0 +1,225 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 - Pozzo della Noce",
+                "id": "13097",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ITALIANA CARBURANTI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.936316639184952,
+                    40.67386546288437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PALAGIANO SS 106 DIR KM 6 550",
+                "id": "6765",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.04601716812283,
+                    40.58391621947938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PALAGIANIELLO",
+                "id": "30700",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.957955360412598,
+                    40.5966425416693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "27799",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "LATTARULO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.931392531877123,
+                    40.629990275633055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "21208",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "RIO GESTIONE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.940974346865914,
+                    40.622779048239586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "25939",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "RODA S.N.C. DI ROTONDO VITO E ROTONDO STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.038306295871735,
+                    40.637277585848366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni (colori agip)",
+                "id": "26344",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LATERZA SANTE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.026159912347794,
+                    40.64829464036577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "24840",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BIANCO PIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.97809875011444,
+                    40.59534193930476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto Eni",
+                "id": "29606",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CAPODIFERRO ROCCO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.044790484655778,
+                    40.582816080554935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "mialcarburantisnc",
+                "id": "27240",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MI.AL. CARBURANTI DI VALENTE MICHELE E SAPONARO ALESSANDRO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.922182738780972,
+                    40.64021051589534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "25861",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "RITELLA FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.032860361618077,
+                    40.6347188831539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Eni",
+                "id": "12681",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TOSTI RAFFAELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.938257217407223,
+                    40.62848555453251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "APPIA",
+                "id": "8980",
+                "amenity": "fuel",
+                "operator": "SCARCIA DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.009732723236084,
+                    40.585565226623494
+                ]
+            }
+        }
+    ]
+}

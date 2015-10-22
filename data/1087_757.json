@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Argentario Carburanti",
+                "id": "9633",
+                "amenity": "fuel",
+                "operator": "ARGENTARIO CARBURANTI DI ROSI GABRIELE & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.115725790085662,
+                    42.41849469090976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tocco Aldo Servizio Api",
+                "id": "31700",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "TOCCO ALDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.205255717778527,
+                    42.39387903312067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione AGIP",
+                "id": "21204",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ZAULI DOLORES"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.20020277798176,
+                    42.40548054076156
+                ]
+            }
+        }
+    ]
+}

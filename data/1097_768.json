@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "11421",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SERTO NUNZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.963075935840605,
+                    40.89404781803556
+                ]
+            }
+        }
+    ]
+}

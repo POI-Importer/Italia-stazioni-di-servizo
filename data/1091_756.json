@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "G.P.Oil",
+                "id": "20337",
+                "amenity": "fuel",
+                "operator": "G.P. OIL SAS DI PELLEGRINO ROBERTO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.791721774649886,
+                    42.51354869825822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV ENERPETROLI - CAPODIMONTE",
+                "id": "22230",
+                "brand": "Enerpetroli",
+                "amenity": "fuel",
+                "operator": "ENERPETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.909757386970456,
+                    42.54946944554315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV ENERPETROLI - ARLENA DI CASTRO",
+                "id": "22229",
+                "brand": "Enerpetroli",
+                "amenity": "fuel",
+                "operator": "ENERPETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.823018621054871,
+                    42.46277093882642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIANSANO",
+                "id": "24190",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TIBER S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.828080349182754,
+                    42.51866403848905
+                ]
+            }
+        }
+    ]
+}

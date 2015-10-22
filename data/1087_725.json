@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO RAINER DI ZUCOL PIETRO",
+                "id": "23500",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ZUCOL PIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.139895668855727,
+                    46.43676819570314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Repsol",
+                "id": "23867",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "INAMA DANILO E PATERNOSTER EMANUELA SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.07672929763794,
+                    46.367818929744125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Flaim Carlo",
+                "id": "23679",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "FLAIM CARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.107855426270817,
+                    46.431569297246405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PANCHERI M.L. STAZ.SERV.REPSOL",
+                "id": "9383",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "PANCHERI MARIA LUISA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.079853323429347,
+                    46.34737082213567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "_SMP CALDARO",
+                "id": "5183",
+                "brand": "San Marco Petroli",
+                "amenity": "fuel",
+                "operator": "SAN MARCO PETROLI DISTRIBUZIONE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.249281167984009,
+                    46.41616987536346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "bonani giuliano",
+                "id": "12750",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BONANI GIULIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.141900193871834,
+                    46.42707659520426
+                ]
+            }
+        }
+    ]
+}

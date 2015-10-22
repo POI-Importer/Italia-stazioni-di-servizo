@@ -1,0 +1,88 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "10808",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GHEZZI ENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.546539664268494,
+                    43.07679949318526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ANDREA&ANDREA snc",
+                "id": "12197",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ANDREA&ANDREA S.N.C. DI BARELLINI E FABBRI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.48215726017952,
+                    43.14074695845414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TUSCIA PETROLI",
+                "id": "12805",
+                "amenity": "fuel",
+                "operator": "M E W DI MOLINARO FRANCESCO & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.483083963394163,
+                    43.120363821487636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BEYFIN SAN GIOVANNI D'ASSO",
+                "id": "30336",
+                "amenity": "fuel",
+                "operator": "CP PETROL DI COPPOLA E PICOZZI SOCIETA' IN NOME COLLETTIVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.586758047342299,
+                    43.15072366446697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BUONCONVENTO-VIA CASSIA SS. 2 n. 3/R",
+                "id": "11832",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.483537927269937,
+                    43.13674564235118
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "22483",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "TANSU & CARTA S.N.C. DI TANSU SEBASTIANO ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.918044610975585,
+                    40.98446075828306
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "_Esso Foti Petroli dir TA",
+                "id": "4814",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FOTI PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.092623710632324,
+                    39.124234234712986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Q8 di Carlo Rogliano",
+                "id": "7713",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ROGLIANO CARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.101481645659078,
+                    39.23167999638147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso Foti Petroli dir RC",
+                "id": "4815",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FOTI PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.091883420944214,
+                    39.124600455087176
+                ]
+            }
+        }
+    ]
+}

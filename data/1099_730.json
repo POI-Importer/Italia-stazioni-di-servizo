@@ -1,0 +1,157 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO TORVISCOSA",
+                "id": "25057",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GASOLINE S.A.S. DI MACCAGNAN GIAN LUCA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.281006217002869,
+                    45.82869757972989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "27646",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "YLLI SERVICE S.N.C. DI HASRAMAJ YLLI E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.238622226428218,
+                    45.82770519580819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio IP Dijust Salvore",
+                "id": "26623",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DIJUST SALVORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35614390402043,
+                    45.806393200516894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO TORVISCOSA",
+                "id": "25059",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GASOLINE S.A.S. DI MACCAGNAN GIAN LUCA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.281006217002869,
+                    45.82869757972989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "27647",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "YLLI SERVICE S.N.C. DI HASRAMAJ YLLI E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.238622226428218,
+                    45.82770519580819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO G.D.P.",
+                "id": "10160",
+                "amenity": "fuel",
+                "operator": "CHIAROTTO PAOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.340097010450794,
+                    45.8143084534197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN GIORGIO NOGARO - SP AUSSA CORNO",
+                "id": "7283",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.215079898147566,
+                    45.822341531823284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CERVIGNANO DEL FRIULI-CC IPERCOOP",
+                "id": "11915",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.356680058860777,
+                    45.808617735316304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio tavaris silvano repsol",
+                "id": "27766",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "TAVARIS SILVANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35639774799347,
+                    45.79004414466588
+                ]
+            }
+        }
+    ]
+}

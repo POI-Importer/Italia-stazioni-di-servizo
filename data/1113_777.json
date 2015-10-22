@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SCALEA",
+                "id": "26653",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ZETA GAS S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.798838734626766,
+                    39.772385579896145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO Q8",
+                "id": "5158",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BENVENUTO PIERLUIGI & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.80916523933411,
+                    39.73766818348646
+                ]
+            }
+        }
+    ]
+}

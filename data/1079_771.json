@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Staz. Servizio Tamoil",
+                "id": "19967",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FRONTEDDU LORENZO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.697068219404628,
+                    40.577813636671415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "25307",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "LUTZU ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.691918760875865,
+                    40.57418032411866
+                ]
+            }
+        }
+    ]
+}

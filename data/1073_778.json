@@ -1,0 +1,123 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Srazione di Servizio Esso Dieffe snc",
+                "id": "4908",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DIEFFE S.N.C. DI DESOGUS E FLORIS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.632316280109421,
+                    39.5422258973272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 56077 Eni rete Guspini",
+                "id": "31010",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI RETE OIL&NONOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.636841773986816,
+                    39.53675612320671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "30861",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MURRU ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.636320084333418,
+                    39.54634263241523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "25552",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CARA GIAN LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.71633842587471,
+                    39.596112869019166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GUSPINI S.S. 126 KM 1",
+                "id": "6687",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.63529915767208,
+                    39.54508253266339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fiamma 2000",
+                "id": "22856",
+                "amenity": "fuel",
+                "operator": "CARTA BRUNO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.652767390012741,
+                    39.56574512167793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RETITALIA",
+                "id": "29673",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "PIRAS MARCELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.781561702489855,
+                    39.53672261250776
+                ]
+            }
+        }
+    ]
+}

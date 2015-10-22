@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIT-STOP CAFFE'",
+                "id": "29950",
+                "amenity": "fuel",
+                "operator": "PIT-STOP CAFFE' DI ESPOSITO NICOLE E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.230602034393314,
+                    46.23785497814151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Q-Power",
+                "id": "15131",
+                "amenity": "fuel",
+                "operator": "VALTELLINA BIKE S.N.C. DI QUADRIO ALBERTO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.240710228681566,
+                    46.24043045578786
+                ]
+            }
+        }
+    ]
+}

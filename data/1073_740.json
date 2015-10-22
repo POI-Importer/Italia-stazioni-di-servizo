@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LUIGI PASTORINO & C. SNC",
+                "id": "19625",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "LUIGI PASTORINO & C. - SOCIETA' IN NOME COLLETTIVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.70206169784069,
+                    44.53070429503361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "10750",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CAVANNA DOMENICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.666113542143876,
+                    44.56490949895859
+                ]
+            }
+        }
+    ]
+}

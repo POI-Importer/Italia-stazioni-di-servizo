@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di servizio Catania S.S. 114",
+                "id": "9230",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI INTEGRATI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.065325647592545,
+                    37.433631688970834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 29602",
+                "id": "30762",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.943847060203554,
+                    37.43056424578154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI SELF AREA CARLENTINI",
+                "id": "11434",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "F.LLI BONO DI BONO GIUSEPPE & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.002431869506834,
+                    37.30230304466256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "4L CARBURANTI LATINA",
+                "id": "5575",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "4 L. CARBURANTI DI LATINA GIUSEPPE & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.008028298616411,
+                    37.31375427388622
+                ]
+            }
+        }
+    ]
+}

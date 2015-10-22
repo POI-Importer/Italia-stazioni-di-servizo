@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esseci Carburanti",
+                "id": "12024",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ESSECI CARBURANTI DI MARINI ENRICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.039517110450786,
+                    43.67261999999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE IP",
+                "id": "25412",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FONTANA MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.995750665664673,
+                    43.61323863244355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tevere Ovest",
+                "id": "10117",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MARITATO GIANCARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.051647901535032,
+                    43.65847105261087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pieve Santo Stefano Nord",
+                "id": "4755",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "FUELPOINT S.A.S. DI ANTONIO TUCCILLO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.052489519119263,
+                    43.65865773821614
+                ]
+            }
+        }
+    ]
+}

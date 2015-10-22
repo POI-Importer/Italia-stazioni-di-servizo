@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE Q8 DI ANDREOTTI PASQUALINA",
+                "id": "20070",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ANDREOTTI PASQUALINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.185630097985268,
+                    41.04685381281143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SANTORO PETROLI S.R.L.",
+                "id": "23316",
+                "amenity": "fuel",
+                "operator": "SANTORO PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.17924778163433,
+                    41.01783247679951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "14295",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GALLICCHIO GERARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.25738388299942,
+                    41.042512432971094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN SOSSIO BARONIA",
+                "id": "29651",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.201111026284028,
+                    41.06871097734117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Q8 di Savino_Eliodoro",
+                "id": "8634",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SAVINO ELIODORO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.123650889006512,
+                    40.99846185912152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "14984",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DE SALVATORE GIULIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.277116894721983,
+                    41.066627630237605
+                ]
+            }
+        }
+    ]
+}

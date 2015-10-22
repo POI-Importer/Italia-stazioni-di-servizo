@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FM Carburanti snc",
+                "id": "26673",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "FM CARBURANTI SNC DI FABIO E FABRIZIO MOLLURA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.941394801057413,
+                    42.02924867580857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO DI CESARINI VINCENZO",
+                "id": "26701",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CESARINI VINCENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.947798132896423,
+                    42.02601506931935
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,310 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Barbon Annalisa Q8",
+                "id": "17456",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BARBON ANNALISA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.955545495338242,
+                    44.73564535497679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Canale",
+                "id": "10104",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.00281047821045,
+                    44.788817057140086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip - murialdo marisa",
+                "id": "26583",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MURIALDO MARISA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.06302388703591,
+                    44.83145068293653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CENTRO CALOR VEZZA",
+                "id": "10535",
+                "amenity": "fuel",
+                "operator": "CENTRO CALOR S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.008709996938705,
+                    44.77042358429457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "11240",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "GATTO MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.028641492128372,
+                    44.764262622089205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ROERO SERVICE",
+                "id": "24137",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ROEROSERVICE DI MORONE MASSIMO & C. S.A.S. SIGLABILE AI FINI FISCALI   ROEROSERVICE S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.940623462200165,
+                    44.82471969670998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "staz.. serv. ESSO self service MORELLO EMANUELE",
+                "id": "20508",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MORELLO EMANUELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.998841880950978,
+                    44.79305600755612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "vaghini m.luisa",
+                "id": "14131",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VAGHINI MARIA LUISA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.953575849533081,
+                    44.817002278965525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN DAMIANO D'ASTI - ROMA",
+                "id": "30453",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.062465488910675,
+                    44.83078765743125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "21041",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CANAVESE CLAUDIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.9336121678352365,
+                    44.82806173865121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GUARENE-CORSO ASTI 82",
+                "id": "11557",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.048505890703154,
+                    44.73253680756105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALBA - VACCHERIA",
+                "id": "30621",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.043686588954872,
+                    44.71632477768202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN DAMIANO D'ASTI",
+                "id": "31684",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "RETITALIA  S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.055342882871628,
+                    44.823891765664854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IES",
+                "id": "26982",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "PAVESIO CARLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.964053899049759,
+                    44.778053559955445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SHELL",
+                "id": "22585",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "BERTA RENATO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.067867925270093,
+                    44.836644337366415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORA PARUSSA SNC",
+                "id": "21661",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LORA GIOVANNI E PARUSSA PATRIZIA - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.003428727388382,
+                    44.75548783437937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Magliano Alfieri",
+                "id": "29496",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DIS-CAR DI SARRA PAOLO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.068764397869927,
+                    44.754731813779465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "25192",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ENRICI ARMANDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.058562499199866,
+                    44.74389175980256
+                ]
+            }
+        }
+    ]
+}

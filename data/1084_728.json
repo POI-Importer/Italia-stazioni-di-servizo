@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "20878",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ROSSI LINO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.701712220907211,
+                    46.011249583850976
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "19443",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "NISI FRANCO E GENERALI MARCO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.60869985818863,
+                    43.05941823175766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "8956",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MONACI V. & MEIATTINI C. S.N.C. DI MONACI VIVIANO E MEIATTINI CIN ZIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.608954668045044,
+                    43.054706430846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Giomarelli Riccardo",
+                "id": "15672",
+                "amenity": "fuel",
+                "operator": "GIOMARELLI RICCARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.617071357718034,
+                    43.007482813598536
+                ]
+            }
+        }
+    ]
+}

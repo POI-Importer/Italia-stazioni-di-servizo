@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Eni di Garnier Tatiana",
+                "id": "10458",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GARNIER TATIANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.71299874826218,
+                    45.07483211704957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Socogas OULX",
+                "id": "20757",
+                "amenity": "fuel",
+                "operator": "FREZET SERGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.83172211263127,
+                    45.031276166693615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FRATELLI REBOLA S.N.C. DI REBOLA ALESSANDRO E REBOLA PAOLO",
+                "id": "24336",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FRATELLI REBOLA S.N.C. DI REBOLA ALESSANDRO E REBOLA PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8348754197359085,
+                    45.033982937391734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FREJUS NORD",
+                "id": "3749",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FREJUS 83 DI LUCIANO FRANCO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.710970721159016,
+                    45.08172108517396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.LLI COCCO SAS",
+                "id": "13817",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FRATELLI COCCO S.A.S. DI COCCO GIULIANO, COCCO MARCELLO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.709329162045947,
+                    45.07594502402007
+                ]
+            }
+        }
+    ]
+}

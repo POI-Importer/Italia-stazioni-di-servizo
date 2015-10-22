@@ -1,0 +1,88 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DUE ESSE CARBURANTI",
+                "id": "12500",
+                "amenity": "fuel",
+                "operator": "DUE ESSE CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.348846853510508,
+                    45.856816054794756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SELLA SNC",
+                "id": "22278",
+                "amenity": "fuel",
+                "operator": "SELLA FRANCESCO E AMPELIO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.361224697598459,
+                    45.86735542705095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IES",
+                "id": "9810",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "NICOLUSSI FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.353190516873383,
+                    45.887502896094176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IES DISTRIBUTORE",
+                "id": "14887",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "MD SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.267635868354773,
+                    45.9410366241111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STENGHELE F.LLI",
+                "id": "24029",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STENGHELE F.LLI SNC DI STENGHELE FRANCESCO GINO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.254142797903114,
+                    45.93941159394755
+                ]
+            }
+        }
+    ]
+}

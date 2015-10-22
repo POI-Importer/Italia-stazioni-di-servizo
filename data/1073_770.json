@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CentroTamoil Muros",
+                "id": "30778",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CENTRO TAMOIL DI ZIDDA ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.620456159114838,
+                    40.692939936171534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SENES GIOVANNA GRAZIETTA",
+                "id": "19158",
+                "amenity": "fuel",
+                "operator": "SENES GIOVANNA GRAZIETTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.691077381372452,
+                    40.650593802885425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "7582",
+                "id": "30824",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "T.D.M. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.724697530269623,
+                    40.66118166700214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BRESCI SNC",
+                "id": "7503",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BRESCI S.N.C. DI FABIO BRESCI & C. *"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.623902797698975,
+                    40.690087624536034
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LE FONTI OVEST",
+                "id": "3511",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SARNI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.871803089618652,
+                    40.89831956089007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ACQUAVIVA DELLE FONTI STRADA PROV.LE GIOIA DEL COLLE",
+                "id": "6752",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.852892808598313,
+                    40.88660435572764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil DG CARBUROIL",
+                "id": "15588",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "DG-CARBUROIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7834535241127,
+                    40.89057576843289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LE FONTI EST",
+                "id": "3524",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "TRIGNO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.872283674764613,
+                    40.89964810293937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "11314",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "F.LLI MIRABELLA S.N.C. DI MIRABELLA MARIO - FRANCESCO E CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.839909330010414,
+                    40.905106310130485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 56573",
+                "id": "30234",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.851045191287994,
+                    40.8884458949969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASSANO SP236",
+                "id": "31167",
+                "amenity": "fuel",
+                "operator": "POWER SERVICE SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.778488755226135,
+                    40.91749742550191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DILL'S ADELFIA SP 83",
+                "id": "26835",
+                "brand": "Dill s",
+                "amenity": "fuel",
+                "operator": "MODI - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.864394545555115,
+                    40.9782522054387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASSANO DELLE MURGE",
+                "id": "5516",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.77349909325403,
+                    40.897465000000004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAMER",
+                "id": "14618",
+                "amenity": "fuel",
+                "operator": "DE BERNARDIS S.N.C. DI DE BERNARDIS BRUNO & FIGLI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8677419424057,
+                    40.89448333209031
+                ]
+            }
+        }
+    ]
+}

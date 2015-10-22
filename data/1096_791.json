@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO DEI F.LLI LOCCI SNC",
+                "id": "16361",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO DEI F.LLI LOCCI S.N.C. DI LOCCI FEDELE E C.S .N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.80445948243141,
+                    37.82710412977341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tantaro petroli srl rifornimento IP",
+                "id": "28166",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "TANTARO PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.829455494262676,
+                    37.80929199650315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TaOil - Nicola Mistretta",
+                "id": "11215",
+                "amenity": "fuel",
+                "operator": "MISTRETTA NICOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.809156224945127,
+                    37.815678823441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tantaro petroli srl - rifornimento esso",
+                "id": "29030",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "TANTARO PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.79879130423069,
+                    37.82666658813887
+                ]
+            }
+        }
+    ]
+}

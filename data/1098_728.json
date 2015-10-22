@@ -1,0 +1,158 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MERETO DI TOMBA",
+                "id": "22114",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SOM S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.05004262104035,
+                    46.05198713032496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "16352",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PLUS SERVICE DI DE PAOLI MARCO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1215301156044,
+                    46.00811209960671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EREDI CINELLO",
+                "id": "19489",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "EREDI CINELLO RENATO S.A.S. DI CINELLO FRANCO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.11400517821312,
+                    45.96978175971056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto Retitalia Basiliano",
+                "id": "29372",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "BRIXIA FINANZIARIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.062698543071747,
+                    45.9895877784596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO TOTAL ERG",
+                "id": "21025",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ESPOSITO LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10905056866466,
+                    46.01476795442954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni Campoformido F.lli Rinaldi",
+                "id": "5633",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "F.LLI RINALDI SNC DI MATTEO E PAOLO RINALDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.168389649212713,
+                    46.024875543920906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "area di servizio ip campoformido",
+                "id": "4355",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "JETRENT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.147850632667543,
+                    46.016260769220615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "piccolo bar Zorzini",
+                "id": "15589",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PICCOLO BAR ZORZINI S.A.S. DI ZORZINI BARBARA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.15260953372956,
+                    46.03546937723222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BASILIANO",
+                "id": "16002",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SAINI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.102719783782959,
+                    46.03022233530354
+                ]
+            }
+        }
+    ]
+}

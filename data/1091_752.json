@@ -1,0 +1,225 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NI010436",
+                "id": "21667",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CORO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.810511946678162,
+                    43.06621973888721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DEL VINCIO MASSIMO",
+                "id": "8324",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DEL VINCIO MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.94861352443695,
+                    43.01013867635819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CHIANCIANO TERME-VIA G.BACCELLI SS. 146",
+                "id": "11833",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.824472174048422,
+                    43.036867803523855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg crociani snc",
+                "id": "8110",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CROCIANI SNC DI CROCIANI CARLO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.878085236245738,
+                    42.99017231957541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CHIUSI LOC. QUERCE AL PINO",
+                "id": "6576",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.90744897182776,
+                    43.01630891051155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CHIANCIANO TERME - LIBERTA'",
+                "id": "29399",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.821621457672109,
+                    43.052090200102704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Carburanti Canestrelli Sarteano",
+                "id": "24996",
+                "amenity": "fuel",
+                "operator": "CANESTRELLI PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.858708776104775,
+                    42.99816066937814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "10854",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "RONCELLA OSVALDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.84036686457057,
+                    43.035117217335774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "L'OASI DI NAPPO",
+                "id": "13545",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "L'OASI DI NAPPO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.952850727508576,
+                    42.9917560898685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Enerpetroli",
+                "id": "16397",
+                "brand": "Enerpetroli",
+                "amenity": "fuel",
+                "operator": "MUCCIARELLI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.889857053756712,
+                    43.0242071804469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "14183",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "EREDI FILIPPESCHI SIRIA S.N.C. DI POSSIERI VINICIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.917730569839478,
+                    43.05541512515824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "P.V. ENERPETROLI - CHIUSI",
+                "id": "32098",
+                "brand": "Enerpetroli",
+                "amenity": "fuel",
+                "operator": "ENERPETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.889925450086594,
+                    43.02424208396712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "29595",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AGGRAVI MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.827008450401308,
+                    43.05827651738734
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil Fano",
+                "id": "17545",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MARCHETTI GIULIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.03753137588501,
+                    43.83521943400981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "10391",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ASSOCIAZIONE VONGOLAI DI FANO - SOCIETA' COOPERATIVA A RESPONSABILITA' LIMITATA - A.V.F."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.017342746740722,
+                    43.85165410311187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "uemmebi snc",
+                "id": "8538",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "UEMMEBI S.N.C. DI URBINATI, MEI GIOVANNI E BATTISTONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.018947314155639,
+                    43.83991554232751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE AGIP DI SEVERI",
+                "id": "8807",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SEVERI ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.028419825725566,
+                    43.8402235805392
+                ]
+            }
+        }
+    ]
+}

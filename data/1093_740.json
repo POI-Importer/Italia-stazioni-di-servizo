@@ -1,0 +1,87 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "robgas pv5",
+                "id": "4589",
+                "amenity": "fuel",
+                "operator": "FUEL POINT SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.275687456130983,
+                    44.48008009719591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GobbatoPaolo",
+                "id": "23691",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GOBBATO PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.283604842477759,
+                    44.49145560078283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUORE AVIA S.ALBERTO",
+                "id": "14406",
+                "amenity": "fuel",
+                "operator": "NUOVA C.L.A.R.  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.15811550617218,
+                    44.5374850885881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Beyfin",
+                "id": "20688",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE CARBURANTI DI CREMONINI GUERRINO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.270897030830387,
+                    44.556644472318695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "8297",
+                "id": "28464",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "T.D.M. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.278479635715486,
+                    44.554664407215164
+                ]
+            }
+        }
+    ]
+}

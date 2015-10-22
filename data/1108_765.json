@@ -1,0 +1,139 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AUTOFFICINA QUERCE",
+                "id": "19611",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "AUTOFFICINA QUERCE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.779310971498488,
+                    41.25464924867255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "calzone carburanti",
+                "id": "26352",
+                "amenity": "fuel",
+                "operator": "CALZONE LEA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.81899157441808,
+                    41.29052349397969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "25596",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "GIANGIACOMO LUCIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.792207402440456,
+                    41.34520905129131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA SERVIZIO IES",
+                "id": "8087",
+                "amenity": "fuel",
+                "operator": "IAPOZZUTO MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.841078221797941,
+                    41.37141196450325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE IP \"GIEMME SRL\"",
+                "id": "25697",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GIEMME  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.791114032268524,
+                    41.32896142977198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MARTUCCI GIOVANNI Q8",
+                "id": "18180",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MARTUCCI GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.88183808203121,
+                    41.31359943857244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN GIORGIO LA MOLARA",
+                "id": "29645",
+                "brand": "Giap",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.927457422018051,
+                    41.270778840709866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DE VIZIO GIOVANNA",
+                "id": "29688",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DE VIZIO GIOVANNA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.87275684100041,
+                    41.30654899691394
+                ]
+            }
+        }
+    ]
+}

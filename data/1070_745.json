@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "riviera ponente services",
+                "id": "8281",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RIVIERA PONENTE SERVICES DI GRANCHELLI GIANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.103269934654236,
+                    43.921656448005585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RINOVO",
+                "id": "3983",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CA.BER. S.N.C. DI CASSAI F. E P. E BERTINI A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.134211897850038,
+                    43.958336251062704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VALLE CHIAPPA",
+                "id": "3814",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DIDO DI SAVONA SERGIO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.11271667480469,
+                    43.94277835445079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDS SNC DI TROPEANO DOMENICO & C",
+                "id": "26369",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TDS SNC DI TROPEANO DOMENICO  &  C"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.086046129465101,
+                    43.9114774031532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orengo Alberto & C snc",
+                "id": "19520",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE AGIP DI ORENGO ALBERTO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.086807206273079,
+                    43.91286612815692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI 51612",
+                "id": "26362",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI 51612 TRINCIA LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.145612627267838,
+                    43.950090115269596
+                ]
+            }
+        }
+    ]
+}

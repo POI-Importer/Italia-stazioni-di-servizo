@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MAZZEO DOMENICO",
+                "id": "21938",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MAZZEO DOMENICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.024052542342023,
+                    38.575324891820046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GESCOM SAS DI D'AMATO FORTUNATA",
+                "id": "18686",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "GESCOM S.A.S. DI D'AMATO FORTUNATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.102475839881095,
+                    38.67873942921342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "20943",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "LO TORTO GROUP S.N.C. DI LO TORTO VINCENZO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.013023853302002,
+                    38.624114962155396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pv 08561",
+                "id": "27340",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ROMANO PASQUALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.069991290569305,
+                    38.61230083569632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "23453",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BROGNA FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.115881204605103,
+                    38.65998675694834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "9794",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MANGONE AURELIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.054771152639777,
+                    38.59313798806367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "De Lorenzo Carburanti di De Lorenzo Caterina",
+                "id": "23067",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DE LORENZO CARBURANTI DI DE LORENZO CATERINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.088664829730988,
+                    38.674277426078206
+                ]
+            }
+        }
+    ]
+}

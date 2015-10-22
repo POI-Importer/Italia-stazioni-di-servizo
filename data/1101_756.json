@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL",
+                "id": "19698",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MENTIS SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6563840508461,
+                    42.52907400782829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GRAN SASSO SERVICE SRL",
+                "id": "30196",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GRAN SASSO SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.65888543283495,
+                    42.5029248716012
+                ]
+            }
+        }
+    ]
+}

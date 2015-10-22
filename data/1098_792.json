@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni gandolfo",
+                "id": "9989",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GANDOLFO MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.107552713588573,
+                    37.644746140504374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO ENI",
+                "id": "27728",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MARINO CALOGERA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.022739663720131,
+                    37.690156816321014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Esso",
+                "id": "9474",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MAGGIO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.107199397727413,
+                    37.64462709209819
+                ]
+            }
+        }
+    ]
+}

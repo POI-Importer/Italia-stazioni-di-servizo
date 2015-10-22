@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE ESSO PIANEZZI ROMANO",
+                "id": "14287",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PIANEZZI ROMANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.168380498886108,
+                    40.782722502052614
+                ]
+            }
+        }
+    ]
+}

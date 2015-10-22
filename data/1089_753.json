@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTEL DEL PIANO - ROMA 21",
+                "id": "30452",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.535596559524492,
+                    42.88728820857191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CECCARELLI MARIO",
+                "id": "15001",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CECCARELLI MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.528104171156881,
+                    42.89072182318113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA SERVIZIO CASE ROSSE",
+                "id": "15382",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "DA BEGNAME SOCIET  A RESPONSABILIT  LIMITATA O IN FORMA ABBREVIAT A DA BEGNAME S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.517080962657927,
+                    42.89647643518997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Esso",
+                "id": "20861",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "RAFFI MASSIMILIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.532678008079529,
+                    42.87163177024889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore ip",
+                "id": "22343",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LEONI CARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.479464521936054,
+                    42.88420509700075
+                ]
+            }
+        }
+    ]
+}

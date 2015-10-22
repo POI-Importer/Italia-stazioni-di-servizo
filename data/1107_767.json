@@ -1,0 +1,438 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "quatrano",
+                "id": "17886",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO TAMOIL DI QUATRANO CARMELINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.595438167452814,
+                    41.048592428690725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 IMPIANTO N°8253",
+                "id": "11139",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PARENTE MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.742077887058258,
+                    41.04380106028795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTESARCHIO",
+                "id": "30046",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.646474570035934,
+                    41.05104077507047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BENEVENTO CONTRADA EPITAFFIO 72 IMP.Q8",
+                "id": "25276",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.74581066322935,
+                    41.10606189301063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Carburanti Antonio Gallo",
+                "id": "14863",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GALLO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.598254404576894,
+                    41.03187817002756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA PROVINCIALE ARPAISE",
+                "id": "22986",
+                "brand": "Giap",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.744761753303461,
+                    41.03283837055486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALL RENT MONTESARCHIO",
+                "id": "25236",
+                "amenity": "fuel",
+                "operator": "ALL RENT SERVICE S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.634239673614504,
+                    41.05428513868327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REPSOL",
+                "id": "20536",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "FADDIMM  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.660952131213433,
+                    41.02801756804166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "APOLLOSA",
+                "id": "30045",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.741915613412857,
+                    41.09180416013392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 8378",
+                "id": "29271",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.65327262878418,
+                    41.05159661634054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALL RENT CERVINARA PIANO D'ARDINE",
+                "id": "29362",
+                "amenity": "fuel",
+                "operator": "ALL RENT SERVICE S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.61267739534378,
+                    41.03976678365542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ECOS",
+                "id": "13146",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORI ECOS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.654232859611515,
+                    41.03900893843577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "24161",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PISANIELLO CARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.655928015708925,
+                    41.03556676258518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTESARCHIO VIA APPIA",
+                "id": "6719",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.643455073237421,
+                    41.06120234008578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CEPPALONI - SAN GIOVANN APPIA S.S. 7 KM. 251",
+                "id": "6721",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.71189024047544,
+                    41.07157419251252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALL RENT CERVINARA",
+                "id": "25149",
+                "amenity": "fuel",
+                "operator": "ALL RENT SERVICE S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.61839429695897,
+                    41.02792099968763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio GOIL",
+                "id": "19903",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DE.MAR S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6014966070652,
+                    41.06805976590174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cimmino srl",
+                "id": "22402",
+                "amenity": "fuel",
+                "operator": "CIMMINO S.R.L. - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.597997665405275,
+                    41.0446547367034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "happy fuel via variante",
+                "id": "31891",
+                "amenity": "fuel",
+                "operator": "SIRYUS S.A.S. DI PIERPAOLO SIRICO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.617264643311499,
+                    41.02187629321547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PANNARANO",
+                "id": "28830",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.704134017229084,
+                    41.01742995345333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "All Rent Roccabascerana",
+                "id": "10586",
+                "amenity": "fuel",
+                "operator": "ALL RENT SERVICE S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.715368332282766,
+                    41.02032536613755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SS APPIA CEPPALONI",
+                "id": "29186",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.712586998939516,
+                    41.06709678857967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALL RENT APOLLOSA",
+                "id": "25013",
+                "amenity": "fuel",
+                "operator": "ALL RENT SERVICE S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.722878634929657,
+                    41.091267660687755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "q8",
+                "id": "5572",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ES.GA. S.N.C. DI GALLO ANGELA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.626080393791199,
+                    41.024488427258646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "happy fuel",
+                "id": "31890",
+                "amenity": "fuel",
+                "operator": "SIRYUS S.A.S. DI PIERPAOLO SIRICO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.617394059896467,
+                    41.02603924734177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ECOS",
+                "id": "13143",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORI ECOS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.654232859611515,
+                    41.03900893843577
+                ]
+            }
+        }
+    ]
+}

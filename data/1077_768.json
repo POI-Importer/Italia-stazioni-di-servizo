@@ -1,0 +1,123 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Golfo Aranci",
+                "id": "5232",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.491028785705566,
+                    40.97238929047668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di servizio Olbia",
+                "id": "20479",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PETROL-FIN S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.468344034649817,
+                    40.93601157248246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "22392",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FIORI VALTER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.359595850110054,
+                    40.87206564010825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 Fara",
+                "id": "9828",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ITALO FARA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.487456850110902,
+                    40.92243642881288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "13447",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PISANU PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.482757279762266,
+                    40.92171289398148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "En iCorona Antonio",
+                "id": "31703",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ANTONIO CORONA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.461419209837914,
+                    40.93016870379764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aros SAS di Sanna Andrea & C.",
+                "id": "28049",
+                "amenity": "fuel",
+                "operator": "AROS S.A.S. DI ANDREA SANNA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.459421634674072,
+                    40.91969851601265
+                ]
+            }
+        }
+    ]
+}

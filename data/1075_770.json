@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "solarium service snc",
+                "id": "4262",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SOLARIUM SERVICE DI SATTA ANTONIO & POLO AGOSTINA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.97788867354393,
+                    40.66721997767909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG S.P.A.",
+                "id": "16471",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PETRETTO G.A. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.988136053085327,
+                    40.60405463696212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OZIERI VIA DE GASPERI",
+                "id": "6683",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.00245921289752,
+                    40.58748147029061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP DI SANNA MARIA ROSA",
+                "id": "16288",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SANNA MARIA ROSA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.001383929430403,
+                    40.58707074481765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IES",
+                "id": "19106",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "SATTA GEROLAMO MAURO SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.992395401000975,
+                    40.607923686646544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZ ESSO F.LLI SABA SNC.",
+                "id": "15701",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F.LLI SABA  S.N.C. DI SABA GIOVANNI GIUSEPPE LUCA E SABA ANTONIO VITTORIO *"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.001378118991852,
+                    40.586565368486674
+                ]
+            }
+        }
+    ]
+}

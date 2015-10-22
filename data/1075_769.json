@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "meloni e meloni",
+                "id": "29930",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MELONI & MELONI S.N.C. DI PIERPAOLO MELONI  & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.098531752824783,
+                    40.71887318276048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "staz.Servizio Tamoil Carta Gabriella",
+                "id": "30103",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CARTA GABRIELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.095008671283722,
+                    40.71761683963199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fiori Mario",
+                "id": "4014",
+                "amenity": "fuel",
+                "operator": "FIORI MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.9831852625656,
+                    40.72955594119017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "On The Run Esso",
+                "id": "19535",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "M.C.M. SNC DI MICHELA, CINZIA E MARCO MALDUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.118950068950653,
+                    40.7494789520717
+                ]
+            }
+        }
+    ]
+}

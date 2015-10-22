@@ -1,0 +1,122 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BAR RIO D'ORO",
+                "id": "13584",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "F.M.F. DI FIORENTINI MICHELE & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.781651377677917,
+                    44.82523714757863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP di Valieri Marco",
+                "id": "24718",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "VALIERI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.8277278981476,
+                    44.724737548169564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BEYFIN",
+                "id": "19506",
+                "amenity": "fuel",
+                "operator": "GRANDI DARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.86750017106533,
+                    44.806327961282165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IES ITALIANA",
+                "id": "23086",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "ALE S.A.S. DI COSTANTINO SALVATORE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.924092769622803,
+                    44.815742706870736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Ip di Zattoni Sandra",
+                "id": "11409",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ZATTONI SANDRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.948182801258099,
+                    44.74521616803056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "area servizio ponte scalabrina",
+                "id": "4295",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AREA SERVIZIO PONTE SCALABRINA DI LENZI M., CAMPIONI M. & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.91482238471508,
+                    44.74864980209894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "H6",
+                "id": "18942",
+                "amenity": "fuel",
+                "operator": "TADDIA ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.883831909925902,
+                    44.81227120972354
+                ]
+            }
+        }
+    ]
+}

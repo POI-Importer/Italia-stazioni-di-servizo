@@ -1,0 +1,184 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "D&Dsas",
+                "id": "21831",
+                "amenity": "fuel",
+                "operator": "D. & D. S.A.S. DI D'ONOFRIO ANGELO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41176451742649,
+                    42.12769206649996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "X FUEL PERANO",
+                "id": "25641",
+                "amenity": "fuel",
+                "operator": "X FUEL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.373292922973631,
+                    42.1064907139157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DS CARBURANTI",
+                "id": "23069",
+                "amenity": "fuel",
+                "operator": "DE SIMONE GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.290570084655773,
+                    42.117344866570704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ROSSCARBURANTISASDIROSSETTIGABRIELEEC.",
+                "id": "30344",
+                "amenity": "fuel",
+                "operator": "ROSS CARBURANTI S.A.S. DI ROSSETTI GABRIELE E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.375867173075676,
+                    42.109121546417754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GALEONE GENNARO",
+                "id": "19416",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GALEONE GENNARO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4114641383419,
+                    42.03778837609033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RES",
+                "id": "9673",
+                "amenity": "fuel",
+                "operator": "DI SANTO SABINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.302988293959286,
+                    42.12129136738137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "X FUEL GESSOPALENA",
+                "id": "25642",
+                "amenity": "fuel",
+                "operator": "X FUEL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.27579547392452,
+                    42.062607681684426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RES",
+                "id": "9084",
+                "amenity": "fuel",
+                "operator": "TRADE INVEST S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.409601986408232,
+                    42.13302724931937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RETEITALIA",
+                "id": "30154",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "FLORIO MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3425165861845,
+                    42.11452872769525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni",
+                "id": "27305",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PETROLBITUMI - SOCIETA A RESPONSABILITA LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.257894390216052,
+                    42.11525234000667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RES",
+                "id": "14770",
+                "amenity": "fuel",
+                "operator": "TRADE INVEST S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.303759525834492,
+                    42.12453065833825
+                ]
+            }
+        }
+    ]
+}

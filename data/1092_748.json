@@ -1,0 +1,157 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio ESSO",
+                "id": "10786",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "VALENTINI MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.079423457695725,
+                    43.550337690222676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FMC snc",
+                "id": "29784",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F.M.C. S.N.C. DI CIAVATTINI MARCO, FRANCESCA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.11087832368162,
+                    43.556519638122666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "_Lato Ovest",
+                "id": "4449",
+                "brand": "Aquila",
+                "amenity": "fuel",
+                "operator": "AL.EN. CARBURANTI SNC DI ALESSANDRO NATALI & ENRICO MARINI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.054308652877808,
+                    43.473071987775576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EUROPAM col.IP",
+                "id": "20691",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ROSSI GINO DANTE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.055463075621446,
+                    43.54223027014385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "_LATO EST",
+                "id": "4446",
+                "brand": "Aquila",
+                "amenity": "fuel",
+                "operator": "AL.EN. CARBURANTI SNC DI ALESSANDRO NATALI & ENRICO MARINI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.055124044418335,
+                    43.472878741075476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Tamoil",
+                "id": "14864",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PERNA ANNA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.097104638814926,
+                    43.488553964513024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "_Piccini Paolo S.p.A.",
+                "id": "4027",
+                "amenity": "fuel",
+                "operator": "PICCINI PAOLO S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.121032488299534,
+                    43.56646304755377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ADS Città del Palio della Balestra",
+                "id": "4221",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BENVENUTI ADRIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.118493914604187,
+                    43.576430864422264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ADS Città di Piero della Francesca",
+                "id": "28605",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CI.PI.A. DI CESARI ANGELA & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.11768925189972,
+                    43.57637101555412
+                ]
+            }
+        }
+    ]
+}

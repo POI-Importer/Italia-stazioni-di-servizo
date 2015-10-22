@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "9760",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "VATTIMO DISTRIBUZIONI - SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.94197391728869,
+                    39.51287938734475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "16942",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "RUGGIERO SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.84336206316948,
+                    39.63510279954684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PASQUALE LOSARDO CARBURANTI S.A.S.",
+                "id": "26506",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PASQUALE LOSARDO CARBURANTI S.A.S. DI LOSARDO CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.926324129104612,
+                    39.52656935550808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ENI",
+                "id": "24120",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BLOISE EDMONDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.848559886649127,
+                    39.62367316186018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "7917 - SANGINETO OVEST",
+                "id": "21563",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SAL.CAR. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.869382390212989,
+                    39.580206727115645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 ZETA GAS",
+                "id": "28369",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DE.FAR. S.N.C. DI DE SETA DARIO E FARDELLO DAVIDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.928768962621685,
+                    39.52541988345637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "monetta salvatore stazione di servizio  q8",
+                "id": "27601",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MONETTA SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.861283242702482,
+                    39.60814810552142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "30736",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "RUGIERO SAS  DI RUGIERO VALENTINA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.873103737831116,
+                    39.56961905505848
+                ]
+            }
+        }
+    ]
+}

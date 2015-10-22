@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "l'area sas",
+                "id": "13700",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "L'AREA SAS DI LEALE RAFFAELE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.61218148469925,
+                    44.17308285668863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FAST FUEL s.n.c.",
+                "id": "23408",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FAST FUEL S.N.C. DI CARINTO GIANCARLO E DE GERONIMI GIAMPAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.61851954460144,
+                    44.174639560799264
+                ]
+            }
+        }
+    ]
+}

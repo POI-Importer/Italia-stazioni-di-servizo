@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP Vallingegno",
+                "id": "4776",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "AUTOMIGLIORGAS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.555687522284645,
+                    43.24821588496885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Minelli Oil",
+                "id": "31822",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MINELLI OIL DI MINELLI GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.620411194885603,
+                    43.31667784656977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BOTTICELLI FABRIZIO",
+                "id": "16903",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BOTTICELLI FABRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.632131576538084,
+                    43.311242738064486
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP SABBA GABRIELE",
+                "id": "12203",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SABBA GABRIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.207557500748178,
+                    43.86275912882501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.A.M. Novafeltria",
+                "id": "7471",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SOC. AUTOTRASPORTI MONTEFELTRO-S.A.M."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.289156168699263,
+                    43.897515023143356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil Talamello",
+                "id": "10721",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ROSATI GIUSEPPE E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.294044494628906,
+                    43.90660066774001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAPPELLI GAS-AUTO SNC di Cappelli Evaristo & C.",
+                "id": "21937",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CAPPELLI GAS-AUTO SNC DI CAPPELLI EVARISTO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.300272583961483,
+                    43.90902855393799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MERCATO SARACENO",
+                "id": "26403",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "S.C.E.L.F. SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.190656065940857,
+                    43.95056012908104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni 15944",
+                "id": "28592",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LANDI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.19133198261261,
+                    43.94989121761082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PANDOLFI",
+                "id": "4696",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PANDOLFI SAS DI PANDOLFI GIUSEPPE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.289124084655784,
+                    43.89425259504306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ZANI REDENTA",
+                "id": "12134",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ZANI REDENTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.241180837154388,
+                    43.907740418417866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP di A.T.V. di Vicini Antonio e Tiziana",
+                "id": "29445",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "A.T.V. DI VICINI ANTONIO E TIZIANA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.14324540964594,
+                    43.917536604001945
+                ]
+            }
+        }
+    ]
+}

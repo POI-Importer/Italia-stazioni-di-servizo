@@ -1,0 +1,224 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENERGIA SICILIANA DI LEUZZI GIUSEPPE",
+                "id": "26802",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ENERGIA SICILIANA  DI LEUZZI GIUSEPPE ORONZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.635760121082512,
+                    40.630495976035455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ROMA FRANCESCO SAS",
+                "id": "30490",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ROMA FRANCESCO E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.654022350231912,
+                    40.70447231311191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "26886",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BALSAMO DARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.634944915771484,
+                    40.62209634167975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "10292",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "D'ADAMO SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.712283730506897,
+                    40.659496256104326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "26253",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SANTACROCE COSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.703315764665604,
+                    40.66176695459489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAMER OSTUNI",
+                "id": "12312",
+                "brand": "Camer",
+                "amenity": "fuel",
+                "operator": "CAMER PETROLEUM EUROPA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.578291296958923,
+                    40.710857388032146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lanzilotti Petroli sas Imp Eni 9202",
+                "id": "17986",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LANZILOTTI PETROLI DI LANZILOTTI G. & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.663353794019937,
+                    40.70112568330346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "menga petroli",
+                "id": "17116",
+                "amenity": "fuel",
+                "operator": "CIRACI ARTURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.632361948490143,
+                    40.63938499363395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "19725",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CAIOLO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.711159884929657,
+                    40.67568041596241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "16022",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "COSI S.A.S. DI COSI COSIMO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.712895274162292,
+                    40.65778260071943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil di Saverio Padalino",
+                "id": "20324",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PADALINO SAVERIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.663462162017822,
+                    40.70380607385548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE ENI",
+                "id": "21947",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CARBURANTI E LUBRIFICANTI DI MONTANARO E MONTANARO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.705202950123407,
+                    40.65977260220579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REICA SRL",
+                "id": "14045",
+                "amenity": "fuel",
+                "operator": "REICA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.689729034900665,
+                    40.63798141943399
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CHIUSDINO-SS 73 KM 48+135 VIA MADONNINO",
+                "id": "11835",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.157403439283371,
+                    43.16927741514732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "I.P. CONTI FEDERICA",
+                "id": "25306",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CONTI FEDERICA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.085385059084615,
+                    43.15453956939047
+                ]
+            }
+        }
+    ]
+}

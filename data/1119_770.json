@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "9804",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DI PAOLA ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.79509699344635,
+                    40.61921147847563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Papapietro Carburanti",
+                "id": "26782",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PAPAPIETRO CARBURANTI DI PAPAPIETRO VITTORIO & FIGLI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.790330618641747,
+                    40.62968495246833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "9803",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DI PAOLA ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.846235990524292,
+                    40.64952583566708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LATERZA VIA ROMA",
+                "id": "6839",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.799393892288208,
+                    40.631574184388235
+                ]
+            }
+        }
+    ]
+}

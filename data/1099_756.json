@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "L'Aquila - Pizzoli",
+                "id": "5264",
+                "amenity": "fuel",
+                "operator": "BEYFIN S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.298362791538242,
+                    42.42948240710292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Guarnieri Giuseppe",
+                "id": "15977",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GUARNIERI GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.251582182725313,
+                    42.523062860043964
+                ]
+            }
+        }
+    ]
+}

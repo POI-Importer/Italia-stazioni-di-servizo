@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio F.lli Funaioli snc",
+                "id": "13038",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "F.LLI FUNAIOLI DI FUNAIOLI MASSIMO E PAOLO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.112855685981003,
+                    43.307986905821515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "10855",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CRINI MARCELLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2227693472214,
+                    43.24808720370328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip",
+                "id": "21950",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SABIA ANGELO VITO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.220946311950684,
+                    43.24460954634903
+                ]
+            }
+        }
+    ]
+}

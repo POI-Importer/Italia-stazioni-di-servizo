@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "agip",
+                "id": "26210",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PISCHEDDA GROUP S.N.C. DI MARONGIU FILOMENA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.261215776205063,
+                    40.58730232696869
+                ]
+            }
+        }
+    ]
+}

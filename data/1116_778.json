@@ -1,0 +1,175 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni di Turano Gennaro",
+                "id": "29845",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TURANO GENNARO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.20500698685646,
+                    39.60441065140784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "30540",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ZECCA GIUSEPPE LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.214315593242645,
+                    39.514522125451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TARSIA OVEST",
+                "id": "3521",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RUSSO DARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.242926716804504,
+                    39.57871748080824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 Miracco Gennaro",
+                "id": "9009",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MIRACCO GENNARO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33028358221054,
+                    39.54679620422773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "_TAMOIL",
+                "id": "7202",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BISIGNANO CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.27612970256348,
+                    39.505166291454664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TARSIA EST",
+                "id": "31775",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MULTISERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.24426782131195,
+                    39.579230916607045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "27083",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "S.N.L. DI LIPAROTI SALVATORE & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.210061609745022,
+                    39.60972147078847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONGRASSANO SCALO S S 19 DISTRIB. Q8",
+                "id": "6731",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.222537850926187,
+                    39.53695097423127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO STAZIONE DI SERVIZIO MARTURANO GIOVANNI",
+                "id": "13236",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MARTURANO GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.26308083534241,
+                    39.606840866795096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "6272",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ARNONE FRANCESCO &  C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.22036695343172,
+                    39.61970332364851
+                ]
+            }
+        }
+    ]
+}

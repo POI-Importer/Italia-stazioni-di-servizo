@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aversano Maria",
+                "id": "25162",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AVERSANO MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.707467630505562,
+                    39.939005564108236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso flli marongiu snc",
+                "id": "19631",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F.LLI MARONGIU SNC DI FABRIZIO MARONGIU & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.68010038137436,
+                    39.929175951517614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso flli marongiu snc",
+                "id": "19630",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F.LLI MARONGIU SNC DI FABRIZIO MARONGIU & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.68010038137436,
+                    39.929175951517614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pischedda Carburanti",
+                "id": "25555",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PISCHEDDA CARBURANTI DI PISCHEDDA SANDRA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.67156855860435,
+                    39.92776024766324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "soc.biriala s.a.s",
+                "id": "28048",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BIRIALA S.A.S. DI PUCCIONI GIANLUCA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.668561518192291,
+                    40.02624244512641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Demurtas Andrea Distr. Carburanti",
+                "id": "22517",
+                "amenity": "fuel",
+                "operator": "DEMURTAS ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.70820863173492,
+                    39.93868990743376
+                ]
+            }
+        }
+    ]
+}

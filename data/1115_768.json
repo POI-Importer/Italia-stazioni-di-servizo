@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio IP",
+                "id": "26787",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ENERGIA DEL SUD S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.11318431234736,
+                    40.95136286537907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "leonardo tarantino",
+                "id": "17313",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TARANTINO LEONARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.084012633912266,
+                    40.97364862044109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Camer",
+                "id": "15756",
+                "amenity": "fuel",
+                "operator": "CNA DI COSENTINO ANTONIO  &  C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.012224555015564,
+                    40.94141849629435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "11264",
+                "id": "15551",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MUTRI ROCCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.00966100449739,
+                    40.860009395958556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GALANTUCCI FRANCESCO",
+                "id": "26633",
+                "amenity": "fuel",
+                "operator": "GALANTUCCI FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.113400161266327,
+                    40.95082535346578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "17888",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FESTA GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.094106636106858,
+                    40.96566724520528
+                ]
+            }
+        }
+    ]
+}

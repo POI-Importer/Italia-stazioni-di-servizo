@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "16982",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DEMELAS VIRGILIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.657958745956421,
+                    40.78169503782867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIT STOP",
+                "id": "25998",
+                "amenity": "fuel",
+                "operator": "ARRU ANTONELLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.521750807762146,
+                    40.764201132981746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "7075",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CEFFONI GIAN FRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.553880989551544,
+                    40.837430123256716
+                ]
+            }
+        }
+    ]
+}

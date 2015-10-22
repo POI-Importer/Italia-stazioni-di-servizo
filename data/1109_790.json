@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di servizio Passopisciaro",
+                "id": "7511",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SERVIZI INTEGRATI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.035270154476164,
+                    37.87324175457434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rifornimento Castorina",
+                "id": "8584",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CASTORINA ALESSIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.95168919695891,
+                    37.8781286603646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA NAZIONALE RANDAZZO",
+                "id": "19234",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.951977451555194,
+                    37.87884118301813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di servizio Randazzo",
+                "id": "27404",
+                "brand": "SP Energia Siciliana",
+                "amenity": "fuel",
+                "operator": "SERVIZI INTEGRATI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.952607789109607,
+                    37.87940866979646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO Q8",
+                "id": "15365",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GULLINO VINCENZA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.961772263050078,
+                    37.87832638518767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "V.LE EUROPA MOIO",
+                "id": "12062",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.052506116567656,
+                    37.90075375115988
+                ]
+            }
+        }
+    ]
+}

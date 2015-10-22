@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO DISTRIBUZIONE CARBURANTI DI BELLINI LUCA",
+                "id": "15194",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BELLINI LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.708113776069693,
+                    43.79925717481583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Esso di Babazzi Fabio & c. snc",
+                "id": "9146",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BABAZZI FABIO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.710588358461223,
+                    43.74530871847921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI - MONETI DANIELE & C. SAS",
+                "id": "7115",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MONETI DANIELE & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.722395144573285,
+                    43.78667794571237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "4906",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "OLIVERA E GAGGI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.774924470075348,
+                    43.724329194279385
+                ]
+            }
+        }
+    ]
+}

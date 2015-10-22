@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AMATRICE",
+                "id": "30086",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.286479972745271,
+                    42.62869588681088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sp Energia Siciliana",
+                "id": "8670",
+                "amenity": "fuel",
+                "operator": "MICARELLI CLARA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.236830234527588,
+                    42.624367795091885
+                ]
+            }
+        }
+    ]
+}

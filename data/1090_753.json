@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stopandgo",
+                "id": "27707",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "STOP & GO DI ROMAGNOLI E PEROTTI SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.671632304229776,
+                    42.88350307301028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RADICOFANI",
+                "id": "4079",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DRIVE SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.764644831418993,
+                    42.895198027668556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FERRAZZANI SRL",
+                "id": "18991",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "FERRAZZANI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.69077545404434,
+                    42.846195792413646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore esso di raffi e Mammolotti snc",
+                "id": "15944",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "RAFFI GIORGIO E MAMMOLOTTI SERGIO SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.678881568157523,
+                    42.87801955924549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BP BACHIORRINI PETROLI",
+                "id": "8283",
+                "amenity": "fuel",
+                "operator": "FLLI BACHIORRINI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.753672947515836,
+                    42.84223197612773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Beyfin la Bisarca",
+                "id": "31439",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE LA BISARCA S.N.C. DI MASCELLONI ANDREA E MELONI LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.71186743807493,
+                    42.93969271976479
+                ]
+            }
+        }
+    ]
+}

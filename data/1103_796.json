@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI-LIOTTA MARIA ROSA &CO SAS",
+                "id": "12667",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LIOTTA MARIA ROSA E CO. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.951735496520998,
+                    37.10982731810983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GIAP",
+                "id": "11336",
+                "brand": "Giap",
+                "amenity": "fuel",
+                "operator": "GRACI ROSARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.940623718040113,
+                    37.10335720101978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI via Palma di Vitali Emanuele",
+                "id": "27288",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VITALI EMANUELE GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.927364945411682,
+                    37.10984250495661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso Tiger Bar",
+                "id": "20954",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DE CARO AGOSTINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.959884047508242,
+                    37.11468634952878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALAIMO",
+                "id": "27202",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ALAIMO AMEDEO ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.940131775969347,
+                    37.10264903123857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO LICATA, VIA PALMA",
+                "id": "12369",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DI BENEDETTO CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.921595513820652,
+                    37.11150064654609
+                ]
+            }
+        }
+    ]
+}

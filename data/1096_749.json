@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE IP",
+                "id": "18656",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MANUALI ALESSIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.669795155525204,
+                    43.4006316570927
+                ]
+            }
+        }
+    ]
+}

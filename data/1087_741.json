@@ -1,0 +1,139 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mascagni Impianti srl",
+                "id": "4762",
+                "amenity": "fuel",
+                "operator": "M3 GROUP S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.23408243060112,
+                    44.381260569897954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tot erg",
+                "id": "31461",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BUDRIO SERVICE DI GJONZENELI KRENAR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.075002545963343,
+                    44.44117166590004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BERTELLI-BERSAGLIERA",
+                "id": "11376",
+                "brand": "Bertelli Carburanti",
+                "amenity": "fuel",
+                "operator": "BERTELLI WALTER E ROLANDO  - CARBURANTI - S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.099207474868761,
+                    44.443807958329266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SASSO MARCONI VIA KENNEDY 52",
+                "id": "6534",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.246335561377009,
+                    44.392606264681675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "11218",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "REPLEO S.A.S. DI CEVENINI BRUNELLA E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.195171239252089,
+                    44.452283835001225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Servisavena - Sapori",
+                "id": "26130",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "SERVISAVENA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.078133241573141,
+                    44.34335962367534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MASCAGNI ENERGY S.R.L.",
+                "id": "7081",
+                "amenity": "fuel",
+                "operator": "MASCAGNI ENERGY S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.234067678451536,
+                    44.38125060155499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "sasso marconi",
+                "id": "8696",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "051 SERVICE S.N.C. DI POSSENTI PIERDOMENICO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.247797906398771,
+                    44.397796393070124
+                ]
+            }
+        }
+    ]
+}

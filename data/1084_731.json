@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOSCOLANO MADERNO-VIA STATALE 45 BIS 74",
+                "id": "11534",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.607860403688049,
+                    45.63893155934105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Q8 Manozzo Rosanna",
+                "id": "10724",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MANOZZO ROSANNA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.612482100007128,
+                    45.641853556433915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO STUKALOVA TETYANA",
+                "id": "24541",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STUKALOVA TETYANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6434533020971,
+                    45.662236042676916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "8036",
+                "id": "29625",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "T.D.M. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.606280565261843,
+                    45.63739466088116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni 1694",
+                "id": "13924",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GIAMBARDA MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.549146831035614,
+                    45.61392108845745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "10769",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ZAMAN MOHAMMAD"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.686945680781834,
+                    45.609760359258985
+                ]
+            }
+        }
+    ]
+}

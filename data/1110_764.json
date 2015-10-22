@@ -1,0 +1,54 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "goil",
+                "id": "14769",
+                "amenity": "fuel",
+                "operator": "CEGLIA DONATO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.123699232935902,
+                    41.42735509025277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIT STOP SRL",
+                "id": "16977",
+                "amenity": "fuel",
+                "operator": "PIT STOP - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.15468344092369,
+                    41.49730611969058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE TAMOIL",
+                "id": "19344",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "D'ADDARIO LORENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.198133078200838,
+                    41.39836521205422
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Esso",
+                "id": "6893",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STAZIONE SERVIZIO \"ESSO\" DI CACCIAMANI FABRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.61949300765991,
+                    42.93706100432095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MANCIA MAURO",
+                "id": "26873",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MANCIA MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.612618505954742,
+                    42.93535083622656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ballanti",
+                "id": "16191",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CENTRO SATELLITE DI BALLANTI ENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.520208358764647,
+                    42.87714345047822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PB",
+                "id": "23893",
+                "amenity": "fuel",
+                "operator": "CFC OIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.642246671539738,
+                    42.90015446307088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GIONTELLA SAS - GIANO DELL'UMBRIA",
+                "id": "23071",
+                "amenity": "fuel",
+                "operator": "GIONTELLA QUINTO EREDI S.A.S. DI ANTONIO GIONTELLA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.597838193178175,
+                    42.861810167189354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "API - IP cod. 42938",
+                "id": "25795",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "STRAMAG S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.581016042597408,
+                    42.88185682153083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CoenDamaschiPetroli s.r.l.",
+                "id": "28202",
+                "amenity": "fuel",
+                "operator": "COENDAMASCHIPETROLI S.R.L. (IN BREVE CDP S.R.L.\")"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.503336747885099,
+                    42.9228247335789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "grill car di cacciamani giovanni &c",
+                "id": "16606",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GRILL CAR CACCIAMANI GIOVANNI & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.619501054286957,
+                    42.93703881507627
+                ]
+            }
+        }
+    ]
+}

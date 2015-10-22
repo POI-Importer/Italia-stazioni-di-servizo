@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "POMPA BIANCA ACI",
+                "id": "31604",
+                "amenity": "fuel",
+                "operator": "PETROLSARDA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.503830969333649,
+                    40.09135903319889
+                ]
+            }
+        }
+    ]
+}

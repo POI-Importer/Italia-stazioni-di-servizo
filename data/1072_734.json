@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SESIA OVEST",
+                "id": "3488",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PINO DI PINO DOMENICO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.470642507934599,
+                    45.28549612028051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VERCELLI - PAPA GIOVANNI PAOLO II",
+                "id": "30738",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.438794635581985,
+                    45.312052815039024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "s.s servizio agip ferrari claudio",
+                "id": "13643",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FERRARI CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.604171797633171,
+                    45.27965761506362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LE RISAIE OVEST",
+                "id": "3752",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MARCUZZO CRISTHIAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.447817492065495,
+                    45.252335799978894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SESIA EST",
+                "id": "3854",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI RETE OIL&NONOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.472089767456055,
+                    45.28694997199244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni 55564",
+                "id": "9277",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VASINO MARIA LUISELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.463624715805055,
+                    45.27848009866282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SERVICE SNC",
+                "id": "26821",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SERVICE S.N.C. DI FRANCO ACCIU E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.584537779000584,
+                    45.28955291198179
+                ]
+            }
+        }
+    ]
+}

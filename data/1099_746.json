@@ -1,0 +1,140 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio di nuredini adem",
+                "id": "24894",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NUREDINI ADEM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.212235901188704,
+                    43.721635083492075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio  IP",
+                "id": "16260",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BASTONE GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.202114284378013,
+                    43.72733155527135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio IS - Senigallia",
+                "id": "26563",
+                "amenity": "fuel",
+                "operator": "SIMONETTI MARIO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.20730447769165,
+                    43.72445183650524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSEPI SRL",
+                "id": "10428",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ESSEPI DI PAOLINI SANDRINO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.185117244720457,
+                    43.73110856332453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL ERG DI BARUCCA",
+                "id": "18561",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BARUCCA MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.21322605285786,
+                    43.715151802948405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 5717",
+                "id": "26228",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.208090364933014,
+                    43.72410990913346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "pit stop di montanari doriano snc",
+                "id": "6257",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PIT STOP DI MONTANARI DORIANO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.228568884621042,
+                    43.710396430189434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "14355",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CAPOTONDI MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.206308632480843,
+                    43.71761030107461
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,241 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARISIO-S.P. TORINO - SVIZZERA",
+                "id": "11938",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.229165131282798,
+                    45.44338964969156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg",
+                "id": "7425",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MAURIZIO TORTA & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.097670514688957,
+                    45.41569037443159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "agip",
+                "id": "17973",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AVONDA ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.13368283212185,
+                    45.386982838654006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SALUSSOLA SS 143 KM 19 435",
+                "id": "6414",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.108793490212973,
+                    45.45548766709072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "31374",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DALPORTO CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.171424492065398,
+                    45.36250652606655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZ SERV IP",
+                "id": "9572",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LACCHIA E CERVINO & C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.09191346168518,
+                    45.40119360732874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAVOUR EST",
+                "id": "3512",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SARNI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.14344737895965,
+                    45.3680919533395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "olicarb",
+                "id": "12987",
+                "amenity": "fuel",
+                "operator": "DISTRIBUZIONE OLI-CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.228339652606223,
+                    45.4515707333394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio ip di cafarelli mario pio",
+                "id": "10633",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CAFARELLI MARIO PIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.161216378211977,
+                    45.36943086366644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COPELLI SNC",
+                "id": "26350",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "COPELLI S.N.C. DI COPELLI DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.16546767950058,
+                    45.344717813665504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg-Lampogas",
+                "id": "5578",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "AMETRANO RAFFAELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.150758796989408,
+                    45.37414876289959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EUROPAM DI M.G. SERVICE",
+                "id": "25942",
+                "amenity": "fuel",
+                "operator": "M.G. SERVICE DI MAZZUCCO GELSOMINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.146920204162598,
+                    45.378723853068415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione TAMOIL di DOGLIANI Michele",
+                "id": "10726",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "DOGLIANI MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.165794909000397,
+                    45.36805132160401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MC PETROLI DORZANO",
+                "id": "13807",
+                "brand": "MC petroli",
+                "amenity": "fuel",
+                "operator": "M.C. PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.106135874986649,
+                    45.426070043085346
+                ]
+            }
+        }
+    ]
+}

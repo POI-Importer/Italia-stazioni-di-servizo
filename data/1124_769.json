@@ -1,0 +1,122 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Rifag srl",
+                "id": "21443",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "RIFAG S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.584753810684898,
+                    40.726548730292656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MENGA PETROLI",
+                "id": "17378",
+                "amenity": "fuel",
+                "operator": "IAIA MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.597160576721194,
+                    40.72340729656245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "22783",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CALIANDRO PIETRO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.598654627799984,
+                    40.77929518974385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MENGA PETROLI",
+                "id": "16403",
+                "amenity": "fuel",
+                "operator": "ZURLO COSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.578869704186445,
+                    40.72525478396263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil di mele giuseppe",
+                "id": "19191",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MELE GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.724813669919968,
+                    40.73604530037232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg di Gianni Pinto",
+                "id": "19504",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PINTO GIANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.584512680768967,
+                    40.728515335097555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OSTUNI",
+                "id": "5783",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TotalErg SpA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.60513363558198,
+                    40.77728318668322
+                ]
+            }
+        }
+    ]
+}

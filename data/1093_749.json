@@ -1,0 +1,205 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio IP",
+                "id": "25681",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BORCHIELLINI SIMONETTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.296355490897898,
+                    43.33787419224763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto ENI 14614",
+                "id": "8007",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "P.S.P. DI PICCHI STEFANO E PAOLA S.N.C. - PER BREVITA' P.S.P. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.247642278671265,
+                    43.4120716202493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MEARELLI AURELIO",
+                "id": "19740",
+                "amenity": "fuel",
+                "operator": "MEARELLI AURELIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.222661407923626,
+                    43.345667023208165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto ENI 14613",
+                "id": "8004",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PICCHI STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.248618602752684,
+                    43.41223217151481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "18325",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "C.TRE DI CHECCONI IVANA & C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.23697673444417,
+                    43.36683425051137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Marconi sas di Marconi Luca",
+                "id": "17390",
+                "amenity": "fuel",
+                "operator": "MARCONI SAS DI MARCONI LUCA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.237512781949135,
+                    43.37020826173229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PATRIARCHI ALESSANDRO",
+                "id": "16171",
+                "amenity": "fuel",
+                "operator": "PATRIARCHI ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.167286542922511,
+                    43.348740037591284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BACCARINI S.N.C.",
+                "id": "21161",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BACCARINI S.N.C. DI BACCARINI ENZO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.267382411600238,
+                    43.36578525208384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fabbrecce",
+                "id": "9355",
+                "amenity": "fuel",
+                "operator": "I.C.M. SOCIETA' IN NOME COLLETTIVO DI BRUNO, CRISTIANO E FABRIZIO MAGGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.237588628836079,
+                    43.37785464283459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO CITTA' DI CASTELLO",
+                "id": "29983",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.279231902809439,
+                    43.3545613959278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GAS SERVICE DI ALESSANDRO BRIZZI & C. SAS",
+                "id": "8378",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GAS SERVICE DI ALESSANDRO BRIZZI & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.249788045883179,
+                    43.42463929199583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "31235",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "AUTOFFICINA 3M S.N.C. DEI F.LLI MARIOTTI ALESSANDRO - GIULIANO - ILIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.245469689369205,
+                    43.45214296039176
+                ]
+            }
+        }
+    ]
+}

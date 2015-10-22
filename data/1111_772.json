@@ -1,0 +1,54 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "R.CARBURANTI SAS",
+                "id": "13826",
+                "amenity": "fuel",
+                "operator": "R.CARBURANTI S.A.S. DI RESCINITI ANTONIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.374469012022018,
+                    40.34937694993332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "R. CARBURANTI  SAS",
+                "id": "24213",
+                "amenity": "fuel",
+                "operator": "R.CARBURANTI S.A.S. DI RESCINITI ANTONIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.31766847334484,
+                    40.42147642882731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CSI CARBURANTI E SERVIZI IORIO",
+                "id": "25532",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CARBURANTI E SERVIZI IORIO DI IORIO GIOVANNA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.339106794676352,
+                    40.33983365887087
+                ]
+            }
+        }
+    ]
+}

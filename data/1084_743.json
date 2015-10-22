@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BORTOLOTTI SILVANO E C. SAS",
+                "id": "8703",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BORTOLOTTI SILVANO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.616317365676084,
+                    44.200912741202586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE *IP DI CORBELLI RENZO",
+                "id": "13650",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE *IP DI CORBELLI RENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.614478404962936,
+                    44.2077247475491
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,409 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "27962",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "NOBILE OIL GROUP S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.580794036388397,
+                    37.31670576105686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nuara - San Benedetto, Agrigento",
+                "id": "4631",
+                "amenity": "fuel",
+                "operator": "A.NUARA E FIGLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.616244792938234,
+                    37.34813843492682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FAVARA CORSO VITTORIO VENETO",
+                "id": "14269",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.658229843586014,
+                    37.308283573197194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "14565",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PETROLCOKE ENERGY S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.581396440028584,
+                    37.314871815789736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "16610",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MORREALE VINCENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.704168274998665,
+                    37.40828114966903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIALE SICILIA CONTRADA FONTANELLE",
+                "id": "17801",
+                "amenity": "fuel",
+                "operator": "A.NUARA E FIGLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.591846078634262,
+                    37.32621304542855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA PETRARCA",
+                "id": "17803",
+                "amenity": "fuel",
+                "operator": "A.NUARA E FIGLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.588533825576176,
+                    37.30192581036641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "XXV APRILE  AGRIGENTO",
+                "id": "17720",
+                "amenity": "fuel",
+                "operator": "A.NUARA E FIGLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.57138551771641,
+                    37.31492626453715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SP N.3 KM 13+300 FAVARA",
+                "id": "17715",
+                "brand": "Lukoil",
+                "amenity": "fuel",
+                "operator": "A.NUARA E FIGLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.642226010560988,
+                    37.36124386528102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A. Di Benedetto srl Via Imera Ag",
+                "id": "23778",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ALFONSO DI BENEDETTO CARBURANTI LUBRIFICANTI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.58591309570079,
+                    37.312390927445705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio rizzo giovanni",
+                "id": "11161",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "RIZZO GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.621182051589928,
+                    37.395494269083635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SP ENERGIA SICILIANA",
+                "id": "18953",
+                "brand": "SP Energia Siciliana",
+                "amenity": "fuel",
+                "operator": "BRUCCOLERI GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.656537317326638,
+                    37.30937399645874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A. Di Benedetto srl P.zza Ravanusella Ag",
+                "id": "23780",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ALFONSO DI BENEDETTO CARBURANTI LUBRIFICANTI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.580069240436613,
+                    37.310530770308084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP JOPPOLO GIANCAXIO",
+                "id": "12786",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DI BENEDETTO CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.556865307730847,
+                    37.35776540601626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "28848",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MELI ALFONSO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.617627471685411,
+                    37.40059799035912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "mp petroli di maria pullara",
+                "id": "21556",
+                "brand": "Giap",
+                "amenity": "fuel",
+                "operator": "M P PETROLI DI MARIA PULLARA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.586265917256014,
+                    37.303773233118946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni 55029 - Di Nolfo Maria Carburanti Sas",
+                "id": "4112",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DI NOLFO MARIA CARBURANTI S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.665801286697386,
+                    37.32118993973621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "QUADRIVIO SPINANSANTA - AGRIGENTO",
+                "id": "28277",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.581069525760313,
+                    37.31919829622775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BAR DELLA VALLE",
+                "id": "9254",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DISTEFANO CARBURANTI DI DISTEFANO FABIO E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.608648777008058,
+                    37.31145034380066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "21532",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CASTRONOVO FILIPPO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.662984558860785,
+                    37.32455050835047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ERRIU ENRICO",
+                "id": "24949",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ERRIU ENRICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.586577368122903,
+                    37.308234929449384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SELF AREA AGIP/ENI DI GABRIELE ERRIU",
+                "id": "29471",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ERRIU GABRIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.595531433820724,
+                    37.33397271034482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SP ENERGIA SICILIANA",
+                "id": "13225",
+                "brand": "SP Energia Siciliana",
+                "amenity": "fuel",
+                "operator": "SCARIANO BENEDETTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.663748660226245,
+                    37.3202812247021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FLOAN S.R.L.",
+                "id": "8015",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "FLOAN S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.61182987689972,
+                    37.350690280167456
+                ]
+            }
+        }
+    ]
+}

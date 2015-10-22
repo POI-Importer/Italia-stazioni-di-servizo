@@ -1,0 +1,472 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EXTRAGAS SRL",
+                "id": "5198",
+                "amenity": "fuel",
+                "operator": "EXTRAGAS - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.571317791938782,
+                    41.70669369431911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ISOLA DEL LIRI E SUPERI ROMA 188",
+                "id": "6678",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.55845288769683,
+                    41.67903254822523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI AREA DI SERVIZIO",
+                "id": "5366",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "D.E.M. S.A.S. DI PAGNANELLI DOMENICO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.57389807701111,
+                    41.697636460528535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "31784",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ESSEPI S.A.S. DI SCALA SIMONE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.605950341139192,
+                    41.71386056026676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI - DOTO NICOLANTONIO",
+                "id": "8534",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DOTO NICOLANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.576349616050717,
+                    41.68171011487364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zgas",
+                "id": "32080",
+                "amenity": "fuel",
+                "operator": "LU.CA. DI CAMILLI PIETRO MASSIMO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62981140613556,
+                    41.70461273414921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 BAR RISTORANTE SPLENDOR",
+                "id": "26346",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DI FOLCO DOMENICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.608805098664106,
+                    41.64039912882437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "P.V. 03 Sora",
+                "id": "25972",
+                "amenity": "fuel",
+                "operator": "LA ROCCA PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.56987476348877,
+                    41.71132555120453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "P.V. 05 Isola del Liri",
+                "id": "30843",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "LA ROCCA PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.569150567054749,
+                    41.676535216998786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ROMANA SELVA",
+                "id": "8888",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SOCIETA' ITALIANA CARBURANTI E AFFINI - S.R.L. - S.I.C.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.564153869975257,
+                    41.705293288282235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "retitalia",
+                "id": "31844",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "FABRIZI GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.564710170030594,
+                    41.680249758840674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LQ OIL",
+                "id": "26322",
+                "amenity": "fuel",
+                "operator": "GABRIELE DIEGO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.56283836458374,
+                    41.646994921270945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto Agip Fava Enio",
+                "id": "16407",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FAVA ENIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.570177853107449,
+                    41.71291454657422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NEW ENERGY",
+                "id": "18231",
+                "amenity": "fuel",
+                "operator": "NEW ENERGY S.R.L"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.557256300000063,
+                    41.679116541403296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SHELL",
+                "id": "26655",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "ZETA GAS S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.672136664390562,
+                    41.68607736325301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 26630",
+                "id": "24936",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.595677614212034,
+                    41.70773254732859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 6646",
+                "id": "29330",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.567572087049484,
+                    41.67641040690644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "New Energy",
+                "id": "9638",
+                "amenity": "fuel",
+                "operator": "METANO FROSINONE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.557246923446653,
+                    41.67910629098048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sora",
+                "id": "29682",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.603637069463733,
+                    41.71242800100634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "starOIL",
+                "id": "21240",
+                "amenity": "fuel",
+                "operator": "PANTANO LORETO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.681730422213604,
+                    41.69081155847705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SORA-SS.82 KM.53+860",
+                "id": "11595",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.623347840443785,
+                    41.72530428897849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TIBER SRL  AGOSTINO IVANA",
+                "id": "20494",
+                "amenity": "fuel",
+                "operator": "AGOSTINO IVANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.705446219480109,
+                    41.676889839431176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SETTE AREA DI SERVIZIO",
+                "id": "5367",
+                "amenity": "fuel",
+                "operator": "D.E.M. S.A.S. DI PAGNANELLI DOMENICO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.597777783870695,
+                    41.708955600820964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "6093",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MIZZONI FIORELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.604974150657652,
+                    41.688752612119636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "20754",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MA.FRA. S.A.S. DI CRETARO MARCO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.605955705557218,
+                    41.71384053818401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SORA S.P. SFERRACAVALLI",
+                "id": "8438",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.62355649471283,
+                    41.71408384259879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BRUNO PIERPAOLO",
+                "id": "20222",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BRUNO PIERPAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.571845998394792,
+                    41.67692553048012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STELLA",
+                "id": "8889",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SOCIETA' ITALIANA CARBURANTI E AFFINI - S.R.L. - S.I.C.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.648116478237624,
+                    41.69968682968806
+                ]
+            }
+        }
+    ]
+}

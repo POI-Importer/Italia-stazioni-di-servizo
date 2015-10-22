@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "30933",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "TREBBIAPLAST S.A.S. DI BEONE VINCENZO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.154768288135529,
+                    44.514958873256035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "impianto Q8",
+                "id": "25649",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PEDEMONTE PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.208033415082355,
+                    44.511626429104865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Europa",
+                "id": "25748",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "POGGI MARIA ROSA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.282548725605011,
+                    44.55717120411412
+                ]
+            }
+        }
+    ]
+}

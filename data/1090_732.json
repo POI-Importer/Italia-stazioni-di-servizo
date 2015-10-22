@@ -1,0 +1,405 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BENZA CAMISANO",
+                "id": "4101",
+                "brand": "Benza",
+                "amenity": "fuel",
+                "operator": "BORTOLAMEI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.709883895037137,
+                    45.502177814904506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SIR",
+                "id": "19165",
+                "amenity": "fuel",
+                "operator": "FRACASSO MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.61656007170677,
+                    45.54254307218271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GRISIGNANO DI ZOCCO",
+                "id": "24404",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "EUROPAM S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.70434353862311,
+                    45.474397289168934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lucatello Srl",
+                "id": "11213",
+                "amenity": "fuel",
+                "operator": "LUCATELLO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.680875420570374,
+                    45.52081854244052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "quinto",
+                "id": "11020",
+                "amenity": "fuel",
+                "operator": "SO.NI. S.A.S. DI SONDA MARCELLO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.621318310499191,
+                    45.57976538609252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Metanauto Group srl",
+                "id": "4861",
+                "amenity": "fuel",
+                "operator": "METANAUTO GROUP SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.65465274044493,
+                    45.49631910732646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg spa",
+                "id": "12010",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ZECCHIN ANDREA & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.70137822628021,
+                    45.51724777810056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BENZA di GRISIGNANO di ZOCCO (VI)",
+                "id": "4147",
+                "brand": "Benza",
+                "amenity": "fuel",
+                "operator": "AL.NI.CO. SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.67426620790411,
+                    45.48762444318827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "27243",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "HAPPY SERVICE DI VIGNAGA MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.734683215618134,
+                    45.52540006449142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAPPELLIN LUIGINO",
+                "id": "19583",
+                "amenity": "fuel",
+                "operator": "CAPPELLIN LUIGINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.647097347221345,
+                    45.54361387000021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CALANDRA CARBURANTI",
+                "id": "18342",
+                "amenity": "fuel",
+                "operator": "CALANDRA CARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.693602502346037,
+                    45.46163153175913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione q8",
+                "id": "7024",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "NEGRIZZOLO RICCARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.686586152114842,
+                    45.48181513423182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 13944",
+                "id": "24904",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.689555048942566,
+                    45.52075990842748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SMP",
+                "id": "21511",
+                "amenity": "fuel",
+                "operator": "G.R. DI RUZZA LINO E C. S.N.C. DI RUZZA SANDRO E DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.706614962276149,
+                    45.58247169487593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "autolavaggio sprint snc",
+                "id": "16566",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "AUTOLAVAGGIO SPRINT DI SANTINELLO FABIO E SANTINELLO MASSIMO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.774963289499283,
+                    45.53827744264647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Costantin Longare",
+                "id": "21178",
+                "brand": "Costantin",
+                "amenity": "fuel",
+                "operator": "COSTANTIN DISTRIBUZIONE E SERVIZI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.611360609531403,
+                    45.473049282744476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PAVAN S.A.S di PAVAN ANDREA",
+                "id": "10916",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PAVAN S.A.S. DI PAVAN ANDREA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.630452573299408,
+                    45.5102258674461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "P.D. Service snc",
+                "id": "22619",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "P.D. SERVICE S.N.C. DI ERTOLUPI DANTE ED ERTOLUPI GIULIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.75052345501706,
+                    45.489433540190255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAP",
+                "id": "25846",
+                "amenity": "fuel",
+                "operator": "CONTIERO DAVIDE IMPIANTO ENI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.65507793386837,
+                    45.52124744869765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Piazzola sul Brenta",
+                "id": "30672",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.739167991401699,
+                    45.57990275463091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Torri di Quartesolo",
+                "id": "19969",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.612393260002134,
+                    45.52160633504442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "12848",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "G & G DI ERTOLUPI GIANFRANCO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.618756130337713,
+                    45.51868795096203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "4072",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ROMIO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.710172536627624,
+                    45.51719941271975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TESINA SUD",
+                "id": "3847",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI RETE OIL&NONOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.624994277954102,
+                    45.50440318202276
+                ]
+            }
+        }
+    ]
+}

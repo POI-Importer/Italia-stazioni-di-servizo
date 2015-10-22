@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pinna Pietro e Salvatore snc",
+                "id": "16440",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PINNA PIETRO E SALVATORE S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.459902480244637,
+                    39.05984789275167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "p.v. Esso 0265",
+                "id": "9994",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MULTISERVICE S.N.C. DI GIOVANNA ELENA PAGOTO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.475839495658875,
+                    39.05950403755129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni 51879 S.Antioco",
+                "id": "10983",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MARONGIU ANTONELLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.46009761095047,
+                    39.063518354185355
+                ]
+            }
+        }
+    ]
+}

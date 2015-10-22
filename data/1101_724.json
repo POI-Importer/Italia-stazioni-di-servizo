@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "H6 Tarvisio",
+                "id": "26256",
+                "amenity": "fuel",
+                "operator": "PETROL SERVICE SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.558976620190379,
+                    46.507000157125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.G.M. di Monego e Calabria S.A.S.",
+                "id": "22046",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "S.G.M. DI MONEGO GIANCARLO E CALABRIA SALVATORE & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.569248590686131,
+                    46.50546965663672
+                ]
+            }
+        }
+    ]
+}

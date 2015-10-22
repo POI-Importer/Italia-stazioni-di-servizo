@@ -1,0 +1,104 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ARAM PETROLI SRL",
+                "id": "21379",
+                "amenity": "fuel",
+                "operator": "ARAM PETROLI S.R.L. DI LUIGI IANI E FIGLI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.643195629119871,
+                    41.95550488700491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "X FUEL SAN BENEDETTO D.M.",
+                "id": "25637",
+                "amenity": "fuel",
+                "operator": "X FUEL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.606138229370119,
+                    42.00116231182659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RAFFAELE NICOLA",
+                "id": "26188",
+                "amenity": "fuel",
+                "operator": "RAFFAELE NICOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.685983568429947,
+                    41.937258689867704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.lli Ranalli sas",
+                "id": "23985",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "F.LLI RANALLI DI RANALLI SILVANO & VITTORIO S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.647229671478271,
+                    42.02806049030112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GOLDENGAS",
+                "id": "21897",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SALVATI LUCIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.69378075003624,
+                    41.954756285636776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GOLDENGAS",
+                "id": "21896",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SALVATI LUCIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.69378075003624,
+                    41.954756285636776
+                ]
+            }
+        }
+    ]
+}

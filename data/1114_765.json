@@ -1,0 +1,190 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "agip",
+                "id": "18691",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FUCCI PASQUALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.915472202377263,
+                    41.26269290727957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "16541",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "OLIVIERI TOMMASO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.909174084663393,
+                    41.266422630622294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CERIGNOLA FUEL",
+                "id": "14351",
+                "amenity": "fuel",
+                "operator": "CERIGNOLA FUEL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.927557945251463,
+                    41.25816220990195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "16083",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SPECCHIO NICOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.894331743745171,
+                    41.26575014628325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE TOTALERG",
+                "id": "17083",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CANNONE ANTONIO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.863496065139767,
+                    41.278069318422375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LE SALINE OVEST",
+                "id": "3811",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "TATTOLI RAFFAELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.876499999999998,
+                    41.32860000000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DASTI ALESSANDRA P.V. ENI 09296",
+                "id": "20322",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DASTI ALESSANDRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.900267770947266,
+                    41.31934220018865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE TOTALERG",
+                "id": "17615",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE Q 8 DI CANNONE ENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.889685153961182,
+                    41.26187942766682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Q8",
+                "id": "18283",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MACCHIARULO ALFONSO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.918046832084658,
+                    41.26229759139937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 Cerignola San Martino",
+                "id": "22312",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "TO.P. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.941863629159341,
+                    41.266446090734426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sp energia siciliana",
+                "id": "17074",
+                "amenity": "fuel",
+                "operator": "DISANTO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.894940180528577,
+                    41.265716009870545
+                ]
+            }
+        }
+    ]
+}

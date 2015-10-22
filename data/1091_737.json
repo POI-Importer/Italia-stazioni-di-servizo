@@ -1,0 +1,140 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Colonnina Metano Demon Lidija",
+                "id": "22769",
+                "amenity": "fuel",
+                "operator": "DEMON LIDIJA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.817399859428408,
+                    44.88377192099852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GRANDI MARCO",
+                "id": "12070",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GRANDI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.851066946983337,
+                    44.842367094746564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP Colla Alessandro",
+                "id": "14077",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "COLLA ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.873250289677799,
+                    44.92286615441703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Campi s.n.c",
+                "id": "8860",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO CAMPI DI VILLANI GIOVANNI & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.810394553442391,
+                    44.90428328922216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "copparo",
+                "id": "4796",
+                "brand": "Oil Italia",
+                "amenity": "fuel",
+                "operator": "OIL ITALIA SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.815255433321,
+                    44.89086776976342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Campi s.n.c",
+                "id": "4328",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO CAMPI DI VILLANI GIOVANNI & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.80591195821762,
+                    44.889349096041805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG FRIGNANI VALENTINA",
+                "id": "13707",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "FRIGNANI VALENTINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.837126165628433,
+                    44.8859669007106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE ESSO SUCCI MAURIZIO",
+                "id": "24581",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SUCCI MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.802065670490267,
+                    44.8893300933645
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Banchinella",
+                "id": "31181",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PETROLIFERA CAPRESE SOCIETA' A RESPONSABILITA' LIMITATA DETTA BREVEMENTE PETROLIFERA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.240353101226445,
+                    40.5560167725911
+                ]
+            }
+        }
+    ]
+}

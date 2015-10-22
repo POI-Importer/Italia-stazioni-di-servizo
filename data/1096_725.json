@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip",
+                "id": "10360",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BAR ALLA POSTA DI PACELLI MARIANNA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.823774276507153,
+                    46.403413831520616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RETITALIA - AMPEZZO",
+                "id": "8849",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "NARDONE RENATO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.796801787696836,
+                    46.415296698786904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "17198",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MARTINIS ISIDORO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.790124880150186,
+                    46.417194442206316
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL SANGRO CARBURANTI",
+                "id": "21985",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SANGRO CARBURANTI DI MAIOCCO GENNARO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.460786581039425,
+                    42.17956798460181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PORTOBELLO ROCCA S.GIOVANNI",
+                "id": "18971",
+                "amenity": "fuel",
+                "operator": "ANXA ENERGY S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.43051785230637,
+                    42.25980847995981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CIMINIMAURIZIO C. s.a.s.",
+                "id": "24506",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DITTA CIMINI MAURIZIO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.502003550496738,
+                    42.17110382920247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SANGRO OVEST",
+                "id": "30003",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "NIFE SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.562777578830719,
+                    42.199823670593545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI 16569",
+                "id": "26215",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DORIS PASQUALE & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.431783854961395,
+                    42.26348916532531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SANGRO EST",
+                "id": "30002",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SIFE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.562384635210039,
+                    42.20082908374019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Petrol gamma",
+                "id": "31250",
+                "amenity": "fuel",
+                "operator": "CASA DELL'AUTO DI D'ANNUNZIO ANTONELLO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.571902542755195,
+                    42.20743560149768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DI NUNZIO FRANCO & FIGLI",
+                "id": "30545",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DI NUNZIO FRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4194108247757,
+                    42.21743178385423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FOSSACESIA SS 16 ADRIATICA KM 487+95",
+                "id": "6666",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.507437568122894,
+                    42.25143494357952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni",
+                "id": "25323",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PETROLBITUMI - SOCIETA A RESPONSABILITA LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.462730183731084,
+                    42.23322707125807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "16575 SANTA MARIA IMBARO CHIETI",
+                "id": "26114",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI RETE OIL&NONOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.434782564640043,
+                    42.214672750799494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni",
+                "id": "6293",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PETROLBITUMI - SOCIETA A RESPONSABILITA LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.468751919383637,
+                    42.200907084879
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil Pellegrino",
+                "id": "4357",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PELLEGRINO ROCCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.152739085576854,
+                    38.087837406464004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni station bartolo antonio stefano",
+                "id": "16466",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BARTOLO ANTONIO STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.15252827976224,
+                    38.08931255172054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CREA",
+                "id": "17960",
+                "amenity": "fuel",
+                "operator": "S.A.S. CREA DI SCULLI CONCETTA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.083795279264454,
+                    38.009416198228585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Petrolio Service di Bruzzaniti Domenico",
+                "id": "24195",
+                "amenity": "fuel",
+                "operator": "BRUZZANITI DOMENICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.130096912384033,
+                    38.049346561952014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CREA",
+                "id": "17953",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "S.A.S. CREA DI SCULLI CONCETTA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.12935796380043,
+                    38.00917527731785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CREA",
+                "id": "17958",
+                "amenity": "fuel",
+                "operator": "S.A.S. CREA DI SCULLI CONCETTA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.12949475646019,
+                    38.00943120294067
+                ]
+            }
+        }
+    ]
+}

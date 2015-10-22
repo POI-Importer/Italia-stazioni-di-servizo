@@ -1,0 +1,238 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "25959",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FRATELLI FICARDO S.A.S. DI FICARDO ANTONINO E CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.659742921590807,
+                    37.9933437803431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto Q8 di Messina Paolo",
+                "id": "20069",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MESSINA PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.68917003273964,
+                    37.97762005173214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "20145",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CARBURCAT DI GATTO GIUSEPPE S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6905241084595,
+                    37.987634530986135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EOS POMPA BIANCA",
+                "id": "30339",
+                "amenity": "fuel",
+                "operator": "SPATAFORA GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.559395235042988,
+                    37.89664319209661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto carburanti IP di Messina Antonino",
+                "id": "10364",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MESSINA ANTONINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.702905567407923,
+                    37.979897304222696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PETROL AGRICOLTURA",
+                "id": "25810",
+                "amenity": "fuel",
+                "operator": "PETROL AGRICOLTURA  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.66715369995268,
+                    37.93207177165152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione servizio Q8 Messina Antonino",
+                "id": "10363",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MESSINA ANTONINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.704634308815002,
+                    37.98190763441502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GG CARBURANTI",
+                "id": "5629",
+                "amenity": "fuel",
+                "operator": "GERACI GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.672986841725105,
+                    37.91828095753367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO AMODEO ANTONINO",
+                "id": "27973",
+                "amenity": "fuel",
+                "operator": "AMODEO ANTONINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.701348029238943,
+                    37.98725328814312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MAC CARBURANTI snc",
+                "id": "29409",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MAC CARBURANTI S.N.C. DI ANTONINO MESSINA E CINZIA LO VERDE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.690414577722553,
+                    37.98379468336036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO GERACI V.ZO E G.PPE & C SNC",
+                "id": "16131",
+                "amenity": "fuel",
+                "operator": "GERACI VINCENZO E GIUSEPPE E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.661555467323067,
+                    37.93417179540448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EOS - 320784",
+                "id": "31471",
+                "brand": "EOS",
+                "amenity": "fuel",
+                "operator": "PORRETTA SIMONE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6794912815094,
+                    37.99220991656394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "15511",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SCIORTINO RICCARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.689687623278816,
+                    37.97815778609065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO CARBUR.IP SPALLA AGOSTINO",
+                "id": "19374",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SPALLA AGOSTINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.70164213092721,
+                    37.98371328810001
+                ]
+            }
+        }
+    ]
+}

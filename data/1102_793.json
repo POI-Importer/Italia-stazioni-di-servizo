@@ -1,0 +1,122 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GRS DI Alba Carlo",
+                "id": "29282",
+                "amenity": "fuel",
+                "operator": "ALBA CARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.818309602832528,
+                    37.453809178745274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BRANCATO ANGELO",
+                "id": "20134",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BRANCATO ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.819981366395947,
+                    37.45167939089029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "27763",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LD PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.880701214075089,
+                    37.45439421926538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.LLI VOLO DI VOLO SILVIO &C S.N.C.",
+                "id": "8761",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "F.LLI VOLO DI VOLO SILVIO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.885471522808075,
+                    37.45325953944823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA CALTANISSETTA, MILENA",
+                "id": "24198",
+                "brand": "Giap",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.739754951920077,
+                    37.47312173954892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIRCIGLIO",
+                "id": "10994",
+                "amenity": "fuel",
+                "operator": "VIRCIGLIO CALOGERO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.729409234609989,
+                    37.52764605822426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto Carburante ESSO Tona Mario Salvatore",
+                "id": "24867",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "TONA MARIO SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.737474245199794,
+                    37.470966235460715
+                ]
+            }
+        }
+    ]
+}

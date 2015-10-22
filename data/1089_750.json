@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Grillo",
+                "id": "20885",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "LAKY'S OIL & FOOD S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.563611814999378,
+                    43.323903493865345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTELNUOVO BERARDENGA SAN PIETRO",
+                "id": "28534",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "DRIVE SERVICE SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.565325856208801,
+                    43.322583268833824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP CASTELNUOVO B.GA",
+                "id": "20945",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PANTANI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.476668119430542,
+                    43.31553393537761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Staz. Servizio IP",
+                "id": "11212",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DE CICCO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.574015578367037,
+                    43.23595089743946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA DI SERVIZIO",
+                "id": "11237",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "G.F.G. DI FRANCINI, GRILLI & C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.487552523612976,
+                    43.320176861641
+                ]
+            }
+        }
+    ]
+}

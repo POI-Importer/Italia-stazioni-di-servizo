@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "7806",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "WERKSTAETTE UND TANKSTELLE PARDELLER K. G. DES MALFERTHEINER IGNA Z & CO."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.562425488845747,
+                    46.54477951368643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP TANKSTELLE STEG",
+                "id": "18674",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AGIP TANKSTELLE STEG DER THURNER HELENA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.477577639628182,
+                    46.51450423952976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TIRES - SP 65 S. CIPRIANO",
+                "id": "30627",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.539708046627084,
+                    46.46508522003307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Schweigkofler Florian",
+                "id": "24864",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SCHWEIGKOFLER FLORIAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.455037444829943,
+                    46.540170893842344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SCILIAR OVEST",
+                "id": "21995",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "UNTERLEITNER SAS DI UNTERLEITNER MATTHIAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.490588784217834,
+                    46.531508549097815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kostner - Ritten",
+                "id": "29121",
+                "brand": "Kostner",
+                "amenity": "fuel",
+                "operator": "KOSTNER SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.45049024240302,
+                    46.527997119263375
+                ]
+            }
+        }
+    ]
+}

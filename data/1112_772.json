@@ -1,0 +1,206 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DI SARLI PETROLI SRL",
+                "id": "21453",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DI SARLI PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.524764505126882,
+                    40.3902297797673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SABIA CARBURANTI",
+                "id": "30874",
+                "amenity": "fuel",
+                "operator": "SABIA CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.624859929084776,
+                    40.33265790083195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "31816",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "P.D.P. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.625993162393568,
+                    40.329328724984464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SALA CONSILINA S.MARIA MISERICORDIA",
+                "id": "7497",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.569179952144625,
+                    40.41093467948778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Q8 di Varuzza Domenico",
+                "id": "22093",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "VARUZZA DOMENICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.553179668200757,
+                    40.37822765289314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO di Calandriello Arcangela",
+                "id": "10448",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CALANDRIELLO ARCANGELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.58888018131256,
+                    40.36106761154029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI GAS",
+                "id": "31817",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "P.D.P. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.626234561204914,
+                    40.32922894122288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "G & V Guzzo Srl",
+                "id": "30350",
+                "amenity": "fuel",
+                "operator": "G & V GUZZO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.628323446420268,
+                    40.336515023405134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SALA CONSILINA OVEST",
+                "id": "31570",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PAGLIARULO GEST DI PAGLIARULO VITTORIO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.580337941646578,
+                    40.39807366551684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Refuel",
+                "id": "26830",
+                "amenity": "fuel",
+                "operator": "VAL D'AGRI OIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.521806823861084,
+                    40.396389327805856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO AGIP - DITTA FILERI GINA",
+                "id": "30527",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FILERI GINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.567535758018495,
+                    40.43933261932919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SALA CONSILINA EST",
+                "id": "32062",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ANNUNZIATA SERGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.581182837486267,
+                    40.39873834488029
+                ]
+            }
+        }
+    ]
+}

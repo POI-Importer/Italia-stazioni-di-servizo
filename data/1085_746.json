@@ -1,0 +1,406 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "I.P.L.A.",
+                "id": "13060",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "I.P.L.A. DI IOZZIA ALESSIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.895065963268278,
+                    43.80895030918838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "13728",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GIUSTI ALESSANDRO E ROBERTO SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.802912685319486,
+                    43.73165055750501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LARCIANO",
+                "id": "29806",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SIRTAM S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.847899317741394,
+                    43.804051436890546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "12210",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "A.M. DI MENNITI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.796395540237427,
+                    43.719504167236515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "API IP Gestione Cobel srl (Lamporecchio)",
+                "id": "31553",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "COBEL - COMMERCIO BENZINA LUBRIFICANTI - S.R.L. O COBEL - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.895053893327713,
+                    43.80894140537486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BALDINI DI FEFE' ANTONELLA & C. SNC",
+                "id": "23819",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BALDINI DI FEFE' ANTONELLA & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7962104678154,
+                    43.738808696269416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "4 PETROLI",
+                "id": "31346",
+                "amenity": "fuel",
+                "operator": "G. & G. S.A.S. DI GABRIELE VARIGNANI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.88615844047547,
+                    43.818396363672605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI di Matricardi Manuele & c.",
+                "id": "5031",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MATRICARDI MANUELE & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.725606679916384,
+                    43.77073743663521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI di Matricardi Group & c.",
+                "id": "5035",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MATRICARDI GROUP DI MATRICARDI MANUELE & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.757557153701784,
+                    43.72671579585016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Poli  & Riccio snc",
+                "id": "12544",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "POLI & RICCIO DI POLI ALESSANDRO & RICCIO GIOVANNI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.77902555465698,
+                    43.73813818146483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "self pingua",
+                "id": "18567",
+                "amenity": "fuel",
+                "operator": "SELF PINGUA DI PECORINI FILIPPO & C.S.A.S"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.858638081020331,
+                    43.77869392224317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VOLPI E FEDI SNC",
+                "id": "18349",
+                "amenity": "fuel",
+                "operator": "VOLPI LUCA E FEDI FABRIZIO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.88614158332348,
+                    43.818384365215145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "myOil Fucecchio",
+                "id": "13218",
+                "brand": "MyOil",
+                "amenity": "fuel",
+                "operator": "STAZIONE SERVIZIO IP DI PEPE CARMELA E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.799152374868754,
+                    43.72145421511858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GAGLIARDI ROBERTO",
+                "id": "18328",
+                "amenity": "fuel",
+                "operator": "GAGLIARDI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.724518029430328,
+                    43.82513514711266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FUCECCHIO",
+                "id": "25351",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "STAR SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.821114778518677,
+                    43.70848384225399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTELFRANCO DI SOTTO",
+                "id": "24601",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SIRTAM S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.745546221733093,
+                    43.72175668312704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SANTA CROCE SULL'ARNO",
+                "id": "5844",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TotalErg SpA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.772537139881138,
+                    43.73475093802473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Marcignana",
+                "id": "20729",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.893845558166504,
+                    43.72030709606453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "4 quattropetroli",
+                "id": "16744",
+                "amenity": "fuel",
+                "operator": "CALUGI CLAUDIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.852542892098425,
+                    43.80361994974964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO IP di NERI LUCA",
+                "id": "10938",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "NERI LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.821053694442753,
+                    43.724441684949284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AQUILA",
+                "id": "25279",
+                "brand": "Aquila",
+                "amenity": "fuel",
+                "operator": "CANTORE PIETRO E PICCHI ROBERTO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.809742476196332,
+                    43.73679270009572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni Lepori snc - Santa Croce sull'arno",
+                "id": "11150",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LEPORI S.N.C. DI LEPORI ROBERTO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.775405913591387,
+                    43.717125945740335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NGN NEWGASNETWORK",
+                "id": "30603",
+                "amenity": "fuel",
+                "operator": "NEW GAS NETWORK DI MANDORLINI ELISA & FILIPPO - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.898133013561276,
+                    43.720340644944734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Quattropetroli",
+                "id": "19977",
+                "amenity": "fuel",
+                "operator": "BANTI PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.773982272578223,
+                    43.78862521582311
+                ]
+            }
+        }
+    ]
+}

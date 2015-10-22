@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EUROPAM",
+                "id": "31031",
+                "amenity": "fuel",
+                "operator": "GENO SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.171961974374424,
+                    43.001042541169014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE IP di BONCIOLI PAOLO E ANDREA",
+                "id": "27253",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BONCIOLI LUCIANO DI BONCIOLI PAOLO E ANDREA SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.166065633296967,
+                    43.013739161595076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distribuore Da Frassini",
+                "id": "12586",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DA FRASSINI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.090097427368164,
+                    43.02561114770337
+                ]
+            }
+        }
+    ]
+}

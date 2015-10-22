@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio tamoil",
+                "id": "25011",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SALIERI NICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.621587488113391,
+                    43.9285979567129
+                ]
+            }
+        }
+    ]
+}

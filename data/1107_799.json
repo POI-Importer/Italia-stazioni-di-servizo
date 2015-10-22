@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EMMOLO O.",
+                "id": "22497",
+                "brand": "Giap",
+                "amenity": "fuel",
+                "operator": "EMMOLO OTTAVIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.73300665616989,
+                    36.72201990370614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA PROVINCIALE CAVA D'ALIGA",
+                "id": "31355",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.686687588691711,
+                    36.72915083623159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA DELLA PACE",
+                "id": "12323",
+                "brand": "Giap",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.686732490737882,
+                    36.731625093441636
+                ]
+            }
+        }
+    ]
+}

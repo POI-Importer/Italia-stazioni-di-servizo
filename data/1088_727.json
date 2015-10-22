@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Auto Service S.n.c di Tessadri Patrick",
+                "id": "24355",
+                "brand": "Firmin",
+                "amenity": "fuel",
+                "operator": "AUTO SERVICE DI TESSADRI PATRICK & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2707482278347,
+                    46.15007966963619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore IP",
+                "id": "11080",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CIELLE S.A.S. DI FOLGHERAITER CANDIDO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.258985400199892,
+                    46.18793220233041
+                ]
+            }
+        }
+    ]
+}

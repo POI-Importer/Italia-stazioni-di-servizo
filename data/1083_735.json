@@ -1,0 +1,158 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2102 Canneto MN",
+                "id": "26862",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI RETE OIL&NONOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.372156172925315,
+                    45.148228530222696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "12661",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ROSA STEFANO & C. S.N.C. DI ROSA STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.43136673743436,
+                    45.16902550181298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio IP di Mori Andrea",
+                "id": "19034",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MORI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.537967264448524,
+                    45.122970001738935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto Retitalia Piadena",
+                "id": "26751",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "BRIXIA FINANZIARIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.391708612268417,
+                    45.12577386048006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "API GIUSEPPINA",
+                "id": "15969",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CALOR SYSTEMS S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.488003864884377,
+                    45.101626627930514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Retitalia Bozzolo",
+                "id": "31866",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "BRIXIA FINANZIARIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.460435450077057,
+                    45.11366220766607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PERTOLTOBER ASOLA",
+                "id": "5701",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PETROL TOBER S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.387973096636985,
+                    45.20848927472924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "API BELFIORE",
+                "id": "15965",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CALOR SYSTEMS S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.477268323302269,
+                    45.10707700901829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI DI SPEZIA MARCO",
+                "id": "13156",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SPEZIA MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.493311775254822,
+                    45.10032983542049
+                ]
+            }
+        }
+    ]
+}

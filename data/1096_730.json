@@ -1,0 +1,275 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Caneo Francesco",
+                "id": "15964",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CANEO FRANCESCO & C. - S.A.S. DI MIOTTO DANIELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.683653527668525,
+                    45.72935059946888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Cancian Walter",
+                "id": "18954",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CANCIAN WALTER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.781853677246092,
+                    45.8284737199216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "21973",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SALVAGNO GEREMIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.81372030688476,
+                    45.80135293736843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Esso Segato Sergio",
+                "id": "18135",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SEGATO SERGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.826382736923277,
+                    45.765207198563715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VEGA PORTOGRUARO",
+                "id": "31536",
+                "brand": "Vega",
+                "amenity": "fuel",
+                "operator": "VEGA CARBURANTI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.824510335922241,
+                    45.774378002810884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DESMO IMMOBILIARE",
+                "id": "22632",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "DESMO IMMOBILIARE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.796099336317639,
+                    45.755128749781534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil buoso roberto",
+                "id": "12560",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BUOSO ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.83134066745913,
+                    45.78484379999997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BEYFIN",
+                "id": "5350",
+                "amenity": "fuel",
+                "operator": "SACCON MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.81834478715814,
+                    45.78506514559701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PRAVISDOMINI ENI",
+                "id": "31772",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "KIRYEYEV SERGIY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.678692713379858,
+                    45.808769387189166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "total erg",
+                "id": "32039",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DGM CARBURANTI DI DEL GIUDICE MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.727960869669912,
+                    45.80019669913889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ERG DI FEDRIGO MICHELE",
+                "id": "16889",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ERG DI FEDRIGO MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.681949478048635,
+                    45.79554256834902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GRUARO OVEST",
+                "id": "25324",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.817938923835756,
+                    45.80371568586153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BITUMCALOR",
+                "id": "15360",
+                "amenity": "fuel",
+                "operator": "ROMANO ENERGY SAS DI ROMANO TOMAS & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.701750873680112,
+                    45.72241115674649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "17144",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MIGOTTO PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.702227796017493,
+                    45.72412510054709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gas.com regal petroli sas",
+                "id": "4885",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "ZAMPIERON TIZIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.75078445672989,
+                    45.788621968160314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GRUARO EST",
+                "id": "25325",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.818394899368288,
+                    45.80542467313342
+                ]
+            }
+        }
+    ]
+}

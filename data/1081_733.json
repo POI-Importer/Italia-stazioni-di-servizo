@@ -1,0 +1,257 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di servizio Verolanuova",
+                "id": "20466",
+                "amenity": "fuel",
+                "operator": "PETROL-FIN S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.049272924661636,
+                    45.36621024660943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Servizio Occhio al Prezzo",
+                "id": "23261",
+                "amenity": "fuel",
+                "operator": "OILSPA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.16233205795288,
+                    45.371751003858606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN PAOLO",
+                "id": "27399",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO DI FUSARI FABIO E C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.043486058712006,
+                    45.36329078568951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "19793",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MOR MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.18838569521904,
+                    45.428285645699354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Abrami Giacomo e c snc",
+                "id": "13659",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "ABRAMI GIACOMO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.03255216808816,
+                    45.368517071929794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A.L.G. SRL",
+                "id": "14161",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "A.L.G. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.095687210559845,
+                    45.371680155470536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO",
+                "id": "30278",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "G.R.A. DI GIORGINO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.167224407196045,
+                    45.3626485293704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1688",
+                "id": "12783",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO AGIP DI BERTONI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.14517024907377,
+                    45.36254100484052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "G&P di Gardoni S.& Pelucco E. Totalerg",
+                "id": "13243",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "G. & P. DI GARDONI SERGIO E PELUCCO ENRICO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0848188996315,
+                    45.42481782205147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "trabuio mauro",
+                "id": "23825",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TRABUIO MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.070526385250107,
+                    45.399745691567446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "area di servizio",
+                "id": "21010",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO IP DI BOLENTINI E REMONDI E C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.139925474868733,
+                    45.35173177943778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COSTANTIN",
+                "id": "13325",
+                "brand": "Costantin",
+                "amenity": "fuel",
+                "operator": "VENTURA & VENTURA S.A.S. DI VENTURA MIRCO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.182738483467118,
+                    45.43148539467164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "q8",
+                "id": "10278",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "FERRARI GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.080990046262741,
+                    45.41897463533431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGLIARDI CARBURANTI",
+                "id": "10499",
+                "amenity": "fuel",
+                "operator": "AGLIARDI ERNESTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.109127759933472,
+                    45.380188856006555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BAGNOLO MELLA - GRAMSCI",
+                "id": "29920",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.187824139881172,
+                    45.4328698844031
+                ]
+            }
+        }
+    ]
+}

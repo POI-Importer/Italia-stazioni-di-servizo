@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "9199",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BELLI FLORA & ORLANDI MARIA ROSA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.86422324180603,
+                    46.03638215278184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PARISI  3",
+                "id": "23516",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BEATRICI DIEGO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.747156888246536,
+                    46.039843862543734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Autofficina Valentini srl",
+                "id": "23953",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "AUTOFFICINA VALENTINI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.724331290186909,
+                    46.0306740889104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "23006",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SCANDOLARI GIULIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.726717630094186,
+                    46.038119959371706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "4092",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BAGOZZI GIANLUIGI E POLI FABIANO SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.875967917866545,
+                    46.03723018037689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE Q8",
+                "id": "23019",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "FANTATO CAR DI FANTATO MAURIZIO  E  C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.727074184621756,
+                    46.04108725642699
+                ]
+            }
+        }
+    ]
+}

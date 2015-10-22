@@ -1,0 +1,276 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "31954",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "NUOVA UMBRIA PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.756620627455277,
+                    42.75878906931839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 7427",
+                "id": "30223",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.747336477041246,
+                    42.749702332947415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "8735",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F.LLI VENTURI DI VENTURI ADRIANO E VENTURI GIANLUCA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.72779256105423,
+                    42.74883687774512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP-SPOLETO",
+                "id": "19317",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ITALA PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.730344495844632,
+                    42.75101368511467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Autoservizio 2001",
+                "id": "31949",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "TRAPPETTI PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.677659211639368,
+                    42.732207331548345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "7754",
+                "id": "30969",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "T.D.M. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.764407396316528,
+                    42.79428666267247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV ENERPETROLI",
+                "id": "11133",
+                "brand": "Enerpetroli",
+                "amenity": "fuel",
+                "operator": "ENERPETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.670398450582754,
+                    42.73933853908397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CENTRO CARBURANTI FLAMINIA SNC",
+                "id": "14913",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CENTRO CARBURANTI FLAMINIA S.N.C. DI PICCIONI RITA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.76703059673309,
+                    42.77306899522541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Repsol Spoleto",
+                "id": "31020",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "T. PETROL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.729243636131288,
+                    42.72037214914673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore  ip",
+                "id": "10433",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SARTORINI STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.73535279629516,
+                    42.74015636097381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "31965",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "AMI SNC DI CUCAK MIRZA E REC ADMIR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.75300532579422,
+                    42.80196314503377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Benedetti Leandro",
+                "id": "14974",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BENEDETTI LEANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.742374390363693,
+                    42.745633760842594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Spoleto",
+                "id": "10151",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.731343805789944,
+                    42.73464397238579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DE ANGELIS CARBURANTI",
+                "id": "16968",
+                "amenity": "fuel",
+                "operator": "DE ANGELIS OLINDO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.728666696924165,
+                    42.753371813019136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Bar Api",
+                "id": "6866",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "VIGLIETTA MARIA - S.A.S. DI VIGLIETTA MARIA E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.735348279762322,
+                    42.72812001963658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Spoleto",
+                "id": "4685",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.763106524944307,
+                    42.795062128050915
+                ]
+            }
+        }
+    ]
+}

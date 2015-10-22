@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE CARBURANTI IP",
+                "id": "26234",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PERDA GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.082867571472208,
+                    39.941847151544735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARBURANTI & LUBRIFICANTI SAS DI CARTA LUCA & C",
+                "id": "21143",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CARBURANTI & LUBRIFICANTI SOCIETA' IN ACCOMANDITA SEMPLICE DI CARTA LUCA & C. SIGLA ABBREVIATA: CARBURANTI & LUBRIFICANTI S.A.S. DI CARTA LUCA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.100564196705818,
+                    40.023656328819186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ARRU PIER MARIO",
+                "id": "9136",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ARRU PIER MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.09954696893692,
+                    40.02206673572431
+                ]
+            }
+        }
+    ]
+}

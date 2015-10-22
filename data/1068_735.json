@@ -1,0 +1,565 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "6869",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "RANGO FEDERICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.768385410308839,
+                    45.12449656377337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "521",
+                "id": "31810",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PRE.GIO SAS DI GIOENI LUCA  &  C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.889609187841416,
+                    45.20214141860964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di servizio Getoil di Fabbricatore Fabio",
+                "id": "17546",
+                "amenity": "fuel",
+                "operator": "FABBRICATORE FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7673216355833565,
+                    45.12436998615294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN MAURO TORINESE-VIA TORINO 85",
+                "id": "11880",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7571517202377445,
+                    45.09643408145012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "fontana mauro",
+                "id": "10345",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "FONTANA MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.750714502377377,
+                    45.102841947831436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "grandi carburanti sas",
+                "id": "8568",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "GRANDI CARBURANTI S.A.S. DI UGO GAROIA & C. SIGLABILE GRANDI CARBURANTI S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.784386015591394,
+                    45.191210736029504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil PV 6211",
+                "id": "7255",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BAU' FLORA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.866293354492199,
+                    45.190568896164336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI CIPRIANI PASQUALE-CARLO & C snc",
+                "id": "15603",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CIPRIANI PASQUALE E CARLO & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.778348676057476,
+                    45.14045543562697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione servizio esso",
+                "id": "9014",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "TERZULLI MARIA GRAZIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7355207539673065,
+                    45.100731457728365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI PEPINO ROBERTO",
+                "id": "19452",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PEPINO ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.901959419250487,
+                    45.19268354749929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "8662",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ZIENNA LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.82761126756668,
+                    45.132077345379166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE EREDI CAMPIDONICO SPA TORINO",
+                "id": "25245",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "EREDI CAMPIDONICO - S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7422197362457155,
+                    45.10149954320754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SETTIMO TORINESE SUD",
+                "id": "3987",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MA. GI. CA. DI BAGNOLESI GIUSEPPE & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.735530325659169,
+                    45.13493910292276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Settimo Torinese",
+                "id": "4699",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.76168793439865,
+                    45.14696839508686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio esso MILELLA CARLO",
+                "id": "13193",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MILELLA CARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.753595709800719,
+                    45.10310636603465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VOLPIANO-VIA KANT",
+                "id": "11872",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.788589271163915,
+                    45.1950716479081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "fa.ro sas imp. 521",
+                "id": "27047",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FA.RO. SAS DI PREVITERA ROCCO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.8896212577819815,
+                    45.20213385898876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SETTIMO TORINESE",
+                "id": "5897",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TotalErg SpA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.75217288934175,
+                    45.156847351454786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "nuova cornero s.n.c.",
+                "id": "12478",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NUOVA CORNERO SNC DI CORNERO MARCO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.756081701852395,
+                    45.13086696076328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI 833 - Stazione di rifornimento",
+                "id": "9972",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BARBERO DAVID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.73902326822281,
+                    45.101486527884575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil Micheletto Dino",
+                "id": "13183",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MICHELETTO DINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.774196131282793,
+                    45.190152941264934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "00635",
+                "id": "10925",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "S.N.C. TRE EFFE DI FOLINAZZO FRANCESCO, FOLINAZZO ANTONIO E FOLINAZZO BATTISTINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.748196423053742,
+                    45.13025131312078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VOLPIANO-VIA TORINO 38",
+                "id": "11887",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.770705364418062,
+                    45.18489908832105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "8821",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "D'IPPOLITO FILOMENA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.890124906151639,
+                    45.19644882419079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTIGLIONE TORINESE-SS.590 KM.12+491 VIA TORINO 261",
+                "id": "11858",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.81765323677064,
+                    45.123509765996005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso di Gassino",
+                "id": "22977",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MARCO PITTARELLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.82205201822319,
+                    45.126974394125575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "30977",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ESSEGIESSE SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.872986868023873,
+                    45.189971774350845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SOCOGAS Settimo Torinese",
+                "id": "19858",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CEBROSA CARBURANTI S.A.S. DI LLANAJ MAKSIM & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7420112490653965,
+                    45.14336830591249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TORINO-ST. SETTIMO 401",
+                "id": "11867",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7432888637542865,
+                    45.121760868963094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ZACCHERO Simona",
+                "id": "26755",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ZACCHERO SIMONA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.83808243279054,
+                    45.177491340476855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "568",
+                "id": "27905",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE DI CARBURANTE AGIP/ENI DI VINCI MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.880969742922161,
+                    45.18997066433704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Demarchi",
+                "id": "10557",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DEMARCHI CHIAFFREDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7528950965423755,
+                    45.13169383199482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PRACCA",
+                "id": "9520",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PRACCA SEBASTIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.810545570867135,
+                    45.120085367646574
+                ]
+            }
+        }
+    ]
+}

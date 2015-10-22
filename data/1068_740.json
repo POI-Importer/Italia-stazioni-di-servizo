@@ -1,0 +1,226 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio IP Chiapello",
+                "id": "11174",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CHIAPELLO ADRIANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.869725426914216,
+                    44.4783055514965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "30092",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "C.A.S.A  S.A.S. DI SAMPO' MARIO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.757577449083327,
+                    44.503863039608966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL ERG",
+                "id": "13987",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BERTOLA CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.828608771827703,
+                    44.54348275713066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FOSSANO-VIALE REGINA ELENA SS.231 N.63",
+                "id": "11550",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.739332186508135,
+                    44.56126942280287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIO GHIDONE EST",
+                "id": "3803",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "G.B.M. GRILL DI BAGNOLESI GIUSEPPE & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.785766124725343,
+                    44.54916344808891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "24539",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FEA DAVIDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.824613898992538,
+                    44.541141972681494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "pit stop di lupu ioana",
+                "id": "27379",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PIT STOP DI LUPU IOANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.900988459587097,
+                    44.56901491328935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni station",
+                "id": "31021",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VIARENGO FRANCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.87121593952179,
+                    44.4813841052527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIO GHIDONE OVEST",
+                "id": "3933",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SALZOTTO GIANFRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7847835737757105,
+                    44.548691092971396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Restiani - Narzole",
+                "id": "24417",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "RESTIANI - S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.8512994189659375,
+                    44.574882658162224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "6975",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TUNINETTI GIANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.74014711380005,
+                    44.56179309069504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "29799",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CALO' MASSIMILIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.891744368283867,
+                    44.48385453192213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore socogas",
+                "id": "26303",
+                "brand": "Socogas",
+                "amenity": "fuel",
+                "operator": "SAPPA SILVANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.897992432117464,
+                    44.50548673747277
+                ]
+            }
+        }
+    ]
+}

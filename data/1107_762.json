@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ENI D'ABRAMO S.A.S.",
+                "id": "4367",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "D'ABRAMO S.A.S. DI D'ABRAMO DAVIDE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.668223261833194,
+                    41.70122081694035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni dei Flli Mitri s.a.a. di Mitri Rolando e C.",
+                "id": "27129",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "F.LLI MITRI S.A.S. DI MITRI ROLANDO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.638069868087767,
+                    41.646441169824016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "9135",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PIGNOTTA CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.725978137653328,
+                    41.725142548667776
+                ]
+            }
+        }
+    ]
+}

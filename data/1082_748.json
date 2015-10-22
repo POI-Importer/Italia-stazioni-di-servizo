@@ -1,0 +1,648 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Livorno",
+                "id": "4655",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.339660942554472,
+                    43.531763261253495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Società Combustibili Appalti Termici S.p.A.",
+                "id": "4663",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SOCIETA' COMBUSTIBILI APPALTI TERMICI  S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.316196978092194,
+                    43.57116565565136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CaLeLo",
+                "id": "18237",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CA.LE.LO. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.33450573682785,
+                    43.574545210802604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LIVORNO - ANTIGNANO",
+                "id": "27759",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.324164373016403,
+                    43.49383384268783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "speedy cars di Guarracino Diego",
+                "id": "30436",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SPEEDY CARS DI GUARRACINO DIEGO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.32964486931155,
+                    43.56321806140517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "shell",
+                "id": "27946",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "MANCINI MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.32513715678124,
+                    43.54218990325657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni barriera roma",
+                "id": "7095",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CARUSO FABRIZIO & C.  SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.319206416606903,
+                    43.53257959115818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Livorno Firenze",
+                "id": "31142",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.336010456085205,
+                    43.575603080656784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ferretti & Papi S.a.s.",
+                "id": "5025",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "TORREGAS - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.318961859385695,
+                    43.53022719108841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di sevizio Scutti Claudio",
+                "id": "20684",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SCUTTI CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.32704047858715,
+                    43.509595233856054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LIVORNO V.NTE SS.1 KM.4,3 LATO MARE",
+                "id": "23320",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.342302918434145,
+                    43.550576099806804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "16483",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MENICUCCI S.N.C. DI MENICUCCI FEDERICO E FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.326910584655707,
+                    43.54458676262023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg Terreni e Bucchioni S.n.C.",
+                "id": "14979",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TERRENI FRANCESCA E BUCCHIONI RICCARDO SOCIETA' IN NOME COLLETTIV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.325154215097427,
+                    43.525266257495346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LIVORNO - LEONARDO DA VINCI",
+                "id": "31486",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.320124139881159,
+                    43.573909716112674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "1263",
+                "id": "29898",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "T.D.M. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.326396077871323,
+                    43.54382180048641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO DI TERRENI NICOLA",
+                "id": "6251",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "TERRENI E RAZZAUTI DI TERRENI NICOLA & C. S.A.S"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.321580171585083,
+                    43.52744691289982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ENI DI GALEAZZI UMBERTO",
+                "id": "31723",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "JOLLY WASH DI GALEAZZI UMBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.304424489595478,
+                    43.54880326379811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Livorno Nord",
+                "id": "4527",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "2 A SOCIETA' IN NOME COLLETTIVO DI ADORNI PALLINI GINO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.34740447998047,
+                    43.56771019319538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ACI LIVORNO",
+                "id": "4108",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ZARGANI MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.330703360990924,
+                    43.48737864274998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL ERG",
+                "id": "23681",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ROMEI DORETTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.302017480134964,
+                    43.54058829454021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip da vinci",
+                "id": "17001",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "TIZIANO GIORGETTI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.320117246102201,
+                    43.57391111482653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di metano di Collesalvetti",
+                "id": "10221",
+                "amenity": "fuel",
+                "operator": "TIRRENOMET S.N.C. DI TAVOLIERI ARNALDO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.357101887544331,
+                    43.57953740372085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "i due mari",
+                "id": "11094",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "I DUE MARI DI PUCCI ANDREA & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.331509709358214,
+                    43.48578828230589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LIVORNO VIA FIRENZE  14",
+                "id": "6562",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.326135233044624,
+                    43.561304332513025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "7077",
+                "id": "29489",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "T.D.M. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.34184157848358,
+                    43.56515048172131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA FIRENZE",
+                "id": "20598",
+                "amenity": "fuel",
+                "operator": "CO. E CI. TRANS OIL SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.324764506745852,
+                    43.56553335828056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip",
+                "id": "8054",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CANTINI GIANCARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.330387875437738,
+                    43.54139828336592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.L.A.C. srl",
+                "id": "25678",
+                "amenity": "fuel",
+                "operator": "S.L.A.C. SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.324599695106485,
+                    43.56627860822884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gasauto Ip di ferretti e papi sas",
+                "id": "6274",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FERRETTI STEFANO E PAPI GIACOMO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.318977952639784,
+                    43.53024935061863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LIVORNO VARIANTE SS 1 KM 4+320 L.MONTE",
+                "id": "23319",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.343284215869176,
+                    43.55091503810242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Baroncini & Benvenuti snc",
+                "id": "19599",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BARONCINI & BENVENUTI SNC DI BARONCINI STEFANO & BENVENUTI GRAZIA NA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.326592385319486,
+                    43.543205252885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA FIRENZE",
+                "id": "6954",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BARONTINI SERGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.325691536245701,
+                    43.56306528288079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LIVORNO",
+                "id": "10101",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.325211882591248,
+                    43.56439928797996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "nicola ricciuti",
+                "id": "14464",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "RICCIUTI NICOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.326629140252296,
+                    43.55772393567285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore esso di brunoni g. e grossi m.",
+                "id": "18555",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE ESSO DI BRUNONI GIOVANNI E GROSSI MORENO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.326154346032695,
+                    43.56181645779502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LIVORNO - FIRENZE 10",
+                "id": "29281",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.326367813491856,
+                    43.5607358596693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ardenza",
+                "id": "31724",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "JOLLY WASH DI GALEAZZI UMBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.323986113071442,
+                    43.51890509361613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Barontini Marco",
+                "id": "7585",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BARONTINI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.316677088638244,
+                    43.53933905580143
+                ]
+            }
+        }
+    ]
+}

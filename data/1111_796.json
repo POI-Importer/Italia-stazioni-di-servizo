@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Violante Angelo",
+                "id": "12187",
+                "amenity": "fuel",
+                "operator": "VIOLANTE ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.293880696087285,
+                    37.08943348216321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Esso - Co.Me.Co. S.r.l.",
+                "id": "28730",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "COMPAGNIA MERIDIONALE COMBUSTIBILI S.R.L. IN SIGLA: CO.ME.CO. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.295881725943445,
+                    37.07864139934004
+                ]
+            }
+        }
+    ]
+}

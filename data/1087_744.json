@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "7443",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CIARDI GIORDANO DI SEGAT GEMMA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.124569177627565,
+                    43.96392982638841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGLIO OVEST",
+                "id": "3519",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MUSOLESI MARCELLA E GIANOTTI ANGELA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.224816093254049,
+                    44.03266060599629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Recati Services snc",
+                "id": "24582",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "RECATI SERVICES - S.N.C. DI RECATI GIOVANNI E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.230849027633667,
+                    43.99075976994026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGLIO EST",
+                "id": "3687",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "Aglio Services srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.225896152114842,
+                    44.02957247403531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ELLE-ERRE sas",
+                "id": "22191",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ELLE-ERRE SOCIETA' IN ACCOMANDITA SEMPLICE DI LORENZO UGOLINI & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.23856021457641,
+                    43.992424885456245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO TAMOIL",
+                "id": "15381",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SANTI STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.156474724411964,
+                    44.051582682563726
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,277 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BASILE PETROLI S.P.A.",
+                "id": "21824",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LUISI PIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.05973982810974,
+                    41.04183918093416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO DI VAGNO",
+                "id": "21778",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DI VAGNO FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0758007325104,
+                    41.066876790775005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO DI CENTRONE FRANCESCO",
+                "id": "18923",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CENTRONE FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.223229855298996,
+                    40.99294324925181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "impianto eni d'alessandro",
+                "id": "20560",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "D'ALESSANDRO VINCENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.090867900005833,
+                    40.98178171173861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI CAFE' ANDRESINI MARIA EMMA",
+                "id": "27805",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ANDRESINI MARIA EMMA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.185176014900208,
+                    41.01423355974747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg",
+                "id": "18701",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "COPERTINO CATERINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.05807645868606,
+                    41.07396589508034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO POLIGNANO",
+                "id": "27883",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MODI - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.197491377592087,
+                    40.9883118276687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "13456",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MANCINI GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.219541234048506,
+                    40.99329605932082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CONVERSANO V. COZZE",
+                "id": "26386",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MODI - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.124257683753967,
+                    40.98733958455606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "10547",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "F.LLI CAPUTO DI ANGELO E ALESSANDRO CAPUTO - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11260885000229,
+                    41.04920411926223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "19892",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "F.LLI L'ABBATE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.204446345567703,
+                    40.994588746805455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CONVERSANO SP 240",
+                "id": "26383",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "MODI - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.057742923498157,
+                    40.99330320533188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "L'abbate Maria Letizia",
+                "id": "32017",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "L'ABBATE MARIA LETIZIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.22321644425392,
+                    40.99297138986065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ASAP SRL - ENI 51811",
+                "id": "31116",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "A S A P  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.091090743719523,
+                    40.981709751111154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO DEFONTE",
+                "id": "22600",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DEFONTE DI DEFONTE SEBASTIANO & C. S.A.S"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.083470672369003,
+                    41.0633822575328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MOLA DI BARI - POLIGNANO",
+                "id": "21943",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.09695279598236,
+                    41.057734021127395
+                ]
+            }
+        }
+    ]
+}

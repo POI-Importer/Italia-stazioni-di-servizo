@@ -1,0 +1,208 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BBF",
+                "id": "31071",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BBF S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.71349777944306,
+                    45.7659577754422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "besenval eric",
+                "id": "9610",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BESENVAL ERIC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.644478981089833,
+                    45.75169293203736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CHATILLON- ST. VINCENT",
+                "id": "3848",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "eni rete oil&nonoil"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.624202369050862,
+                    45.74748306987154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP 36",
+                "id": "6144",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RUSSO SALVATORE SANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.622048451034517,
+                    45.75160018435626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio esso di Peaquin Ivan",
+                "id": "14830",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PEAQUIN IVAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.619579212303165,
+                    45.749841256749754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "28549",
+                "amenity": "fuel",
+                "operator": "SARUBBI FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.653385028243063,
+                    45.74709573752671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE TOTAL ERG PERIASC",
+                "id": "21108",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ALLIOD GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6954708993434915,
+                    45.810879993061704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VASSONEJ ROGER",
+                "id": "8642",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VASSONEJ ROGER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.587297409772873,
+                    45.80920856580676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "25428",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ZENI SAS DI ZENI ERIK & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.673966288566588,
+                    45.708167346347494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CHATILLON- ST. VINCENT",
+                "id": "3778",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "B & D DI BARBIERO FRANCESCO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.622221112251283,
+                    45.74811024589384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE TAMOIL",
+                "id": "13628",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MUSCARA' ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.713391703041113,
+                    45.76610012302188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ANTEY SAINT'ANDRE-FRAZIONE FILEY 21A",
+                "id": "11462",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.588300000000004,
+                    45.81319721406208
+                ]
+            }
+        }
+    ]
+}

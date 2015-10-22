@@ -1,0 +1,225 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni valastro fabrizio",
+                "id": "7368",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO AGIP DI VALASTRO FABRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.853997037991803,
+                    43.83531763637249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Revelli Group",
+                "id": "32006",
+                "amenity": "fuel",
+                "operator": "REVELLI CATERINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.84283435838222,
+                    43.84301041545673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Total Erg",
+                "id": "19637",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GOMMA SERVICE DI ARDUSSO ROBERTO E LANTERI MICHELE S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.882536320098896,
+                    43.83995027697291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione esso s.n.c",
+                "id": "30972",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STAZIONE ESSO VALENTINO E GUGLIELMO S.N.C.  DI CICCIA G. & POMPIL II V."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.857673466205595,
+                    43.85251493385855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CONIOLI",
+                "id": "3661",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SALVETTI RETE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.909791469573975,
+                    43.85082325030296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio esso",
+                "id": "14660",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CICCIA GUGLIELMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.857643291354181,
+                    43.85253195487533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTELLARO",
+                "id": "30181",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.876690328121186,
+                    43.86005284517065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ARMA DI TAGGIA VIA ABBAZIA S. FRANCESCO 10",
+                "id": "6400",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.851823568344116,
+                    43.84181063880398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "32007",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "REVELLI CATERINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.8532678134918115,
+                    43.85762070425648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CONAD IPERMERCATO",
+                "id": "6256",
+                "brand": "CONAD",
+                "amenity": "fuel",
+                "operator": "G.D. SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.851702141733539,
+                    43.83813768583579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio \"ESSO\"",
+                "id": "5389",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PODIO GIOVANNI E CERRATO ROBERTO S.N.C. ABBREVIABILE IN PODIO E CERRATO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.887416481971742,
+                    43.839782995563155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CENTRO PETROLI IMPIANTI SRL",
+                "id": "26360",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CENTRO PETROLI IMPIANTI - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.84119665622711,
+                    43.84718362764069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO ITALIANA S.R.L.",
+                "id": "18461",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CANDELO MARGHERITA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.8619877994060525,
+                    43.83634159020951
+                ]
+            }
+        }
+    ]
+}

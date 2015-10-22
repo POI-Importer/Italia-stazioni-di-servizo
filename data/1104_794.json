@@ -1,0 +1,139 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BONURA ANGELO  C S.N.C.",
+                "id": "31481",
+                "amenity": "fuel",
+                "operator": "BONURA ANGELO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.204689264297485,
+                    37.38125152009244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IDC Agip Barrafranca C.da Torre",
+                "id": "24249",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RAGUSANA GAS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.21822905540466,
+                    37.38108911351102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "16414",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "AMORE SALVATORE E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.211181551218035,
+                    37.38644493841584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO PIETRAPERZIA",
+                "id": "12737",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PETROLI PIETRINA S.N.C. DI MILIA MARCO VALERIO, CORTESE SALVATORE E BONAFFINI CALOGERO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.133017957210539,
+                    37.41628328325483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MAZZARINO",
+                "id": "21547",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CONSENTINO SALVATORE & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.20703055373383,
+                    37.30074056999814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "I.D.C. MAZZARINO  C /DA CASINO",
+                "id": "27320",
+                "amenity": "fuel",
+                "operator": "DI BENEDETTO CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.202646762132641,
+                    37.301129577275844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SP ENERGIA SICILIANA",
+                "id": "27472",
+                "brand": "SP Energia Siciliana",
+                "amenity": "fuel",
+                "operator": "TUMMINO LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.172600656747822,
+                    37.42140759987422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Località Trappeto Pietraperzia",
+                "id": "32148",
+                "brand": "Giap",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.136497699523257,
+                    37.417079443799324
+                ]
+            }
+        }
+    ]
+}

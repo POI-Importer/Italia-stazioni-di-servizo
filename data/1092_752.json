@@ -1,0 +1,104 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL ERG",
+                "id": "13493",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BICCHIERARO MARCELLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.01450945767215,
+                    43.01157717426841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DARM- CITTA' DELLA PIEVE",
+                "id": "31026",
+                "amenity": "fuel",
+                "operator": "D.A.R.M. PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.004887399043696,
+                    42.951592973056805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MyOil",
+                "id": "26765",
+                "brand": "MyOil",
+                "amenity": "fuel",
+                "operator": "SOCCIARELLO LUCIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.979475021362306,
+                    43.00532438388529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BONELLI BENUCCI PETROLI SRL",
+                "id": "29600",
+                "amenity": "fuel",
+                "operator": "BONELLI BENUCCI PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.084583149073751,
+                    42.968378055668374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chiusi",
+                "id": "9363",
+                "amenity": "fuel",
+                "operator": "I.C.M. SOCIETA' IN NOME COLLETTIVO DI BRUNO, CRISTIANO E FABRIZIO MAGGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.955227851867678,
+                    42.98694698894054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Giorgiservice snc",
+                "id": "22858",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GIORGI SERVICE S.N.C. DI GIORGI GIANNI, MASSIMILIANO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.997499465942383,
+                    42.96142392266749
+                ]
+            }
+        }
+    ]
+}

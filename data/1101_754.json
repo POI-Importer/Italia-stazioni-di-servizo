@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VILLA LEMPA",
+                "id": "26323",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PETROL PICENA  SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.644883156183369,
+                    42.79354909861782
+                ]
+            }
+        }
+    ]
+}

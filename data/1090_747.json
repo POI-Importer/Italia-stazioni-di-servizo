@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO CIUFFENNA",
+                "id": "8674",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "STAZIONE SERVIZIO CIUFFENNA S.A.S. DI RIGHESCHI ANDREA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.6237139914017,
+                    43.582951374873815
+                ]
+            }
+        }
+    ]
+}

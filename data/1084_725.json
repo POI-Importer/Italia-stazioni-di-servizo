@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO DI PATERNOSTER MICHELE",
+                "id": "23710",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE IP DI PATERNOSTER MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.700805634260178,
+                    46.34422027702561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE di SERVIZIO  Q8",
+                "id": "23659",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GIOINVEST S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.706777572631838,
+                    46.33815819298347
+                ]
+            }
+        }
+    ]
+}

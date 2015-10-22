@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "18488",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "IERACE DOMENICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.466413163180047,
+                    38.47620715912894
+                ]
+            }
+        }
+    ]
+}

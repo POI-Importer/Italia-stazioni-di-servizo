@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bancalà Emanuele distributore q8",
+                "id": "31928",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BANCALA' EMANUELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.92087613739966,
+                    42.35942388048221
+                ]
+            }
+        }
+    ]
+}

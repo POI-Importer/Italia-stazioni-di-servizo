@@ -1,0 +1,209 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GIOIA DEL COLLE S.P. 235 KM. 25+904",
+                "id": "6744",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88990725211488,
+                    40.798937757200115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "27732",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "G. T. CAR DI TARANTO GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.925027216007948,
+                    40.808534069088886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Southservices",
+                "id": "31013",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SOUTH SERVICES SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.932230293750766,
+                    40.83377306850849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio DILL'S",
+                "id": "12007",
+                "brand": "Dill s",
+                "amenity": "fuel",
+                "operator": "PICICCI EUSTACHIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.91115416586399,
+                    40.82200762605196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 Stazione di servizio di Lattarulo Giuseppe",
+                "id": "27798",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "LATTARULO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.941709220409393,
+                    40.80793010025834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE AGIP 38012",
+                "id": "17221",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "G & G GROUP S.A.S. DI PICCINNO PIERLUIGI & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.915060501342623,
+                    40.795821398541904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "8397 GIOIA",
+                "id": "31749",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CORO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.945462971925735,
+                    40.794734266261585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ERG",
+                "id": "27615",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "FAVIA CARBURANTI S.N.C. DI FAVIA FRANCO E SALVATI CARMELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.92840814590454,
+                    40.79976666507289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "18443",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "FL CARBURANTI DI FAVIA ELISABETTA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.922598481178284,
+                    40.81546365708492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP 38041",
+                "id": "20686",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "G. & G. DI MAZZELLI GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.92042052745819,
+                    40.80898659561893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GIOIA DEL COLLE SS 100 KM 39+322",
+                "id": "6755",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.92761784232789,
+                    40.795364310924654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GIOIA DEL COLLE - MILANO",
+                "id": "23814",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.90869580704384,
+                    40.80624716580509
+                ]
+            }
+        }
+    ]
+}

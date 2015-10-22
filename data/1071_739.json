@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "corio livia",
+                "id": "12384",
+                "amenity": "fuel",
+                "operator": "CORIO LIVIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.327147201223397,
+                    44.64814847810024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV Bistagno",
+                "id": "25114",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BECCARIA S.R.L. - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.375192247004634,
+                    44.65862868965207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Q8 di Lavagna Benito",
+                "id": "30694",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "LAVAGNA BENITO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.353025168180464,
+                    44.59835733486212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip",
+                "id": "22953",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SCARLATA DAMIANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.302387073636055,
+                    44.660972397852554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "corio livia",
+                "id": "12382",
+                "amenity": "fuel",
+                "operator": "CORIO LIVIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.327147201223397,
+                    44.64814847810024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV Terzo",
+                "id": "25111",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BECCARIA S.R.L. - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.420496060161554,
+                    44.67548497218664
+                ]
+            }
+        }
+    ]
+}

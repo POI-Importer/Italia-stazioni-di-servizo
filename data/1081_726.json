@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OCCHIO AL PREZZO",
+                "id": "6115",
+                "amenity": "fuel",
+                "operator": "ESSEIESSE S.N.C. DI BEDOGNE' SONIA  &  C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.136963725090027,
+                    46.20237163520333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OCCHIO AL PREZZO",
+                "id": "23259",
+                "amenity": "fuel",
+                "operator": "OIL INVEST 2000 SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.154430444971126,
+                    46.2080094211621
+                ]
+            }
+        }
+    ]
+}

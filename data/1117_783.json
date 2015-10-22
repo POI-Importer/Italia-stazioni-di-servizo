@@ -1,0 +1,191 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 CONTE ELISA GIUSEPPINA",
+                "id": "20732",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CONTE ELISA GIUSEPPINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.363594546890454,
+                    38.859194674626075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO MANGANI",
+                "id": "19052",
+                "amenity": "fuel",
+                "operator": "MANGANI FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36121615767479,
+                    38.92865110164127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Caliò Elisabetta",
+                "id": "13882",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CALIO' ELISABETTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4918652176857,
+                    38.87850066446616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "4516",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "D.D.L. DI DE STEFANI E. & C. SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.437030136585236,
+                    38.82775147390302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "25588",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CMT S.A.S. DI GABRIELE CHIARAVALLOTI & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.411445819380674,
+                    38.837881220822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 Rosano' Rocco",
+                "id": "19053",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "F.LLI ROSANO' S.A.S. DI ROSANO' ROCCO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.42050351230319,
+                    38.823646850950944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE CARBURANTE DI TERESA BAGNATO",
+                "id": "10924",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BAGNATO TERESA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.505458852718448,
+                    38.82541847506461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "29354",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BARBERIO ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.405799729751262,
+                    38.907733666433366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FEROLETO C/O CENTRO COMM.LE 2MARI",
+                "id": "6742",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34840726852417,
+                    38.90160986732309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE RIFORNIMENTO ESSO",
+                "id": "23133",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI RIFORNIMENTO DI SANTA BEVACQUA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.479400992393494,
+                    38.921881116535374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni Feroleto Antico Impianto n° 18559",
+                "id": "8526",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LA 2 MARI OIL DI CURCIO VINCENZO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35544104742462,
+                    38.90377795185597
+                ]
+            }
+        }
+    ]
+}

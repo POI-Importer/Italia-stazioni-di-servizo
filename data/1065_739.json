@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BORGHINO ROBERTO",
+                "id": "16604",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BORGHINO ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.276419997215271,
+                    44.684614533783225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIFREDDO",
+                "id": "31058",
+                "amenity": "fuel",
+                "operator": "GIUFFRIDA ORAZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.346345556869436,
+                    44.64771193255763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO Q8 DI CANAVESE MARINELLA",
+                "id": "16465",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CANAVESE MARINELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.321887463331221,
+                    44.64811833277396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GIOBERGIA DOMENICO",
+                "id": "30711",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GIOBERGIA DOMENICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.276436062496144,
+                    44.68465805455333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Depetris Claudio",
+                "id": "11971",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "DEPETRIS CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.280472815036774,
+                    44.68899479151188
+                ]
+            }
+        }
+    ]
+}

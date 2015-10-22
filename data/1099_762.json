@@ -1,0 +1,746 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO ENI SCHIAVI CLAUDIO",
+                "id": "16555",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SCHIAVI CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.216352909803392,
+                    41.650290125606624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE METANO AUTOTRAZIONE ANAGNI",
+                "id": "14422",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SADORI FUEL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.199847936630249,
+                    41.719889162493615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MASTRACCI CLAUDIO",
+                "id": "22622",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MASTRACCI CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.331502825021744,
+                    41.64295318111496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REPSOL",
+                "id": "27020",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "BAR MAGIONE DI SABELLICO ALBERICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.356885910034176,
+                    41.69843914309429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg4162",
+                "id": "27473",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GATTULLO LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.210316598415375,
+                    41.71420998110797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO BUFALINI ANTONIO",
+                "id": "9808",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BUFALINI ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.216621195800826,
+                    41.64813276772913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LA MACCHIA EST",
+                "id": "29383",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.18783700466156,
+                    41.68686656924494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "6796",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MARCOCCIA FABRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.304303884506226,
+                    41.667406012838576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TIBURTINA",
+                "id": "24559",
+                "amenity": "fuel",
+                "operator": "SOCIETA' ITALIANA CARBURANTI E AFFINI - S.R.L. - S.I.C.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.347651064395906,
+                    41.64811554605503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ROSSI GUIDO",
+                "id": "31766",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ROSSI GUIDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.189501315355303,
+                    41.720856331106226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fulgorgas frosinone",
+                "id": "29662",
+                "amenity": "fuel",
+                "operator": "FULGORGAS SUD S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.306542187929153,
+                    41.641334795907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PITOCCO ENRICO",
+                "id": "8577",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PITOCCO ENRICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.351888954639433,
+                    41.69219606022739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "4705",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MIZZONI FIORELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.267471790313719,
+                    41.65999046162911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA SERVIZIO ESSO",
+                "id": "27327",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SPADORCIA S.N.C. DI SPADORCIA GIOVANNI E LAURA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.349273800849916,
+                    41.71824908650322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTI LEPINI",
+                "id": "8886",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SOCIETA' ITALIANA CARBURANTI E AFFINI - S.R.L. - S.I.C.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.333509117364882,
+                    41.644167444379995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "16648",
+                "id": "18182",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AL-GEDI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.332084971944369,
+                    41.64110226760106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "29667",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "GI.FRE. 2 SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.353467434644697,
+                    41.657867510794404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LA MACCHIA OVEST",
+                "id": "3748",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "Area di servizio Biondi Antonio & C. s.n.c."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.188622272491445,
+                    41.68511894857881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "4303",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PICANOIL S.A.S. DI PICA MAURIZIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.340347304771964,
+                    41.691616634864396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sette Monti Lepini",
+                "id": "31362",
+                "amenity": "fuel",
+                "operator": "FRATARCANGELI GIANLUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33617389202118,
+                    41.647197991784594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI di Arduini Daniele",
+                "id": "21535",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ARDUINI DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.287456246892818,
+                    41.67503971364626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALATRI SS.155 KM.3+742",
+                "id": "24665",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.349108844995499,
+                    41.67769375556506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "pompa bianca",
+                "id": "7831",
+                "amenity": "fuel",
+                "operator": "DISTRUBUTORE CARBURANTE F.LLI FIORINI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.352377116680145,
+                    41.65040877348153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BUCCITTI",
+                "id": "9260",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BUCCITTI ROMANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.342963072530893,
+                    41.727973769287075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV ENI Alatri Est",
+                "id": "29801",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "URBANI SANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32238867878914,
+                    41.669533457904116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REPSOL",
+                "id": "24007",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "GRILLO UMBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.257408142089846,
+                    41.640318122937515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "new energy",
+                "id": "30840",
+                "amenity": "fuel",
+                "operator": "NEW ENERGY S.R.L"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.344019353389742,
+                    41.65877329036637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Frosinone",
+                "id": "10120",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.344690704507457,
+                    41.6476772757934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg ni6220",
+                "id": "12205",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "IMPERO MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.256029486656189,
+                    41.69540660099565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fulgorgas fumone",
+                "id": "29663",
+                "amenity": "fuel",
+                "operator": "FULGORGAS SUD S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.295985523278205,
+                    41.72301400392761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni Alatri",
+                "id": "31145",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CALICCHIA STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.322373926639555,
+                    41.669541872967734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 16662",
+                "id": "29331",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.343733698129654,
+                    41.65159383606136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Calicchia G. & Magnante P.",
+                "id": "20261",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CALICCHIA GIANCARLO & MAGNANTE PAOLA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.341361284255985,
+                    41.64863304254167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "19800",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GIEFFE SERVIZI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.254767341247542,
+                    41.654007606152675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CROSTER DI CROSTA ANGELO E C.SNC",
+                "id": "28172",
+                "amenity": "fuel",
+                "operator": "CROSTER DI CROSTA ANGELO E C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.189462423324585,
+                    41.72086093565869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FROSINONE VIA ARMANDO FABI",
+                "id": "23763",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.310097001327449,
+                    41.640996044763966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Papetti Antonio",
+                "id": "10601",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PAPETTI ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35165023803711,
+                    41.69310376024407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FROSINONE SS. 155 KM 0 767",
+                "id": "6681",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.340349629499771,
+                    41.65210490088603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG NI4162",
+                "id": "31494",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "IMPERO MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.210335373878479,
+                    41.714200370601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni",
+                "id": "19801",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GIEFFE SERVIZI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.336397081445282,
+                    41.73826429002087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ANGIOLINI ERIKA & C. S.A.S.",
+                "id": "31583",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ANGIOLINI ERIKA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.341350266864765,
+                    41.648622758157465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.LLI MAGGI PNEUMATICI SNC",
+                "id": "9321",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "F.LLI MAGGI PNEUMATICI DI MAGGI ALFIO E SILVANO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.321394343254955,
+                    41.761039844930735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SANTOPADRE TIZIANA",
+                "id": "7419",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SANTOPADRE TIZIANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.349265754222866,
+                    41.64701840781246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FROSINONE - SS 156",
+                "id": "28313",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.337170495700773,
+                    41.64830801699501
+                ]
+            }
+        }
+    ]
+}

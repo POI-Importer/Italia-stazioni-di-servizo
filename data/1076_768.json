@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "INZAINA UDA SAS",
+                "id": "9612",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GIOVANNI E CARLO INZAINA UDA S.A.S. DI INZAINA GIOVANNI MARIA & C. IN BREVE \"INZAINA UDA S.A.S.\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1958087682724,
+                    40.92021493069068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SENES CARBURANTI SRL",
+                "id": "27795",
+                "amenity": "fuel",
+                "operator": "SENES CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.167707965832506,
+                    40.91650205095522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE ENI 7858 LURAS",
+                "id": "11206",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CABRAS S.N.C. DI CABRAS PIER PAOLO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.177730679512024,
+                    40.934819607075625
+                ]
+            }
+        }
+    ]
+}

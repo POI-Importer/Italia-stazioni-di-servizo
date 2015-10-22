@@ -1,0 +1,140 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "31764",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PONTILLO CONTILLO STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.062541633844372,
+                    43.07533008323293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "16865",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "R.G. DI ROBERTO GAGLIARDI E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.071940094232557,
+                    43.136938237608476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CDC.L. DI MARCHETTI & C. SNC",
+                "id": "13100",
+                "amenity": "fuel",
+                "operator": "CDC.L. CENTRO DISTRIBUZIONE CARBURANTI-LUBRIFICANTI DI MARCHETTI & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.063181340694427,
+                    43.07325874310111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CDC.L. DI MARCHETTI & C. SNC",
+                "id": "13089",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CDC.L. CENTRO DISTRIBUZIONE CARBURANTI-LUBRIFICANTI DI MARCHETTI & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.054682761430742,
+                    43.17618877762562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "17332",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FELGAS PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.023094434759514,
+                    43.18283991205226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg",
+                "id": "16303",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ROCCETTI DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.069598101852423,
+                    43.13478956003145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FEDELI FABRIZIO",
+                "id": "22428",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "FEDELI FABRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.063823729753496,
+                    43.07496527226834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ma.Vi. sas di Marzolla Michele e Marzolla Clementina & C.",
+                "id": "32076",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MA.VI. S.A.S. DI MARZOLLA MICHELE E MARZOLLA CLEMENTINA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.130550384521484,
+                    43.11183154172788
+                ]
+            }
+        }
+    ]
+}

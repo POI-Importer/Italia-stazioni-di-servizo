@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IES",
+                "id": "15879",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "CALBI CRISTIAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.237511336803436,
+                    40.340015366166185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ADS GIULIANO SALVATORE",
+                "id": "16516",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GIULIANO SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.227718475046572,
+                    40.39673729040353
+                ]
+            }
+        }
+    ]
+}

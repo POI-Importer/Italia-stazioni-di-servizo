@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "26901",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FRATELLI RIGGI S.A.S.DI RIGGI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.25885385274887,
+                    37.50003073299943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 MARABELLA SAS",
+                "id": "22548",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MARABELLA S.A.S DI MARABELLA ANGELO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.264821767807005,
+                    37.49379391005386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cocchiara Alessandra e C. s.a.s.",
+                "id": "21179",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "COCCHIARA ALESSANDRA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.263141363229352,
+                    37.5018792615455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ribera 96 sas",
+                "id": "26904",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RIBERA 96  S.A.S. DI  MICELI  ANNA  &  C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.268649391401711,
+                    37.49843620746494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FALCO CARBURANTI SAS",
+                "id": "16211",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FALCO CARBURANTI S.A.S. DI GIUSEPPA  FALCO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.220453972167663,
+                    37.575594747823374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8MARABELLA",
+                "id": "21565",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MARABELLA S.A.S DI MARABELLA ANGELO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.27382057905197,
+                    37.50502973178759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione esso di lo raso stefania",
+                "id": "20966",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LO RASO STEFANIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.258715718984602,
+                    37.49812237326583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "agip/eni",
+                "id": "26796",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "F.LLI TURANO S.A.S. DI TURANO GIOACCHINO  & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.263874691548152,
+                    37.49448824321571
+                ]
+            }
+        }
+    ]
+}

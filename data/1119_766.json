@@ -1,0 +1,562 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "21816",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MARGIOTTA MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.85458704829216,
+                    41.12513898348076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Desomit Glomerelli",
+                "id": "28418",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DESOMIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.842090636491776,
+                    41.114581735834726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "28134",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "COLONNA MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.851801630094087,
+                    41.12552397049002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BITONTO SP 91",
+                "id": "31230",
+                "amenity": "fuel",
+                "operator": "POWER SERVICE SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.727955937385556,
+                    41.13591836134326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GIOVINAZZO - S.S. 16 BIS AL KM. 788+654",
+                "id": "31858",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.718769371509552,
+                    41.161907162574096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BARI VIA F.CRISPI",
+                "id": "25217",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.848532423313486,
+                    41.120824227992976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG FASCICOLO DOMENICO",
+                "id": "28451",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "FASCICOLO DOMENICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.86339474022668,
+                    41.112730234753265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BARI - NAPOLI 357",
+                "id": "29914",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.832881807374974,
+                    41.12982727400635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "bluebell",
+                "id": "29733",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BLUEBELL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.833530366420746,
+                    41.1235048307174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BARI - MERCADANTE",
+                "id": "28677",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.832691195106463,
+                    41.13519191947592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NAUTICA RANIERI",
+                "id": "28689",
+                "amenity": "fuel",
+                "operator": "CANTIERE NAVALMECCANICO RETTIFICHE RANIERI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.846220431352208,
+                    41.13711444805387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BARI _ VIA NAPOLI",
+                "id": "28896",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.82352076494294,
+                    41.13238240875642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI 9091",
+                "id": "26429",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FRANCO VITTORIO & FRANCESCO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.831214368122804,
+                    41.130036074159364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA SANGIORGI - BARI",
+                "id": "29728",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.84998638280331,
+                    41.11406259476593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ADRIATICA FUEL SNC",
+                "id": "19027",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ADRIATICA FUEL S.N.C. DI PIETRO CARLONE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.83292955160141,
+                    41.11374028348466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio ip di ciliberti tecla",
+                "id": "11346",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CILIBERTI TECLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.86277950037402,
+                    41.11634446061151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "54496 Giovinazzo Nord",
+                "id": "25168",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI RETE OIL&NONOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.704398095607758,
+                    41.16766113066133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carucci Silvio Eni 38038",
+                "id": "15204",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CARUCCI SILVIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.77840828895569,
+                    41.13841920839663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "27989",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GIA.VI. DI AMORUSO GIACOMO & VITO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.819383362198323,
+                    41.134115406324355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "28660",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "S.G.C. S.N.C. DI ANACLERIO ONOFRIO E CIOCIA ELENA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.801954060792923,
+                    41.14172793695813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BARI - MODUGNO V. SICILIA",
+                "id": "30547",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.789005364418013,
+                    41.11721010342482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nuova Marina Idea Scavi",
+                "id": "30093",
+                "amenity": "fuel",
+                "operator": "SOC. NUOVA MARINA IDEA SCAVI DI FRISARI GIOVANNI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.809192576599116,
+                    41.14019722625283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CALIA CARBURANTI",
+                "id": "18876",
+                "amenity": "fuel",
+                "operator": "CARBURECO CALIA  SOCIETA' A RESPONSABILITA' LIMITATA IN SIGLA CARBURECO CALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.75771346396482,
+                    41.12668411625126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bari Palese",
+                "id": "31712",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.80194266140461,
+                    41.14170854563173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "18486",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "LOIACONO GIACOMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.846123337745667,
+                    41.12725960378935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "54501 Giovinazzo Sud",
+                "id": "25169",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI RETE OIL&NONOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.703413724899292,
+                    41.16747052449971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI38047 VITERBO NICOLA",
+                "id": "26176",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VITERBO NICOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.874431371688843,
+                    41.11748187469516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SELF AREA AGIP DI LAVACCA EUGENIA",
+                "id": "18909",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SELF AREA AGIP DI LAVACCA EUGENIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.70142626123811,
+                    41.11702162075826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg di Schima Michele",
+                "id": "20657",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SCHIMA MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.79837930067231,
+                    41.12293442904645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sud Italia Gas srl",
+                "id": "16582",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SUD ITALIA GAS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.829099357128143,
+                    41.123887914708504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PALESE BARI VIA TENENTE LEONARDO RANIERI",
+                "id": "25221",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.76238477230072,
+                    41.153827008531124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Desomit Buozzi54",
+                "id": "28421",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DESOMIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.83377042412758,
+                    41.11439825001381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ANTOGI DISTRIBUZIONE SNC TOTALERG",
+                "id": "19620",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ANTOGI DISTRIBUZIONE S.N.C. DI TOMMASO GUERRA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.812157183885574,
+                    41.12344462005129
+                ]
+            }
+        }
+    ]
+}

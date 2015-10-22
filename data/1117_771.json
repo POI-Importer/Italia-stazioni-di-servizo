@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio esso",
+                "id": "22448",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LATEGANA LUCIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.457950744866707,
+                    40.49751767889454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GALLO",
+                "id": "22897",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GALLO GIUSEPPINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.495510377832943,
+                    40.48291852701103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio IP",
+                "id": "15260",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "TEDESCO MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.49703539735515,
+                    40.56960131847183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "16057",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GIOCOLI MARIA ELENA MADDALENA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.457994640726724,
+                    40.49629716010313
+                ]
+            }
+        }
+    ]
+}

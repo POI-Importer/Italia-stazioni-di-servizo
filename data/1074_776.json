@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Enrico carrucciu",
+                "id": "12819",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CARRUCCIU ENRICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.856989923942592,
+                    39.794758825649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "USELLUS - ELEONORA D'ARBOREA",
+                "id": "31319",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.853285830688492,
+                    39.802562908846575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO IP SALIS MANUELE",
+                "id": "10399",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SALIS MANUELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.853269219398499,
+                    39.80256462358889
+                ]
+            }
+        }
+    ]
+}

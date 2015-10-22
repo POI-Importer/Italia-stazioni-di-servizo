@@ -1,0 +1,88 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NOBILE OIL GROUP",
+                "id": "14343",
+                "amenity": "fuel",
+                "operator": "CATANIA NICOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.771200694422987,
+                    37.189200084525496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "INCARDONA CARBURANTI",
+                "id": "30714",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "INCARDONA CARBURANTI DI BORDINO CROCIFISSA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.79327143637488,
+                    37.26309356572423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "INCARDONA",
+                "id": "27393",
+                "amenity": "fuel",
+                "operator": "INCARDONA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.768924176692964,
+                    37.18339976584025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "26491",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "URSO GIOVANNI BATTISTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.791059106588364,
+                    37.25732352978499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "V.UMBERTO I NARO",
+                "id": "12021",
+                "brand": "Giap",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.795680592035522,
+                    37.29438302041932
+                ]
+            }
+        }
+    ]
+}

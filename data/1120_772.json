@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "26884",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DISTANTE ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88458675149377,
+                    40.43555358901624
+                ]
+            }
+        }
+    ]
+}

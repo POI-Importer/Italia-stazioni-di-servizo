@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LUPINI UMBERTO",
+                "id": "12713",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LUPINI UMBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.208020089935417,
+                    44.33538316104912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore Q8",
+                "id": "24052",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DAAN DI SCAVINO ANNA MARIA E CIVATI DANIELE S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.212676512648045,
+                    44.330872324072345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio API",
+                "id": "12086",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BOSCHI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.213934543251298,
+                    44.32911764468601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EUROPAM ZOAGLI",
+                "id": "29386",
+                "amenity": "fuel",
+                "operator": "EUROPAM S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.268512739750804,
+                    44.33728573210054
+                ]
+            }
+        }
+    ]
+}

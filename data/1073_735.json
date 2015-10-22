@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "12508",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CERRA COSTANZA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.741026148200035,
+                    45.10003524189719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni 02551",
+                "id": "10833",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PAMPURI EMILIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.745830655097961,
+                    45.101471003243816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO TORAZZA MASSIMO",
+                "id": "13652",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "TORAZZA MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.669006153941154,
+                    45.113474437422035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione ESSO",
+                "id": "25443",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CHILO' ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.629135863599688,
+                    45.12911564866912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Palma Giovanni",
+                "id": "5087",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PALMA GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.76810908317566,
+                    45.19822540048651
+                ]
+            }
+        }
+    ]
+}

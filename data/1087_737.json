@@ -1,0 +1,123 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO IP GAVELLO ( MO )",
+                "id": "8619",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "TERRIERI ALFREDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.180962134218134,
+                    44.92599256264002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Costantin MIRANDOLA",
+                "id": "4066",
+                "brand": "Costantin",
+                "amenity": "fuel",
+                "operator": "COSTANTIN DISTRIBUZIONE E SERVIZI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.077118217945099,
+                    44.94717629934661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LEVRATTI GIANCARLO",
+                "id": "16634",
+                "amenity": "fuel",
+                "operator": "LEVRATTI GIANCARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.130244061350822,
+                    44.87755254672605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nicolini Matteo",
+                "id": "22907",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NICOLINI MATTEO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.094414402446773,
+                    44.92189086692447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "service oasi",
+                "id": "14201",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SERVICE OASI DI POLETTI MAURIZIO & C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.218003928661346,
+                    44.847327966123686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servicio tamoil dei f.lli cardillo",
+                "id": "16383",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CARS SERVICE DEI F.LLI CARDILLO PASQUALE E GIORGIO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.084592193365095,
+                    44.95551706932137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MEDOLLA VIA PROVINCIALE 55",
+                "id": "8342",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.078004903704821,
+                    44.84675752009293
+                ]
+            }
+        }
+    ]
+}

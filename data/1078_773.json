@@ -1,0 +1,87 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PORTO DI CALA GONONE",
+                "id": "24193",
+                "amenity": "fuel",
+                "operator": "PUDDU CARBURANTI  S.A.S.  DI PUDDU TANUCCIA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.638848006725311,
+                    40.283328118795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PUDDU CARBURANTI VIALE COLOMBO",
+                "id": "24192",
+                "amenity": "fuel",
+                "operator": "PUDDU CARBURANTI  S.A.S.  DI PUDDU TANUCCIA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.622840583324432,
+                    40.281016145015926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "P.V. ENI 17847",
+                "id": "16688",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CANOVA DALILA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.5831398665905,
+                    40.29384548612595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PUDDU CARBURANTI",
+                "id": "20258",
+                "amenity": "fuel",
+                "operator": "PUDDU CARBURANTI  S.A.S.  DI PUDDU TANUCCIA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.583613276481628,
+                    40.296035298658595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "7993",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "IRIAI CARBURANTE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.552450031042099,
+                    40.307089045651395
+                ]
+            }
+        }
+    ]
+}

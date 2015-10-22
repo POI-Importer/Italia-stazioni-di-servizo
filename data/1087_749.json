@@ -1,0 +1,191 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.A.M. Colle",
+                "id": "7477",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SOC. AUTOTRASPORTI MONTEFELTRO-S.A.M."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.141216307878494,
+                    43.406475961345386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO ESSO ROSSI MASSIMO",
+                "id": "22149",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ROSSI MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.140544414520262,
+                    43.4188797442231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Loc. LA SPERANZA",
+                "id": "12107",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ANTICHI ARIANNA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.098104432188393,
+                    43.333355972014516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE ESSO DI BARLETTA DOMENICO",
+                "id": "19503",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE ESSO  DI  BARLETTA DOMENICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.13612949848175,
+                    43.43165658359398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Rifornimento Indiani",
+                "id": "14840",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "INDIANI SAMUELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.132511602867451,
+                    43.397905478302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "3PM CAR SERVICE SNC",
+                "id": "12589",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "3 PM CAR SERVICE DI PISTOLESI ANTONIO E C. S.NC."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.17974892258644,
+                    43.42527999651977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "petrolzeta",
+                "id": "31159",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PETROLZETA DI ZINGONI GIAMPIETRO E GIAMPAOLO SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.190427315625017,
+                    43.38764034637785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COLLE DI VAL D'ELSA",
+                "id": "25345",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.126247696924224,
+                    43.42638344220368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "29474",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SGD CARBURANTI DI PICOZZI, COPPOLA E MARINIELLO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.099748685956001,
+                    43.4196868014176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "13770",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CIANI GRAZIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.108985543251038,
+                    43.42178709703777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COLLE VAL D'ELSA",
+                "id": "4377",
+                "amenity": "fuel",
+                "operator": "COLMETANO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.142456829547882,
+                    43.43488741265493
+                ]
+            }
+        }
+    ]
+}

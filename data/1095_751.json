@@ -1,0 +1,207 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A FORINI SRL ESSO",
+                "id": "28308",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "A. FORINI DI RENZO E ORLANDO FORINI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.541643020098947,
+                    43.07647452640064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "4040",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CA.BA.GEST. S.A.S. DI BACCHI FERDINANDO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.524151206016544,
+                    43.07145772531252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OP Olivi Petroli",
+                "id": "5730",
+                "amenity": "fuel",
+                "operator": "LE-ALE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.514200210571287,
+                    43.121314911599235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "METANO AUTO RO-LA S.R.L.",
+                "id": "4443",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "METANO AUTO RO-LA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.51976042985916,
+                    43.07795716747832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "padovani pierpaolo",
+                "id": "20873",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PADOVANI PIERPAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.566476464271545,
+                    43.095353736993005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP - GABRIELE CORRADINI",
+                "id": "25865",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CORRADINI GABRIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.500864071649174,
+                    43.165960781332856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PERUGIA - COLOMBELLA",
+                "id": "31039",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.486292711639408,
+                    43.153305664156086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CoenDamaschiPetroli s.r.l.",
+                "id": "23542",
+                "amenity": "fuel",
+                "operator": "COENDAMASCHIPETROLI S.R.L. (IN BREVE CDP S.R.L.\")"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.51270618650824,
+                    43.12102183110169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Self Area Agip n°4581 Gest. Abbati & Fagiolo snc",
+                "id": "7873",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ABBATI & FAGIOLO S.N.C. DI ABBATI GIANFRANCO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.540043964982033,
+                    43.07704586080478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ROMOLI LORENA",
+                "id": "8185",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ROMOLI LORENA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.536413539318234,
+                    43.1066530962417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "_IMPIANTO ENI BIGINI FRANCESCO",
+                "id": "8450",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BIGINI FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.601429293743195,
+                    43.160196571785534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO IP",
+                "id": "8034",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PINCHI ERALDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.550034761971347,
+                    43.07177511403727
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI SCARDINO ANNUNZIATA",
+                "id": "27005",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SCARDINO ANNUNZIATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.84134370088577,
+                    40.052986185946374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RE.ME.C. snc di Rega Giuseppina & C.",
+                "id": "9626",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "RE.ME.C. S.N.C. DI REGA GIUSEPPINA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.938313603401182,
+                    40.074436636034946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio q8",
+                "id": "9461",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MALFEN - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.925731360912325,
+                    40.07472972519644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FARACO CARBURANTI di Faraco Luigia",
+                "id": "27144",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FARACO LUIGIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.834174156188965,
+                    40.05309315217773
+                ]
+            }
+        }
+    ]
+}

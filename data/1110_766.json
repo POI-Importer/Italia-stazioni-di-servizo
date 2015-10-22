@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "8096",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "*CARDINALE OTO*"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.16281455755234,
+                    41.230117780663086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAPOBIANCO CONCETTA",
+                "id": "18708",
+                "amenity": "fuel",
+                "operator": "CAPOBIANCO CONCETTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.289600833689066,
+                    41.119384822429915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GESARS S.R.L.",
+                "id": "28091",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GESARS - GESTIONE AREE DI SERVIZIO S.R.L. DETTA BREVEMENTE GESARS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.137668848037716,
+                    41.19425333977187
+                ]
+            }
+        }
+    ]
+}

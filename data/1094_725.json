@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "20218",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "OLIVOTTO UGO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.359530748801149,
+                    46.4232584187406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Belluno - Perarolo di Cadore",
+                "id": "5278",
+                "amenity": "fuel",
+                "operator": "BEYFIN S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.359346730006337,
+                    46.37764738829687
+                ]
+            }
+        }
+    ]
+}

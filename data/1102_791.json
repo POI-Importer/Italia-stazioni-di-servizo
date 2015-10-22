@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALIA",
+                "id": "13326",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "NASCA SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.712933376292995,
+                    37.781113076192035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "POMPA BIANCA",
+                "id": "31435",
+                "amenity": "fuel",
+                "operator": "GI.MA.COS. DI GIUSEPPE MARIA COSTANTINO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.821901828050612,
+                    37.74603954158421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PA055",
+                "id": "19025",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GELSOMINO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.764421396304897,
+                    37.84998022817803
+                ]
+            }
+        }
+    ]
+}

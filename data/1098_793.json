@@ -1,0 +1,157 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio esso di lo raso antonino",
+                "id": "20789",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LO RASO ANTONINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.077633082866669,
+                    37.50885690061684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Esso di F.sco Tripodi",
+                "id": "16376",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "TRIPODI FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.076802939176561,
+                    37.51693997151856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TaOil",
+                "id": "12200",
+                "amenity": "fuel",
+                "operator": "SCIACCA OIL DI LA PORTA MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.07728171348572,
+                    37.520085988102885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Di.Ga. Erg  Sciacca",
+                "id": "15841",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DI. GA.  DI DI PAOLA MARIO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.073818981647491,
+                    37.523613079050236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C.DA FOGGIA SCIACCA",
+                "id": "20045",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.05227560978699,
+                    37.50804259290687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI AGIP",
+                "id": "8844",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CUSUMANO CARBURANTI S.A.S. DI STEFANO CUSUMANO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.043449670076368,
+                    37.55335739247375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI AGIP",
+                "id": "13471",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CUSUMANO CARBURANTI S.A.S. DI STEFANO CUSUMANO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.073874120237749,
+                    37.50797613578515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "18418",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PETROLI SCIACCA DI MAGGIO ACCURSIO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.090032935142517,
+                    37.506285333740884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI AGIP",
+                "id": "13459",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CUSUMANO CARBURANTI S.A.S. DI STEFANO CUSUMANO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.077494420237711,
+                    37.51571268825997
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "3D SASSELLO",
+                "id": "15608",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "3D S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.490327447652819,
+                    44.47968509981846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Olivieri Enrico",
+                "id": "15198",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "OLIVIERI ENRICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.485528305172922,
+                    44.47666856404378
+                ]
+            }
+        }
+    ]
+}

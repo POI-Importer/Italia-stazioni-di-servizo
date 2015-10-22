@@ -1,0 +1,682 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Redaelli",
+                "id": "25677",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "REDAELLI MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.292668569439229,
+                    45.739745431548485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trombetta Gerolamo",
+                "id": "12636",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TROMBETTA GEROLAMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.219611073341412,
+                    45.74716635334562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Total Erg via milano 3",
+                "id": "29910",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TORCHIANA DARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.23476597990111,
+                    45.80489657617098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE UBOLDI SNC_INVERIGO",
+                "id": "20750",
+                "amenity": "fuel",
+                "operator": "UBOLDI SNC DI LUCA UBOLDI E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.197296053171158,
+                    45.742559306059356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL di F.LLI BONALUMI SNC",
+                "id": "25666",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "F.LLI BONALUMI DI BONALUMI VINCENZO E AGOSTINO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.22504513386366,
+                    45.75680641444935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL di Molteni Tiziano",
+                "id": "8569",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "TAMOIL DI MOLTENI TIZIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.273920059204102,
+                    45.74806757146565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 di Galimberti Andrea",
+                "id": "8944",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GALIMBERTI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.189136605904423,
+                    45.79762319688973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg",
+                "id": "26440",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "RAZETI CARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.215263411045044,
+                    45.724531356159765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "valli mario & c snc",
+                "id": "25582",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "VALLI MARIO & C. S.N.C. DI BRUNO E MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.277090430259705,
+                    45.76539256426847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE ESSO",
+                "id": "18471",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GIUSSANI MARIA PAOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.290019062565648,
+                    45.75589397180612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MO.VI. S.N.C. DI MORABITO FRANCESCO & C.",
+                "id": "18933",
+                "amenity": "fuel",
+                "operator": "MO.VI. S.N.C. DI MORABITO FRANCESCO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.147221238098155,
+                    45.72291835665207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione Tamoil di Bonfanti",
+                "id": "14239",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BONFANTI MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.239220283397684,
+                    45.78891471654005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "9406",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MERATI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.299242968122826,
+                    45.816066038806625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "leonard service srl",
+                "id": "7768",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LEONARD SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.14491607605737,
+                    45.72502678539312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione ENI   CASARIN FLAVIO",
+                "id": "4220",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CASARIN FLAVIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.264093786478043,
+                    45.73031069595173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 DI PISANO MICHELE",
+                "id": "18549",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PISANO MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.15361762046814,
+                    45.79424331855464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LAMBRUGO-VIA NAZIONALE 2",
+                "id": "11559",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.241674287033106,
+                    45.75439357370489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PELUCCHI SAS",
+                "id": "19226",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PELUCCHI MARIA ENRICA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.285870896295137,
+                    45.750214580037486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni",
+                "id": "20514",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "COLOMBO M. & PANZERI C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.233727106745846,
+                    45.80861941938576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "31101",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CASATI DIEGO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.238013327121735,
+                    45.70801769167718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alpi Energia",
+                "id": "7767",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ALPI ENERGIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1832643730163,
+                    45.77062644779478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Motor f.lli Canali snc",
+                "id": "7012",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MOTOR F.LLI CANALI S.N.C. DI CLAUDIO E ANDREA CANALI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.225380665816374,
+                    45.80377812488867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio TAMOIL",
+                "id": "19418",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "STIGLIANO FRATELLI S.N.C. DI STIGLIANO GIOVANNI & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.160729497671127,
+                    45.728617754711934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALBESE - STR.PROVINCIALE PER LECCO",
+                "id": "30794",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.153633707409654,
+                    45.79424130548149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "4035",
+                "id": "8286",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FORMENTI CLEMENTE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.220557508342836,
+                    45.749038312950425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg",
+                "id": "15813",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CAPPELLINI S.N.C. DI CAPPELLINI FABIO, CRISTIAN & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.184602347221357,
+                    45.748264017618865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "31288",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MERCURI STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.174495935440065,
+                    45.79377671771202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ERBA",
+                "id": "5789",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TotalErg SpA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.238494434358586,
+                    45.79896173995487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Veduggio Ovest",
+                "id": "28348",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.248979538679123,
+                    45.73458307545835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Molteno",
+                "id": "4654",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.296869039535524,
+                    45.78756784192512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MODENA E ROMEO SRL",
+                "id": "14116",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MODENA E ROMEO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.167315623139984,
+                    45.71053049551751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore ENI _ Maraboli Giorgio",
+                "id": "14607",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MARABOLI GIORGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.168581664562227,
+                    45.780928419129786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg di Spreafico Manuela",
+                "id": "22163",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SPREAFICO MANUELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.233620057144208,
+                    45.809661270234464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Veduggio",
+                "id": "4660",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.249666184186935,
+                    45.73362490763787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CCB srl",
+                "id": "7016",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CCB S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.295066595077515,
+                    45.786125403311146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil di Sala Maddalena",
+                "id": "16714",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SALA MADDALENA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.207279504299095,
+                    45.738158968562885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REDA GOMME",
+                "id": "10501",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "REDAELLI LUIGI INSEGNA REDA GOMME DI REDAELLI LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.20203293187717,
+                    45.7122822255807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "7459",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "RIGOLI EMILIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.202432694203935,
+                    45.71538946932409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENERCOOP",
+                "id": "26634",
+                "amenity": "fuel",
+                "operator": "COOP LOMBARDIA SOCIETA' COOPERATIVA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.154634177684784,
+                    45.718982627880784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ANZANO DEL PARCO-C/O BENNET SNC",
+                "id": "11566",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.205710428241673,
+                    45.76461848957463
+                ]
+            }
+        }
+    ]
+}

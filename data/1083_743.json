@@ -1,0 +1,140 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "angelini fabrizio",
+                "id": "15861",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ANGELINI FABRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.411606505513191,
+                    44.129366987840676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE REGOLI",
+                "id": "31343",
+                "amenity": "fuel",
+                "operator": "REGOLI ORIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.410814306097334,
+                    44.12951888544621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTELNUOVO DI GARFAGNANA-VIA NICOLA FABRIZI 64",
+                "id": "11634",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.408546775579454,
+                    44.105038710953586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ROSSI&CATALINI",
+                "id": "21918",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ROSSI E CATALINI DI ROSSI RUGGERO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.412859097123144,
+                    44.11202611732341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cecchi Danilo",
+                "id": "9198",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CECCHI DANILO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.39411649107933,
+                    44.16152460169303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTELNUOVO GARFAGNANA",
+                "id": "14757",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SIRTAM S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.407473891973495,
+                    44.106322569070734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Staz. Servizio Eni  Quirici G.",
+                "id": "7175",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "QUIRICI GIORGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.409274995326998,
+                    44.106081053350415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bacci Teresita & C. S.n.c.",
+                "id": "19908",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "BACCI TERESITA & C"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.386745780706404,
+                    44.13555062427027
+                ]
+            }
+        }
+    ]
+}

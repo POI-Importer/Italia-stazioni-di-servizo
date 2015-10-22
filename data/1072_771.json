@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO Q8 MURA SEBASTIANO",
+                "id": "25656",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MURA SEBASTIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.476226499683435,
+                    40.50108055002828
+                ]
+            }
+        }
+    ]
+}

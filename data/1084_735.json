@@ -1,0 +1,140 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "zona quattro venti",
+                "id": "19209",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "UMBRIA PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.719030573964119,
+                    45.15336834952817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGRINORDEST-DISTRIBUTORE RODIGO",
+                "id": "8351",
+                "amenity": "fuel",
+                "operator": "CONSORZIO AGRARIO DEL NORDEST SOCIETA' COOPERATIVA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.625876784324646,
+                    45.19843632803282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "17590",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ASINARI LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.65441146492958,
+                    45.15384330936973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL di Vicini Giampietro",
+                "id": "19987",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "VICINI GIAMPIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.604039579629898,
+                    45.13404523178768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IES",
+                "id": "27458",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "PACE GIANCARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.643822103738785,
+                    45.149246757574915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "17156",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SEDENALI MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.709426254034042,
+                    45.1285686624988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ENI",
+                "id": "15376",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RANZATO ANTONIO DI RANZATO GIANLUCA E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.676700621843338,
+                    45.16908645302354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "18847",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SOFFIATI ARTURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.699023718643048,
+                    45.098389332347615
+                ]
+            }
+        }
+    ]
+}

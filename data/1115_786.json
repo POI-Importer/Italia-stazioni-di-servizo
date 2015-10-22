@@ -1,0 +1,192 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ditributore q8",
+                "id": "30638",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "NICOLOSI CARMELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.02672189474106,
+                    38.45442847215987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CONSIGLIO ARCANGELO",
+                "id": "11337",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CONSIGLIO ARCANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.14804977433175,
+                    38.52781677723831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cadogi Srl",
+                "id": "5999",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CADOGI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.06465369462967,
+                    38.42156035146133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "29126",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "LAROSA BIAGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.09429762558591,
+                    38.44172959611138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "17294",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "GALATA' FRANCESCO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.004354953765873,
+                    38.470834030504584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "19263",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GRAN CAFFE' DEI MARCHESI DI BELLOCCO MANUELA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.070424217288178,
+                    38.41899390255874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni 18869",
+                "id": "26460",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SELLARO S.A.S. DI SELLARO RAFFAELE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.066268546231754,
+                    38.42545719989965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Q8 Belcastro Francesco",
+                "id": "18844",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BELCASTRO FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.057240707197707,
+                    38.43511259376343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP-API",
+                "id": "30391",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ENNE SERVICE S.A.S. DI NAPOLI MICHELA E NAPOLI MARIA TERESA  &  C ."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.06229811906815,
+                    38.42279429637714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE TAMOIL DI TOLOMEO G.PPE",
+                "id": "16829",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "TOLOMEO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.080529296149052,
+                    38.490092839561186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio carburanti tamoil",
+                "id": "16749",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FOTI ARMANDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.099906801483826,
+                    38.44088070242109
+                ]
+            }
+        }
+    ]
+}

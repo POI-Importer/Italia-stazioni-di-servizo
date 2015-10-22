@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IL DOCCIO",
+                "id": "6044",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "G K. DI LA BARBA GAETANO E C.  S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.289052367210388,
+                    43.152759913298674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "13810",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "EUROPA S.A.S.  DI CASINI FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.322156051940281,
+                    43.1690089258639
+                ]
+            }
+        }
+    ]
+}

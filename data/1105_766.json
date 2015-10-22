@@ -1,0 +1,224 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio ESSO DI.SA.oil s.r.l.",
+                "id": "26948",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DI.SA. OIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.36026386322635,
+                    41.117838593049186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip di gelsomina aspromonte",
+                "id": "21023",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ASPROMONTE GELSOMINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.365466907620428,
+                    41.120788830466594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MoneCarburanti",
+                "id": "26923",
+                "amenity": "fuel",
+                "operator": "MONE MICHELE ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.336298722478203,
+                    41.164695849164644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore ip gianfranco mastroianni",
+                "id": "23050",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MASTROIANNI GIANFRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.240259492130688,
+                    41.209732658237144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Antonio Palmieri impianto ENI",
+                "id": "10177",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PALMIERI ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.329170531707744,
+                    41.15690422138288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO LIBERI",
+                "id": "29978",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.284112155437468,
+                    41.2226480470036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "28859",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DI RIENZO ANTONIO & GIUSEPPE S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.250941276550293,
+                    41.19316102062037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "28858",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DI RIENZO ANTONIO & GIUSEPPE S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.262380897998812,
+                    41.13270307746693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REPSOL",
+                "id": "20583",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "ENERFUEL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.363079071044925,
+                    41.201225022844454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO ENI08337",
+                "id": "27794",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CERRETO GABRIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.402787834405897,
+                    41.13666135321135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COPPOLA PIETRO",
+                "id": "21212",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "COPPOLA PIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.360655024647711,
+                    41.18467373379263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ARAGOSA",
+                "id": "21286",
+                "amenity": "fuel",
+                "operator": "ARAGOSA ANGELINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.361619504299142,
+                    41.144617069443406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.lli Petriccione S.n.c.",
+                "id": "16432",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FRATELLI PETRICCIONE S.N.C. DI PETRICCIONE GABRIELE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.273039996623991,
+                    41.16785415924314
+                ]
+            }
+        }
+    ]
+}

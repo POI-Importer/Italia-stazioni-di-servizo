@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "petruzzi rocco & figli",
+                "id": "15008",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PETRUZZI ROCCO & FIGLI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.899487237013092,
+                    40.52152332570512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "P.V. PZ018 di \"CAMERA ANTONIETTA\"",
+                "id": "14868",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CAMERA ANTONIETTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.847346916469975,
+                    40.476022061748324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "24504",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "FANELLI GRAZIANO ROCCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.971532762050625,
+                    40.459371797163314
+                ]
+            }
+        }
+    ]
+}

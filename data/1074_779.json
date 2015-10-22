@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PETROL SERVICE SNC",
+                "id": "26998",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PETROL SERVICE DI PISTIS ANTONIO E PISTIS GIOVANNA MARIA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.942964971065521,
+                    39.37427152432266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area servizio Tamoil di Lai Davide",
+                "id": "28782",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "AREA SERVIZIO TAMOIL DI DAVIDE LAI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.802135586738586,
+                    39.36918114854173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "11341",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PICCI MARIA FRANCESCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.924433588981628,
+                    39.416249129499434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Porcu Giuseppe",
+                "id": "24498",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PORCU GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.899969831109047,
+                    39.486307676222424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Porcu Costantino",
+                "id": "27385",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PORCU COSTANTINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.925470262765884,
+                    39.41298147952169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg",
+                "id": "29697",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MURGIA SERGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.924314230680466,
+                    39.41708399374236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "staz.serv.   Q8    Villasor",
+                "id": "8366",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "F.LLI VARGIU DI VARGIU VINICIO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.94278734922409,
+                    39.37500012404206
+                ]
+            }
+        }
+    ]
+}

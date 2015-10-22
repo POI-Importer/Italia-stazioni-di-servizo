@@ -1,0 +1,190 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Agip San Lorenzo Isontino",
+                "id": "30071",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SCOLARIS VINI - SOCIETA' A RESPONSABILITA' LIMITATA DETTA ALTRIMENTI  CANTINA BORGO BOSCHETTO,  CANTINA SAN LORENZO, VILLA FOLINI, BOSCO DEL TIGLIO, CANTINA LE MAGNOLIE OPPURE MA.SCO."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.525861054658888,
+                    45.934492090220495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "KV GRADISCA",
+                "id": "29654",
+                "amenity": "fuel",
+                "operator": "VANELLO EUGENIO & FIGLI S.P.A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.46516556085737,
+                    45.87970214830245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tiemme Service sas",
+                "id": "28207",
+                "amenity": "fuel",
+                "operator": "TIEMME SERVICE S.A.S. DI TRIBOS DANIELE SEBASTIANO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.378059267997742,
+                    45.89207517343998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Msport",
+                "id": "23854",
+                "brand": "Som/Omv",
+                "amenity": "fuel",
+                "operator": "MSPORT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.461265571379156,
+                    45.909555056061016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "agip di ricciardi antonio",
+                "id": "14823",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RICCIARDI ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.493413031101225,
+                    45.840337485918766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP ZORGNIOTTI",
+                "id": "21433",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ZORGNIOTTI & PIU DI ZORGNIOTTI OSCAR & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.475195467472076,
+                    45.95026200465828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio api-ip di Pighin Bruno",
+                "id": "21304",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PIGHIN BRUNO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.445567786693573,
+                    45.88886857929185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio totalerg di Daniele Andrian_",
+                "id": "7330",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TOTALERG DI DANIELE ANDRIAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.489218819435111,
+                    45.840200640531755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RONCHI DEI LEGIONARI-VIA REDIPUGLIA 25",
+                "id": "11607",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.500362449073807,
+                    45.830408397565556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GRADISCA D'ISONZO-VIALE TRIESTE 50/A",
+                "id": "11608",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.496165889549276,
+                    45.886056011596914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FOGLIANO REDIPUGLIA  - S.S.305",
+                "id": "29278",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.483021457672065,
+                    45.86110000000003
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO ENI 03517",
+                "id": "7728",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PARISI GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.044346400222821,
+                    46.353033802648504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "8314",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "G.S. RISTOAUTO SAS DI IORI GIANNI & C. IN SIGLA G.S. RISTOAUTO SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.919412374496462,
+                    46.358402016441545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "28363",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ALBAKOS DI TASHOLLI SHPEND"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.903225685052803,
+                    46.34184175007542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RETITALIA GENTILINI LUCIANO N. 44409",
+                "id": "23838",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "GENTILINI LUCIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0582637,
+                    46.39230440000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MENDINI D. SRL",
+                "id": "4836",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MENDINI D.  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.064199218516933,
+                    46.32939226281642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MENDINI D. SRL",
+                "id": "4837",
+                "amenity": "fuel",
+                "operator": "MENDINI D.  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.064199218516933,
+                    46.32939226281642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ADS Q8",
+                "id": "7579",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PUNTO GRILL SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.033705018246453,
+                    46.36975533938781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "8316",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "G.S. RISTOAUTO SAS DI IORI GIANNI & C. IN SIGLA G.S. RISTOAUTO SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.062577962875366,
+                    46.33589154381668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE IP DI LEONARDI GIUSEPPE",
+                "id": "14637",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LEONARDI GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.026007905996948,
+                    46.33350281654516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "27596",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ALESSANDRI ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.018524020910263,
+                    46.40420119752082
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BORIS SERVICE",
+                "id": "4210",
+                "amenity": "fuel",
+                "operator": "CHESSA NICOLINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.065241515636444,
+                    40.411198540681355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 DI CAU COSTANTINO ANGELO",
+                "id": "29768",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "OFFICINA MECCANICA-GOMMISTA CAU COSTANTINO ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.03152011334896,
+                    40.326913630403105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pierangelo Culeddu",
+                "id": "26260",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "C.L.P. DI CULEDDU PIERANGELO & C. SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.033553898334503,
+                    40.41339720738556
+                ]
+            }
+        }
+    ]
+}

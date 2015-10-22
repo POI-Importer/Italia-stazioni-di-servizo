@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CROCETTA NORD",
+                "id": "3797",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SACCHI SEIDA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.363438844680786,
+                    44.90478783633836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO DI BEZZATO GUIDO",
+                "id": "25414",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BEZZATO GUIDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.346622735261917,
+                    44.85965773924871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "11054",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "NEGRISOLO LORIS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.281057476997375,
+                    44.90739158488496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL CASTELLO DI ANNONE",
+                "id": "5706",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "TOSCANO ENRICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.321709036827087,
+                    44.87791214993656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CROCETTA SUD",
+                "id": "7194",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PONASSI S.N.C. DI PONASSI MASSIMIGLIANO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.364530503749847,
+                    44.90375283939367
+                ]
+            }
+        }
+    ]
+}

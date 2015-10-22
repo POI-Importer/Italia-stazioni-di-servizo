@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREZZO P.PERO",
+                "id": "7610",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "DRIVE SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.976917535066605,
+                    43.42322344552082
+                ]
+            }
+        }
+    ]
+}

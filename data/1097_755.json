@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "fratta",
+                "id": "10560",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CIAVATTA SERVICE DI CIAVATTA TOMMASO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.956410646438599,
+                    42.57268398674554
+                ]
+            }
+        }
+    ]
+}

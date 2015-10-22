@@ -1,0 +1,158 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VEROLI OVEST",
+                "id": "5708",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ROSSI ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.385274410247803,
+                    41.66462207527993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Repsol",
+                "id": "7087",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "DE PAULIS MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.461518883705137,
+                    41.66153503786857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "26631_ENI VEROLI EST",
+                "id": "5593",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SANTUCCI S.N.C. DI SANTUCCI MARCO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.397534787654877,
+                    41.66255618509668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "28486",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ELEMA S.N.C. DI DI VITO ALESSIO E CONTE ANTONELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.526089042425157,
+                    41.679121916648214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP - Veroli",
+                "id": "23027",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IPNA PETROLI SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.469739854335783,
+                    41.674797069506624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GIGLIO CARBURANTI",
+                "id": "30214",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "GIGLIO CARBURANTI DI CESTRA LINO E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.425765253009786,
+                    41.66145817220034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP Monte S.Giovanni Campano",
+                "id": "21978",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LION PETROL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.511637969999999,
+                    41.64092704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL ERG DI IANNARILLI CRISTINA",
+                "id": "29144",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "IANNARILLI CRISTINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.449872732162476,
+                    41.71833037061806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LG OIL",
+                "id": "12473",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "LISI GUGLIELMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.47340375185013,
+                    41.69146300096168
+                ]
+            }
+        }
+    ]
+}

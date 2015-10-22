@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO TAMOIL DI RIOTTI TEODOLINDA",
+                "id": "16039",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "RIOTTI TEODOLINDA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.456299911361725,
+                    44.29716582001071
+                ]
+            }
+        }
+    ]
+}

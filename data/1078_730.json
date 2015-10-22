@@ -1,0 +1,408 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COSTA VALLE IMAGNA",
+                "id": "4782",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "IES ITALIANA ENERGIA E SERVIZI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.503212057634075,
+                    45.80289220467413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ZUCCALI REMIGIO STAZIONE Q8",
+                "id": "12578",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ZUCCALI REMIGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.60027814560408,
+                    45.81765207379132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALME-VIA LOCATELLI 19",
+                "id": "11481",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.621048279762249,
+                    45.73959812803139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "7196",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PERSONENI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.610003530979155,
+                    45.723034167529654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "shell dalco snc",
+                "id": "16731",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "DALCO DI DALMAGGIONI SIMONE BATTISTA & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.582115032540855,
+                    45.71200081939895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg",
+                "id": "10798",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ZANETTI OMAR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.620279599405649,
+                    45.78033800602606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Colombo Gianluca",
+                "id": "15959",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "COLOMBO GIANLUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.529357192554244,
+                    45.72945503098871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "16805",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GELMINI BATTISTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.591925034393284,
+                    45.74985622317428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "31728",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GAS S.N.C. DI GREGORIO ALESSIO & SILVANO PREDA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.583364410381364,
+                    45.72765278972703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARBURANTI IMAGNA",
+                "id": "10806",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CARBURANTI IMAGNA S.N.C. DI CAPELLI IVANO, RODOLFO E LORENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.573691068080052,
+                    45.783628867768826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL di Locatelli Marco",
+                "id": "8810",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "LOCATELLI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.629774905418344,
+                    45.73404009645963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FE.MA SRL",
+                "id": "19307",
+                "amenity": "fuel",
+                "operator": "FE.MA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.608913845368988,
+                    45.73567877978353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione IP di F.lli Colombo",
+                "id": "31631",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "F.LLI COLOMBO S.N.C. DI COLOMBO ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.529330730438232,
+                    45.72944569590146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio Emanuele Francesco Srl",
+                "id": "13878",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "EMANUELE FRANCESCO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.640401005744934,
+                    45.73222188663617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "service in action",
+                "id": "7180",
+                "amenity": "fuel",
+                "operator": "SERVICE IN ACTION DI PELLEGRINI ALEX"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.650471018246433,
+                    45.792087044351206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SHELL via donizetti 74 brembate sopra",
+                "id": "15806",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "IMMOBILIARE GESTINVEST S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.584220338623027,
+                    45.71126025860138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VATALARO CATERINA",
+                "id": "26670",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "VATALARO CATERINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.529081440183859,
+                    45.72930918525073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione eni di mazzoleni alessio",
+                "id": "9858",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MAZZOLENI ALESSIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.536319226026535,
+                    45.81020881075024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bergamo Via Ruggeri",
+                "id": "22452",
+                "amenity": "fuel",
+                "operator": "DITTA MORZENTI ANTONIO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.663440644180355,
+                    45.71702145452066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENERCOOP",
+                "id": "28248",
+                "amenity": "fuel",
+                "operator": "COOP LOMBARDIA SOCIETA' COOPERATIVA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.560642838478088,
+                    45.71437007683949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ambivere SS 342",
+                "id": "22453",
+                "amenity": "fuel",
+                "operator": "DITTA MORZENTI ANTONIO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.552420215938582,
+                    45.72415561745916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BELOTTI GIAMPIETRO & C. S.N.C.",
+                "id": "11305",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BELOTTI GIAMPIETRO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.606021720237777,
+                    45.71050488939504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BELLINI ROBERTO",
+                "id": "10005",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BELLINI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.61977432554761,
+                    45.74096312069342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Almac",
+                "id": "19690",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "ALMAC S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.608913845368988,
+                    45.73567690768345
+                ]
+            }
+        }
+    ]
+}

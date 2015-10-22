@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Piredda Srl",
+                "id": "19169",
+                "amenity": "fuel",
+                "operator": "PIREDDA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.745246268808842,
+                    40.79247632441219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE DI CARBURANTI TAMOIL",
+                "id": "15518",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "DECORTES PASQUALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.744173049926758,
+                    40.77912051927584
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP VIA ROCCA",
+                "id": "12903",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "EUROPAM S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.646407087766306,
+                    44.87150741796787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SARTORI STEFANO",
+                "id": "13795",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SARTORI STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.544125640594302,
+                    44.86174970028407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "32143",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PANCOTTI CORRADO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.647689908742905,
+                    44.958472114109156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EUROPAM",
+                "id": "12880",
+                "amenity": "fuel",
+                "operator": "2G SERVICE S.A.S. DI GIANMARIA SIDOTI & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.63252067565918,
+                    44.85865919509049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GOBBI SANDRA",
+                "id": "25170",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GOBBI SANDRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.607332050800322,
+                    44.918804056341166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "4925",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LULU' S.N.C. DI DELPONTE DANIELA E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.647575914859774,
+                    44.95855961104002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "pontini pietro",
+                "id": "8773",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PONTINI PIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.65472936630249,
+                    44.892195626191075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGAZZANO SINGH KARNAIL IP",
+                "id": "21359",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SINGH KARNAIL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.518475830554962,
+                    44.94659995557528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIVERGARO SERVICE",
+                "id": "21427",
+                "amenity": "fuel",
+                "operator": "BUDRIO SERVICE DI GJONZENELI KRENAR BARDHO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.60186913213522,
+                    44.915084791827745
+                ]
+            }
+        }
+    ]
+}

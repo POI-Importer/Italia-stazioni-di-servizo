@@ -1,0 +1,440 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP Gruppo Bema",
+                "id": "28008",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GRUPPO BEMA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71341921389103,
+                    43.302475364890284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "5726",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "STROVEGLI GINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.749840259552002,
+                    43.27193573851757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TRICOLORE - LIDO DI FERMO",
+                "id": "27960",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "METANAUTO GIULIANOVA SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.779258728027344,
+                    43.21818744408913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FONTANELLA",
+                "id": "12378",
+                "amenity": "fuel",
+                "operator": "AUTOBELLA DI BENEDETTI GOFFREDO E LATINI S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.728983402252197,
+                    43.29101687044363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Porto Sant’Elpidio",
+                "id": "10150",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.763235211372377,
+                    43.249980740717575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PAN PETROLI",
+                "id": "5021",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PAN PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.769977576721205,
+                    43.23674718002261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ciccale' srl",
+                "id": "21844",
+                "amenity": "fuel",
+                "operator": "CICCALE' S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72812643647194,
+                    43.28035857392035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LIDO DI FERMO S.S.16 ADRIATICA KM 355+011",
+                "id": "6612",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.782892406745875,
+                    43.206393870584556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PORTO SANT'ELPIDIO - ADRIATICA",
+                "id": "23673",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.764685247850366,
+                    43.24681074560107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Oilone-Tamoil Porto S. Elpidio",
+                "id": "13749",
+                "amenity": "fuel",
+                "operator": "ACEMA S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.745859861373903,
+                    43.249905720642154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Civitanova Marche",
+                "id": "23122",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.722586703041086,
+                    43.30776050434081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CHIENTI OVEST",
+                "id": "22902",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DP CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.722399999999999,
+                    43.28560000000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Oilone- Civitanova Marche",
+                "id": "13711",
+                "amenity": "fuel",
+                "operator": "ACEMA S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.712750673294067,
+                    43.29733036840813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "_DeltaMotorOil",
+                "id": "6145",
+                "amenity": "fuel",
+                "operator": "DELTA OIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.734691287033115,
+                    43.289517918368276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "24853",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CINGOLANI STEFANO & VITALI ALFREDO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.78536739206538,
+                    43.199213267895296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "8056",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SKA CARBURANTI DI ANDRENACCI ANDREA & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.725874186508234,
+                    43.29817189863246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIFORNIMENTO METANO ZUCCONI & GIANDOMENICO",
+                "id": "19441",
+                "amenity": "fuel",
+                "operator": "ZUCCONI LUCIANO & GIANDOMENICO GIOVANNI - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.758969157934189,
+                    43.24565365670006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "31393",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BOCCANERA RITA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.722010084655725,
+                    43.31625041820667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CIVITANOVA MARCHE V.LE MATTEOTTI",
+                "id": "6611",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.728041644774637,
+                    43.31123879131586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.ELPIDIO A MARE VIA F.TURATI, 458 BIVIO CASCINARE",
+                "id": "20908",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72014954686165,
+                    43.27239721634717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mattiozzi Sergio",
+                "id": "11970",
+                "amenity": "fuel",
+                "operator": "MATTIOZZI SERGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73227112883603,
+                    43.22192854568805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "cicchinè fabrizio & c. snc",
+                "id": "7881",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CICCHINE' FABRIZIO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.75488478042598,
+                    43.26479316593539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "21470",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TOP SERVICE DI BOTTONI ANGELO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.722229599952698,
+                    43.30430217593533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "19799",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SCARAFIOCCA GERMANO  &  C. - SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74558359384537,
+                    43.27774818985057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CHIENTI EST",
+                "id": "3884",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TotalErg S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.723800000000002,
+                    43.28589999999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "7308 Porto S. Elpidio",
+                "id": "29689",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI RETE OIL&NONOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.740852177143097,
+                    43.28559892162343
+                ]
+            }
+        }
+    ]
+}

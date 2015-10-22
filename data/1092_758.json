@@ -1,0 +1,54 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DUBOIS VEJANO",
+                "id": "17893",
+                "amenity": "fuel",
+                "operator": "DUBOIS LUCIANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.125425413250921,
+                    42.22674434358491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rivendita carburanti baglioni mauro",
+                "id": "16428",
+                "amenity": "fuel",
+                "operator": "BAGLIONI MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.052870691429348,
+                    42.28249497951343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV ENERPETROLI - BARBARANO R.",
+                "id": "12125",
+                "brand": "Enerpetroli",
+                "amenity": "fuel",
+                "operator": "ENERPETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.061564028263092,
+                    42.24952873754192
+                ]
+            }
+        }
+    ]
+}

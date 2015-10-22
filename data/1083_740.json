@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG DI GHIRELLI EDOARDO",
+                "id": "13917",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GHIRELLI EDOARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.497536459524552,
+                    44.509105013613414
+                ]
+            }
+        }
+    ]
+}

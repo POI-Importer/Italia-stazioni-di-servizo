@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio carburanti eni",
+                "id": "4557",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RUIU BRUNA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.885981440544128,
+                    40.83085698026146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 Soddu",
+                "id": "18679",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SODDU MATTEO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.814241737127304,
+                    40.72924767830006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CENTRO ESSO PERFUGAS",
+                "id": "28185",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CENTRO ESSO DI ZIDDA GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.882478596526425,
+                    40.82962446369214
+                ]
+            }
+        }
+    ]
+}

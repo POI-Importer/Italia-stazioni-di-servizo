@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE CARBURANTI di LUNARDI MARIA EMMA",
+                "id": "15339",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "LUNARDI MARIA EMMA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.645491591305131,
+                    45.905233347944225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MOVE2",
+                "id": "7351",
+                "brand": "MOVE 2",
+                "amenity": "fuel",
+                "operator": "F.LLI CERATO DI CERATO CLAUDIO & C.- S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.708444325084317,
+                    45.94503456660771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ROSSI SERVIZI SNC",
+                "id": "14586",
+                "amenity": "fuel",
+                "operator": "ROSSI SERVIZI S.N.C. DI ROSSI FIORENZO E ROSSI MARINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.612963060810332,
+                    45.86265673289586
+                ]
+            }
+        }
+    ]
+}

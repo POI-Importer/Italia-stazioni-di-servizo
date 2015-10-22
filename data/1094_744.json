@@ -1,0 +1,358 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VULCANGAS",
+                "id": "18438",
+                "amenity": "fuel",
+                "operator": "GESTORI CARBURANTI DI BENVENUTI GIANFRANCO & C.  S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.460279762744904,
+                    44.063373888715205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "bianchi stefano",
+                "id": "11137",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BIANCHI STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.472192262565613,
+                    44.03257071937306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "f.lli Casadei s.a.s",
+                "id": "25106",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F.LLI CASADEI DI CASADEI MARCO E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.410915046930313,
+                    44.01929539758259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SANT'ARCANGELO DI ROMAGNA-SS. 9 EMILIA KM.8+702",
+                "id": "11825",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.442201673984528,
+                    44.0669895012355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di Servizio ENI - ENI Café",
+                "id": "23817",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DA.MA. SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4581282007332,
+                    44.06346269910155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso F.lli Bartolini",
+                "id": "17819",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F.LLI BARTOLINI S.N.C. DI BARTOLINI MAURIZIO E PRIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.454174131946502,
+                    44.06306612223771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP VICINI R.E. Antonio Tiziana",
+                "id": "29450",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "VICINI R.E. SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.405319958925247,
+                    43.965148403768225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "q8 planet snc",
+                "id": "4116",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "Q 8 PLANET DI FANTINI SAMUELE E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.460596263408661,
+                    44.03744602416416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "brigliadori mircoQ8",
+                "id": "22526",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BRIGLIADORI MIRCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.43094697116396,
+                    44.06232007374805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione api",
+                "id": "17395",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SCHIAVONE ANNA RITA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.328222615281557,
+                    44.0548358311584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PAZZINI MARIO & C. S.N.C.",
+                "id": "7743",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PAZZINI MARIO & C.  S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.44697310622098,
+                    44.06617389202884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP Villaggio Baviera",
+                "id": "6800",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PA.TO. DI PAGANELLI LORIS MAURO E TONI ALBERTO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.314075231552126,
+                    44.00926830269692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO",
+                "id": "28554",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GS GESTIONI DI GUAZZARINI MARIA ELISA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.42162644863129,
+                    43.99529791238802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "METANAUTO",
+                "id": "4792",
+                "amenity": "fuel",
+                "operator": "METANAUTO DI PAGANELLI MASSIMO - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.473141238067683,
+                    44.06641569978216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.M.A. srl Oilone",
+                "id": "12635",
+                "amenity": "fuel",
+                "operator": "SOCIETA' METANO AUTOTRAZIONE  -  S.M.A. A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.460806816816332,
+                    44.028169105971806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Repsol_Santarcangelo_di_R. (RN004)",
+                "id": "23314",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "REPSOL ITALIA S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.437307983636856,
+                    44.0709213255654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REPSOL IperENERGY",
+                "id": "13622",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "A.C.S. DI TONINI EROS E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.455423623323442,
+                    44.02438834727047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni",
+                "id": "6221",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "OK BAR DI LUCA GUERRA & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.415882087512161,
+                    44.0874924226093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Longiano Carburanti",
+                "id": "17538",
+                "amenity": "fuel",
+                "operator": "PAVOLUCCI CARLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.328467965126036,
+                    44.07916223860338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Repsol_Santarcangelo_di_R. (RN005)",
+                "id": "23313",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "REPSOL ITALIA S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.465359866619107,
+                    44.077141330476806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REPSOL",
+                "id": "13408",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "A.C.S. DI TONINI EROS E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.431851699948309,
+                    44.04847874468675
+                ]
+            }
+        }
+    ]
+}

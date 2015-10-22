@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Scarano Carburanti S.r..l",
+                "id": "26617",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SCARANO CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.551730040101571,
+                    41.7807572123464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO 47132",
+                "id": "22185",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DONATELLI ERMINIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.452803520791464,
+                    41.868105378833505
+                ]
+            }
+        }
+    ]
+}

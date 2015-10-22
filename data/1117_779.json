@@ -1,0 +1,88 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSOACRI DI BRANCA A. & C. SAS",
+                "id": "28393",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ESSOACRI DI BRANCA A. & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.383209519049046,
+                    39.49803983538372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI BRANCA LUIGI CESARE",
+                "id": "26689",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BRANCA LUIGI CESARE E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.382463605765455,
+                    39.49134679576154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BRANDI ANGELO OSVALDO",
+                "id": "21803",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BRANDI ANGELO OSVALDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.382363272441918,
+                    39.4900588208712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO VALLANA 1 DI VALLANA GAETANO",
+                "id": "21690",
+                "amenity": "fuel",
+                "operator": "VALLANA GAETANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.373818976285065,
+                    39.471799391658976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "zeta gas",
+                "id": "27664",
+                "amenity": "fuel",
+                "operator": "SCARAMUZZO ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.41969233751297,
+                    39.49968046599049
+                ]
+            }
+        }
+    ]
+}

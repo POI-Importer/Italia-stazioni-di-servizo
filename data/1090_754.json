@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TESTI",
+                "id": "28700",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "TESTI GIANMARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.697162823822511,
+                    42.77367639891231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di rifornimento La Botte",
+                "id": "25594",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "AZIENDA AGRICOLA CASTELMONTORIO EREDI DI GORIA CARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.762920171022415,
+                    42.73135737392533
+                ]
+            }
+        }
+    ]
+}

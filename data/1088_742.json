@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO",
+                "id": "18915",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "AGRESTI GIORGIO E FRANCIA ROBERTO SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.321589898147522,
+                    44.21675700000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VANTI",
+                "id": "26881",
+                "amenity": "fuel",
+                "operator": "G. VANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.39058530330658,
+                    44.28111683178327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REPSOL",
+                "id": "27749",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "VANTI REMO S.N.C. DI ANGELO VANTI & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.404855295071801,
+                    44.32665114731921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Giovannini snc",
+                "id": "21332",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "GIOVANNINI S.N.C. DI MARCO GIOVANNINI & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.324701685844389,
+                    44.266003793940385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carbel Erg di Nasci Fabio & C.",
+                "id": "15500",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CARBEL DI NASCI FABIO E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.258012428879738,
+                    44.3179962243623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PNEUS MONZUNO SNC",
+                "id": "21748",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PNEUS MONZUNO S.N.C. DI IEVA FEDELE E MAZZOLI GIANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.272260585844379,
+                    44.281080693913765
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "cappelli",
+                "id": "4482",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CAPPELLI MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.753351271152496,
+                    41.33623815578831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENERGAS",
+                "id": "23386",
+                "amenity": "fuel",
+                "operator": "ENERGAS S.P.A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.781045079231259,
+                    41.26541095159636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore total di razzano anna maria",
+                "id": "18077",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "RAZZANO ANNA MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.748032889549222,
+                    41.261039176327266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SANTI COSMA E DAMIANO ESSO",
+                "id": "30615",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.811364769935608,
+                    41.2796520464275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP - COSMA E DAMIANO",
+                "id": "20869",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DELTA PETROLI S.A.S. DI FELACO ANTONIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.789413571357727,
+                    41.272992719500046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "24060",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "REGEST S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.738692998886107,
+                    41.24909934475652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SPIGNO SATURNIA-SS. AUSONIA KM. 27",
+                "id": "11628",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.72048658895494,
+                    41.28384232649177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASALE PAOLO",
+                "id": "14262",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CASALE PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.850954174995426,
+                    41.247880085333634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NEW ENERGY",
+                "id": "18242",
+                "amenity": "fuel",
+                "operator": "NEW ENERGY S.R.L"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73740687966347,
+                    41.30923385002743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG MINTURNO",
+                "id": "24068",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "REDI SERVICE - S.N.C. DI ROMANO ETTORE E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.733081817626953,
+                    41.25083764747565
+                ]
+            }
+        }
+    ]
+}

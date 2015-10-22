@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NOVA SIRI STAZIONE SS 106 KM 416+415",
+                "id": "8086",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.63002185767209,
+                    40.13336930430253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jonica Carburanti",
+                "id": "23145",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "JONICA CARBURANTI S.A.S. DI STIGLIANO GIOVANNI & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.631240844726562,
+                    40.135191164798165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE RIF. TAMOIL DI FARINA FRANCESCO",
+                "id": "9039",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FARINA FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.61666339022554,
+                    40.10207605758356
+                ]
+            }
+        }
+    ]
+}

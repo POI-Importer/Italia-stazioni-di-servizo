@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "23646",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LIMONGI GIACOMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.709749162197113,
+                    39.99694916759027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "27347",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SANTI SETTIMIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.705751329660417,
+                    39.994284061924226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STILLO CAMILLO PAOLO",
+                "id": "9799",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STILLO CAMILLO PAOLO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.768883824348448,
+                    39.933363510801264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rocco",
+                "id": "18615",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "TRAZZA - S.A.S. DI EUPREMIO ROCCO TRAZZA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.772190988063812,
+                    39.91014668558358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GAS AUTO",
+                "id": "23684",
+                "amenity": "fuel",
+                "operator": "C F GESTIONI - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.768482834100725,
+                    39.94360261828195
+                ]
+            }
+        }
+    ]
+}

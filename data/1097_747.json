@@ -1,0 +1,157 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ANDREOLETTI GIORGIO & C. SNC",
+                "id": "15695",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ANDREOLETTI GIORGIO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.960617691278456,
+                    43.68469378474547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Suasa carburanti IP",
+                "id": "26797",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SUASA CARBURANTI DI LUZIETTI L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.977440303355595,
+                    43.60822762989112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carburanti ENI 06102 di Turchi Simone",
+                "id": "18372",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TURCHI SIMONE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.975479955786113,
+                    43.6382735213394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO SAN LORENZO",
+                "id": "9172",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO SAN LORENZO S.N.C. DI FILIPPINI PAOLO E PALANCA GIANCARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.930473685264587,
+                    43.596769783046085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA DI SERVIZIO SP 424",
+                "id": "30135",
+                "amenity": "fuel",
+                "operator": "MISCI GIANRICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.897231727838513,
+                    43.591503088439346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE METANO AUTOTRAZIONE SAN LORENZO IN CAMPO",
+                "id": "14420",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SADORI FUEL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.913240492343903,
+                    43.59438669580621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP -  Mondavio loc. Pianaccio",
+                "id": "13655",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ACEMA S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.976275086402893,
+                    43.64879808669338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FRATTE ROSA",
+                "id": "29222",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.898933589458467,
+                    43.63573699528871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Agip di Gasparini Luciano",
+                "id": "5385",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GASPARINI LUCIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.83993571996689,
+                    43.687237767842305
+                ]
+            }
+        }
+    ]
+}

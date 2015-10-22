@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "cofi",
+                "id": "7248",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "CO.FI. S.N.C. DI COLANTONI DANIELE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.660809755325317,
+                    42.49890935882686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Piediluco",
+                "id": "25103",
+                "brand": "CP",
+                "amenity": "fuel",
+                "operator": "C & C PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.757050096988678,
+                    42.543371776329856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "repsol",
+                "id": "28442",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "GECO  SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7670493721962,
+                    42.536028725691864
+                ]
+            }
+        }
+    ]
+}

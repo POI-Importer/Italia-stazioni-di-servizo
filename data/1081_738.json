@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MEDESANO OVEST",
+                "id": "3670",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MASSI PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.161688327789307,
+                    44.74428263063216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "10646",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "EMILIA SERVICE S.N.C.DI CARINI ANTONIO E GABRIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.185237452387808,
+                    44.83141861410327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tanzi giuliano",
+                "id": "22828",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "TANZI GIULIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.140775480356638,
+                    44.759486791278476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MEDESANO EST",
+                "id": "3562",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.163565874099731,
+                    44.744206428478634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BARALDO TIZIANA  ENI",
+                "id": "24356",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BARALDO TIZIANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.177296287365607,
+                    44.80426207806205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "agip",
+                "id": "9890",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DAFFADA' SAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.116910144180338,
+                    44.72832405723968
+                ]
+            }
+        }
+    ]
+}

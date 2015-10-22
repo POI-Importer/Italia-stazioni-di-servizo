@@ -1,0 +1,191 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MISANO ADRIATICO VIA ROMAGNA",
+                "id": "6595",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.696344927577913,
+                    43.97925644932869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio ip",
+                "id": "6149",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "F.LLI TONINI MASSIMO E MARCO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.690855000000058,
+                    43.9763597022124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "29074",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SPAGNOLI LAURA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.728010103179942,
+                    43.963925694078874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PORTOVERDE",
+                "id": "15157",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PORTOVERDE - S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.719233276904333,
+                    43.97186062942997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "20628",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "AREA SERVICE  DI CAVALLI ALVER, PETRUCCI E MATTIOLI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.682795822620392,
+                    43.98173725665543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso di Pelosi Teresa",
+                "id": "23079",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PELOSI TERESA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.737882419643372,
+                    43.96355378843802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gasauto di Bartolomeoli Maurizio & c Sas",
+                "id": "27174",
+                "amenity": "fuel",
+                "operator": "GAS AUTO DI BARTOLOMEOLI MAURIZIO E C. - S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.673956500469217,
+                    43.980286016687145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione servizio eni di galli stefano",
+                "id": "5660",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GALLI STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.704116702079771,
+                    43.969896987441096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio EGO",
+                "id": "10082",
+                "brand": "Ego",
+                "amenity": "fuel",
+                "operator": "MAESTRI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.734468352184308,
+                    43.96305850739153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "f.lli cortini snc",
+                "id": "15791",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F.LLI CORTINI AUGUSTO E GIUSEPPE S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.65923031230318,
+                    43.99239830236831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "15115",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "LAVAGGIO F.P.S. DI FABBRI CRISTIAN & C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.725668339147887,
+                    43.96405068119024
+                ]
+            }
+        }
+    ]
+}

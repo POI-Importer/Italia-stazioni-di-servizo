@@ -1,0 +1,258 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore del lido",
+                "id": "23808",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE DEL LIDO DI SIDDI MASSIMO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.231527566909788,
+                    44.66551831019813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione ip",
+                "id": "29758",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SARDU DAVIDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.184896453575334,
+                    44.692511363823876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "30688",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CAVALIERI GIORGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.228365908598336,
+                    44.67600818539492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Marina 127",
+                "id": "28293",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "GIULIVI SIMON PIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.21358151653294,
+                    44.67711429069789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "METANFOX",
+                "id": "4008",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DEL - FIN S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.22053587436676,
+                    44.711665005120096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "10315",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CAVALLARI PIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.231930832540911,
+                    44.6762229863503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BONAZZA LUTIGARDA stazione SHELL",
+                "id": "12518",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "BONAZZA LUTIGARDA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.22971439361572,
+                    44.70739969448557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MERCIARI MAURO E FABBRI CAROLINA E C. SNC",
+                "id": "4085",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MERCIARI MAURO, FABBRI CAROLINA & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.222751379013063,
+                    44.691026340548966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio My En di De Ieso Luigi",
+                "id": "17452",
+                "amenity": "fuel",
+                "operator": "DE IESO LUIGI - STAZIONE DI SERVIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.221882101683036,
+                    44.70470802962692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BERTELLI-COMACCHIO",
+                "id": "11378",
+                "brand": "Bertelli Carburanti",
+                "amenity": "fuel",
+                "operator": "BERTELLI WALTER E ROLANDO  - CARBURANTI - S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.198581993579865,
+                    44.69143554024643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COMACCHIO - C/O BENNET LE VALLI.",
+                "id": "7286",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.218231775463094,
+                    44.69267727973868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "route 309",
+                "id": "32142",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BANDINI PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.233871817588804,
+                    44.65223803419682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE LIDO ESTENSI",
+                "id": "14477",
+                "amenity": "fuel",
+                "operator": "ADRIATICA PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.234688550233841,
+                    44.67475631236007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE Q8",
+                "id": "22684",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CAVALIERI D'ORO ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.237102538347246,
+                    44.66990954908983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "20217",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PAMBIANCHI NICOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.22297668457031,
+                    44.683891387526046
+                ]
+            }
+        }
+    ]
+}

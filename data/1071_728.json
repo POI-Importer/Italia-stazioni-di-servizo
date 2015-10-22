@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Villadossola",
+                "id": "4708",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.276165127754211,
+                    46.065123108291665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ORNAVASSO-SS 33 KM 96+460",
+                "id": "11932",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.422366704368642,
+                    45.959660648043716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "12445",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ERCOLE MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.418033868074417,
+                    45.965643187024405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "5347",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BOMA S.N.C. DI MAIONI FABRIZIO E BOLTRIZZI GIOVANNA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.272753357887268,
+                    46.02353215969728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VILLADOSSOLA-BIANCHI NOVELLO 111 S.S. 33",
+                "id": "11930",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.261806214583201,
+                    46.06175258644754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A3GRILL Srl",
+                "id": "26373",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "A3GRILL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.276802227950839,
+                    46.06474933353263
+                ]
+            }
+        }
+    ]
+}

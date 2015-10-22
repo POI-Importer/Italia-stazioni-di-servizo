@@ -1,0 +1,158 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gonzalez Madrid Manuel",
+                "id": "14437",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "GONZALES MADRID MANUEL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.59918063879013,
+                    43.42458844837556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "pascolini e barbi sas",
+                "id": "8540",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PASCOLINI & BARBI S.A.S. DI PASCOLINI MARCELLO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.551144957542423,
+                    43.36234426126128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GUBBIO PORTA ROMANA",
+                "id": "23339",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.58800268220898,
+                    43.34661560433309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "19957",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DELLA MODESTA IVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.578029042980463,
+                    43.35023813920208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO IP PROCACCI",
+                "id": "4898",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PROCACCI GIUSEPPE DI PROCACCI FORTUNATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.511491851249732,
+                    43.37640116580264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PREMIER SRL",
+                "id": "5252",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PREMIER S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.561460733413696,
+                    43.34802072719328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso Mafi Via Leonardo da Vinci",
+                "id": "21224",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MAFI S.N.C. DI FIORUCCI GIACINTO & MANGONI LUCIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.562749778620855,
+                    43.35648928248387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gonzalez Madrid Manuel",
+                "id": "19898",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "GONZALES MADRID MANUEL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.59918063879013,
+                    43.42458844837556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO DISTRIBUTORE VIA PERUGINA",
+                "id": "29803",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "R.B. S.N.C. DI BIAGIOTTI E ROSETTI E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.575799397622635,
+                    43.343993192153896
+                ]
+            }
+        }
+    ]
+}

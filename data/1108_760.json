@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO Angiolino Di Pinti snc",
+                "id": "27308",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ANGIOLINO DI PINTI S.N.C. DI DI PINTI AMELINA CRISTINA, PASQUALINO E GABRIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.779400825500488,
+                    41.965983984365984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTENERO DI BISACCIA VIA ARGENTIERI",
+                "id": "6714",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.780150303704886,
+                    41.96463924924777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore IP di Silvano Nicola",
+                "id": "21830",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SILVANO NICOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.91517708378433,
+                    41.912504461101996
+                ]
+            }
+        }
+    ]
+}

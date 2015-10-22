@@ -1,0 +1,88 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "_TOTALERG",
+                "id": "4062",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CROS S.N.C. DI ROSSI DOMENICO E CROCETTI LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.89375106708985,
+                    43.32389016005815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PAR di PAOLINI ANNA E ROBERTA snc",
+                "id": "21723",
+                "amenity": "fuel",
+                "operator": "P.A.R.DI PAOLINI ANNA E ROBERTA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.863399430930942,
+                    43.22619365267606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil Matelica",
+                "id": "13580",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "LEONANGELI FERNANDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.004540205001831,
+                    43.273823029910766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FM CHIMICA DI FALCIONI PAOLA",
+                "id": "30078",
+                "amenity": "fuel",
+                "operator": "FM CHIMICA DI FALCIONI PAOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.970355451107025,
+                    43.25026987925396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE RIFORNIMENTO IP DONATO MASSIMILIANO",
+                "id": "6327",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DONATO MASSIMILIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.986901998519897,
+                    43.32273586155669
+                ]
+            }
+        }
+    ]
+}

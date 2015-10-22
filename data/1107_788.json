@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "D ' Amico S.A.S.",
+                "id": "9577",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "D'AMICO SAS DI D'AMICO SALVATORE E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.747116547750917,
+                    38.16208168537649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gas",
+                "id": "17004",
+                "amenity": "fuel",
+                "operator": "GIARDINA GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.735909173178015,
+                    38.13583953461209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "D' Amico S.A.S",
+                "id": "8522",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "D'AMICO SAS DI D'AMICO SALVATORE E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.751768708229063,
+                    38.15621518110415
+                ]
+            }
+        }
+    ]
+}

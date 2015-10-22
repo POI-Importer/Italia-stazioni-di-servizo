@@ -1,0 +1,207 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rabbia gianpiero",
+                "id": "18297",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "RABBIA GIOVANNI PIERO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3959023505449295,
+                    44.27234618159614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RUSSO SALVATORE STAZIONE DI SERVIZIO ENI",
+                "id": "4278",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RUSSO SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.485355356371997,
+                    44.32638897781847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP di Chesta Piergiorgio",
+                "id": "6316",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CHESTA PIERGIORGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4839940343932785,
+                    44.325748854242185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip",
+                "id": "21823",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BOI ERIBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.509041606151641,
+                    44.29692892630827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "8317",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DALMASSO RAFFAELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.53474622964859,
+                    44.24281255280272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PEDONA PETROLI SAS",
+                "id": "20705",
+                "amenity": "fuel",
+                "operator": "PEDONA PETROLI S.A.S. DI BOSTICARDO MARIO & FIGLI  SIGLABILE PEDONA PETROLI S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.489856779575348,
+                    44.326639560129124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "18936",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BERTAINA MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.493877410888672,
+                    44.33142016351349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "p.v. BOVES",
+                "id": "13316",
+                "brand": "SACED",
+                "amenity": "fuel",
+                "operator": "SACED S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.533851712942124,
+                    44.33607337534873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CENTRO CALOR ENTRACQUE",
+                "id": "10525",
+                "amenity": "fuel",
+                "operator": "CENTRO CALOR S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.397785569594929,
+                    44.24347423321323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIALE A. E GIRAUDO G.SNC Stazione di Servizio ENI",
+                "id": "17119",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VIALE AGOSTINO E GIRAUDO GIULIANA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.490030558099761,
+                    44.33291851964043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "13228",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GIULIANO ETTORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.551748511349957,
+                    44.33006324414369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ERG DI ALLASIA CRISTINA",
+                "id": "8512",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ALLASIA CRISTINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4035580456256875,
+                    44.33283608048801
+                ]
+            }
+        }
+    ]
+}

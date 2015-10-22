@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE IP RABBI",
+                "id": "16804",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CICOLINI PATRIZIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.861760973930359,
+                    46.388455829886894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "repsol stazione di servizio di zappini piera",
+                "id": "23690",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "ZAPPINI PIERA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.847821109145116,
+                    46.32247182286707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "20721",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VALENTINELLI LORENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.89551623147338,
+                    46.337657480483756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI 3536",
+                "id": "23670",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RAVELLI SILVANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.841292384795679,
+                    46.32130805965985
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MARCHETTI GIANMARIA",
+                "id": "21557",
+                "brand": "Socogas",
+                "amenity": "fuel",
+                "operator": "MARCHETTI GIANMARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.116404533386229,
+                    44.99559981285528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DELTA ENERGY SRL - Carbonara di Po",
+                "id": "30354",
+                "brand": "Delta energy",
+                "amenity": "fuel",
+                "operator": "DELTA ENERGY S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.244451484469664,
+                    45.02314540847117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Energy Rete S.r.l.",
+                "id": "4082",
+                "brand": "Energy Rete",
+                "amenity": "fuel",
+                "operator": "ENERGY RETE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.106297969818115,
+                    44.96711696216659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio ip",
+                "id": "6123",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ROMEI PATRIZIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.12708586011888,
+                    45.043210805330204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MASSARI MARCO",
+                "id": "14447",
+                "amenity": "fuel",
+                "operator": "MASSARI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.169668917999275,
+                    45.005524128505215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SMC.SRL",
+                "id": "21341",
+                "amenity": "fuel",
+                "operator": "SMC - SOCIETA' MANTOVANA CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.244423687458038,
+                    45.02317709599302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio Beyfin di Ragazzi Sabrina",
+                "id": "23801",
+                "amenity": "fuel",
+                "operator": "RAGAZZI SABRINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.210694909095766,
+                    45.07646710612507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ENI DI GOLA ALESSANDRA",
+                "id": "13656",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO ENI DI GOLA ALESSANDRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.130064665012355,
+                    45.04843651739597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "20881",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO ABETONE BRENNERO EST S.N.C. DI COMPRI SERGIO, CARLETTO ISABELLA, AMBROSI AMEDEO LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.14131113986207,
+                    45.06729938973965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MN 01 - Ostiglia",
+                "id": "22161",
+                "amenity": "fuel",
+                "operator": "VINCENZI PAOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.136662431877085,
+                    45.08897722195167
+                ]
+            }
+        }
+    ]
+}

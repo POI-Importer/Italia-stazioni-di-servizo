@@ -1,0 +1,155 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GRAVINA IN PUGLIA",
+                "id": "25189",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.42361877546307,
+                    40.82955073788867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "30619",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SAVINO CARBURANTI DI SAVINO RAFFAELE & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.431595981121063,
+                    40.81794217469582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GIANNETTA GIUSEPPE",
+                "id": "24005",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO AGIP DI GIANNETTA GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.418512,
+                    40.81714470000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASAREALE",
+                "id": "14519",
+                "amenity": "fuel",
+                "operator": "CASAREALE VINCENZO SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.417105346918106,
+                    40.80884286128943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALTAMURA S.S. 96 KM 73+390",
+                "id": "6747",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.462663096225697,
+                    40.82077399138478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "metanauto gravina ba srl",
+                "id": "30595",
+                "amenity": "fuel",
+                "operator": "METANAUTO GRAVINA - BA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.452101469039917,
+                    40.82127432559802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio carburanti  DL",
+                "id": "23956",
+                "amenity": "fuel",
+                "operator": "DILELLA LUCIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.420407385250087,
+                    40.82418662327145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ITALSUD CARBURANTI",
+                "id": "30562",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ITALSUD CARBURANTI SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.443081200122833,
+                    40.81893802147132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.s. Eni di Gramegna Giacomo",
+                "id": "15644",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GRAMEGNA GIACOMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.42558657976224,
+                    40.817718157306565
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "_Stazione Servizio Q8",
+                "id": "7592",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MARTELETTI MIRCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.574249625205992,
+                    45.8516913645584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Leotti Paolo",
+                "id": "23610",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LEOTTI PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.583267211914062,
+                    45.86898266754387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "_ESSO STORO SELF AREA",
+                "id": "7815",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ESSO STORO - SELF AREA - DI DEMADONNA SIMONE DIEGO  & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.557739795506222,
+                    45.848537964893445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "impianto ip",
+                "id": "19496",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LOLLI ELVIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.641982793854368,
+                    45.94386430342391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ARMANI ABRAMO & C. S.N.C.",
+                "id": "7865",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ARMANI ABRAMO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.63897132873535,
+                    45.936213849554335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CROSINA MARIO & C SNC",
+                "id": "21386",
+                "amenity": "fuel",
+                "operator": "CROSINA MARIO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.68536471036225,
+                    45.89257057865441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PELLIZZARI RINALDO",
+                "id": "8571",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PELLIZZARI RINALDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.618091145997823,
+                    45.94731082920474
+                ]
+            }
+        }
+    ]
+}

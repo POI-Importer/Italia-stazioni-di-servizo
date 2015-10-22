@@ -1,0 +1,86 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALTOBELLI MARIA RITA",
+                "id": "20280",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ALTOBELLI MARIA RITA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.893418913491816,
+                    43.031519291777265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ABAENERGY",
+                "id": "9488",
+                "amenity": "fuel",
+                "operator": "ABAENERGY S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.839697003364565,
+                    42.97721145654143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "mg petroli",
+                "id": "20104",
+                "amenity": "fuel",
+                "operator": "FONTE DELLE MATTINATE 33 - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.929685115814209,
+                    43.05440343016317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE ICM",
+                "id": "25578",
+                "amenity": "fuel",
+                "operator": "GIULIANI ARCANGELO E MARIA ASSUNTA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.839707732200626,
+                    42.97720556942845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "mg petroli",
+                "id": "20101",
+                "amenity": "fuel",
+                "operator": "FONTE DELLE MATTINATE 33 - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.929529547691345,
+                    43.054720934062765
+                ]
+            }
+        }
+    ]
+}

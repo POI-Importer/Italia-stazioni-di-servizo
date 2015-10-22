@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip",
+                "id": "16540",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FORIO DISTRIBUZIONE CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.864494636654854,
+                    40.728574687117586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Agip",
+                "id": "15642",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ELLEMME S.A.S. DI MIRAGLIUOLO LEONARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.866339569131469,
+                    40.74218213730681
+                ]
+            }
+        }
+    ]
+}

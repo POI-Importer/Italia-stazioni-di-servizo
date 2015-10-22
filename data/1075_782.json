@@ -1,0 +1,158 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore carburanti ENI",
+                "id": "6284",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ZUCCA ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.970381170511246,
+                    38.96927954884847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto Agip 7605",
+                "id": "24212",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SPANO ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.01054074047545,
+                    39.067171818760166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore ENI",
+                "id": "29901",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SELIS GIANPAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.992649540305138,
+                    38.993507225342086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO ESSO",
+                "id": "24035",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MURGIA ANGELO COSTANTINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.010534169311542,
+                    39.07049708571897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore eni",
+                "id": "28517",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MARINI LAURA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.995876913372967,
+                    39.008863450000014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO",
+                "id": "24551",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "L'ISOLA BAR DI COCCIA PATRIZIO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.000981152057648,
+                    39.02974995404263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO IP",
+                "id": "10024",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MELONI ANNA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.00090605020523,
+                    39.00561576594159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "6232",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MELONI GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.979982137680052,
+                    38.97971586144381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore IP Macis Franco",
+                "id": "18969",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MACIS FRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.001623127136668,
+                    39.01475809261536
+                ]
+            }
+        }
+    ]
+}

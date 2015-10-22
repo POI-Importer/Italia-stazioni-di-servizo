@@ -1,0 +1,241 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IDC TRIGLIA SCALETTA",
+                "id": "28671",
+                "amenity": "fuel",
+                "operator": "ADAMO IDROCARBURI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.527919709682466,
+                    37.71516583138469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE RIFORNIMENTO ESSO",
+                "id": "11403",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BUSCARINO MATTEO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.58850056152869,
+                    37.656527021540235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STABILE ANDREA",
+                "id": "31626",
+                "amenity": "fuel",
+                "operator": "STABILE ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.528465893376165,
+                    37.71811120802312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "erg di stabile vito",
+                "id": "18041",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "STABILE  VITO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.600283026695248,
+                    37.65796230641276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "il rifornimento s.a.s. di ferrantello maurizio",
+                "id": "20744",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "IL RIFORNIMENTO S.A.S. DI FERRANTELLO MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.594429900000002,
+                    37.65571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI n° 19940",
+                "id": "8951",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MAURIZIO FERRO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.600948214530945,
+                    37.66922497281446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO BUSCARINO GIACOMO",
+                "id": "31637",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BUSCARINO GIACOMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.588563173530245,
+                    37.6564627648513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RUSSO GIUSEPPE",
+                "id": "14844",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "RUSSO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.49050459262503,
+                    37.71256051847867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nastasi Tommaso",
+                "id": "19390",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NASTASI TOMMASO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.577843279670674,
+                    37.678775172772376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio IP di bruno salvatore",
+                "id": "17746",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BRUNO SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.609268426895143,
+                    37.660926555182904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "inc.as.carburanti",
+                "id": "29837",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "INC.AS. CARBURANTI - S.A.S. DI FERRO GIROLAMO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.597221865081792,
+                    37.64990984932295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 di CIPOLLA & RUSSO",
+                "id": "18255",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CIPOLLA V. &  RUSSO A. S.N.C. DI CIPOLLA VINCENZO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.587303817272185,
+                    37.673508431104295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore IP di bruno francesco",
+                "id": "17444",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BRUNO FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.594299118824894,
+                    37.65835478430126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "centrosig",
+                "id": "23456",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CENTROSIG S.R.L"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.576349675655367,
+                    37.65838274431515
+                ]
+            }
+        }
+    ]
+}

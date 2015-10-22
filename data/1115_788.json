@@ -1,0 +1,88 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IES",
+                "id": "25617",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "TRIMBOLI ROCCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.07052635392347,
+                    38.20315558836935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GIORGI G. E SEVERINO N. SRL",
+                "id": "6314",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GIORGI G. E SEVERINO N. S.R.L"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.169404685497284,
+                    38.14240349065855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CREA",
+                "id": "17956",
+                "amenity": "fuel",
+                "operator": "S.A.S. CREA DI SCULLI CONCETTA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.168553192836953,
+                    38.19143523412681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BOVALINO MARINA VIA NAZIONALE",
+                "id": "6782",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.167811536245722,
+                    38.14097082978644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Primerano Petroli",
+                "id": "26977",
+                "amenity": "fuel",
+                "operator": "BAR-RISTORANTE-PIZZERIA-STAZIONE DI RIFORNIMENTO ESSO DI FRANCE- SCO PRIMERANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.167835593223572,
+                    38.14804997846611
+                ]
+            }
+        }
+    ]
+}

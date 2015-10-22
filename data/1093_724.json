@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "API",
+                "id": "28892",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "R.C. DI RECRUCOLO ACHILLE & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.140089786508156,
+                    46.532133766934756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN VITO DI CADORE-VIA NAZIONALE 88",
+                "id": "11506",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.204178542327895,
+                    46.46599796777453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO ZUEL",
+                "id": "31369",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ALESSANDRO FERRIOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.147979438304901,
+                    46.51418192902837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Costantin",
+                "id": "7426",
+                "brand": "Costantin",
+                "amenity": "fuel",
+                "operator": "DE ZANNA GIORGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.132307291030884,
+                    46.54129445443074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "23795",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SCHIAVO GIULIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.13506053372953,
+                    46.540969497370554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CORTINA D'AMPEZZO - CADEMAI",
+                "id": "30245",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.130137550926179,
+                    46.551701844554486
+                ]
+            }
+        }
+    ]
+}

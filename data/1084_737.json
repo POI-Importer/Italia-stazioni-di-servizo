@@ -1,0 +1,240 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DIANA SALVATORE",
+                "id": "27797",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DIANA SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.622805655002596,
+                    44.938673313053954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GUASTALLA - CIRCONVALLAZIONE",
+                "id": "27120",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.65581609325409,
+                    44.92394557899576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL - 2810",
+                "id": "24600",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "L.R. - S.N.C. DI LANDINI CRISTIANO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.631428956985475,
+                    44.86563267169566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NOVELLARA-D'AZEGLIO",
+                "id": "31998",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ENERGY RETE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.713319480419159,
+                    44.85283565693079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BEYFIN",
+                "id": "31872",
+                "amenity": "fuel",
+                "operator": "GHULAM PUNJAB DI IQBAL AZHAR & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.69420874118805,
+                    44.93172008278969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REPSOL",
+                "id": "19706",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "SCARAVELLI IVANO E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.717748268508899,
+                    44.840601765001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GUALTIERI - CARRI",
+                "id": "27121",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.62081072883609,
+                    44.902813298759256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.LLI CINI  ads ENI",
+                "id": "29870",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "F.LLI CINI DI SANDRO E CESARE MASSIMO CINI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.613615816796937,
+                    44.9315484901793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "14067",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "IOTTI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.687374472618105,
+                    44.95309430870924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio EGO di Veneri Antonio",
+                "id": "11154",
+                "brand": "Ego",
+                "amenity": "fuel",
+                "operator": "VENERI ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.720234215259552,
+                    44.84321453905923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "enercoop - Guastalla",
+                "id": "13888",
+                "amenity": "fuel",
+                "operator": "ENERCOOP S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.658286263229343,
+                    44.907805820660414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "20097",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO F.LLI SCARAVELLI SNC DI SCARAVELLI MILO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.65246133372955,
+                    44.91289134752362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE CIMOIL DI ROME IMRAN",
+                "id": "10139",
+                "amenity": "fuel",
+                "operator": "ROME  IMRAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.674259525452953,
+                    44.899148375013425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI 6403",
+                "id": "7410",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FUTURA 5 DI ZARDINI SANDRA E F.LLI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.652957524588487,
+                    44.91529240955164
+                ]
+            }
+        }
+    ]
+}

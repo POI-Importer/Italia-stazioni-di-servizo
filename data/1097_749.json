@@ -1,0 +1,325 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "API/IP FABRIANO",
+                "id": "8443",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GOLDENGAS - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.980791926383974,
+                    43.34440127839654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV  ENERPETROLI",
+                "id": "10341",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ENERPETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.900298833847046,
+                    43.33770406589705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "05737",
+                "id": "27081",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "P.F. DI PARIS FERNANDO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.856254349319329,
+                    43.42650483149324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore carburanti Faggioni Pietro",
+                "id": "12879",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FAGGIONI PIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.898942769096264,
+                    43.340300796260784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SACAT_MONTECUCCO",
+                "id": "14664",
+                "amenity": "fuel",
+                "operator": "S.A.C.A.T. - SOCIETA' AUTONOMA CARBURANTI ED AFFINI TERNANA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.860044240951538,
+                    43.34581974740703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "12997",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MORETTI PIER PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.892026901245117,
+                    43.34379268429258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GAROFOLI DAVIDE SAS",
+                "id": "16820",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GAROFOLI DAVIDE E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.93813361593857,
+                    43.40696634688502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FABRIANO DANTE 272",
+                "id": "6608",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.927858166270425,
+                    43.350419980764094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG SPA",
+                "id": "12675",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "F.LLI SEBASTIANELLI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.858917004788395,
+                    43.432206396999554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distribuzione e Servizio Esso",
+                "id": "4239",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GENTILI S.N.C. DI GENTILI SIMONE E GENTILI LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.942301825145023,
+                    43.3462876956127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "17798",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "TROMBETTI IVAN E SARA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.916704565286638,
+                    43.343365884453895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MARCONI GOMME",
+                "id": "16863",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MARCONI GOMME S.N.C. DI SERGIO E MASSIMILIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.872837209423553,
+                    43.43615596048447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FRATELLI SILVESTRINI SNC",
+                "id": "13382",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "F.LLI SILVESTRINI S.N.C. DI SILVESTRINI FABRIZIO E SILVESTRINI MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.91431337594986,
+                    43.342271952451576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Retitalia Cerreto d'Esi",
+                "id": "31106",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "QUAD'S TIME SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA CONU NICO SOCIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.990049570768177,
+                    43.3258127727806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PAOLETTI ANTONIO & C. snc",
+                "id": "13115",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PAOLETTI ANTONIO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.913044691085815,
+                    43.34111323690458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fatygrill di Elaboudi Fatima (Autogrill)",
+                "id": "6208",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FATYGRILL DI ELABOUDI FATIMA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.975014448165894,
+                    43.34441220177815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "G.M. di Mancinelli Luciano e C. s.a.s.",
+                "id": "16294",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "G.M. DI MANCINELLI LUCIANO E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.902426956764202,
+                    43.43866362097182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BIEFFE S.A.S. DISTRIBUTORE METANO DI FRATONI MARIANO E C.",
+                "id": "5153",
+                "amenity": "fuel",
+                "operator": "BIEFFE S.A.S. DISTRIBUTORE METANO DI FRATONI MARIANO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.942873537540436,
+                    43.345720658429215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NATURAL GAS SRL",
+                "id": "15984",
+                "amenity": "fuel",
+                "operator": "NATURAL GAS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.860065698623657,
+                    43.3459071326012
+                ]
+            }
+        }
+    ]
+}

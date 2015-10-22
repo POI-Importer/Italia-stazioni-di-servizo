@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "13938",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SALOMONE VINCENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.546153128147125,
+                    38.691504823180225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Rifornimento ENI",
+                "id": "24049",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GALATI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.57073766464123,
+                    38.78205132699168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE TAMOIL DI LOMBARDO ANTONIO",
+                "id": "30442",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE TAMOIL DI LOMBARDO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.54675528407097,
+                    38.73963030223694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SANGIULIANO CARBURANTI SRL",
+                "id": "22788",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SANGIULIANO CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.53268575668335,
+                    38.714884641072054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "15821",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "AGRESTA PASQUALE S.N.C. DEI F.LLI AGRESTA E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.54736816883087,
+                    38.737488360752124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Corapi SERVICE s.a.s.",
+                "id": "22819",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CORAPI SERVICE SAS DI CORAPI FRANCESCO - CORAPI VITO LEO - CORAPI ROSSANA & C"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.549161225557327,
+                    38.68715957779909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GIROPACO",
+                "id": "25366",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GIROPACO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.535979509353638,
+                    38.6997162079909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Corapi s.a.s.",
+                "id": "22818",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CORAPI S.A.S. DI CORAPI FRANCESCO - CORAPI VITO LEO  &  C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.541689932346344,
+                    38.68670399745108
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PAGNIN",
+                "id": "20993",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PAGNIN PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4210098528481,
+                    46.46282886893179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI-SOM TRE PONTI",
+                "id": "7192",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LAGUNA DIEGO E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.456843852996823,
+                    46.50196227356783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL AURONZO",
+                "id": "18059",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BENEDETTI FASIL GIOVANNI LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.45937719941139,
+                    46.54370126831567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MENEGHIN GIANMARIO",
+                "id": "8693",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MENEGHIN GIANMARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.409399206966102,
+                    46.45745526582094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "retitalia",
+                "id": "27605",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "DA PRA' DARIO & C. SNC DI DA PRA' GIANLUIGI & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.451071739196781,
+                    46.48942261124323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio de diana bruna snc",
+                "id": "7215",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "DE DIANA BRUNA & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.382629811763763,
+                    46.442373876488496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTI NIA OSVALDO",
+                "id": "21612",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MONTI NIA OSVALDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.448958644844085,
+                    46.54893826766001
+                ]
+            }
+        }
+    ]
+}

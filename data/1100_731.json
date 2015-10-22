@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GRADO IP",
+                "id": "24983",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SOM S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.404839783906935,
+                    45.68186917679626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "San Marco Petroli nautico",
+                "id": "10670",
+                "brand": "Som/Omv",
+                "amenity": "fuel",
+                "operator": "DARSENA SAN MARCO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.385421931743624,
+                    45.68468670658568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Drusian s.a.s.",
+                "id": "29859",
+                "amenity": "fuel",
+                "operator": "DRUSIAN S.A.S. DI DRUSIAN RENATO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.396720706509086,
+                    45.67948949693305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GRADO LOC PINETA S.P. PER MONFALCONE",
+                "id": "23873",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.417021395633238,
+                    45.68163235185822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "16868",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "S.G. DI SALMERI DARIO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.405379698481509,
+                    45.68210552817908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "agip impianto numero 4115",
+                "id": "15109",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MARCHESAN S.N.C. DI MARCHESAN  MAURIZIO & MASSIMILIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.386957099475127,
+                    45.681717882782166
+                ]
+            }
+        }
+    ]
+}

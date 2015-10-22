@@ -1,0 +1,171 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "il molo srl",
+                "id": "21198",
+                "amenity": "fuel",
+                "operator": "IL MOLO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5790455,
+                    37.2631384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA PETRARCA SN",
+                "id": "17810",
+                "amenity": "fuel",
+                "operator": "A.NUARA E FIGLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.589788824319838,
+                    37.298164676483196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP VILLASETA",
+                "id": "12774",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DI BENEDETTO CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.569776862859728,
+                    37.29331979071349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PETROL MOSE' SRL",
+                "id": "8071",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PETROL MOSE' S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.541397750377655,
+                    37.294706117950234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nuara - V.le Leonardo Sciascia - Vill. Mosè",
+                "id": "4635",
+                "brand": "Lukoil",
+                "amenity": "fuel",
+                "operator": "A.NUARA E FIGLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.610502183437347,
+                    37.27701951470328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CONTRADA BURRAITI SS 115 KM 197+435",
+                "id": "25077",
+                "amenity": "fuel",
+                "operator": "A.NUARA E FIGLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.667558133602144,
+                    37.247453962516225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "21524",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "NOBILE OIL GROUP S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.626721501350406,
+                    37.271179903909264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGRIGENTO VIA FOSSE ARDEATINE LOC.VILLASETA",
+                "id": "25614",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.547611503041026,
+                    37.29582883251122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGRIGENTO EX S.S.115 KM 191+222 VIL.MOSE",
+                "id": "20438",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.614236337434365,
+                    37.27431987367583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nuara Via Leonardo Sciascia Km 191 + 450",
+                "id": "8265",
+                "amenity": "fuel",
+                "operator": "A.NUARA E FIGLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.620863556861877,
+                    37.271196979454935
+                ]
+            }
+        }
+    ]
+}

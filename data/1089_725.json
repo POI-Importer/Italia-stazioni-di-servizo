@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "29135",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "TSCHAGER DOMINIK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.549860679944688,
+                    46.42595995940522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NOVA PONENTE-LOC.PONTENOVA SS. 241 KM.12+200",
+                "id": "11542",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.479976776515743,
+                    46.42616214230415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GNP NOVA PONENTE",
+                "id": "31375",
+                "brand": "GNP",
+                "amenity": "fuel",
+                "operator": "GRUPPO NORD PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.433165491587033,
+                    46.41093468547959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "21909",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CAMELO SERVICE DI DELLASEGA RICCARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.597107293657018,
+                    46.31722211901322
+                ]
+            }
+        }
+    ]
+}

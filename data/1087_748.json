@@ -1,0 +1,276 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gori Mattia",
+                "id": "17650",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GORI MATTIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.172899525131243,
+                    43.54305629960399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BARBERINO VAL D'ELSA-SS429 KM42 739",
+                "id": "7259",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.120559275150299,
+                    43.49368722706795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SD DI SALVINI FIORENZO & DRAGONI MASSIMO SNC",
+                "id": "13144",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SD DI SALVINI FIORENZO & DRAGONI MASSIMO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.135771931687485,
+                    43.46877758724944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ernesto Galgani",
+                "id": "15066",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GALGANI ERNESTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2273275972168,
+                    43.54584864035118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI STATION - AREA MULTISERVIZI ENI",
+                "id": "15438",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "F.LLI PETRINI  SNC DI PETRINI MICHELE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.151909604668619,
+                    43.46460904948057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "POGGIBONSI",
+                "id": "4379",
+                "amenity": "fuel",
+                "operator": "COLMETANO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.129660010337828,
+                    43.47671972384572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CERTALDO",
+                "id": "5796",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TotalErg SpA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.081158612268384,
+                    43.5219199724496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "28417",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SMILE SERVICE DI DI LEONARDO YURI & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.142653585319522,
+                    43.475974687310845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DROVE OVEST",
+                "id": "3645",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "DRIVE SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.164984703063967,
+                    43.48826829480792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI 5459 Petrini e Santini",
+                "id": "12355",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PETRINI E SANTINI S.N.C. DI PETRINI DAVIDE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.147089434393365,
+                    43.47329367466222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DROVE EST",
+                "id": "3644",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "DRIVE SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.169973611831663,
+                    43.488743112959824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "24063",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO S.N.C. DI CAPEZZUOLI MARCO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.129969809916131,
+                    43.47706284784014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TRE +",
+                "id": "15003",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TRE + S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.144870258662309,
+                    43.48538848356435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.LLI CIONI",
+                "id": "6253",
+                "brand": "Aquila",
+                "amenity": "fuel",
+                "operator": "F.LLI CIONI DI CIONI MAURO E MAURIZIO SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.14261507987976,
+                    43.48366392193896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Goccia Blu s.n.c. distributore TOTALERG",
+                "id": "8363",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GOCCIA BLU DI MARCO PARTI E SIMONA NALDINI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.180242979101536,
+                    43.561777567955254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO SALCETO Poggibonsi",
+                "id": "31057",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SGD CARBURANTI DI PICOZZI, COPPOLA E MARINIELLO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.153419017791746,
+                    43.468726680154305
+                ]
+            }
+        }
+    ]
+}

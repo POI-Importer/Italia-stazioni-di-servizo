@@ -1,0 +1,578 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TESOLIN FABIO",
+                "id": "7481",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "TESOLIN FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.65071928501129,
+                    45.97475755568006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE ENI",
+                "id": "27250",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GE.DE. DI GERACI ENRICO & C. SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.642581462860106,
+                    45.971953925246716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eredi della gaspera snc",
+                "id": "25395",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "EREDI DELLA GASPERA GRAZIANO S.N.C. DI DELLA GASPERA BEATRICE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.54483103752136,
+                    45.99235380559003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COSTANTIN - Sacile",
+                "id": "32084",
+                "brand": "Costantin",
+                "amenity": "fuel",
+                "operator": "GRAVINO SAS DI GRAVINO RENATA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.509762600069392,
+                    45.95991356286735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Termoveneta srl (Caneva)",
+                "id": "5023",
+                "amenity": "fuel",
+                "operator": "TERMOVENETA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.485974888695525,
+                    45.975047437204815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TESOLIN ARMANDO",
+                "id": "7468",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "TESOLIN ARMANDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.650409716559126,
+                    45.96377269713189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORO",
+                "id": "15281",
+                "amenity": "fuel",
+                "operator": "MORASSET FIAMMETTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.586524000000056,
+                    46.06836554239406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "3500 tamoil",
+                "id": "6996",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "DISTRIBUZIONE CARBURANTI S.A.S. DI MORASSUT STEFANO  &  C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.615574647360289,
+                    45.96868214229566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP CAR GOLD S.A.S.",
+                "id": "6347",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CAR GOLD S.A.S. DI BRAVIN GIULIANO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.588357925415037,
+                    45.98659312751111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AVIANO PORDENONE,63",
+                "id": "9001",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.597664688885517,
+                    46.06301566518979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Celotto Alejandra & C. Sas",
+                "id": "8684",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CELOTTO ALEJANDRA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.512078027647362,
+                    45.960131020274865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GNP PORDENONE",
+                "id": "4737",
+                "amenity": "fuel",
+                "operator": "GRUPPO NORD PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.630750953967324,
+                    45.96922271322394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "API ANONIMA PETROLI ITALIANA",
+                "id": "24974",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MASUTTI STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.649444160079955,
+                    45.96393959294192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "29375",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "QUERENGHI SNC DI QUERENGHI ANTONIO & FEDERICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.651207447052006,
+                    46.018594274554815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pignat Guido Eredi S.n.c. Distr. ESSO",
+                "id": "24965",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PIGNAT GUIDO EREDI S.N.C. DI PIGNAT GUIDO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.489291925460975,
+                    45.95182086100207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "24870",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "QUERENGHI ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.602442045538282,
+                    46.05197636357925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Agip Gimi",
+                "id": "19502",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GI.MI S.N.C. DI DALL'ACQUA GIANCARLO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.614216439083862,
+                    46.03802021298684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SACILE-VIALE REPUBBLICA 49",
+                "id": "11777",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.494579822090143,
+                    45.955556458860535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "medunagas s.r.l.",
+                "id": "18569",
+                "amenity": "fuel",
+                "operator": "MEDUNAGAS - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.629736173985295,
+                    45.97419472236847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio Posocco Angelo",
+                "id": "22639",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "POSOCCO ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.600494921207426,
+                    46.05767590163062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio agip di Menegoz Alessandro",
+                "id": "14504",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MENEGOZ ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.514231153442324,
+                    46.016509403732485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FONTANAGOMME",
+                "id": "13681",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FONTANAGOMME DI DEL BEN CRISTIAN & CARPENE' MARINELLA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.575052827596664,
+                    45.97784026682478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zetagas",
+                "id": "4817",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ZETAGAS, DI ZANELLA GIOVANNI & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.543464675762948,
+                    45.968298868912655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SACILE-VIALE DELLA REPUBBLICA 36",
+                "id": "11771",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.502467169306783,
+                    45.95942130298089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio ESSO 2508",
+                "id": "29947",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "OMEN DI COSTABILE ENZO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.603318894047105,
+                    46.051652380648356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DONADEL ORFEO VALENTINO",
+                "id": "4789",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DONADEL ORFEO VALENTINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.509181510725398,
+                    46.04090343922262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Costantin Pordenone",
+                "id": "24196",
+                "brand": "Costantin",
+                "amenity": "fuel",
+                "operator": "F G DI GJONI FRANCESCA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.643477320671082,
+                    45.98400629260411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Termoveneta srl (Roveredo)",
+                "id": "5036",
+                "amenity": "fuel",
+                "operator": "TERMOVENETA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.616443619296206,
+                    45.99105850740608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EMA.TOM",
+                "id": "8688",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "EMA.TOM DI QUAIA ELIO E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.541943930426212,
+                    46.04047917452594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PORDENONE-V.LE GRIGOLETTI 92",
+                "id": "11773",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.640182741069793,
+                    45.96598440954757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Costantin - Porcia",
+                "id": "27184",
+                "brand": "Costantin",
+                "amenity": "fuel",
+                "operator": "ESSEVI S.N.C. DI PERNA SALVATORE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.624163325131237,
+                    45.967692099999994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saini srl",
+                "id": "30389",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SAINI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.621209228172347,
+                    46.02063252363084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso Tesolin",
+                "id": "32128",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "TESOLIN GIANANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.645557373762129,
+                    45.98142287816694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CONAD SUPERSTORE PORCIA",
+                "id": "26173",
+                "brand": "CONAD",
+                "amenity": "fuel",
+                "operator": "S.G.S. SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.613624334335327,
+                    45.97297025770124
+                ]
+            }
+        }
+    ]
+}

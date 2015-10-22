@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "malaspina giuseppe",
+                "id": "4983",
+                "amenity": "fuel",
+                "operator": "MALASPINA GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.081328988075256,
+                    37.94307219677943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione servizio esso",
+                "id": "26493",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GUIDA ROSSANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.107252538204193,
+                    37.97198534747238
+                ]
+            }
+        }
+    ]
+}

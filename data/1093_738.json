@@ -1,0 +1,158 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "30935",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ROCCA ANTONELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.208916544914246,
+                    44.73257565050044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "24410",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ZUCCHINI MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.211311757564546,
+                    44.73559493152487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "4153",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ZUCCHINI MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.214459329843525,
+                    44.71868332628229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shell - Service car center dei F.lli Tarroni & C. s.n.c.",
+                "id": "5163",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "SERVICE CAR CENTER DEI F.LLI TARRONI DI ANDREA ED ENRICO TARRONI & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.177102863788603,
+                    44.82422126537857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COMACCHIO-FZ.S.GIUSEPPE VIA ROMEA 62",
+                "id": "11574",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.21350997056959,
+                    44.720822869928156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "28596",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ITAPOL S.N.C. DI FINESSI STEFANO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.181971073150635,
+                    44.7877441862171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "officina f.lli Polis S.N.C",
+                "id": "24318",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "OFFICINA F.LLI POLIS S.N.C. DI FINESSI MARCO E MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.145411457672138,
+                    44.76475405989456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "pegaso carburanti s.r.l.",
+                "id": "6841",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PEGASO CARBURANTI - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.185980305075647,
+                    44.77506182026933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LAGOSANTO-VIA GIOVANNI XXIII",
+                "id": "11576",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.131468809509215,
+                    44.77227197381453
+                ]
+            }
+        }
+    ]
+}

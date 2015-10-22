@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C.SO CAVALLARO, 47 MANIACE",
+                "id": "31846",
+                "brand": "Giap",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.803680885913877,
+                    37.87022152805082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FLORESTA",
+                "id": "23329",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PETROL COMPANY  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.917349517345428,
+                    37.98946695427508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore carburanti esso",
+                "id": "23857",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PATERNITI PATRIZIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.808628258860834,
+                    37.85816549103951
+                ]
+            }
+        }
+    ]
+}

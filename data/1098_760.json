@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGOSTA-VIA SUBLA CENSE KM.6",
+                "id": "11810",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.032264373016346,
+                    41.97953251171708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MARCUCCI ROBERTO - ENI PV 56176",
+                "id": "18506",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MARCUCCI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.084561228752136,
+                    41.925829365307486
+                ]
+            }
+        }
+    ]
+}

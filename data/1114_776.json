@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MORMANNO2000SRL",
+                "id": "18045",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MORMANNO 2000 S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.992499589920042,
+                    39.89392201859138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO",
+                "id": "24121",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BLOISE EDMONDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.840292274951937,
+                    39.8214991149375
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO FABBRIS MARIO",
+                "id": "24599",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FABBRIS MARIO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.884894233135244,
+                    45.83032892348926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SIGNOR LUCA",
+                "id": "11239",
+                "brand": "Som/Omv",
+                "amenity": "fuel",
+                "operator": "SIGNOR LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.898014271163902,
+                    45.86115177248471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio \"ESSO\" di Martinazzo Roberto",
+                "id": "27721",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MARTINAZZO ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.941783279180527,
+                    45.90404151247259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GNP CAVASO",
+                "id": "4409",
+                "brand": "GNP",
+                "amenity": "fuel",
+                "operator": "GRUPPO NORD PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.929849335912648,
+                    45.85742915373334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AG Energy Andreatta Gianluca",
+                "id": "30691",
+                "brand": "AG energy",
+                "amenity": "fuel",
+                "operator": "ANDREATTA GIANLUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.882548342322252,
+                    45.848788601364355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Valli Carburanti",
+                "id": "23193",
+                "amenity": "fuel",
+                "operator": "MIOTTO MORENO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.930712461471556,
+                    45.93615266554612
+                ]
+            }
+        }
+    ]
+}

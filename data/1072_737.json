@@ -1,0 +1,388 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EUROPAM-V.TIVOLI",
+                "id": "31249",
+                "amenity": "fuel",
+                "operator": "EUROPAM S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.606072111654157,
+                    44.90276881622515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alessandria Oil",
+                "id": "4636",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.596579134464264,
+                    44.919300149823464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "13220",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "T.A.M. PETROL DI MOLINA GIUSEPPE E GIANLUCA S.A.S"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.613011920009285,
+                    44.85094129357722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio \"IP\" - An.Gi di Antonio Lecce",
+                "id": "22975",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "AN.GI DI ANTONIO LECCE S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.61233416718187,
+                    44.91939743419402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso italiana",
+                "id": "19180",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GARGANTINI GIANMARIO VITTORIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.606313413850783,
+                    44.903301975056685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "7630",
+                "id": "30525",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "T.D.M. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.587306067347527,
+                    44.89691515920304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Api",
+                "id": "29187",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ACI-SERVIZI ALESSANDRIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.608011281496374,
+                    44.9124803234052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 oviglio",
+                "id": "11246",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "AUTOEQUIPE DI PONGOLI GABRIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.493230938911438,
+                    44.860808819371464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "europam-cantalupo",
+                "id": "31032",
+                "amenity": "fuel",
+                "operator": "EUROPAM S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.570223977797356,
+                    44.87828692706877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "KEROPETROL",
+                "id": "17274",
+                "amenity": "fuel",
+                "operator": "F.LLI AIACHINI DI SIMONE E CARLO AIACHINI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.574221581220627,
+                    44.84855109778659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CENTRO CALOR ALESSANDRIA OVEST",
+                "id": "10523",
+                "amenity": "fuel",
+                "operator": "CENTRO CALOR S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.597237294381785,
+                    44.91901984458984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALESSANDRIA",
+                "id": "5512",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.595036822090151,
+                    44.91993339554132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CENTRO CALOR ALESSANDRIA SUD",
+                "id": "10522",
+                "amenity": "fuel",
+                "operator": "CENTRO CALOR S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.601680391571108,
+                    44.89143712276319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bragas - Alessandria via G. Bruno",
+                "id": "30280",
+                "amenity": "fuel",
+                "operator": "BRAGAS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.59728455543518,
+                    44.91903121146978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ENI NEW ENERGY SNC",
+                "id": "27453",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "NEW ENERGY DI RRUSHI ERMIRA E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.585180368374038,
+                    44.9321969901607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni di mazzoleni Federico 1448",
+                "id": "6879",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MAZZOLENI FEDERICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.592845499515533,
+                    44.920870071219404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALESSANDRIA CASALCERMELLI   IMP.Q8",
+                "id": "6405",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.598518371582031,
+                    44.88842783915975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALESSANDRIA ACQUI",
+                "id": "20730",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.589333146810532,
+                    44.89126320360915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni di mazzoleni Federico 1448",
+                "id": "7017",
+                "amenity": "fuel",
+                "operator": "MAZZOLENI FEDERICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.592845499515533,
+                    44.920870071219404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LE 2 VELE",
+                "id": "7101",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "LE 2 VELE DI NAPPO MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.58604609966278,
+                    44.926826114247305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALESSANDRIA-LOC ASTUTI SS 10 KM 90+300",
+                "id": "11454",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.579308046627036,
+                    44.921460116682965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bragas - Alessandria via Casalcermelli",
+                "id": "30279",
+                "amenity": "fuel",
+                "operator": "BRAGAS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.60164687486872,
+                    44.891438629148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "q8",
+                "id": "23638",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "LATTE MASSIMILIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.613180214238014,
+                    44.919794330113994
+                ]
+            }
+        }
+    ]
+}

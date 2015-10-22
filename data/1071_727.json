@@ -1,0 +1,174 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio ESSO di Giampaolo Alessandro",
+                "id": "28613",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GIAMPAOLO ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.284709127228098,
+                    46.11621021284575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MILANI F.lli",
+                "id": "15818",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MILANI F.LLI SNC DI MILANI CRISTINA E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.274062767612802,
+                    46.08124183136306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "28506",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GIERRE SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.293360032709415,
+                    46.09878115182658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MERCANTE-IOB S.A.S. DI MERCANTE LUCA E C.",
+                "id": "10422",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MERCANTE-IOB S.A.S. DI MERCANTE LUCA E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.296689206008296,
+                    46.10217320099896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "lampogas",
+                "id": "22930",
+                "amenity": "fuel",
+                "operator": "GUERRIERO GABRIELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.279508432516309,
+                    46.08439815739529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "19149",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GHERARDINI MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.429702891109288,
+                    46.133296756658794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rolando bruno",
+                "id": "22830",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ROLANDO BRUNO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.294188932526254,
+                    46.13203241041694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DOMODOSSOLA VIA GENTINETTA 39",
+                "id": "18351",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.295662879751262,
+                    46.1076374789956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TRONTANO-SS 337 KM 1+182",
+                "id": "11931",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.308863683874165,
+                    46.11291416423182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "28550",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GARAGE FONTANA S.N.C. DI CURCIO MASSIMO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.293491796068793,
+                    46.12667486975927
+                ]
+            }
+        }
+    ]
+}

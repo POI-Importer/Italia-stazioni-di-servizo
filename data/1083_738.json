@@ -1,0 +1,324 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO AGIP",
+                "id": "4761",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VI.B.OIL - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.498072206974028,
+                    44.785798271746096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GATTATICO",
+                "id": "22368",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "IES ITALIANA ENERGIA E SERVIZI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.475643575191498,
+                    44.775491941170856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG DI COZZI MAURO",
+                "id": "24061",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "COZZI MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.384367869450445,
+                    44.78379515498668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GATTATICO",
+                "id": "31986",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ENERGY RETE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.504329800605774,
+                    44.7970399623613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.MARTINO OVEST",
+                "id": "3618",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "anna ferrua sas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.379590493392925,
+                    44.825945084189826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE ENI DI BARBIERI MASSIMO",
+                "id": "20518",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BARBIERI MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.473041832447052,
+                    44.72216758310226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE ENI MONTICELLI TERME",
+                "id": "16024",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FORNARI & MARRANI S.N.C.  DI FORNARI MARCO E MARRANI MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.387777524606351,
+                    44.727779601561394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "11230",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SASSI MORENA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.504095857394418,
+                    44.74273666753573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REGGIANI DINO",
+                "id": "17595",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "REGGIANI DINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4762115329504,
+                    44.80320218548575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DALL'ASTA CRISTIANO",
+                "id": "16230",
+                "amenity": "fuel",
+                "operator": "DALL'ASTA CRISTIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.522279662267124,
+                    44.8398310318781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.MARTINO EST",
+                "id": "3906",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "Ge.A.N. s.n.c."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.378999999999998,
+                    44.8274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EVER SHINE DI NAZIR SAIRA",
+                "id": "20015",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "EVER SHINE DI NAZIR SAIRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.480165779590608,
+                    44.75062230280716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DALL'ASTA CRISTIANO",
+                "id": "16217",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "DALL'ASTA CRISTIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.545709580183031,
+                    44.84010959139876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C.M.C. Colonnine Metano Crocetta Srl",
+                "id": "5155",
+                "amenity": "fuel",
+                "operator": "C.M.C. COLONNINA METANO CROCETTA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.391467809677124,
+                    44.77954661106486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ELP",
+                "id": "23623",
+                "amenity": "fuel",
+                "operator": "IMPIANTO SHELL DI MATTIAZZI LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.410719643308312,
+                    44.77438976876802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CALERNO",
+                "id": "31987",
+                "brand": "Energy Rete",
+                "amenity": "fuel",
+                "operator": "ENERGY RETE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.49657955765724,
+                    44.7563552213047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MARICIC BOBAN",
+                "id": "4009",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BIMAVA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.380642414093018,
+                    44.72978182718038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAMPEGINE",
+                "id": "14451",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "C.I.S. NORD S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.512093533729512,
+                    44.780881192304975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EUROPAM SAN PROSPERO",
+                "id": "14646",
+                "amenity": "fuel",
+                "operator": "BOLOGNA F.LLI S.N.C. DI ANDREA E VITTORIO BOLOGNA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.39026752114296,
+                    44.781372414227846
+                ]
+            }
+        }
+    ]
+}

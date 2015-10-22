@@ -1,0 +1,1187 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 3728",
+                "id": "25901",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.236733734607695,
+                    45.49722700662713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso carburanti",
+                "id": "9139",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GOBBO PALMINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.147289514541628,
+                    45.506360822038836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "bisiach franco",
+                "id": "21043",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BISIACH FRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.274269051350414,
+                    45.50232974348098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERV. ERG",
+                "id": "20967",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "VIAN LORIS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.15027187076646,
+                    45.520312418478255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Venezia - Mestre",
+                "id": "17632",
+                "amenity": "fuel",
+                "operator": "BEYFIN S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.286219149827957,
+                    45.48472686267984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TRIVENGAS",
+                "id": "22086",
+                "brand": "Trivengas",
+                "amenity": "fuel",
+                "operator": "MANTOVANI LORENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.224045544862747,
+                    45.463358507460974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Staz.F.lli Vianello S.r.l. - Via Castellana, 177/D - Loc.Trivignano/Zelarino (Ve)",
+                "id": "23446",
+                "amenity": "fuel",
+                "operator": "F.LLI VIANELLO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.192056179046629,
+                    45.525362481913646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OIL ITALIA",
+                "id": "17006",
+                "amenity": "fuel",
+                "operator": "LAZZARO ENRICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.150711268186571,
+                    45.513523041772594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MARTELLAGO-VIA OLMO 110 LOCALITA' OLMO",
+                "id": "11947",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.171109970569658,
+                    45.520556776147835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VENEZIA V.MIRANESE 480 LOC.CHIRIGNAGO",
+                "id": "23321",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.184732565641413,
+                    45.48515938529048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MOGLIANO VENETO-VIA MARCONI 48",
+                "id": "11900",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.235511136245691,
+                    45.569255363885624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "29164",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TIEPPO FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.282646447420122,
+                    45.50939092350801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "bozzo s.n.c.",
+                "id": "6187",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BOZZO S.N.C. DI BOZZO MAURO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.270620333576973,
+                    45.47945955641651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip",
+                "id": "8221",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "RONCHIN MARINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.281152456998825,
+                    45.48397221498656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "bianco",
+                "id": "21358",
+                "amenity": "fuel",
+                "operator": "F.LLI BOESSO S.N.C. DI BOESSO ALBERTO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.229190076148596,
+                    45.471946009686604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 56718",
+                "id": "25904",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.143492102622988,
+                    45.55156208648023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VENEZIA",
+                "id": "5912",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TotalErg SpA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.26634522453696,
+                    45.50886675162768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO TOTALERG",
+                "id": "18476",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BUGIN PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.227987721562387,
+                    45.47924326032667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio ENI Bevilacqua Loris",
+                "id": "9977",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BEVILACQUA LORIS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.235021921124826,
+                    45.565373091881376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "30485",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BUGIN PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.210651428241702,
+                    45.48499375263348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Retitalia",
+                "id": "29034",
+                "amenity": "fuel",
+                "operator": "AUTOLAVAGGIO MESTRE SERVICE DI PAVAN STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.272298571758254,
+                    45.48075850349028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VENEZIA - MIRANESE",
+                "id": "30629",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.20942682209011,
+                    45.48518495616398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MOGLIANO VENETO VIA ZERMANESA 116 SP 64",
+                "id": "6489",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.259905338287355,
+                    45.56738985547974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 59112",
+                "id": "25905",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.23900020122528,
+                    45.528160939723605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Darsena Dec",
+                "id": "17858",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "IMMPART S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.253674902021881,
+                    45.483512896046435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VEGA MESTRE SUD",
+                "id": "31537",
+                "brand": "Vega",
+                "amenity": "fuel",
+                "operator": "VEGA CARBURANTI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.235609889030458,
+                    45.50313991663203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Staz.VIOIL Mogliano Veneto (TV)",
+                "id": "23553",
+                "amenity": "fuel",
+                "operator": "F.LLI VIANELLO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.23915541318115,
+                    45.56434014043353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VEGA MARIESCHI",
+                "id": "31534",
+                "brand": "Vega",
+                "amenity": "fuel",
+                "operator": "VEGA CARBURANTI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.21083535952448,
+                    45.516792717297314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "q8 di messulam alessandro",
+                "id": "14890",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MESSULAM ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.254492137380566,
+                    45.48727734658781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENERGI@3000 03706",
+                "id": "7623",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENERGI@ 3000 SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.198925316333773,
+                    45.47729804143036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA DELLA COSTITUZIONE SP81 KM2+134 - SPINEA",
+                "id": "28511",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.149497666306162,
+                    45.48018971298913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VENEZIA-FZ.MESTRE VIA MIRANESE 100",
+                "id": "11941",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.228087754631023,
+                    45.49120529570999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MARGHERA",
+                "id": "22215",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VILLABONA PETROLI S.A.S. DI ZILLIO, BOBBO, ARGENTON & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.211235873278836,
+                    45.47507665714436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARRER CHIARA & C. S.N.C.",
+                "id": "8626",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CARRER CHIARA & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.201788574457165,
+                    45.48515410955695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip teardo loris",
+                "id": "13512",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "TEARDO LORIS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.247107589428195,
+                    45.49078474662582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VEGA MESTRE NORD",
+                "id": "31538",
+                "brand": "Vega",
+                "amenity": "fuel",
+                "operator": "VEGA CARBURANTI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.235807031393051,
+                    45.50362398372918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "_SMP MOGLIANO VENETO",
+                "id": "32149",
+                "brand": "San Marco Petroli",
+                "amenity": "fuel",
+                "operator": "SAN MARCO PETROLI DISTRIBUZIONE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.264465093612671,
+                    45.57148729663653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VEGA BACCHION",
+                "id": "31451",
+                "brand": "Vega",
+                "amenity": "fuel",
+                "operator": "VEGA CARBURANTI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.233995199203491,
+                    45.518364887864976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SE.I. NORD EST - 13741",
+                "id": "30914",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI INNOVATIVI NORD EST S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.301302552223206,
+                    45.538608845484006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni n 51141 di chinellato cinzia",
+                "id": "10638",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CHINELLATO CINZIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.152454033493997,
+                    45.478163740765076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VENEZIA-FZ. MARGHERA VIA BRUNACCI 19",
+                "id": "11946",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.215465482139624,
+                    45.467148303337275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Loro F.lli Spa",
+                "id": "26949",
+                "brand": "Loro",
+                "amenity": "fuel",
+                "operator": "LORO F.LLI-S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.238050699234012,
+                    45.51733272746832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP - FARAON GIANNI S.N.C.",
+                "id": "29096",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FARAON GIANNI & C. S.N.C. DI FARAON GIANNI, CHIOATO GIANCARLO, FR ATER MARCO E GIULIANI GIANLUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.268815830688482,
+                    45.47462323275737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BAZZERA NORD",
+                "id": "3866",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "CHEF EXPRESS S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.259765863418577,
+                    45.52554137548633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MARCON-VIALE SAN MARCO 1",
+                "id": "11944",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.298438309192647,
+                    45.55483005046449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trivengas",
+                "id": "16488",
+                "brand": "Trivengas",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO GRG DI CUCCO GIANNANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.211925983428957,
+                    45.561908107835684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "18937",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MAZZOLIN MARCO E NICOLA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.232462987303734,
+                    45.477743399606666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.R. ESSO DI GIROTTO E SOPPELSA SNC",
+                "id": "21254",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "S.R. ESSO DI GIROTTO E SOPPELSA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.206676900386809,
+                    45.47705542500231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VEGA SCORZE'",
+                "id": "31533",
+                "brand": "Vega",
+                "amenity": "fuel",
+                "operator": "VEGA CARBURANTI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.171687483787537,
+                    45.56660270407961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VEGA TRIVIGNANO",
+                "id": "31539",
+                "brand": "Vega",
+                "amenity": "fuel",
+                "operator": "VEGA CARBURANTI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.18139708042145,
+                    45.53409130031824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL CATASSO DEVIL",
+                "id": "24405",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CATASSO DEVIL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.27022647857666,
+                    45.5025045135037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MARGHERA- RIONE DI VENE PIAZZALE SIRTORI",
+                "id": "6475",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.222185223942574,
+                    45.48001925786204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sia Fuel Zelarino",
+                "id": "26157",
+                "brand": "Sia fuel",
+                "amenity": "fuel",
+                "operator": "S.I.A. ENGINEERING CONSTRUCTION S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.208593468717254,
+                    45.51431763714946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FAVARO V.TO",
+                "id": "23831",
+                "brand": "Vega",
+                "amenity": "fuel",
+                "operator": "PARVO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.291162461042406,
+                    45.503014904453046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "autometano sas venezia",
+                "id": "22616",
+                "amenity": "fuel",
+                "operator": "AUTO METANO S.A.S. DI CORRA' ENZO, DAL DEGAN DOMENICO E TAIOLI FELICE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.199125140905382,
+                    45.469590201289016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VEGA PACCAGNELLA",
+                "id": "31535",
+                "brand": "Vega",
+                "amenity": "fuel",
+                "operator": "VEGA CARBURANTI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.221992313861845,
+                    45.51033563851843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "19594",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LUCAR S.N.C. DI BANDIERA R. E PIASER D."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.234617471694946,
+                    45.555067566671845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL MARGHERA",
+                "id": "18908",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CALZAVARA DANIELE & NEREO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.232154607772827,
+                    45.47710583979625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 52963",
+                "id": "25913",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.215365983992,
+                    45.50999038084738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "METANGAS",
+                "id": "17496",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "METANGAS S.N.C. DI SPOLAOR MASSIMO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.139589488506317,
+                    45.4992506859526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BAZZERA SUD",
+                "id": "3588",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ECOENERGY S.A.S. DI RAGAZZO L. E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.26265996694565,
+                    45.52598132225428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP 41987",
+                "id": "12735",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PETROL JOLLY S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.167621254920963,
+                    45.46220693267149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Agip 13561 via Zermanesa Mogliano Veneto",
+                "id": "19475",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BENETELLO MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.264471128582954,
+                    45.5714854190541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MARGHERA",
+                "id": "24798",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MANENTE DI MANENTE PATRIZIA E CINZIA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.214173078536986,
+                    45.47393668790093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Auchan",
+                "id": "4324",
+                "brand": "Auchan",
+                "amenity": "fuel",
+                "operator": "AUCHAN S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.236242890357971,
+                    45.516717406383584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO FAVERO",
+                "id": "29205",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FAVERO LUCIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.200291312828085,
+                    45.48513172164379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SMP SPINEA",
+                "id": "5245",
+                "brand": "San Marco Petroli",
+                "amenity": "fuel",
+                "operator": "SAN MARCO PETROLI DISTRIBUZIONE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.139395028352737,
+                    45.492992912394335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Melinato Marcello",
+                "id": "21588",
+                "brand": "Noaloil",
+                "amenity": "fuel",
+                "operator": "MELINATO MARCELLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.153331463503035,
+                    45.538252305715474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "carburanti terraglio",
+                "id": "18520",
+                "amenity": "fuel",
+                "operator": "CARBURANTI TERRAGLIO DI BORDIGNON DINO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.236819508598275,
+                    45.542304029360885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "29943",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DIGITAL CAR - SOCIETA' IN NOME COLLETTIVO DI DE LUCA MARCELLO E BOSCOLO PAOLINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.254436433663045,
+                    45.48342549971579
+                ]
+            }
+        }
+    ]
+}

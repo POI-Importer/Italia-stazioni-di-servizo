@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "22514",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TRINACRIA PETROL DI CANNIZZARO ANTONINO & C. S.A.S"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.29343478381634,
+                    37.85348318598207
+                ]
+            }
+        }
+    ]
+}

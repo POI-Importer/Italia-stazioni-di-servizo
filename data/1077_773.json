@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "25487",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CARBURANTI FRATELLI BOI DI BOI GIANFRANCO E C. SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.40027030124088,
+                    40.27886172771614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore carburanti flli bitti snc",
+                "id": "25511",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FRATELLI BITTI S.N.C. DI BITTI DIONIGI & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.397872984409332,
+                    40.282209484428066
+                ]
+            }
+        }
+    ]
+}

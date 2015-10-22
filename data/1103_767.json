@@ -1,0 +1,207 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Total Erg 11736",
+                "id": "20674",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CAMPOLI ALFREDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.90757158398628,
+                    41.107798078962496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ECO TRADING AREA SRL",
+                "id": "14038",
+                "amenity": "fuel",
+                "operator": "ECO TRADING AREA S.R.L. - DISTRIBUZIONE CARBURANTI ECOLOGICI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.916697800159453,
+                    41.0798396265874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE Q8",
+                "id": "13525",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "STAZIONE Q8 DI CASERTANO IMMACOLATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.962857276201246,
+                    41.00717965441374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "padisnc",
+                "id": "17721",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PADI S.N.C. DI PASQUINOLI VINCENZO E PASQUINOLI ANNUNZIATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.947452008724213,
+                    41.02587655864524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C PETROLI",
+                "id": "28754",
+                "amenity": "fuel",
+                "operator": "COPPOLA PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.957453918131248,
+                    41.014332757807374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cancello Arnone",
+                "id": "14188",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "N.E.C. S.R.L. - NETWORK - ENERGY COMPANY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.006880067459065,
+                    41.049308091095384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 D&B CARBURANTI",
+                "id": "19108",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "D. & B. S.A.S. DI DOMENICO IANNARELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.037023708224297,
+                    41.001300485763466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "agip",
+                "id": "23042",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CAVASO DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.04395252466202,
+                    41.05846535837706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTELVOLTURNO-SS 7 QUATER KM. 37+300",
+                "id": "11545",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.019745588302612,
+                    40.98101256930827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "KUWAIT",
+                "id": "10013",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO F.LLI CAMPOLI DI SALVATORE CAMPOLI S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.891975879669191,
+                    41.10734376234164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GE.SA.CARBURANTI",
+                "id": "13552",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GE.SA. CARBURANTI DI COPPOLA SAVERIO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.969613929818365,
+                    40.99967363620419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LA FATTORIA",
+                "id": "6243",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GE.CA. DI PIANESE VINCENZA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.968295454978941,
+                    41.02180759136391
+                ]
+            }
+        }
+    ]
+}

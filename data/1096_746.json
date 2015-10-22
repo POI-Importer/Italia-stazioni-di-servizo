@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP di Luchetti Giovanni",
+                "id": "27345",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LUCCHETTI GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.66571704278033,
+                    43.8176416226774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RAVAGLI",
+                "id": "12808",
+                "amenity": "fuel",
+                "operator": "RAVAGLI CHRISTIAN & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.699350246818542,
+                    43.78055275923661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL ERG",
+                "id": "25381",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DI RUOCCO GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.673027217388153,
+                    43.77030047954013
+                ]
+            }
+        }
+    ]
+}

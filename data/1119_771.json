@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI - Sud Carburanti Sas",
+                "id": "20785",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SUD CARBURANTI DI GUARISE ROBERTO & C S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.759380027651783,
+                    40.57185099938209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GINOSA - S.S. 580",
+                "id": "30992",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.80129655952453,
+                    40.5305551499684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GINOSA - PUGLIE",
+                "id": "24277",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.75485900859826,
+                    40.58042648257215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO",
+                "id": "26629",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO ESSO DI CASAMASSIMA ANNA MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.75909538769679,
+                    40.57143540206356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio ESSO bandiera blu",
+                "id": "27057",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "D'ANGELO COSIMO DAMIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.86796188354492,
+                    40.45227677541931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio Esso",
+                "id": "26909",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MARCHIONNA ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.871189922094345,
+                    40.450078156510955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Castria s.r.l.",
+                "id": "26704",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CASTRIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.80129826068878,
+                    40.530556411281985
+                ]
+            }
+        }
+    ]
+}

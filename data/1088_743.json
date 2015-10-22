@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DUE ESSE SNC",
+                "id": "16947",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DUE ESSE DI SCARPELLI STEFANO E SANDRO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.383713028416649,
+                    44.11850192072636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.I.M srl",
+                "id": "19266",
+                "amenity": "fuel",
+                "operator": "S.I.M. - SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.331768482923508,
+                    44.16329230044633
+                ]
+            }
+        }
+    ]
+}

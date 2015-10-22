@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALT BAR di Garbarino Walter",
+                "id": "28723",
+                "amenity": "fuel",
+                "operator": "GARBARINO WALTER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.334509879350662,
+                    44.54156465606445
+                ]
+            }
+        }
+    ]
+}

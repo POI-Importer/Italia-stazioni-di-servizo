@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP - PIFAL SNC",
+                "id": "31819",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PIFAL DI CAVUCCI M. & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.520960658788677,
+                    42.83873780320056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BERTONI ANNALISA",
+                "id": "22400",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BERTONI ANNALISA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49430486559868,
+                    42.88199583757898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "angelini gomme snc",
+                "id": "8038",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ANGELINI GOMME - SOCIETA' IN NOME COLLETTIVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.488571643829344,
+                    42.84295051150324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "G.M.Carburanti",
+                "id": "11332",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GASPARI MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.476177155971525,
+                    42.86068813239479
+                ]
+            }
+        }
+    ]
+}

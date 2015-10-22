@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Staz. di servizio Ip",
+                "id": "25432",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "REZZOAGLI TERESA GIOVANNA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.381785094738007,
+                    44.713752559516074
+                ]
+            }
+        }
+    ]
+}

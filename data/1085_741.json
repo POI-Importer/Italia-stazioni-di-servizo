@@ -1,0 +1,123 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "10369",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BERTELLI DANILO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.834292471408844,
+                    44.46188486311532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Polinago",
+                "id": "11298",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F.LLI GIBERTINI FU GINO S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.729533433914185,
+                    44.34324681716404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BERTELLI-SERRAMAZZONI",
+                "id": "9320",
+                "brand": "Bertelli Carburanti",
+                "amenity": "fuel",
+                "operator": "BERTELLI WALTER E ROLANDO  - CARBURANTI - S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.847193896770479,
+                    44.41746071647257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 51226",
+                "id": "30520",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.796175599098206,
+                    44.41324390388337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MICHELINI S.R.L.",
+                "id": "10642",
+                "amenity": "fuel",
+                "operator": "MICHELINI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.805169812445,
+                    44.41773277817301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BARBERGAS SAS",
+                "id": "4876",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BARBERGAS DI ODORICI COSTANZA & C.- S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.837993919849396,
+                    44.363618832806154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Varana",
+                "id": "16132",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "DELLA CASA ROMANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.762670114636421,
+                    44.44986656730431
+                ]
+            }
+        }
+    ]
+}

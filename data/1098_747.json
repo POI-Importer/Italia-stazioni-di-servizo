@@ -1,0 +1,208 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto IP Giaccoli Roberto",
+                "id": "17117",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GIACCOLI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.155085234934633,
+                    43.61150808822988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GOLDENGAS STAZIONE SERVIZIO TAMOIL",
+                "id": "31323",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "GOLDENGAS - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.080071210861208,
+                    43.64634330734738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTEPORZIO SP 424 KM 9+477",
+                "id": "6555",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.06578639325403,
+                    43.702731743757965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Rete Italia",
+                "id": "25264",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "TIDEI SIMONE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.158946931362152,
+                    43.616772882811745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE IS",
+                "id": "26815",
+                "amenity": "fuel",
+                "operator": "DE.MAS. DI SANTINI THOMAS E DEVID - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.060870887696865,
+                    43.63699481440317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "pv 57214",
+                "id": "8743",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CALDARELLI MASSIMILIANO E FRANCESCO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.133648335933684,
+                    43.65341702321686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE \"IP\"",
+                "id": "19869",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MORSUCCI ENIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.069381266832352,
+                    43.59938625290992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALL SERVICE POINT S.R.L.",
+                "id": "14517",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ALL SERVICE POINT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.15757632255554,
+                    43.66971864048899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione vallone",
+                "id": "5205",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "METANO SENIGALLIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.18203806877136,
+                    43.685081712284926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Brunetti Alfonsina",
+                "id": "20275",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BRUNETTI ALFONSINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.094944974204962,
+                    43.59626277000426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio agip di Mancini Roberto",
+                "id": "10636",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MANCINI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.057309412372659,
+                    43.64265756469011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI Str. Prov. Arceviese Km 6,878",
+                "id": "26799",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FABINI LUCIANA & FABINI FABRIZIO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.171960920117268,
+                    43.666132594502464
+                ]
+            }
+        }
+    ]
+}

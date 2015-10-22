@@ -1,0 +1,70 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE CARBURANTI SP TURSI",
+                "id": "30273",
+                "amenity": "fuel",
+                "operator": "SERGIO PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.507506519556046,
+                    40.24418537829403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FM PETROLI di Marino Luigia",
+                "id": "15709",
+                "amenity": "fuel",
+                "operator": "MARINO LUIGIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38749731779103,
+                    40.305150682205564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE IP TURSI",
+                "id": "27919",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "TECHNOPLANT SUD DI DI NOIA MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.49338200688362,
+                    40.24856241736299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IFLEM",
+                "id": "25444",
+                "amenity": "fuel",
+                "operator": "IFLEM  SNC DI MELFI VINCENZO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.483402848243713,
+                    40.20529018899553
+                ]
+            }
+        }
+    ]
+}

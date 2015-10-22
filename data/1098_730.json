@@ -1,0 +1,174 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DESMO IMMOBILIARE",
+                "id": "22629",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "DESMO IMMOBILIARE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.029955316427165,
+                    45.75967878843425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "marson luigino",
+                "id": "12877",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MARSON LUIGINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.01271021366119,
+                    45.71270437096672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "H6",
+                "id": "16864",
+                "amenity": "fuel",
+                "operator": "VIGOLO MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.04989857927876,
+                    45.71786713220818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "area di servizio IP di LATISANA",
+                "id": "4356",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "JETRENT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.013247996568678,
+                    45.788629075398056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PRECENICCO - STRADA STATALE 14",
+                "id": "7268",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.031480644180306,
+                    45.79413390851301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "q8",
+                "id": "28891",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ZU.PE. SNC DI ZULIANI MAURIZIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.094428605471878,
+                    45.80784561292931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LATISANA VIA LIGNANO 76",
+                "id": "6502",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.023546726983678,
+                    45.771382281555596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "22031",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MOVIO FIORENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.086012303829195,
+                    45.805325575741016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "C.M. DI FORMENTIN ITALO & C. S.N.C.",
+                "id": "26817",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "C.M. DI FORMENTIN ITALO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.167884051397552,
+                    45.76640706298589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG di VISENTIN CARLO",
+                "id": "26930",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "VISENTIN CARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.012794224536949,
+                    45.715992107596975
+                ]
+            }
+        }
+    ]
+}

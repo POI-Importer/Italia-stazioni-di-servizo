@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "22414",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SOLLAZZO DARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.590815991163254,
+                    40.0783094984916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIBONATI S.S. 18 KM 213 891",
+                "id": "24984",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.604434907436373,
+                    40.07446906473874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di Servizio Mandara",
+                "id": "25899",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "AREA DI SERVIZIO MANDARA S.R.L. UNIPERSONALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.492753088474274,
+                    40.056041124357016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore IP di Napolitano Pasquale",
+                "id": "7870",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "S.A.I.M. - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.630952519326797,
+                    40.071978452114436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO RAMBALDI",
+                "id": "8916",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "RAMBALDI CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.610844398173642,
+                    40.07255775598941
+                ]
+            }
+        }
+    ]
+}

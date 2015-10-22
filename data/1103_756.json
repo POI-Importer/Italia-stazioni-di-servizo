@@ -1,0 +1,205 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Napoletano carburanti",
+                "id": "24163",
+                "amenity": "fuel",
+                "operator": "F.LLI NAPOLETANO VINCENZO E BRUNO - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.991827381823553,
+                    42.47239916428712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MARTINA GAS COLLECORVINO",
+                "id": "17914",
+                "amenity": "fuel",
+                "operator": "MARTINA GAS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.049434959888458,
+                    42.444772213078785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BAGARIA",
+                "id": "4771",
+                "amenity": "fuel",
+                "operator": "D'AGOSTINO MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.903991324275012,
+                    42.519404771508874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ENI",
+                "id": "7988",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DI SIMONE LUCIANO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.934193849563599,
+                    42.45096387939324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BAGARIA",
+                "id": "4766",
+                "amenity": "fuel",
+                "operator": "DA.CA. S.N.C. DI D'AGOSTINO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.930873274803162,
+                    42.51462468571394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "18383",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DIAR S.N.C. DI CIARCELLUTI ANNA E D'ADDAZIO VINCENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.000317007303241,
+                    42.490941433928555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "7572",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "EVANGELISTA ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.036064147949217,
+                    42.43639376643235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA SERVIZIO PONTE S.ANTONIO",
+                "id": "27099",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ENNIO LAURETI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.927611708641052,
+                    42.42594011928706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASTILENTI",
+                "id": "21276",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "EREDI DI CILLI GIOVANNI S.N.C. DI CILLI ELISABETTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.917767211841694,
+                    42.533620288483625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CITTA' SANT'ANGELO - D'ANNUNZIO",
+                "id": "30661",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.061549038028716,
+                    42.51857429972846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Francesco Di Maurizio",
+                "id": "8824",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DI MAURIZIO FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.062221302997616,
+                    42.51922728605931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "27492",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DI MARCOBERARDINO S.A.S. DI DI MARCOBERARDINO FRANCESCO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.924827575683594,
+                    42.45569766474337
+                ]
+            }
+        }
+    ]
+}

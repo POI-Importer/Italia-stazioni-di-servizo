@@ -1,0 +1,157 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "7564",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LUSTRI MARINELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.214971065559437,
+                    43.14453288544123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MAGIONE - SAN SAVINO",
+                "id": "32020",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.181094635581983,
+                    43.1119156645353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vulcangas - Esso Passignano",
+                "id": "32112",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "URUCI SAIMIR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.154357685388959,
+                    43.18560328143901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Total",
+                "id": "23073",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CARLUCCI GROUP S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.243919372558594,
+                    43.13745182195587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione ENI n° 4540",
+                "id": "31571",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CARLANI SILVIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.214981019496918,
+                    43.144532349210515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Corciano",
+                "id": "9353",
+                "amenity": "fuel",
+                "operator": "I.C.M. SOCIETA' IN NOME COLLETTIVO DI BRUNO, CRISTIANO E FABRIZIO MAGGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.286354601383207,
+                    43.10805822577739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "_Terradura Carburanti sas di Brozzi & C.",
+                "id": "7600",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TERRADURA CARBURANTI S.A.S. DI BROZZI SERGIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.216617941894583,
+                    43.14408276853904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP Taverne",
+                "id": "4779",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CO.RO.GAS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.267546951770784,
+                    43.129228472665055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso Mencaroni",
+                "id": "21475",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MENCARONI MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.201523706316948,
+                    43.12053630313006
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LUPI SRL",
+                "id": "18791",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LUPI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.074816882610321,
+                    43.67408687396308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTAGNANA",
+                "id": "19471",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "S.A.C. S.N.C. DI BENINCASI LEONARDO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.103678792715073,
+                    43.672338920315646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Padim di Francesco Panti",
+                "id": "4902",
+                "brand": "Aquila",
+                "amenity": "fuel",
+                "operator": "PADIM DI PANTI FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.199799776077272,
+                    43.59179137767714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "04813 aquila",
+                "id": "28120",
+                "brand": "Aquila",
+                "amenity": "fuel",
+                "operator": "VOLO - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.136364862322807,
+                    43.68748651608637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "13596",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BELLINI FERDINANDO E COLI ANDREA - SOCIETA' IN NOME COLLETTIVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.187768727540972,
+                    43.657274921248465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Va.Ma.",
+                "id": "6920",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "VA.MA. SNC DI FUSI VALERIO E BURRINI MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.182526405487808,
+                    43.661009272641394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "12279",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MINIATI LORENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.221677213907242,
+                    43.63688230783481
+                ]
+            }
+        }
+    ]
+}

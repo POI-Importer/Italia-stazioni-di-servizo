@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "carburanti Q8",
+                "id": "26142",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CARBURANTI Q8 DI MARCI RICCARDO EMILIO MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.271400123834608,
+                    39.81783109336955
+                ]
+            }
+        }
+    ]
+}

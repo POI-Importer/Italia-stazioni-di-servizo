@@ -1,0 +1,308 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARDONE GIUSEPPE Gest. ENI",
+                "id": "22942",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CARDONE GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.31154292821884,
+                    40.75985355166552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALBEROBELLO VIA TRIESTE E TRENTO",
+                "id": "22997",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.238503645403625,
+                    40.78612411494102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LOCOROTONDO",
+                "id": "5515",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.33000155952459,
+                    40.747695248751455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SIMEONE CARBURANTI",
+                "id": "12696",
+                "brand": "Simeone Carburanti",
+                "amenity": "fuel",
+                "operator": "SIMEONE CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.242257446050644,
+                    40.780847911162525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "basile petroli",
+                "id": "15527",
+                "amenity": "fuel",
+                "operator": "SERGEST ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.361268401145935,
+                    40.83602098071431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALBEROBELLO - EINAUDI",
+                "id": "23816",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.244716034393377,
+                    40.785904832974126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CONVERTINI CARBURANTI S.R.L.",
+                "id": "26545",
+                "amenity": "fuel",
+                "operator": "CONVERTINI CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.332741767168045,
+                    40.75216535682993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "enicafè spinosa",
+                "id": "16999",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SPINOSA FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.240994773016382,
+                    40.78717014278632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CONVERTINI FRANCESCO PAOLO",
+                "id": "14203",
+                "amenity": "fuel",
+                "operator": "CONVERTINI FRANCESCO PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.380894124507904,
+                    40.8460409892542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO Q8",
+                "id": "4949",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GIULIANI MARTINO DI GIULIANI GRAZIANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.332646638965567,
+                    40.73712678512518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "__Eni Capitaneo s.n.c.",
+                "id": "8131",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CAPITANEO SNC DI CAPITANEO PIETRO DONATO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.329419124196875,
+                    40.76035246448325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CACUCCI MICHELE",
+                "id": "19240",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CACUCCI MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.401181012392044,
+                    40.81812689261165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI FASANO",
+                "id": "4958",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SEMERARO GIUSEPPE & F.LLI SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.348731756210327,
+                    40.82501224121072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL 4592",
+                "id": "20670",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "NEGLIA DOMENICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.303323298692703,
+                    40.76193839462927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FASANO S.S.16 KM 857+380",
+                "id": "23698",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.357414817790982,
+                    40.84322405858499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 piemme petroli",
+                "id": "9857",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PIEMME PETROLI S.N.C. DI CACUCCI M. & VENTRELLA P."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.377820312976837,
+                    40.82818816720582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SIMEONE CARBURANTI",
+                "id": "12303",
+                "brand": "Simeone Carburanti",
+                "amenity": "fuel",
+                "operator": "SIMEONE CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.331020816447563,
+                    40.71776489419674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cacucci F.sco e figli sas",
+                "id": "20138",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CACUCCI FRANCESCO & FIGLI S.A.S. DI CACUCCI FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.352734953165054,
+                    40.83078351323959
+                ]
+            }
+        }
+    ]
+}

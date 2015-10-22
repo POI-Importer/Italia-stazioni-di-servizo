@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "strada regionale 68",
+                "id": "19817",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CEPPATELLI GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.86027167737484,
+                    43.39943196095914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "alberto gennai",
+                "id": "31818",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GARAL SAS DI GENNAI ALBERTO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.86864821612835,
+                    43.39958026777252
+                ]
+            }
+        }
+    ]
+}

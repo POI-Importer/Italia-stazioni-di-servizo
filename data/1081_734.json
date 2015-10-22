@@ -1,0 +1,225 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 1718",
+                "id": "25912",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.09447904180297,
+                    45.2741793073619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ROBECCO D'OGLIO - CAVOUR 73",
+                "id": "23118",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.07495976686482,
+                    45.2569924476719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VEROLANUOVA - C/O CC BENNET.",
+                "id": "7290",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.113022203704872,
+                    45.315845099566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Ip",
+                "id": "26467",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MOTORS SERVICE DI PARACCHINI MARZIO GIOVANNI & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.060887560248375,
+                    45.327590590899845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Oil Invest 2000 srl",
+                "id": "21440",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "OIL INVEST 2000 SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.076333060860634,
+                    45.32804410793325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OMA SERVICE SNC",
+                "id": "14826",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "O.M.A. SERVICE S.N.C. DI MARTIRI LUCA & C"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.043301061624106,
+                    45.33295920403106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BOZZONI ANGIOLINO ALFIANELLO",
+                "id": "13483",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BOZZONI ANGIOLINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.133085250854492,
+                    45.26953251610618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Esso Degani Alessio",
+                "id": "12645",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DEGANI ALESSIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.078633699475063,
+                    45.26359440898699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA BRESCIA S.S. 45 BIS",
+                "id": "21230",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "F E A DI VENTURINI FRANCESCO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.098602771759033,
+                    45.281077811942374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "KEROPETROL",
+                "id": "9943",
+                "amenity": "fuel",
+                "operator": "CAPRA ALBERTO E GAZZOLDI MICHELE S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.118987560272217,
+                    45.31597573456143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Geminati",
+                "id": "18411",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GEMINATI GIOVANNI BATTISTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.188062489032744,
+                    45.308280597141284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "23147",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SINGH PARMJIT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.09571070422976,
+                    45.27630449387121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI 1787",
+                "id": "14522",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MASINI FRATELLI DI MASINI STEVE E MIRCO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.101129412651062,
+                    45.318300141100316
+                ]
+            }
+        }
+    ]
+}

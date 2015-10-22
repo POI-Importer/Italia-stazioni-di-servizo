@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "22435",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CALAROTA PASQUALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.61847487092018,
+                    39.95304695354937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Q8",
+                "id": "29165",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GI.AL. SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.60114157539374,
+                    39.932753574802085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE IP",
+                "id": "27125",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CORRADO SETTIMIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.598016321659088,
+                    40.035512304735654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil rocco napoli",
+                "id": "11072",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "NAPOLI ROCCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.620919058954655,
+                    39.97084983452084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio ip - gruppi api",
+                "id": "5345",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "AINO GIOVANNI ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.585240960121155,
+                    39.91858579572207
+                ]
+            }
+        }
+    ]
+}

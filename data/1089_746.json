@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "9650",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ALTERINI ALDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.445270180702208,
+                    43.77557164303716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio ENI",
+                "id": "10828",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "NENCI SABRINA E GIACCARI MAURIZIO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.427401304244995,
+                    43.77608912778017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distibutore q8",
+                "id": "4662",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "P.B.S. DI PASQUINI MAURO, BAGGIANI LEONARDO E SMORTI FABIO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.429502815008163,
+                    43.77098380470407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni Variante Pontassieve",
+                "id": "8179",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PRIMERA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.426247954368593,
+                    43.77134948116574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "31578",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ERG STAZIONE DI SERVIZIO DI MICHELI ELENA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.594323217868805,
+                    43.77972766355359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Giovannoni e Pignotti",
+                "id": "17822",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GIOVANNONI GIAN LUCA E PIGNOTTI FABIO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.487179696559906,
+                    43.82607307415999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg Pontassieve",
+                "id": "13829",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PRIMERA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.426778683991982,
+                    43.77157657943004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg rufina",
+                "id": "8000",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI RIFORNIMENTO CARBURANTI DI RICUTINI FABIO E MISURI CARLO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.484010666608809,
+                    43.81896824720895
+                ]
+            }
+        }
+    ]
+}

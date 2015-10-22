@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "API - IP",
+                "id": "16939",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "VI.VA. S.A.S. DI ANTONIO VILARDI & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.416091506191265,
+                    42.424724333888335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "9185",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PAMPANINI ALDO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.336098909378052,
+                    42.534970951799465
+                ]
+            }
+        }
+    ]
+}

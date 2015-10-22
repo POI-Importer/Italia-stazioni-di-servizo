@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI  SERVIZIO IP",
+                "id": "8417",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ONNIS VANDA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.818411231040955,
+                    39.76519048431271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "impianto q8 di onnis ombretta sas",
+                "id": "17189",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "IMPIANTO ONNIS DI ONNIS OMBRETTA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.908807039260864,
+                    39.68907654163415
+                ]
+            }
+        }
+    ]
+}

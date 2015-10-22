@@ -1,0 +1,223 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "19644",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AL.DE. S.N.C. DI ALABRESE GIUSEPPE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.42468923330307,
+                    40.533391689652824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "22349",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FORNARO CIRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.42407701909542,
+                    40.532281281051176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI STATION",
+                "id": "19151",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SUD CARBURANTI DI VINCENZO TOMMASEO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.56718158721924,
+                    40.53108482427701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CHIMENTI MICHELA TOTALERG",
+                "id": "31054",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CHIMENTI MICHELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.438544158887225,
+                    40.536708693175996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIANETA PETROLI PUGLIESI",
+                "id": "22992",
+                "amenity": "fuel",
+                "operator": "PIANETA PETROLI PUGLIESI S.P.A. IN SIGLA \"TRE P  S.P.A.\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.47484922409058,
+                    40.47618468043474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio Q8",
+                "id": "18196",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GENNARO MARIA MICHELINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.43593919297632,
+                    40.53783536624203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "natale raffaele",
+                "id": "6821",
+                "amenity": "fuel",
+                "operator": "NATALE RAFFAELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.412785589694977,
+                    40.535828938207615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN CIRO SAS",
+                "id": "20540",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SAN CIRO S.A.S. DI MIGIANI RITA E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.42588549852371,
+                    40.535401671898875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "13117",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DI SUMMA  VINCENZA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.474065507379123,
+                    40.5740100632636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "andriulo carburanti di andriulo carmela & c. s.a.s.",
+                "id": "27682",
+                "amenity": "fuel",
+                "operator": "ANDRIULO CARBURANTI DI ANDRIULO CARMELA & C. SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.520454823970795,
+                    40.53370970303933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO Q8",
+                "id": "16727",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BARBUZZI ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.502826957008327,
+                    40.448825342043506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio erg",
+                "id": "15138",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GALIANO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.576805353164676,
+                    40.53815153993383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GROTTAGLIE S.P. 86 GROTTAGLIE - SAN MARZANO",
+                "id": "6771",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.431569138098215,
+                    40.5239503166856
+                ]
+            }
+        }
+    ]
+}

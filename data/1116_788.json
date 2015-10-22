@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Q( di Aversa Rocco",
+                "id": "19196",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "AVERSA ROCCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.25104442238808,
+                    38.23805540144715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SIDERNO - MARINA",
+                "id": "30394",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.28821341104503,
+                    38.26107472724664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REGALGAS - ARDORE",
+                "id": "22138",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "REGALGAS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19283378124237,
+                    38.16252533343872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 AGRESTA",
+                "id": "20096",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "AGRESTA PASQUALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.200357377529144,
+                    38.16895513737475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LOCRI - MERICI",
+                "id": "30985",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.22010536441803,
+                    38.25000842553612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO DI VIOLI PASQUALE",
+                "id": "13890",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "VIOLI PASQUALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.269644871354103,
+                    38.23917712135925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ORLANDO DOMENICO",
+                "id": "29154",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CARBURANTE-LAVAGGIO-PNEUMATICI F.LLI ORLANDO DI ORLANDO DOMENICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.258180439472202,
+                    38.227132870114396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Vitale Carmelo",
+                "id": "18570",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "VITALE CARMELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.22010514140129,
+                    38.250008006487384
+                ]
+            }
+        }
+    ]
+}

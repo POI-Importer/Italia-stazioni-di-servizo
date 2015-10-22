@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE IP LODI ENZO",
+                "id": "12485",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LODI ENZO COSTANTE ANICETO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.339944586157799,
+                    44.4830135959237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Greco Nadia",
+                "id": "13255",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GRECO NADIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.235222429037092,
+                    44.57106251285994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO REPSOL MAGNANI MARIA",
+                "id": "12463",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "MAGNANI MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.305562642268228,
+                    44.501484845536815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "total erg",
+                "id": "16995",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BEGHINI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.198360370850196,
+                    44.519578591730976
+                ]
+            }
+        }
+    ]
+}

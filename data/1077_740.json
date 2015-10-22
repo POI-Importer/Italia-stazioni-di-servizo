@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FUGAZZI SILVANO",
+                "id": "17896",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FUGAZZI SILVANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.38494282778845,
+                    44.52589354446819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "P.V. Distributore Carburanti Autolavaggio Cella Massimo",
+                "id": "17246",
+                "amenity": "fuel",
+                "operator": "CELLA MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.456176161766052,
+                    44.54582286217916
+                ]
+            }
+        }
+    ]
+}

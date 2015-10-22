@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "30041",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CN PETROLI - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.96836239099503,
+                    40.76361930501109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARBURANTI CAPPIELLO",
+                "id": "21718",
+                "amenity": "fuel",
+                "operator": "CARBURANTI CAPPIELLO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.934081748127939,
+                    40.789815206967255
+                ]
+            }
+        }
+    ]
+}

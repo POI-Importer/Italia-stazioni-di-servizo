@@ -1,0 +1,209 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ISOARDI EANDI PNEUMATICI SNC",
+                "id": "11283",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ISOARDI EANDI PNEUMATICI S.N.C. DI EANDI VALENTINO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.480407357215882,
+                    44.52533014896426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg",
+                "id": "19531",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GIORDANO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.547535002231598,
+                    44.535983497208754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ERG",
+                "id": "19907",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CARPANI SNC DI CARPANI BRUNO E FABIO SIGLABILE, OVE CONSENTITO, \"CARPANI SNC\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.461408618385349,
+                    44.57304006740345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP VERZUOLO",
+                "id": "22620",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GONELLA & SOMA' S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.484200704831664,
+                    44.58916517672735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "22563",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ANGHILANTE SILVANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4867785870043235,
+                    44.561644464870426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIASCO CN-VIA DANTE 10",
+                "id": "11551",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.455374694442751,
+                    44.56432801251746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "22511",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DELFINO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.486577779054643,
+                    44.507408603192125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE ENI",
+                "id": "29115",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RINAUDO PIERANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.541573947746313,
+                    44.554913309432614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip-busca",
+                "id": "30355",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "EUROPAM S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.490923628211021,
+                    44.50098377236172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione servizio Esso",
+                "id": "20153",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GALLIANO SERGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4790461361408225,
+                    44.52239055567192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "pitstop S.A.S.",
+                "id": "31708",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PIT STOP S.A.S. DI FERRERI ALESSANDRO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.547551095485688,
+                    44.536002616204456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gazoline cafè",
+                "id": "24612",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CAFFE' DEL TEATRO S.N.C. DI GALLIANO ORESTE E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.486397468423889,
+                    44.53823935650251
+                ]
+            }
+        }
+    ]
+}

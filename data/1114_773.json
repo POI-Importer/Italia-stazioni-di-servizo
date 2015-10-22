@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGRI SUD SNC 8375",
+                "id": "26219",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "AGRI SUD S.N.C. DI IELPO DOMENICO E TORRACA MIMMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.921121984720232,
+                    40.30010582125167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Val D'agri oil Italia",
+                "id": "23678",
+                "amenity": "fuel",
+                "operator": "VAL D'AGRI OIL ITALIA S.A.S. DI CUOMO P. E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.86940209902491,
+                    40.243405425286795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "lo.be.bar snc di cirigiano rosa & c.",
+                "id": "25726",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LO.BE. BAR DI CIRIGLIANO ROSA & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.876637548208237,
+                    40.26039436035119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio ies",
+                "id": "17935",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "FRIGUGLIETTI VINCEZINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.988743156194685,
+                    40.29724351137141
+                ]
+            }
+        }
+    ]
+}

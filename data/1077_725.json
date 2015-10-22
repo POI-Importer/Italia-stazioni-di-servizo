@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "7145",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GHEZZA FABIO E ROBERTO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.397995575228151,
+                    46.321693791197056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BREXX",
+                "id": "20929",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ROSSIGNOLI WALTER & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.399931435950293,
+                    46.31801254492158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MAGRI GIUSEPPINA",
+                "id": "9264",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "MAGRI GIUSEPPINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.35301695405576,
+                    46.40424308648451
+                ]
+            }
+        }
+    ]
+}

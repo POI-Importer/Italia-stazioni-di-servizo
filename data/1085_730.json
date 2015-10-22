@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "13017",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "TOMBOLA RENT DI ALESSANDRO TOMBOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.787517428398132,
+                    45.8051105524909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "staz. serv. Q8",
+                "id": "7442",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GUARNATI S.N.C. DI GUARNATI ANGELO ANTONIO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.811478942632675,
+                    45.766704847327446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "muhammad zia",
+                "id": "9426",
+                "brand": "Firmin",
+                "amenity": "fuel",
+                "operator": "MUHAMMAD ZIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.810924233319497,
+                    45.765209957793566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Milesi Antonio",
+                "id": "17732",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MILESI ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.760544599868581,
+                    45.77208395133067
+                ]
+            }
+        }
+    ]
+}

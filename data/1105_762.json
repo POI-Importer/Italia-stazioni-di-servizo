@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "5373",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MICMAR - SOCIETA' IN NOME COLLETTIVO DI D'AQUILANTE MICHELE E PATETE MARCO IN SIGLA  \"MICMAR SNC\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.332229644060133,
+                    41.64923952227285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pallotta Fabio",
+                "id": "20883",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PALLOTTA FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.337461292743683,
+                    41.68368404693147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "api",
+                "id": "21876",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ROSSI ALESSIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.300599512647521,
+                    41.70926998256056
+                ]
+            }
+        }
+    ]
+}

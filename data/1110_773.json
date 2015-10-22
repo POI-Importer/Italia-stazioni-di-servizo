@@ -1,0 +1,223 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PERITO",
+                "id": "28822",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.133817195892332,
+                    40.29768088472337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "amico carburante snc",
+                "id": "24773",
+                "amenity": "fuel",
+                "operator": "AMICO CARBURANTE S.N.C. DI DANIELE SEVERINI E GIOVANNI BATTAGLIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.141080668630822,
+                    40.19373610452484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE CARBURANTI ESSO",
+                "id": "8284",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FALCIONE STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.131264414827795,
+                    40.25781692459535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GRUPPO MEOLA SRL",
+                "id": "9665",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GRUPPO MEOLA - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.160210132598875,
+                    40.231369140048635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EWA ORRIA",
+                "id": "29989",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.167649814717377,
+                    40.2963422560487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.LLI FEDULLO SNC",
+                "id": "10049",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "F.LLI FEDULLO - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.15002389317499,
+                    40.20323831222262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SELF AREA VALIANTE",
+                "id": "20311",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VALIANTE MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.262383520603182,
+                    40.22786049863184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "guarino filomena",
+                "id": "21865",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GUARINO FILOMENA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.24769976735115,
+                    40.23257400328382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP DI MAIESE GRAZIA",
+                "id": "32131",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MAIESE GRAZIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.245952308177944,
+                    40.23157616340941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "api",
+                "id": "8630",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DI DOMENICO GIANLUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.258966386318203,
+                    40.229578596576744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GGPETROLI",
+                "id": "30810",
+                "amenity": "fuel",
+                "operator": "GIORDANO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.160285234451294,
+                    40.21401542131928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO MOIO DELLA CIVITELLA",
+                "id": "29988",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.27268588542938,
+                    40.24638457894608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vallo della Lucania",
+                "id": "25773",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.259988844180276,
+                    40.226361154755566
+                ]
+            }
+        }
+    ]
+}

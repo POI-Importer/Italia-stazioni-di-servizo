@@ -1,0 +1,374 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TANCIA CARBURANTI",
+                "id": "8112",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MEDIACOM S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.834016084671022,
+                    42.38905236554026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Metano Italia srl",
+                "id": "31246",
+                "amenity": "fuel",
+                "operator": "METANO ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.84442177196661,
+                    42.39752909589243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "X FUEL RIETI",
+                "id": "25643",
+                "amenity": "fuel",
+                "operator": "X FUEL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.862283885478973,
+                    42.405315167243664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO BUCCI MAURO",
+                "id": "16329",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BUCCI MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.884784936904907,
+                    42.40574137453809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIETI SALARIA PER L'AQUILA 50",
+                "id": "6664",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.875817587835625,
+                    42.40577832047565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GD MATIC",
+                "id": "31610",
+                "brand": "D Amico",
+                "amenity": "fuel",
+                "operator": "GD MATIC S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.854569852352142,
+                    42.40443818520726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "union petroli",
+                "id": "21372",
+                "amenity": "fuel",
+                "operator": "UNION PETROLI S.R.L"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.85687205476984,
+                    42.414057683058715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP DE SANTIS MIRKO",
+                "id": "21573",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DE SANTIS MIRKO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.858885526657106,
+                    42.38972096200501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIETI",
+                "id": "28842",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.862093448638916,
+                    42.42336781609637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "8146",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "COLANTONI FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.90469765663147,
+                    42.40662467592557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "16918 RIETI",
+                "id": "5471",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "enirete oil&nonoil S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.848745284395024,
+                    42.40888816175322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIETI",
+                "id": "5860",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TotalErg SpA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.86749541104507,
+                    42.409320235236436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 16906",
+                "id": "25870",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.970851659774782,
+                    42.378337011897585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni Cruciani Giacinto",
+                "id": "13715",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CRUCIANI GIACINTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.872902750968933,
+                    42.4066306173726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP innocenti franco",
+                "id": "12352",
+                "amenity": "fuel",
+                "operator": "INNOCENTI FRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.945931853781985,
+                    42.386640939423906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso - Oracola",
+                "id": "29579",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ORACOLA CARBURANTI S.A.S. DI CASTELLANI ANTONELLO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88823962211609,
+                    42.39916288330952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIETI - SANTA CROCE",
+                "id": "24176",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.856538309192729,
+                    42.32251586508722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CP Oil",
+                "id": "27029",
+                "brand": "CP",
+                "amenity": "fuel",
+                "operator": "C & C PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.886780500411987,
+                    42.41235989088354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIETI - MATTEOCCI",
+                "id": "31084",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.854645597553255,
+                    42.407548508235976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso - Castellani",
+                "id": "29577",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CASTELLANI ELIO S.A.S. DI CASTELLANI ANTONELLO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.858660221099852,
+                    42.38570856296951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIETI - ORESTE DI FAZIO 1/A",
+                "id": "30986",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8960946355819,
+                    42.41217227570406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIETI",
+                "id": "18593",
+                "amenity": "fuel",
+                "operator": "DIBEOL ECOLOGICA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.862047117849672,
+                    42.39906904501822
+                ]
+            }
+        }
+    ]
+}

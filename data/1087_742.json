@@ -1,0 +1,123 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Girotti Group",
+                "id": "4442",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GIROTTI GROUP DI PAOLO GIROTTI E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.220731735229492,
+                    44.229283593224594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carburanti Vico",
+                "id": "9594",
+                "amenity": "fuel",
+                "operator": "ZAPPOLI LODOVICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1118325363351,
+                    44.288115319748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.LLI MEZZINI",
+                "id": "7859",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "F.LLI MEZZINI S.N.C. DI MEZZINI RENATO E FIORENZA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.112547516822815,
+                    44.28490076395814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "aquila sas",
+                "id": "28665",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "AQUILA S.A.S. DI RIGHI FABIO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.181355565786362,
+                    44.2259312358178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Carburanti di Pani Rino",
+                "id": "4871",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE CARBURANTI DI PANI RINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.111266762018204,
+                    44.27123494582494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.lliZanini s.n.c",
+                "id": "19679",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F.LLI ZANINI DI ZANINI PATRIZIA, MARCO E LORENZO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.199805279762245,
+                    44.27680502500838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VELA S.N.C.",
+                "id": "21743",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "VELA DI LAFFI ANDREA E VENTURI SILVANO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.189168840646744,
+                    44.33328617379436
+                ]
+            }
+        }
+    ]
+}

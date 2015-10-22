@@ -1,0 +1,716 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "16281",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CIRAOLO S.A.S. DI CIRAOLO GIANMATTEO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.091216027736664,
+                    45.80215062636535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "KEROPETROL",
+                "id": "30387",
+                "amenity": "fuel",
+                "operator": "ADRELIA S.A.S. DI BALSAMO ELIANA  &  C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.037821292877199,
+                    45.811186976810276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "bolzonaro Q8",
+                "id": "13057",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BOLZONARO CARBURANTI E LUBRUFICANTI DI BOLZONARO CORRADO & C. S.A .S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.117180583991967,
+                    45.74137124381847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GORGONE SNC",
+                "id": "15713",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GORGONE S.N.C. DI FERTONANI FLAVIO PIETRO PAOLO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.007775114611036,
+                    45.76234279589816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO LAMPERTI ENZO",
+                "id": "25938",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LAMPERTI ENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.08618152141571,
+                    45.78503270015861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni - gugo",
+                "id": "14942",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "EMME2ENNE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.070117713739023,
+                    45.72347840955043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CANTU-VIA G.DA FOSSANO 21",
+                "id": "11561",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.137216093254096,
+                    45.73775023775406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "10402",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ALEX07 DI PIENZI NICOLETTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.098546504974365,
+                    45.764818132492586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "M.P.R. SAS",
+                "id": "6038",
+                "amenity": "fuel",
+                "operator": "M.P.R. S.A.S. DI GUGLIELMETTI MAURO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.108747616410255,
+                    45.74242437338823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FERTONANI FLAVIO",
+                "id": "17908",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "FERTONANI FLAVIO PIETRO PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.99038010912318,
+                    45.77076891365727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BUTTI MARIA",
+                "id": "25592",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BUTTI MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.05523419380188,
+                    45.76252783103842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASA' GIOVANNI SAS",
+                "id": "14065",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CASA' GIOVANNI & C.  S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.050389225131198,
+                    45.75348981697941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Erg",
+                "id": "22846",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PIT STOP DI OMAR OLIVERIO E C S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.069849811114523,
+                    45.79212027421819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VILLAGUARDIA-VIA VARESINA 117 SS 342 KM 65+225",
+                "id": "11564",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.01936781349184,
+                    45.77264387421596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso Noseda e Bernasconi",
+                "id": "19574",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NOSEDA DANIELA E BERNASCONI ROBERTO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.134847618385265,
+                    45.72997264458276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni Trombetta Valter",
+                "id": "7047",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TROMBETTA VALTER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.11995254456997,
+                    45.79692110153558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FINO MORNASCO-SS. 35 DEI GIOVI",
+                "id": "11562",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.063321457672146,
+                    45.73038238027428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg",
+                "id": "27216",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TABACCHERIA ROBERTO DI TETTAMANTI TIZIANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.075796008110046,
+                    45.80900552328957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "L.F.R. SNC",
+                "id": "6955",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "L.F.R. - S.N.C. DI MORABITO FRANCESCO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.060013890266418,
+                    45.784060434507666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg",
+                "id": "9730",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TELVE GUIDO E GAFFURI PAOLA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.030518247885084,
+                    45.776934909975715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "13836",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BORGHETTO SANTE & C. SNC DI BORGHETTO DEBORA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.129477898894947,
+                    45.75051393045737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "7758",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PINGITORE DOMENICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0502929539673,
+                    45.752362431205874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.S. ENI di Pratò Tommaso",
+                "id": "12174",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PRATO' TOMMASO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.083819875622225,
+                    45.79029062918443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GORGONE SNC",
+                "id": "32077",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GORGONE S.N.C. DI FERTONANI FLAVIO PIETRO PAOLO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.9943265914917,
+                    45.757302073920904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso Formula Gomme",
+                "id": "16386",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FORMULA GOMME S.N.C. DI MENEGHINI ALESSIO E OLIVERIO IVAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.123579067459103,
+                    45.79624732250534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP LAMPERTI ENZO",
+                "id": "12461",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LAMPERTI ENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.081223458051682,
+                    45.804255499672976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LARIO EST",
+                "id": "22054",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "lario gestioni sas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.029120000000002,
+                    45.7293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "pit stop esso",
+                "id": "22841",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PIT STOP DI OMAR OLIVERIO E C S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.974906213491751,
+                    45.77850576028734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COMO-VIA PASQUALE PAOLI",
+                "id": "11560",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.07221877546317,
+                    45.78510848575518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio di Camagni Fabrizio & C. s.n.c.",
+                "id": "12628",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO DI CAMAGNI FABRIZIO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.123246263229362,
+                    45.74801798383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COMO",
+                "id": "5937",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.060411069940528,
+                    45.78550467607256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMP.CARBURANTI ROMEO LEO",
+                "id": "13669",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AUTOLAVAGGIO ROMEO LEO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.037677348548868,
+                    45.70790587699978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FERTONANI SNC",
+                "id": "15738",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "FERTONANI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.017862975597382,
+                    45.71749234551553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TCM s.n.c di Telve & C.",
+                "id": "25453",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TCM S.N.C. DI TELVE CLAUDIO E MARCO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.112653370114115,
+                    45.79803114138723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "14838",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ARDENTE ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.119432354492119,
+                    45.73266853686738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "20409",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BI.CAR S.N.C. DI BIANCHI CARLO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.984037637710571,
+                    45.740956214143374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "19281",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "QUADRANTI MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.105081036686897,
+                    45.7944862486573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "7895",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ZANON PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.072489953372951,
+                    45.81241704379602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cantù",
+                "id": "10090",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.118099808692932,
+                    45.73971511534892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO Q8 DI POZZOLI MARIO",
+                "id": "31799",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "POZZOLI MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.092196394264192,
+                    45.797148643287095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IL GIGANTE SELF H 24",
+                "id": "25782",
+                "amenity": "fuel",
+                "operator": "GRANDI MAGAZZINI E SUPERMERCATI IL GIGANTE S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.075686037540438,
+                    45.717045515229856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione servizio FERRARIO G. & C snc",
+                "id": "13565",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "FERRARIO GIUSEPPE & C. DI ANTONIO E CARLO FERRARIO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.98675771163937,
+                    45.72297041097753
+                ]
+            }
+        }
+    ]
+}

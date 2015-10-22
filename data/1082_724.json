@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fratelli Rinldi SNC",
+                "id": "7735",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FRATELLI RINALDI SNC DI RINALDI LUIGI E PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.36732792854309,
+                    46.46492582398835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AUTOCANCLINI SNC",
+                "id": "9197",
+                "amenity": "fuel",
+                "operator": "AUTOCANCLINI S.N.C. DI CANCLINI ELIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.370691418647766,
+                    46.46658411605319
+                ]
+            }
+        }
+    ]
+}

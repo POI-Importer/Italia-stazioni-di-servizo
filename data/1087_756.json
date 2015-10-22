@@ -1,0 +1,226 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZ.TOTALERG  ALFIO SERVIZI SNC",
+                "id": "20173",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ALFIO SERVIZI S.N.C. DI BRACCIALI ARIELA, SFORZA GIOVANNI & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.204031705856323,
+                    42.50041230243827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio IP",
+                "id": "12621",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MONFREDA GIANCARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.229059336376169,
+                    42.443747581902954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "23919",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BENICCHI CESARE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.247215867042542,
+                    42.45924539434173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg di Confessore Rino",
+                "id": "30836",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CONFESSORE RINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.197828352451324,
+                    42.42557740544467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio ESSO di Vanni C & Segato M snc",
+                "id": "25576",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "VANNI CESARE E SEGATO MARCO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.213878020644188,
+                    42.439489298296564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "23918",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BENICCHI CESARE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.247215867042542,
+                    42.45924539434173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARINI FRANCESCO - ENI n. 4904",
+                "id": "22130",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CARINI FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.122351996600628,
+                    42.434410035631714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "16677",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VILARDI MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.214853674173353,
+                    42.440566502779824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI OSA",
+                "id": "7387",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TEI F. & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.17565721273422,
+                    42.546575444174714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "località Costa di Teva",
+                "id": "4370",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ARGENTARIO TRADE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.16323456168175,
+                    42.42980273153456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ORBETELLO OIL ITALIA",
+                "id": "27264",
+                "brand": "Oil Italia",
+                "amenity": "fuel",
+                "operator": "OIL ITALIA SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.242410304087118,
+                    42.513542302880204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 albinia",
+                "id": "7314",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MAGAROTTO ROBERTO & BERARDI DONATELLA - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1945104598999,
+                    42.51539040006904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore per natanti ENI n. 4917",
+                "id": "22129",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CARINI FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.12276405096054,
+                    42.43542140763061
+                ]
+            }
+        }
+    ]
+}

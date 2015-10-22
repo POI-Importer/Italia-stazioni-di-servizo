@@ -1,0 +1,595 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PISA",
+                "id": "5846",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TotalErg SpA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.435482953372912,
+                    43.70464481699658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASCINA PI-VIA TOSCO ROMAGNOLA 1516",
+                "id": "11768",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.499059766864773,
+                    43.685327154735006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MORRONE MONICA",
+                "id": "28890",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MORRONE MONICA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.472599512164265,
+                    43.601315393631374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ANTONELLI GIANFRANCO",
+                "id": "15499",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ANTONELLI GIANFRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.455312430858614,
+                    43.69269234315813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI CASCINA",
+                "id": "22438",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CECCOTTI  ANDREA DITTA INDIVIDUALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.537794915344193,
+                    43.67823836834812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MORTAIOLO SUD - DIR FI",
+                "id": "30313",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SIRTAM S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.425193905830382,
+                    43.612009363752826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PISA FAGIANA",
+                "id": "6560",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.43211026812287,
+                    43.68584659103714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "lenzi claudio",
+                "id": "5671",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LENZI CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.47235518693924,
+                    43.58426432219009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO VISIGNANO",
+                "id": "30507",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PRINCI CARBURANTI S.N.C. DI PRINCI NICOLA & MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.474706189926906,
+                    43.68938879305507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pisa Carburanti Srl",
+                "id": "15051",
+                "amenity": "fuel",
+                "operator": "PISA CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.430292785167694,
+                    43.67538649959022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "aci vicarello",
+                "id": "27530",
+                "amenity": "fuel",
+                "operator": "CARBURANTI SERVICE SNC DI FILIPPO DE MARCHI & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.467422604560852,
+                    43.61130142559098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "19159",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "M. & M. S.A.S. DI MALACARNE MAURIZIO E C"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.444285629222122,
+                    43.694993867307744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "21596",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "LANDI LUBRIFICANTI S.A.S. DI LANDI ALESSANDRO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.527127042991651,
+                    43.60948756716239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASCINA-LOC.SAN FREDIANO A SETTIMO V. TOSCO",
+                "id": "11762",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.522267406082165,
+                    43.681302145456094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COLLESALVETTI - S.S. 206",
+                "id": "31492",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.472151720237662,
+                    43.60386503941091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cascina",
+                "id": "4686",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.448529124259949,
+                    43.68281152472107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI DI MANZOLILLO FRANCO",
+                "id": "10880",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MANZOLILLO FRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.510963432263225,
+                    43.68331668014968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cervelli Marco \"IP\"",
+                "id": "26727",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CERVELLI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.533964142214247,
+                    43.60653641789728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASCINA - LATIGNANO",
+                "id": "31417",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.542093962430954,
+                    43.66246503332635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COLLE SALVETTI-INTERPORTO VESPUCCI",
+                "id": "11623",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.374803682208947,
+                    43.600557596537584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Buccolini e Lupi s.n.c.",
+                "id": "14219",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BUCCOLINI LUCIANA & LUPI FABIO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.475328415632246,
+                    43.67643072034909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Raul Gabbani",
+                "id": "19086",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GABBANI RAUL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.532771944999695,
+                    43.64186746316737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "pv 05291 eni",
+                "id": "15732",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PAOLINELLI TEAM DI PAOLINELLI NICOLA E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.432974322753921,
+                    43.70740988671347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Giannessi Carlo",
+                "id": "15505",
+                "amenity": "fuel",
+                "operator": "GIANNESSI CARLO ALBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.41381999850273,
+                    43.698128912177516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASCINA",
+                "id": "5845",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TotalErg SpA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.447114588954946,
+                    43.64699211827499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PISA OSPEDALETTO",
+                "id": "23615",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "OIL SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.43163925409317,
+                    43.68585531700857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.LLI TRAVAGLINI SNC",
+                "id": "24020",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "TRAVAGLINI F.LLI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.457098131213343,
+                    43.6310026693127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "29769",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PARTAM S.A.S DI PARISI MARIAFRANCESCA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.480161137820458,
+                    43.68454695949062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GAS NATURAL",
+                "id": "30604",
+                "amenity": "fuel",
+                "operator": "NEW GAS NETWORK DI MANDORLINI ELISA & FILIPPO - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.54091388044276,
+                    43.66333797029339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip",
+                "id": "8593",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LAMORTE MASSIMILIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.472152000000051,
+                    43.603866115489176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BEYFIN",
+                "id": "6085",
+                "amenity": "fuel",
+                "operator": "ARESU ALESSANDRO S.N.C. DI ARESU ALESSANDRO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.379380305557222,
+                    43.68027233550402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASCINA LOC.MARCIANA SUPERSTR.FI/PI/LI",
+                "id": "8614",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.52451240978701,
+                    43.66814509673019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SCARPELLINI ANDREA",
+                "id": "22208",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SCARPELLINI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.401046128895475,
+                    43.7041649367668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "grecciano nord",
+                "id": "27447",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GRECCIANO SOCIETA' IN NOME COLLETTIVO DI ZACCAGNINI D., BIANCHI F., PASQUINI P."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.49670696258545,
+                    43.62183333518076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASCINA - SDA GRANDE COM FI-PI",
+                "id": "7294",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.448975712060928,
+                    43.68358487834814
+                ]
+            }
+        }
+    ]
+}

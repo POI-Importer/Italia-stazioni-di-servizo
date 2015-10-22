@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE  CARBURANTI NANNI ALESSANDRO",
+                "id": "26851",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "NANNI ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.611785463988781,
+                    43.327600522896276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO DI PIO LUCA & MARCO",
+                "id": "23420",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PIO LUCA,  MARCO & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.547355115413666,
+                    43.32571387566987
+                ]
+            }
+        }
+    ]
+}

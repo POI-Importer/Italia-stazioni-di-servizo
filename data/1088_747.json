@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Greve in Chianti Uzzano",
+                "id": "29535",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TOTALERG S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.314582228660583,
+                    43.5986248272494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE ESSO GREVE IN CHIANTI",
+                "id": "13586",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FONTANA PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.314807534217834,
+                    43.587342167022385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "29574",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MINIATI LORENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.312622874975204,
+                    43.60015932315712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "28375",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CALTABIANO FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.354380175471306,
+                    43.67170995494073
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI RIFORNIMENTO ENI DI BOVA RAFFALE",
+                "id": "15406",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BOVA RAFFAELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.634578421711925,
+                    43.72941557179357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ASA di De Santi Simone e C snc",
+                "id": "16393",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ASA DI DE SANTI SIMONE & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.63205915689468,
+                    43.73030461635089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP-gruppo api- Cà Gallo",
+                "id": "20917",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "F.LLI SANTINI DI SANTINI MATTIA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.635336816310883,
+                    43.79120460342465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO ENI 06053",
+                "id": "22316",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DINI LIGI DURANTI STEFANO SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.641662806272508,
+                    43.727161115111265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP -  Auditore loc. Casinina",
+                "id": "13632",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ACEMA S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.58652597665787,
+                    43.816147678648214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Imp. Eni di Cordella Nazario",
+                "id": "20054",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CORDELLA NAZARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.481747898206663,
+                    43.779410522001605
+                ]
+            }
+        }
+    ]
+}

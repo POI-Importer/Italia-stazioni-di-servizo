@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Oberhammer Renate",
+                "id": "15777",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "OBERHAMMER RENATE SRL % OBERHAMMER RENATE GMBH"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.102804332971573,
+                    46.7584425605156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil Percha",
+                "id": "8776",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "TAM OIL PERCHA DES BONIFAZ IRSCHARA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.972152590751648,
+                    46.7928908489882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 Service KG",
+                "id": "22562",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "Q8 SERVICE S.A.S. DI FELDER HERBERT & KLAUS % Q8 SERVICE K.G. DES FELDER HERBERT & KLAUS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.03198978885496,
+                    46.76318492674467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Agip Tankstelle Rasen",
+                "id": "18861",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AGIP TANKSTELLE DES WIESER MANUEL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.043859513434086,
+                    46.77526016568682
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,206 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip",
+                "id": "32168",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MACALUSO MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.81489833732985,
+                    37.90389488018862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 di Virzì Antonino",
+                "id": "30285",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "VIRZI' ANTONINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.884703537685823,
+                    37.99218316974748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "V E F CARBURANTI SRL",
+                "id": "20079",
+                "amenity": "fuel",
+                "operator": "V E L CARBURANTI S.A.S. DI VASSALLO LAURA E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.765886574983593,
+                    37.924920694229336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 9481 - 318342",
+                "id": "30444",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SCIALABBA ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.886021375656124,
+                    37.99486230767489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SODARO",
+                "id": "28088",
+                "amenity": "fuel",
+                "operator": "AUTOLAVAGGIO DI SODARO SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.716814039356223,
+                    37.97608568489431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARACOLI SUD",
+                "id": "3703",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "I.GE.A. (IMPRESA DI GESTIONE AREE DI SERVIZIO) S.A.S. DI BIONDOLI LLO FRANCESCO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.727760314941408,
+                    37.965763624126396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAMPOFELICE ROCCELLA CARBURANTI",
+                "id": "19648",
+                "amenity": "fuel",
+                "operator": "CAMPOFELICE ROCCELLA CARBURANTI DI ZITO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.885557372982475,
+                    37.99183505015184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARACOLI NORD",
+                "id": "3704",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "INTERBARTOLO SALVATORE & MUSCARELLA GIOVANNI SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.725292682647705,
+                    37.966823451905306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP CARBURANTI MASCELLINO MARIA TERESA",
+                "id": "27384",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MASCELLINO MARIA TERESA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.87544274330139,
+                    37.99053151312982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Campofelice di roccella",
+                "id": "19507",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CASALE LUCA ERMANNO GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.83699864149094,
+                    37.9778970185363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "17944",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "COSTANTINO GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.813367001223355,
+                    37.9064652193337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "16557",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PM CARBURANTI S.N.C. DI PARISI SEBASTIANO E MARCHESANO DOMENICA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.86254668235779,
+                    37.98723040013901
+                ]
+            }
+        }
+    ]
+}

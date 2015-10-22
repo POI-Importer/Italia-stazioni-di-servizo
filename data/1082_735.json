@@ -1,0 +1,157 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DRIZZONA - PLATANI",
+                "id": "23120",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.355346365745502,
+                    45.13289243402149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BC PIADENA",
+                "id": "23237",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "ENERGIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.362587739742253,
+                    45.13170688091372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA TRUCK SELF - TORRE DE' PICENARDI",
+                "id": "7393",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "AREA TRUCK SELF DI GIANNA ANTONIA GUARNERI & C. SOCIETA' IN ACCOMANDITA SEMPLICE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.287139684655813,
+                    45.15106963922693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Piadena",
+                "id": "28693",
+                "brand": "Ego",
+                "amenity": "fuel",
+                "operator": "C.I.S. NORD S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.368303381614624,
+                    45.13506345696738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pinoni Duilio Cesare",
+                "id": "7395",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "STAZIONE SERVIZIO TAMOIL DI PINONI DUILIO CESARE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.24529278278351,
+                    45.08923401988795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA TRUCK SELF - PESSINA CREMONESE",
+                "id": "7405",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "AREA TRUCK SELF DI GIANNA ANTONIA GUARNERI & C. SOCIETA' IN ACCOMANDITA SEMPLICE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.28183630209651,
+                    45.167614935344105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "occhio al prezzo",
+                "id": "30717",
+                "amenity": "fuel",
+                "operator": "NUOVA COMA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.32585024833679,
+                    45.190522607836435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP DISTRIBUTORE CICOGNOLO di Aiftinca Ana Daniela",
+                "id": "26058",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AIFTINCA ANA DANIELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.196217335581991,
+                    45.16870498086315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg-lampogas",
+                "id": "12357",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "LOV DI LOVERO GIANPAOLO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.370994508266449,
+                    45.14018876326709
+                ]
+            }
+        }
+    ]
+}

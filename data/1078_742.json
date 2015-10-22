@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Da.Ni.Co.stazione di servizio carburanti",
+                "id": "30019",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DA.NI.CO. DI AGOSTINO NICODEMO &.F.LLI - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.539213946740688,
+                    44.22525256387591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto TAMOIL di PARMIGIANI ELSA",
+                "id": "9906",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PARMIGIANI ELSA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.514477059264438,
+                    44.27363457549661
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,360 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESINO OVEST",
+                "id": "3546",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "Nuova Sidap SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.334155568122924,
+                    43.62614179921585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distrbutore IP",
+                "id": "13976",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CARLETTI FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.293015612268391,
+                    43.597378942464935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "16371",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TILIO TIZIANO & C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.329245075583456,
+                    43.60682149528449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ferretti e fucili & c",
+                "id": "5639",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FERRETTI, FUCILI & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.236318080564843,
+                    43.705565890609556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil Monte S.Vito",
+                "id": "13789",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ACEMA S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.308598101139067,
+                    43.58561189439053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio IS - Chiaravalle",
+                "id": "26483",
+                "amenity": "fuel",
+                "operator": "SIMONETTI MARIO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.322510117067623,
+                    43.60181663335329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAMERATA PICENA VIA PROV CHIARAVALLESE",
+                "id": "23429",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34150566745916,
+                    43.58558842838237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore ip",
+                "id": "26136",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DOTTORI DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2028466463089,
+                    43.69972860210472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "nae caffè",
+                "id": "17537",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "NAE CAFFE' S.A.S. - GRUPPO RUGGERI DI NAE MARIA CRISTINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.31577032804489,
+                    43.663750509757215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SHABANI ENVER DISTRIBUTORE DI CARBURANTI E LUBRIFICANTI \"API\"",
+                "id": "24895",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SHABANI ENVER DISTRIBUTORE DI CARBURANTI E LUBRIFICANTI \"API\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.350144177675245,
+                    43.647893665117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Api Ip Morro D'Alba",
+                "id": "31756",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MERFINAH  SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.21317985653877,
+                    43.601559759342635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MARZOCCA DI SENIGALLIA",
+                "id": "30085",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.285541161894798,
+                    43.67806623710935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTEMARCIANO - MARINA",
+                "id": "23115",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.306221457672109,
+                    43.66776895695007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Total Erg",
+                "id": "14870",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "FLAMINIA 284 S.N.C. DI PACE E SCHIAVONI - STAZIONE DI SERVIZIO ERG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.332643434405329,
+                    43.65677484454472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GOLDENGAS VIA G. BRUNO BORGO MOLINO",
+                "id": "31596",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GOLDENGAS - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.209782838821413,
+                    43.706044300228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CHIARAVALLE",
+                "id": "15985",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "METANO 96 SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.348557547265614,
+                    43.59738584831663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SIMPLY CHIARAVALLE",
+                "id": "6363",
+                "amenity": "fuel",
+                "operator": "SMA S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.326292634010315,
+                    43.61111837095065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI FABINI",
+                "id": "19480",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FABINI LUCIANA & FABINI FABRIZIO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.233000040054321,
+                    43.70759040179562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESINO EST",
+                "id": "3717",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CARBUPAN - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.335071871528951,
+                    43.62777215962825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15706 CHIARAVALLE",
+                "id": "5476",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "enirete oil&nonoil S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32904791005126,
+                    43.61066892743474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione ciarnino",
+                "id": "5203",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "METANO SENIGALLIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.260723352432247,
+                    43.69146663904605
+                ]
+            }
+        }
+    ]
+}

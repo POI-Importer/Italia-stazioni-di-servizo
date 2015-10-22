@@ -1,0 +1,240 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio ACI",
+                "id": "16611",
+                "amenity": "fuel",
+                "operator": "B.T.F. SNC DI TURINO MICHELE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.513386279344557,
+                    43.316324694175925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI DI PIO LUCA E MARCO",
+                "id": "23421",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PIO LUCA,  MARCO & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.52788496017456,
+                    43.31379625939881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso CM",
+                "id": "7632",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "C.M. S.N.C. DI MARCHIO' GIANLUCA E CODEVICO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.513366162776947,
+                    43.317545939658785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Metano Cecina",
+                "id": "30733",
+                "amenity": "fuel",
+                "operator": "METANO TOSCANA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.542419850826263,
+                    43.31648705997103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE ENI CARBURANTE",
+                "id": "14600",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VADI GIANCARLO S.N.C. DI VADI GIANCARLO E DI QUIRICO SONIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.512302666902542,
+                    43.31972530812731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CECINA V.AURELIA KM.278+025- LOC. CEDRINO",
+                "id": "6563",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.526449978351593,
+                    43.29378364543625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ELF GASAUTO",
+                "id": "5229",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "RIGHI LUANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.537240505218506,
+                    43.306542330972256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cecina Matteotti",
+                "id": "28139",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.523166954517366,
+                    43.29996333677199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jugi Fuel",
+                "id": "21181",
+                "amenity": "fuel",
+                "operator": "JUGI ENERGY S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.540342479944227,
+                    43.31368736028728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CECINA-LOC.PALAZZACCIO AURELIA 365/B",
+                "id": "11621",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.522947013378142,
+                    43.30110019406791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CECINA LI-SS.1 VARIANTE AURELIA LATO DESTRO",
+                "id": "11622",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.543288863754242,
+                    43.289809332582884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Profeti Miria",
+                "id": "8048",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PROFETI MIRIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.540633499622345,
+                    43.24719126422065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "11250",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CIGNI DALMAZIO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.521098163229341,
+                    43.303967606376474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Profeti Miria",
+                "id": "8047",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PROFETI MIRIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.540633499622345,
+                    43.24719126422065
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "giardinello",
+                "id": "26795",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GIARDINELLO CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.265479177171073,
+                    37.43921670977545
+                ]
+            }
+        }
+    ]
+}

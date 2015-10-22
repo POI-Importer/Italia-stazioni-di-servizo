@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Rifornimento AQUILA di Galeotti Daniele,Mugelli Gabriele e c. snc",
+                "id": "27356",
+                "brand": "Aquila",
+                "amenity": "fuel",
+                "operator": "GALEOTTI DANIELE MUGELLI GABRIELE E C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.337375640869142,
+                    43.97884602604944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN PIERO A SIEVE MASSARONDINAIA",
+                "id": "23784",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "STAR SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.306119859218597,
+                    43.96189880822631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GIMA SNC DI GIOVANNINI GILDA",
+                "id": "8971",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GIMA SOCIETA' IN NOME COLLETTIVO DI GIOVANNINI GILDA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.35431597486877,
+                    43.99250257219334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "beyfin belli",
+                "id": "20989",
+                "amenity": "fuel",
+                "operator": "BELLI GIAMPIERO & VALTER S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.338669806718828,
+                    43.963555290332614
+                ]
+            }
+        }
+    ]
+}

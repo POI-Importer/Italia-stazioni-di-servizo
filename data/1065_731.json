@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni n° 19",
+                "id": "7650",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LAZZARO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.219943404197692,
+                    45.70613358195851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "pilagas",
+                "id": "29793",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TABONI ALDO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.308285981416701,
+                    45.690068026536224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AYMAVILLES-F.NE VILLETOS S.R. 47",
+                "id": "11461",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.246165131282852,
+                    45.705745680031775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GMG di Gérard Gael",
+                "id": "26276",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "G.M.G. DI GERARD GAEL & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.338216751813889,
+                    45.61807066462375
+                ]
+            }
+        }
+    ]
+}

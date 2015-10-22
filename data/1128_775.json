@@ -1,0 +1,357 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ENI",
+                "id": "29357",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LUNA ROSSA DI MAISTO ALESSANDRO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.305253088474274,
+                    39.93731389668294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ciullo Antonio",
+                "id": "19512",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CIULLO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.41700490549556,
+                    40.00886382692092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "7760",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VIVA SALVATORE ROCCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.323364071302763,
+                    39.98148715067145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8\\\\TOIL TRICASE",
+                "id": "21664",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "TOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.36692377924919,
+                    39.92609640995779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore Esso",
+                "id": "17608",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CHIURI ROCCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.357191163250373,
+                    39.925505231681576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO AGIP",
+                "id": "22437",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SPAGNOLO FILIPPO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.392992168664932,
+                    40.01016836242358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "P.V. 52169 di Zocco Mario Rosario",
+                "id": "27321",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ZOCCO MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3716082572937,
+                    39.92921297428405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL ERG",
+                "id": "20120",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "F.LLI MARTELLA S.A.S. DI MASSIMO MARTELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.362578600645065,
+                    39.92289166381596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO IP",
+                "id": "27436",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SODERO DONATO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.346324954829925,
+                    39.94579230734785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SANAPO CARBURANTI",
+                "id": "25916",
+                "amenity": "fuel",
+                "operator": "SANAPO KATYA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.311459720134735,
+                    39.920645372385735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BASILE PETROLI",
+                "id": "17416",
+                "amenity": "fuel",
+                "operator": "VANOTTI FABRIZIO SIMONE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.365219235420227,
+                    39.91118463226871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "20613",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "RIZZO FULVIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.299590349197388,
+                    39.948230578797904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI-ENERGIA SICILIANA",
+                "id": "16735",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LISI GIOVANNI ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.32200955229564,
+                    39.96089304397103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP DI RIZZO SALVATORE",
+                "id": "31470",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "RIZZO SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.38352531194687,
+                    39.98911629622615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "14230",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "NAUSICA DI DELLE DONNE ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.44383344054222,
+                    40.03895942803822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SP ENERGIA SICILIANA",
+                "id": "19781",
+                "amenity": "fuel",
+                "operator": "PAIANO FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.355036973953247,
+                    40.02840189453346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI - BASILE PETROLI",
+                "id": "13812",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LAZZARI ELENA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.422735184431076,
+                    40.00540613114911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PREITE",
+                "id": "24253",
+                "amenity": "fuel",
+                "operator": "MARCELLI DANILO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.320103746900713,
+                    39.97694355294591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COLUCCIA ANTONIO",
+                "id": "21642",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "COLUCCIA ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.39548971993781,
+                    39.999178735621754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "energia siciliana tricase",
+                "id": "29184",
+                "amenity": "fuel",
+                "operator": "SCARASCIA ANGELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.336884379386902,
+                    39.93637691412356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO TOTALERG DI RINI GIOVANNI",
+                "id": "27007",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO TOTALERG DI RINI GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.369953334331512,
+                    40.02014372841657
+                ]
+            }
+        }
+    ]
+}

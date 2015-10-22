@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Q8",
+                "id": "9155",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BALDI ENRICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.218374133110048,
+                    43.96366572079938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto eni - Perini Alessio",
+                "id": "22556",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PERINI ALESSIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.224013477563856,
+                    43.992953049415114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIETRASANTA - MARCONI",
+                "id": "31219",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.222750961971315,
+                    43.96123861360752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO Salatino Francesco",
+                "id": "9090",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SALATINO FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.19694060087204,
+                    43.979218535624206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.S Q8 di Menchini Pierluigi",
+                "id": "22831",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MENCHINI PIER LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.255612581968307,
+                    43.996449470118186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "del corto cristiano",
+                "id": "8699",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DEL CORTO CRISTIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.21662935614586,
+                    43.96447077590919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP LOMI GRAZIA",
+                "id": "27746",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LOMI GRAZIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.219955306356042,
+                    43.98520843088126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL ERG",
+                "id": "6041",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MAGGI FABRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.207366347312925,
+                    43.981765434857486
+                ]
+            }
+        }
+    ]
+}

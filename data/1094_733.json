@@ -1,0 +1,208 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARPITELLA S.",
+                "id": "30072",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CARPITELLA SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.320466898427865,
+                    45.447764438943004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto Carburanti Eredi Gasparini S.n.c.",
+                "id": "28572",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "EREDI GASPARINI S.N.C. DI GASPARINI ALEX E GASPARINI DIEGO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.345324818057975,
+                    45.457724540105055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Marina di Lio Grando",
+                "id": "28493",
+                "amenity": "fuel",
+                "operator": "MARINA DI LIO GRANDO - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.433417452639787,
+                    45.453807430550384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SUPERMERCATO VIGNOTTO",
+                "id": "28688",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SUPERMERCATO VIGNOTTO SNC DI VIGNOTTO CATERINA E FEDERICA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.408436849290748,
+                    45.45874345485212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto Carburanti Gasparini Diego & C. S.a.s.",
+                "id": "28569",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "IMPIANTO CARBURANTI DI GASPARINI DIEGO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.348059651739163,
+                    45.4514741905185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Api IP",
+                "id": "20998",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CANTIERE MOTONAUTICO S. PIETRO DI CASTELLO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.35968161144126,
+                    45.43551198864642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE ENI di Bertola Carla",
+                "id": "21531",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BERTOLA CARLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.360578468719494,
+                    45.40043442281949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VULCANO STEFANIA IMPIANTO CARBURANTI",
+                "id": "16725",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "VULCANO STEFANIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.336953803896904,
+                    45.445038395441614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione ENI Baldan Sauro",
+                "id": "18170",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BALDAN SAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.474137395620344,
+                    45.456642194044505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni iclera scc 13723",
+                "id": "31659",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ICLERA S.N.C. DI CANCELLARA MICHELE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.315643653273579,
+                    45.441442312090324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Berto Lucia Rifornimento TotalErg",
+                "id": "10660",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BERTO LUCIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.37524478761293,
+                    45.41991198960344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO",
+                "id": "21018",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FABRIS TURIDDU"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.320670448243618,
+                    45.42817580884221
+                ]
+            }
+        }
+    ]
+}

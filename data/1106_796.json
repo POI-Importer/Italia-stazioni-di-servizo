@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SP ENERGIA SICILIANA DI ROSA",
+                "id": "27223",
+                "brand": "SP Energia Siciliana",
+                "amenity": "fuel",
+                "operator": "DI ROSA ANTONINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.573062509298321,
+                    37.02193733449859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "31650",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "VELARDITA SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.580679982900621,
+                    37.12942388202294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "26969",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "AZIENDA AGRICOLA OCCHIPINTI SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.55603456289066,
+                    37.048149372245575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "27369",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "IACONO ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.485833048820496,
+                    37.023763574484185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di Servizio ESSO Guastella Salvatore",
+                "id": "11078",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GUASTELLA SALVATORE E FIGLI DI GUASTELLA CARMELO & C. SOCIETA' IN ACCOMANDITA SEMPLICE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.564252793788908,
+                    37.08126059767196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SP 3 C.DA FOSSAT",
+                "id": "12356",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.505105898147574,
+                    37.02571786204184
+                ]
+            }
+        }
+    ]
+}

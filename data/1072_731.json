@@ -1,0 +1,225 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VEGA BORGOMANERO",
+                "id": "31441",
+                "brand": "Vega",
+                "amenity": "fuel",
+                "operator": "VEGA CARBURANTI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.456677794456484,
+                    45.68183694565876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "9546",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "DI SCIORIO DOMENICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.606913685798645,
+                    45.68241223129522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGOGNA OVEST",
+                "id": "3773",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MAST S.A.S. DI MARROCCO EVANGELISTA E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.499636591262856,
+                    45.66127498376181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vargas",
+                "id": "4988",
+                "amenity": "fuel",
+                "operator": "NEGRITO GAS DI TOZZINI CARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.472239971160889,
+                    45.68752245693908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI 354 borgo ticino",
+                "id": "21799",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "EMMECI. 1 S.N.C. DI CAZZOLA TIZIANO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.608168542327917,
+                    45.67986250411911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGOGNA EST",
+                "id": "3735",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "vivoil sas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.502128510589614,
+                    45.660725015602104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "29547",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "S. & F. S.A.S. DI SAVOINI RENATA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.528668284416199,
+                    45.684271843855626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "2177",
+                "id": "29422",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "T.D.M. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.457353711128235,
+                    45.693422095711874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Borgomanero",
+                "id": "4680",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.483176501188609,
+                    45.67765011529698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "8293",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MERIDIO S.N.C. DI PANARIELLO ANGELO E PANARIELLO MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.46351869458158,
+                    45.692637652160364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio ENI di Lorenzini Paolo",
+                "id": "7244",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LORENZINI PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.474777340888977,
+                    45.68857622357322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BORGOMANERO-VIA MAGGIORA 70",
+                "id": "11745",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.446847872352578,
+                    45.7026625358812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "8708",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DENICOLA MARIA PAOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.540156744180308,
+                    45.66494835955387
+                ]
+            }
+        }
+    ]
+}

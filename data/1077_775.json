@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "L' Altura",
+                "id": "8083",
+                "amenity": "fuel",
+                "operator": "L'ALTURA S.A.S. DI RUBIU CARLO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.443446397781372,
+                    39.971518959433816
+                ]
+            }
+        }
+    ]
+}

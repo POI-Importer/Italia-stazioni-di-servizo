@@ -1,0 +1,174 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO TAMOIL",
+                "id": "11195",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SELVATICO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.806944370269775,
+                    40.95931472596377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GAS METANO",
+                "id": "21334",
+                "amenity": "fuel",
+                "operator": "PATTO DI SVILUPPO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.688597261905672,
+                    40.88106461493911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gruppo api ip",
+                "id": "13473",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "AMBROSIO MARIO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.676967203617098,
+                    40.97574505892879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "30757",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TODISCO DOMENICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.677651166915895,
+                    40.941346367763366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "31276",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "AUTO MINCO DI MARTONE PASQUALE E MILCO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.812766948214177,
+                    40.96550211006639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP GRUPPO API",
+                "id": "8405",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "P.D.G. CARBURANTI DI PIERRI ENRICO E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.681586863845837,
+                    40.91355687762999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VENOSA - ROMA",
+                "id": "30993",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.816989271163948,
+                    40.96301822882044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di carburante",
+                "id": "16248",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "POMPA DONATO CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.730100423097612,
+                    40.913510143802405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 BARILE",
+                "id": "8945",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "D&B DI DINOIA LAURA TIZIANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6819212436676,
+                    40.95630612590401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "17729",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "VALVANO ROCCHINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.70385903120041,
+                    40.849503201466824
+                ]
+            }
+        }
+    ]
+}

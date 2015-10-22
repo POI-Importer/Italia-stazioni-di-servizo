@@ -1,0 +1,309 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ISGRO' ANGELO DOMENICO",
+                "id": "11438",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ISGRO' ANGELO DOMENICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.316615835107088,
+                    38.163397034030474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "9903",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "IU.LE.I. S.A.S. - DI IUDICELLO LEONARDO GIUSEPPE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.361593067646028,
+                    38.21746804765425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BN PETROLI",
+                "id": "9242",
+                "amenity": "fuel",
+                "operator": "B.N. PETROLI DI BERTUCCIO NICOLA & C.SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.344182848930357,
+                    38.16767554827372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARUSO",
+                "id": "8712",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CARUSO CARMELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.315719246864322,
+                    38.20208504480621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DIVIETO NORD",
+                "id": "3902",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ELLECI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.437915325164795,
+                    38.23715371529532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Staz. Rifornimento Q8 Mortelliti Salvatore",
+                "id": "5176",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MORTELLITI SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.431447178125383,
+                    38.197931772254506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni",
+                "id": "26989",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "IA.MA.CA. S.A.S. DI CANTILONNE ALESSANDRO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.435682386159895,
+                    38.23759665948099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALOIL",
+                "id": "7699",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ALOIL DI ALOI GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.30444324016571,
+                    38.20031660255351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 9687",
+                "id": "30224",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.370020568370819,
+                    38.2193806321329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "5022",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BRIGANDI' GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.390826463699339,
+                    38.225521804341426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TORREGROTTA VIALE EUROPA",
+                "id": "6778",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.35187844973757,
+                    38.203675730171966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DIVIETO SUD",
+                "id": "24023",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "IUBIRE ESSO IDROCARBURI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.438934564590454,
+                    38.236658204474075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "18838",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SAIJA GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.391471355911222,
+                    38.225719504484424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIFORNIMENTO DI DE GAETANO SANTO",
+                "id": "12935",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DE GAETANO SANTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.338894899299248,
+                    38.20694503772741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO Q8",
+                "id": "27479",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MORABITO SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.413130837895551,
+                    38.231935633076844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SB GAS AUTO",
+                "id": "26955",
+                "amenity": "fuel",
+                "operator": "LASER GAS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.343614220619202,
+                    38.20608717243119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Punto Vendita IP Spadafora",
+                "id": "8276",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ELIOS PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.374143767740632,
+                    38.22140686253913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GRS Ardizzone Aurelio",
+                "id": "15420",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ARDIZZONE AURELIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.415591739893216,
+                    38.16510657488502
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Braconi Domenico",
+                "id": "13085",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BRACONI DOMENICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.870435118675234,
+                    42.20908131160487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bosi Ersilia",
+                "id": "15395",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BOSI ERSILIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.916026069636473,
+                    42.26967834545513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE CARBURANTI 2CL",
+                "id": "7210",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DUECIELLE ENERGIA - S.R.L. IN FORMA ABBREVIATA 2CL ENERGIA - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.85461283451275,
+                    42.232616776598746
+                ]
+            }
+        }
+    ]
+}

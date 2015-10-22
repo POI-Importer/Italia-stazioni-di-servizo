@@ -1,0 +1,342 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sordio Oil",
+                "id": "28347",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.380830228328705,
+                    45.33578181266644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.LLI SALI SAS",
+                "id": "21394",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F.LLI SALI DI SALI GIANFRANCO E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.410042837262154,
+                    45.30742662830207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI 53511",
+                "id": "12715",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ROYAL AUTO SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.457216858863829,
+                    45.277252541482014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Oil Italia",
+                "id": "21213",
+                "amenity": "fuel",
+                "operator": "DENTINI STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.491646301188666,
+                    45.305286007215095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LODI VECCHIO VIA ROMA 23",
+                "id": "22135",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.41444976441801,
+                    45.30329263936046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CORNEGLIANO LAUDENSE - S.S. 235",
+                "id": "24663",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.472865131282788,
+                    45.2900509384726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "21416",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "EREDI STROPPA S.N.C. DI STROPPA ENRICO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.399862512946129,
+                    45.23389410893574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Service Area s.a.s di Lecchi Stefano & C.",
+                "id": "25026",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVICE AREA S.A.S. DI LECCHI STEFANO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.48761835694313,
+                    45.302513935228205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BEYFIN",
+                "id": "22317",
+                "amenity": "fuel",
+                "operator": "DE GREGORIO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.478518962860107,
+                    45.32262882064266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL ERG",
+                "id": "21790",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ORECCHIA SNC DI ORECCHIA ATTILIO E C"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.401133209466934,
+                    45.32975518281986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni Trieste",
+                "id": "29933",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ACISTAR SETTE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.412737786769867,
+                    45.24199990839651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di Servizio Agip - Zonca snc",
+                "id": "18584",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ZONCA S.N.C. DI GIANLUCA DI CESARE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.34862494468689,
+                    45.31699592781903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AUTOMETANO LODI SNC",
+                "id": "16694",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AUTOMETANO LODI DI COMIZZOLI GIOVANNI SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.477565437555313,
+                    45.32240439827742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 Huwait Petroleum Italia Spa",
+                "id": "26198",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "NEGRONI FELICE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.415990856858912,
+                    45.23639149607016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IL GIGANTE SELF H 24",
+                "id": "25783",
+                "amenity": "fuel",
+                "operator": "GRANDI MAGAZZINI E SUPERMERCATI IL GIGANTE S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.460591077804565,
+                    45.32647554582211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.ZENONE OVEST",
+                "id": "3774",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GI & GI Petrol S.R.l."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.376455654106167,
+                    45.32047772300429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "21885",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GADOIL SNC DI GAUDENZI ANTONIO E STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.479398727416992,
+                    45.29626386274473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "24890",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ZUCCHELLI LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.398307944569297,
+                    45.23405076335409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO di Merli Emanuele e C. srl",
+                "id": "21597",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MERLI EMANUELE & C. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.404337165606648,
+                    45.24520953053458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.ZENONE EST",
+                "id": "3775",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SQ Petrol S.a.s. di Squeri Egidio & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.375709388885525,
+                    45.322311037834325
+                ]
+            }
+        }
+    ]
+}

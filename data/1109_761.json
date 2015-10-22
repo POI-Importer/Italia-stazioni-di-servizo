@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "21090",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "AGO CARBURANTI SNC DI DEL CINQUE ORESTE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.948825240135196,
+                    41.81626529807981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE RETEITALIA",
+                "id": "30151",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "FLORIO MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.011075131404143,
+                    41.87051823616413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni",
+                "id": "6304",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PETROLBITUMI - SOCIETA A RESPONSABILITA LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.016989399119554,
+                    41.87829950734272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RETEITALIA",
+                "id": "30153",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "FLORIO MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.077162906527517,
+                    41.896482336353465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "21156",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "AGO CARBURANTI SNC DI DEL CINQUE ORESTE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.986490830779072,
+                    41.817168646505586
+                ]
+            }
+        }
+    ]
+}

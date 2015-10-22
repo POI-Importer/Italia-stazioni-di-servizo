@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO Q8 DI MANCA EUGENIO",
+                "id": "8490",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MANCA EUGENIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.654916344488583,
+                    40.394662002842935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto esso di Manca Salvatore",
+                "id": "31782",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MANCA SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.663148209452629,
+                    40.401672537883925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mazzone",
+                "id": "30213",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI MAZZONE DI PIREDDA & NURRA S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.730235771827667,
+                    40.43622433091634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "retitalia",
+                "id": "29819",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "PINTORE  SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.763859793543814,
+                    40.416138394406666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZ.ESSO DI BATTISTA TEDDE",
+                "id": "24304",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "TEDDE BATTISTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.767178192203346,
+                    40.41676992877172
+                ]
+            }
+        }
+    ]
+}

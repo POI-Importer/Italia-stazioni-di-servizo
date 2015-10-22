@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "30194",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SCENNA GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.441521614789963,
+                    42.30974995896735
+                ]
+            }
+        }
+    ]
+}

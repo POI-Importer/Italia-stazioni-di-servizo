@@ -1,0 +1,290 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BC PETROLI SNC",
+                "id": "15520",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "B.C. PETROLI DI BERANZONI ANGELA ED ALFREDO SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.35600084066391,
+                    42.514454657641366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GIOVE OVEST",
+                "id": "3757",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GIOVE SERVICE DI SISTI GIOVANNI & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.312064780425999,
+                    42.49890956545467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rinaldi Federico",
+                "id": "18427",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "RINALDI FEDERICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.418930828571323,
+                    42.55230337899464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GIOVE EST",
+                "id": "3624",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "Gestioni Luce srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.312031779098563,
+                    42.50000170857561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ORTE",
+                "id": "26773",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TIBER S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.37796924351653,
+                    42.4598327783748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO T.E.E.G. s.n.c.",
+                "id": "8525",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "T.E.E.G. S.N.C. DI ROSATI GABRIELE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.422940731048584,
+                    42.46356936329099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FIREMIH SNC",
+                "id": "27490",
+                "amenity": "fuel",
+                "operator": "FIREMIH SNC DI ABERRA ZEGEYE & NEGASH ABREHA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.407995462417604,
+                    42.438850330341374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di Servizio Eni",
+                "id": "27389",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CURATELLA PETROLI - S.R.L. ."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.418783970080538,
+                    42.46060722374664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENERPETROLI",
+                "id": "29880",
+                "amenity": "fuel",
+                "operator": "POLIZZOTTO SEBASTIAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.304985895752907,
+                    42.46367106755352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL DI RICCARDI GABRIELLA",
+                "id": "17660",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "RICCARDI GABRIELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.386966273188593,
+                    42.45831870593844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "P.V. ENERPETROLI - BASSANO TEV.",
+                "id": "32096",
+                "brand": "Enerpetroli",
+                "amenity": "fuel",
+                "operator": "ENERPETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.304999586062761,
+                    42.463685267979415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ewa",
+                "id": "10275",
+                "amenity": "fuel",
+                "operator": "AMERINA PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4493966441803,
+                    42.546011070207314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ORTE VIA TIBERINA-S.P.151",
+                "id": "20904",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.389238932540936,
+                    42.45996458333538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "4271",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FAIP S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.305524349212648,
+                    42.45211490294565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV ENERPETROLI",
+                "id": "12122",
+                "brand": "Enerpetroli",
+                "amenity": "fuel",
+                "operator": "ENERPETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.365788221359253,
+                    42.49871041534741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "san liberato",
+                "id": "30425",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GIOVANNINI ARTEMIO E FRANCO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.452387362718584,
+                    42.485160794801146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TUSCIA PETROLI ORTE",
+                "id": "13577",
+                "amenity": "fuel",
+                "operator": "CALISTI UMBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.407541498541836,
+                    42.45270228093838
+                ]
+            }
+        }
+    ]
+}

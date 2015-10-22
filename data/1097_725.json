@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gesticarb snc",
+                "id": "4595",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTICARB SNC DI LUCCHINI GIAN PIETRO E LUCA SONIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.927969503239526,
+                    46.41554923370201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VILLA SANTINA-SS. 52 KM.18+760",
+                "id": "11906",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.931395744705242,
+                    46.41476628589721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio esso di polonia valerio",
+                "id": "14798",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CENTRO AUTO DI POLONIA VALERIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.919171857008337,
+                    46.41625017521784
+                ]
+            }
+        }
+    ]
+}

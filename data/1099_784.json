@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jo oil ip",
+                "id": "28085",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "JO OIL DI SIQUEIRA DA SILVA MARIA DE FATIMA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.194790867420238,
+                    38.70776635579868
+                ]
+            }
+        }
+    ]
+}

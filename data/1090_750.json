@@ -1,0 +1,188 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip di Buracchi Sofia",
+                "id": "17093",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BURACCHI SOFIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.743961245370883,
+                    43.27313050364599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sinalunga",
+                "id": "9367",
+                "amenity": "fuel",
+                "operator": "I.C.M. SOCIETA' IN NOME COLLETTIVO DI BRUNO, CRISTIANO E FABRIZIO MAGGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.761339008808136,
+                    43.21173182686881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Blue",
+                "id": "26993",
+                "amenity": "fuel",
+                "operator": "BLUE S.A.S. DI DI GORO MORENO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.748162367478928,
+                    43.27512615696991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LUCIGNANO OVEST",
+                "id": "29384",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.77470713853836,
+                    43.245640371000874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Autostop",
+                "id": "16564",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "AUTOSTOP DI FONTANI SILVANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.753633389518882,
+                    43.21457740292617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LUCIGNANO EST",
+                "id": "3604",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "Marcello Barducci"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.77447854232787,
+                    43.247030541570595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni",
+                "id": "29210",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GAROSI LEONARDO E TORELLI ALESSANDRO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.755744932162315,
+                    43.21877043854735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NANNOTTI SANDRO",
+                "id": "26144",
+                "amenity": "fuel",
+                "operator": "NANNOTTI SANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.616337427425378,
+                    43.25546805222173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ADS SENTINO",
+                "id": "5137",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AUTOGRILL B.D.S. DI BAGNERINI DOLORES, SANDRA & C. SNC CON SIGLA AUTOGRILL B.D.S. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.630401611328125,
+                    43.26331172821631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione servizio q8",
+                "id": "13267",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GRISOSTOMI SANDRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.60207710185239,
+                    43.29406404974868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GRAZIANI CATULLO S.R.L.",
+                "id": "31737",
+                "amenity": "fuel",
+                "operator": "GRAZIANI CATULLO- SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.743878791818247,
+                    43.21638128706936
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DI FABIO CHIARA",
+                "id": "18458",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DI FABIO CHIARA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.46631260747904,
+                    41.62256090484447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "30404",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PIT STOP CAFFE' DI DI FABIO CHETTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.466322068786669,
+                    41.62255807069919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "29176",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VALENTINI DOMENICO E ANGELO - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.45775580406189,
+                    41.6255521073426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "7839",
+                "id": "29560",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "T.D.M. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.471563816070558,
+                    41.634152796595224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP VIGNATI",
+                "id": "28897",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "VIGNATI WILLIAM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.454499602317807,
+                    41.628520978406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "myOil Torvajanica",
+                "id": "28299",
+                "brand": "MyOil",
+                "amenity": "fuel",
+                "operator": "PETROL SOCIETY- SOCIETA A RESPONSABILITA LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.47383028268814,
+                    41.62683827404766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP Neri",
+                "id": "28947",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "NERI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.443686276674274,
+                    41.63659325868741
+                ]
+            }
+        }
+    ]
+}

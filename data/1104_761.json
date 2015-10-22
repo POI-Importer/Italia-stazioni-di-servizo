@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ENI",
+                "id": "27684",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ODDIS LAURENTINO - S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0685698390007,
+                    41.855306144944706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "verlingas",
+                "id": "7719",
+                "amenity": "fuel",
+                "operator": "VERLINGAS DUE - S.A.S. DI VERLINGIERI ORESTE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.100015390213004,
+                    41.7745159779336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "X FUEL ATELETA",
+                "id": "25631",
+                "amenity": "fuel",
+                "operator": "X FUEL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.192844629287723,
+                    41.84372587221555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "17068",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ZIZZARI MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.068765629851216,
+                    41.88712914042838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Eni Piana di Sangro",
+                "id": "5739",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DI FRANCO MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.174409806728365,
+                    41.82134979041032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio esso di giancola roberto",
+                "id": "22412",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GIANCOLA ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.076631218194962,
+                    41.85094041253824
+                ]
+            }
+        }
+    ]
+}

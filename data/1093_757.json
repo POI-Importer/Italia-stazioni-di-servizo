@@ -1,0 +1,187 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EWA DISTRIBUTORI",
+                "id": "22793",
+                "amenity": "fuel",
+                "operator": "PROIETTI OBERDAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.222988083958622,
+                    42.38496020190449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RONCIGLIONE - PV ENERPETROLI",
+                "id": "28871",
+                "brand": "Enerpetroli",
+                "amenity": "fuel",
+                "operator": "ENERPETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.202235162258152,
+                    42.30553440290818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tuscia Petroli Vignanello",
+                "id": "20742",
+                "amenity": "fuel",
+                "operator": "B & ST S.A.S. DI BIRIBANTI STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.294403910636902,
+                    42.40176992962693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SANTINI DANTE",
+                "id": "22117",
+                "amenity": "fuel",
+                "operator": "SANTINI DANTE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.228875255225375,
+                    42.41787848076383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Total Erg",
+                "id": "21493",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "EGIDI ROSSANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.236504224138118,
+                    42.42078227002129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "23884",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ACCETTONE STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.299445136064833,
+                    42.33303461474845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "G.P.Oil",
+                "id": "17337",
+                "amenity": "fuel",
+                "operator": "RAPITI FRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.264346447102639,
+                    42.33204151988884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIGNANELLO VIA GALLESE K.8+391",
+                "id": "21902",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.296748161315918,
+                    42.398408898780836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "farnese carburanti",
+                "id": "15747",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FARNESE CARBURANTI S.N.C. DI PONTUALE ROSATO E STELLIFERI ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.233594208955765,
+                    42.32577728510854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Autoservizi Cimina sas",
+                "id": "15586",
+                "amenity": "fuel",
+                "operator": "AUTOSERVIZI CIMINA S.A.S. DI DELLE MONACHE STEFANO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.13464617729187,
+                    42.40434707977357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP CANEPINA",
+                "id": "11343",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CIULA EMILIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.23583130025179,
+                    42.37977040408393
+                ]
+            }
+        }
+    ]
+}

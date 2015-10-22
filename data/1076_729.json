@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "keropetrol",
+                "id": "14817",
+                "amenity": "fuel",
+                "operator": "GEROSA SERGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.272854525131265,
+                    45.84483064347414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto IP Acquistapace Franco",
+                "id": "12944",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ACQUISTAPACE FRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.299339729465146,
+                    45.880219046342354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO TAMOIL - CARTA CRISTIANA",
+                "id": "19160",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CARTA CRISTIANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.248405545949936,
+                    45.840091952829574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "13686",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RIVA S.N.C. DI RIVA MASSIMO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.313769008598342,
+                    45.92011203833082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AUTOFFICINA PIT STOP DI ZUPI MARCELLO",
+                "id": "15503",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "AUTOFFICINA PIT STOP DI ZUPI MARCELLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.269338175654413,
+                    45.85614667283505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "centro motori due s.n.c.",
+                "id": "7924",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CENTRO MOTORI DUE -  S.N.C. DI GALLUZZO MICHELE E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.269844559524472,
+                    45.85776612793577
+                ]
+            }
+        }
+    ]
+}

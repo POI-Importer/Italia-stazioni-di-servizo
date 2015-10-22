@@ -1,0 +1,88 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "16721 ENI SPA",
+                "id": "31068",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MARCHIONE PANCRAZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.568911850452423,
+                    41.2360954946041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARDI s.n.c. di Cardi Daniele e Roberto_",
+                "id": "7027",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CARDI S.N.C. DI CARDI DANIELE E ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.557280451059343,
+                    41.21427858372718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GAETA DEPOMAR SRL IMPIANTO TERRESTRE",
+                "id": "21348",
+                "amenity": "fuel",
+                "operator": "GAETA-DEPOMAR - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.572826279762237,
+                    41.21368363767424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP CALEGNA",
+                "id": "20922",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DI.VE.GEST. DI VELLUCCI COSMO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.568831384181976,
+                    41.22436671818471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FLACCA - GAETA",
+                "id": "30835",
+                "amenity": "fuel",
+                "operator": "EUROGAS CENTROITALIA S.R.L"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.558798581361772,
+                    41.2152553419836
+                ]
+            }
+        }
+    ]
+}

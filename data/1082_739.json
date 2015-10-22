@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FELINO - VERDI",
+                "id": "31469",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2420429153442,
+                    44.6947809331571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP-ENI",
+                "id": "27117",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SULIS MONICA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.315971777130128,
+                    44.676268057663535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio Esso di Carta Francesco",
+                "id": "8813",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CARTA FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.307031869888307,
+                    44.6491411298632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO F1",
+                "id": "7174",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAZIONE SERVIZIO F1 DI CALZETTI EGISTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.289887189865112,
+                    44.68450011262832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "carbognani oil di carbognani lucia",
+                "id": "10744",
+                "amenity": "fuel",
+                "operator": "CARBOGNANI LUCIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.27188152074814,
+                    44.63144916007757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "G.M.G. di Goni Marco",
+                "id": "6305",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO G.M.G. DI GONI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.236894786357878,
+                    44.70305400041783
+                ]
+            }
+        }
+    ]
+}

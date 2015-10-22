@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "15513",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "C.A.S.A. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.362118209787013,
+                    38.13666506281218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Marina villa igiea",
+                "id": "26957",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MARINE FUEL  S.A.S. DI CONTI ANGELO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.372149020433428,
+                    38.14404529992792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Marina Arenella",
+                "id": "26959",
+                "amenity": "fuel",
+                "operator": "MARINE FUEL  S.A.S. DI CONTI ANGELO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.375795483589172,
+                    38.14899200163888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO DISTRIBUTORE Q8",
+                "id": "29844",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CANGELOSI VINCENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.370951894512245,
+                    38.14919332294333
+                ]
+            }
+        }
+    ]
+}

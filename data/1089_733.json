@@ -1,0 +1,154 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "17387",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PIERANTONI VIRGINIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5745864251312,
+                    45.39067197086906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STACCHIO ENRICO & C S.N.C.",
+                "id": "24493",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO STACCHIO ENRICO  &  C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.594326570630072,
+                    45.42535301254649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "16034",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "GASPARI ADRIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.552856266498567,
+                    45.37932673953673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio B.L.",
+                "id": "25093",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO B.L. DI BASSO LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.600944589529488,
+                    45.44181769110759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BC Barbarano vicentino",
+                "id": "11067",
+                "amenity": "fuel",
+                "operator": "ENERGIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.543255306745891,
+                    45.40900180950361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio ENI",
+                "id": "10171",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MARCATO ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.463596373796463,
+                    45.34842222640333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE SPIAZZO",
+                "id": "29341",
+                "amenity": "fuel",
+                "operator": "PELOSO GRAZIELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.451961775463133,
+                    45.41043318081571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PVB",
+                "id": "16156",
+                "amenity": "fuel",
+                "operator": "RESSERINI BENITO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.517616965484535,
+                    45.36328067889237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZ. SERVIZIO STACCHIO MARIO &C. SNC",
+                "id": "6340",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO STACCHIO MARIO & C. SOCIETA' IN NOME COLLET TIVO DI STACCHIO MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.564993119049065,
+                    45.36741884326076
+                ]
+            }
+        }
+    ]
+}

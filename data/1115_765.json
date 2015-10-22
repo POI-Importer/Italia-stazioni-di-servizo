@@ -1,0 +1,157 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "7143",
+                "id": "31569",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "T.D.M. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.107687056064606,
+                    41.35312548608176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO IP",
+                "id": "21953",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "NAPOLITANO MASSIMILIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.06646418571472,
+                    41.359395652577476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GRASSITELLI CARBURANTI",
+                "id": "16644",
+                "amenity": "fuel",
+                "operator": "GRASSITELLI GERARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.127957850694653,
+                    41.35780737058511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "q8",
+                "id": "9168",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MAGNIFICO CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.09961897134781,
+                    41.35479405406286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GRASSITELLI CARBURANTI",
+                "id": "16641",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GRASSITELLI GERARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.127957850694653,
+                    41.35780737058511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN FERDINANDO DI PUGLIA STRADA PROV. TRINITAPOLI",
+                "id": "9484",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.07102762513125,
+                    41.3083495057522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL ERG DI RICCO FRANCESCO",
+                "id": "24444",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "RICCO FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.090520947256095,
+                    41.35386597323565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PETROL VENETA",
+                "id": "30597",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PETROL VENETA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.08422577381134,
+                    41.31183122962097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio IP",
+                "id": "24492",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CASAL OIL S.A.S. DI SAVINO STORELLI & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.084519126953186,
+                    41.34060282794425
+                ]
+            }
+        }
+    ]
+}

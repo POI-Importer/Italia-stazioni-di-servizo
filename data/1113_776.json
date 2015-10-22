@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg",
+                "id": "21054",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "G. C. PETROLI DI CERBINO GIOVANBATTISTA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.795873552560806,
+                    39.78108301348119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SCALEA SS 18 KM 261+950",
+                "id": "25793",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.793120173016405,
+                    39.793537789371214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "26552",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "RUSSO FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.792157351970676,
+                    39.799222216491955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "impianto no logo",
+                "id": "29593",
+                "amenity": "fuel",
+                "operator": "FUEL RETE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.793337523937222,
+                    39.83739676152755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "29394",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CAPMAR S.N.C. DI MARIO MARSIGLIA E GAETANO CAPUTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.783259248410104,
+                    39.89278271086396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "14022",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DITTA DE VITO VINCENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.790355730688479,
+                    39.81513809668701
+                ]
+            }
+        }
+    ]
+}

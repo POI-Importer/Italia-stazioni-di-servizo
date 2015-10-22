@@ -1,0 +1,122 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg di Christian Negro",
+                "id": "17604",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "NEGRO CHRISTIAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.25703699607845,
+                    39.904861595194596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI-TORRE VADO",
+                "id": "27907",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STORELLA ROCCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.273814244428536,
+                    39.83312311070341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "21291",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PALESE MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.19051757454872,
+                    39.851375739955444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG DI RATANO FABIOLA",
+                "id": "15421",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "RATANO FABIOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.251858353614807,
+                    39.907234384502566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BASILE PETROLI",
+                "id": "31597",
+                "amenity": "fuel",
+                "operator": "STORELLA ROCCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.260382413864136,
+                    39.892898421491964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "26184",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ROMANO DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.270716965198517,
+                    39.88966948383539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAMER",
+                "id": "15110",
+                "amenity": "fuel",
+                "operator": "DAMIANI MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.267191365152712,
+                    39.90684848485649
+                ]
+            }
+        }
+    ]
+}

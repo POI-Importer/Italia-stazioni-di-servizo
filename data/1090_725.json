@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PEDERIVA IVANO",
+                "id": "23905",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PEDERIVA IVANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.68073058128357,
+                    46.41976155672391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI RIFORNIMENTO ESSO",
+                "id": "23794",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BEZ EZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.652079224586487,
+                    46.368596257931664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE IP DI VIGO DI FASSA",
+                "id": "18977",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MATTIOLI GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.671612411737442,
+                    46.41991280747741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO SORAGA DI LASTEI MARIACRISTINA & C. S.A.S.",
+                "id": "9407",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO SORAGA DI LASTEI MARIACRISTINA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.669258773326876,
+                    46.398497222157935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "cristoforetti",
+                "id": "26570",
+                "brand": "Cristoforetti",
+                "amenity": "fuel",
+                "operator": "CRISTOFORETTI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.610022187232973,
+                    46.33795819830693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Agip",
+                "id": "4430",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DEZULIAN ALESSIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.649745865418028,
+                    46.36665100705256
+                ]
+            }
+        }
+    ]
+}

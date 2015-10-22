@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "impianto tamoil",
+                "id": "15704",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PITTORRU GIAN PIERO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.105225875973701,
+                    40.900178610382525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIB. Retitalia AGGIUS",
+                "id": "23682",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "PETROLIFERA ADRIATICA S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.063656330108643,
+                    40.92735190325344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO 7767",
+                "id": "6994",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FRESI S.A.S DI LINO FRESI & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.09940481185913,
+                    40.90523402363672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO SERVICE - MARIOTTI FRANCESCO",
+                "id": "9325",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MARIOTTI FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.119072318724077,
+                    40.90486942119864
+                ]
+            }
+        }
+    ]
+}

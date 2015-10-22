@@ -1,0 +1,123 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IES",
+                "id": "17137",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "PETROL.BO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.749094486236572,
+                    40.71603763556809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Macchia Carburanti",
+                "id": "26181",
+                "amenity": "fuel",
+                "operator": "MACCHIA CARBURANTI DI MACCHIA PASQUALE & C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.700221720378408,
+                    40.82985026368203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Maio Salvatore",
+                "id": "18052",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MAIO SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.733779072761534,
+                    40.8024516464152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "6212",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GUGLIELMI AUTOTRASPORTI S.N.C. DI GUGLIELMI VITO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.761078596115112,
+                    40.78821822133349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "5752",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "RO.DA.PA. S.A.S. DI ROMANIELLO DANIELA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.742807388305664,
+                    40.8185125657228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN GIORGIO SELF H24",
+                "id": "4026",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ZACCAGNINO SERVICE STATION SNC DI ZACCAGNINO DINA E ZACCAGNINO LEONARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.793200731277464,
+                    40.77055784149828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN GIORGIO",
+                "id": "3989",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ZACCAGNINO SERVICE STATION SNC DI ZACCAGNINO DINA E ZACCAGNINO LEONARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.793200731277464,
+                    40.77059034210314
+                ]
+            }
+        }
+    ]
+}

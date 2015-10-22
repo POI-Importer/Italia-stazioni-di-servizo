@@ -1,0 +1,209 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "09170",
+                "id": "14694",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "G.I.CA. DI LABATE E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.016207575798035,
+                    40.91520261940804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "de mola",
+                "id": "5167",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DE MOLA GAETANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.929226219654083,
+                    40.96112654472039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "5312",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ROA - SOCIETA' COOPERATIVA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.92962050437927,
+                    40.95968154980313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI DI SPINELLI BERARDINO",
+                "id": "11219",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SPINELLI BERARDINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.945032477378845,
+                    40.875544745182815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio tamoil",
+                "id": "16246",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BORRELLI CATERINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.94522961974144,
+                    40.898752353184356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASAMASSIMA",
+                "id": "5928",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.924561775463072,
+                    40.970886289605495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO SAMMICHELE SS 100",
+                "id": "26840",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MODI - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.94068729877472,
+                    40.860003976169274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "q8",
+                "id": "22196",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PINK BAR S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.92372366786003,
+                    40.96228308496251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TURI VIA CASAMASSIMA",
+                "id": "26384",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MODI - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.011732310056686,
+                    40.920318699550876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASAMASSIMA SS. 100 KM. 19+164",
+                "id": "8389",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.92017148650814,
+                    40.968278822291225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IES",
+                "id": "24364",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "LIUZZI MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.01021779017833,
+                    40.920904839704455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASAMASSIMA - VIA BARI ang VIA LIBERTA'",
+                "id": "23100",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.917486588954944,
+                    40.95867670609345
+                ]
+            }
+        }
+    ]
+}

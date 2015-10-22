@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PREDAZZO-VIA FIAMME GIALLE 24",
+                "id": "11850",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.596998646196086,
+                    46.305722491214915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "8130",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CAMELO SERVICE DI DELLASEGA RICCARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.454663723057706,
+                    46.29073040490688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GNP DAIANO",
+                "id": "4406",
+                "brand": "GNP",
+                "amenity": "fuel",
+                "operator": "GRUPPO NORD PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.451740253375648,
+                    46.299967474573414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PEKE Sas",
+                "id": "8332",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PEKE S.A.S. DI DEGIAMPIETRO PAOLO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.441584825515747,
+                    46.287599240261095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "milo melillo",
+                "id": "5641",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MELILLO MILO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.595162749290466,
+                    46.30468668423769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "20662",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GIACOMUZZI ERNESTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.504629848064043,
+                    46.288689130187635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASARI MAURO",
+                "id": "5024",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CASARI MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.436707414839589,
+                    46.285019660715186
+                ]
+            }
+        }
+    ]
+}

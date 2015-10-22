@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 5970",
+                "id": "32094",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CARCONI S.A.S. DI CARCONI FEDERICA E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.150749826213316,
+                    42.20492787539886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NARDANTONIO MAURIZIO",
+                "id": "15870",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "NARDANTONIO MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.09283182024956,
+                    42.26133064465913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "f.lli giglio",
+                "id": "21680",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FRATELLI GIGLIO ROMEO E ANNA MARIA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.09542417526245,
+                    42.25004891925381
+                ]
+            }
+        }
+    ]
+}

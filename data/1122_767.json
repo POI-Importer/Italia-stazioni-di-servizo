@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO - D&D S.r.l.",
+                "id": "19002",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "D & D S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.23056239027403,
+                    40.98842416346224
+                ]
+            }
+        }
+    ]
+}

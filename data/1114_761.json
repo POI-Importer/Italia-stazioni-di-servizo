@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BASILE PETROLI SPA",
+                "id": "26067",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "COLAFRANCESCO FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.959851810359284,
+                    41.89623069302014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARPINO - STRADA SCORR.VELOCE 89",
+                "id": "28676",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.831900000000017,
+                    41.84936393543739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Varano Petroli sas",
+                "id": "27252",
+                "amenity": "fuel",
+                "operator": "VARANO PETROLI DI DI VIESTI MARIO PASQUALE & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.838656127452852,
+                    41.85446946248601
+                ]
+            }
+        }
+    ]
+}

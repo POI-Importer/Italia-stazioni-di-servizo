@@ -1,0 +1,461 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "21024",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CAPERANA CARBURANTI SNC DI DI STEFANO MAURO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.345613494515419,
+                    44.33200725515373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIVIERA SUD",
+                "id": "3931",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "Garantera sas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.420013089618694,
+                    44.27513292105663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LAVAGNA - PREVIATI",
+                "id": "30927",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.341645597553224,
+                    44.308588483861044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pinasco Carla e C. s.a.s.",
+                "id": "13391",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PINASCO CARLA  &  C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.319273231877105,
+                    44.320038668522535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MINETTI ORIANO",
+                "id": "19826",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MINETTI ORIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.454273484454689,
+                    44.27423627956084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SESTRI LEVANTE VIA B PRIMI LOC. PONTINO",
+                "id": "6384",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.420980215072632,
+                    44.271358438791054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL ERG",
+                "id": "21481",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BBM DI BACIGALUPO MATTEO & C. SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.345654398202896,
+                    44.314486754454514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ditta Individuale Roscelli Sergio Eni",
+                "id": "19214",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ROSCELLI SERGIO - IMPIANTO AGIP 1010"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.332714080810547,
+                    44.31234531244609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIVIERA NORD",
+                "id": "3883",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TotalErg S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.419914374170276,
+                    44.27604691235074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "impianto 44081",
+                "id": "12795",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "RPL GROUP S.N.C. DI RICCO' FAUSTO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.358879700303078,
+                    44.300636626425344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "3C",
+                "id": "16919",
+                "amenity": "fuel",
+                "operator": "3C S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.326119019084672,
+                    44.31405826812486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "parma fabio",
+                "id": "9137",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PARMA FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.322653114795685,
+                    44.32116314546446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIVOLI GIANNI",
+                "id": "23979",
+                "amenity": "fuel",
+                "operator": "RIVOLI GIANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.421750009059906,
+                    44.27950225939763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione esso 3556",
+                "id": "12607",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "M.& L. PODESTA' SBARBORI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.347686171531677,
+                    44.32012882478527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Brignole Claudino & C snc",
+                "id": "27231",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BRIGNOLE CLAUDINO E C. SOCIETA' IN NOME COLLETTIVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.33101623814764,
+                    44.31246814768498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "total erg cogorno 2018",
+                "id": "27386",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GRAFFIONE PNEUMATICI DI GRAFFIONE MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.353927671909332,
+                    44.33856309686677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Esso Callegari e Corsini snc",
+                "id": "13380",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CALLEGARI E CORSINI SNC DI CALLEGARI ENZO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.400857612490654,
+                    44.271683591069404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A.CANTERO E FIGLI SRL",
+                "id": "18070",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "A.CANTERO & FIGLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.332298257144203,
+                    44.31429395311267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SESTRI LEVANTE-LOC.PILA SS. 1 AURELIA 141",
+                "id": "11597",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.424105364417983,
+                    44.267599039651735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CHIAVARI CORSO DE MICHIEL 6 IMPIANT.Q8",
+                "id": "6385",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.326199426983635,
+                    44.31378226103606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "23595",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CARMINATI ENRICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.40393477678299,
+                    44.27140837374473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Debenedetti Marta",
+                "id": "10457",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DEBENEDETTI MARTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.341169692337644,
+                    44.319993491106686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EUROPAM S.LEVANTE MARINO",
+                "id": "12762",
+                "amenity": "fuel",
+                "operator": "EUROPAM S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.385463073849678,
+                    44.270654736421704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Europam",
+                "id": "29373",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BANCHERO ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.489222506568126,
+                    44.24079521962211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMBRAGUGLIA DANIELE",
+                "id": "8704",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IMBRAGUGLIA DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.363684087696813,
+                    44.298362602773544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Castagnola Carburanti",
+                "id": "13295",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CASTAGNOLA CARBURANTI S.N.C. DI VALENTE MASSIMO E ZIGNAIGO MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.321439080950995,
+                    44.32136731666793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CHIAVARI-C.SO DE MICHIEL 62",
+                "id": "11598",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.328175101852366,
+                    44.31289212243758
+                ]
+            }
+        }
+    ]
+}

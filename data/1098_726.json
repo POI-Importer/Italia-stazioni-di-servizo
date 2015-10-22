@@ -1,0 +1,226 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso di Spizzo Alan",
+                "id": "27519",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SPIZZO ALAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.075166121125223,
+                    46.2358565009666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REPSOL - BUIA",
+                "id": "31299",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "LOGIFUEL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.093433976173397,
+                    46.24058888161156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TRASAGHIS",
+                "id": "7328",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SOM S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.080714748687797,
+                    46.28134123627377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "25544",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "COSSA ENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.107590675354002,
+                    46.268604877646126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Atelier.snc",
+                "id": "25713",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ATELIER SNC DI VINCENTI CHRISTIAN E PATAT DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.010923862457275,
+                    46.22474366257768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zamolo Giulio",
+                "id": "14213",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ZAMOLO SAS DI ZAMOLO GIULIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.122280723409403,
+                    46.287143783202474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mi.Xo.",
+                "id": "20487",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MI.XO. DI XOTTO MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.102156519889832,
+                    46.25944384887987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO di Spizzo Alan",
+                "id": "16337",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SPIZZO ALAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.10240864753723,
+                    46.21017832507166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REPSOL - GEMONA",
+                "id": "31296",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "LOGIFUEL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.119093363787783,
+                    46.268030248548634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GEMONA DEL FRIULI-FZ. PIOVEGA - VIA TABOGA 93",
+                "id": "11905",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.107899646724832,
+                    46.263269755122764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "14271",
+                "id": "12767",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MILZONI GIANFRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.12054948213961,
+                    46.203538203331576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG DI TONDO TANIA",
+                "id": "27793",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TONDO TANIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.165415078401566,
+                    46.230234216258715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL ERG DI P&C SRLS",
+                "id": "30937",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "P&C SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.117930591106411,
+                    46.20295416806698
+                ]
+            }
+        }
+    ]
+}

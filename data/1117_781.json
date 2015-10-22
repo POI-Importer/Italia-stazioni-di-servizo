@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BELCASTRO SERVICE SAS DI VIZZA CARMELA & C.",
+                "id": "18930",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BELCASTRO SERVICE S.A.S. DI VIZZA CARMELA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.414964273571968,
+                    39.161374885856866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "27729",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GALLO ALDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.39277058144535,
+                    39.120489116437675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "impianto carburanti fazio",
+                "id": "26007",
+                "amenity": "fuel",
+                "operator": "FAZIO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.410655975341797,
+                    39.0994866447901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PARENTI",
+                "id": "26648",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ZETA GAS S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.48358792066574,
+                    39.16202728638982
+                ]
+            }
+        }
+    ]
+}

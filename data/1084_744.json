@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "papi sergio",
+                "id": "10666",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PAPI SERGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.583933740854265,
+                    44.00471058567659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil San Carlo Ponte Maggio",
+                "id": "28959",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SAN CARLO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.683262646198273,
+                    44.04323034650533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "b&c snc",
+                "id": "10755",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "B.& C. DI BERNARDINI SERENA E CIANELLI GIANLUCA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.558175146579742,
+                    43.99849667160124
+                ]
+            }
+        }
+    ]
+}

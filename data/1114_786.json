@@ -1,0 +1,209 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ROSARNO EST",
+                "id": "3993",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FOR.M.OIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.942996740341187,
+                    38.43952762993767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GIOIA TAURO VIA NAZIONALE S.S. 18 N.135/A",
+                "id": "20553",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.897234478573635,
+                    38.42108388300718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "q8",
+                "id": "9289",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PIT STOP DI BARTOLO BIAGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.970929035057905,
+                    38.48906378530915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO ESSO di Macrì Rocco",
+                "id": "27713",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MACRI' ROCCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.910546034574512,
+                    38.413449743062785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 54990",
+                "id": "26910",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.975401349685622,
+                    38.491828453024034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chindamo Luciana",
+                "id": "25801",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CHINDAMO LUCIANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.971758067607881,
+                    38.48327484954642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SELF-AREA ENI GESTORE GALLUCCIO DIEGO",
+                "id": "20256",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GALLUCCIO DIEGO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.899500697851177,
+                    38.422372644033665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni",
+                "id": "8128",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DUE P DI PULIMENI NICOLA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.90423882007599,
+                    38.417281769111824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ROSARNO OVEST",
+                "id": "3586",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GE.DI.CAR. (GESTIONE DISTRIBUTORI CARBURANTI) S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.942084789276123,
+                    38.439952846673926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Esso GA.RI. sas",
+                "id": "21118",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GA.RI S.A.S. DI GIANLUCA GAETANO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.939048528671268,
+                    38.479222160341656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ROSARNO EST",
+                "id": "3994",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FOR.M.OIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.942996740341187,
+                    38.43952762993767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di servizio Palmi",
+                "id": "30369",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI INTEGRATI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.890161108891336,
+                    38.41175846698304
+                ]
+            }
+        }
+    ]
+}

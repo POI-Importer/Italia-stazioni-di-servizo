@@ -1,0 +1,225 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "22913",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "WEGER JOHANN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.668507881414257,
+                    46.7968702020822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "9543",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STEGER GOTTHARD"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.630940735340117,
+                    46.687138772229815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI KOFLER",
+                "id": "24117",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "KOFLER MARTIN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.655578166246414,
+                    46.720543333972834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Q8",
+                "id": "8794",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "RAINER JOSEF"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.651757452778611,
+                    46.70850866113071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kostner - Varna",
+                "id": "5319",
+                "brand": "Kostner",
+                "amenity": "fuel",
+                "operator": "KOSTNER SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.637836694717407,
+                    46.759034604973884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI FISCHNALLER",
+                "id": "24118",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "EWALD FISCHNALLER E WALTER PIOK SNC/OHG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.652992905418389,
+                    46.72683634658807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PLOSE OVEST",
+                "id": "3577",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "UNTERLEITNER SAS DI UNTERLEITNER MATTHIAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.64251446723938,
+                    46.729445373072714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso Unterleitner",
+                "id": "8049",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "UNTERLEITNER ERNST & CO. K.G. - S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.649093925952911,
+                    46.704497715398745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PLOSE EST",
+                "id": "3864",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "CHEF EXPRESS S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.641736626625061,
+                    46.732326600647504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO ENI",
+                "id": "26083",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SEEBACHER HELMUT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.655163764953613,
+                    46.769622685887555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE KASER",
+                "id": "9668",
+                "amenity": "fuel",
+                "operator": "KASER S.A.S.  DI KASER DOROTHEA & C. % KASER K.G. DER KASER DOROT HEA & CO."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.742802262306213,
+                    46.74901380809928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SELFAREA ANGERER",
+                "id": "16252",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SELFAREA SAS DI ANGERER STEFAN & C. % SELFAREA KG DES ANGERER STEFAN & CO."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.661811475393732,
+                    46.709992517136044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE Q8",
+                "id": "7611",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "NAFTA S.A.S. DI LAMBERT CLAUDIO & CO. IN FORMA ABBREVIATA \"NAFTA SAS\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.649595499038696,
+                    46.73311049153766
+                ]
+            }
+        }
+    ]
+}

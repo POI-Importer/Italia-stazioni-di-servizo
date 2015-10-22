@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "area di servizio serra",
+                "id": "15259",
+                "amenity": "fuel",
+                "operator": "SERRA DINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.531130492687225,
+                    40.59200335261843
+                ]
+            }
+        }
+    ]
+}

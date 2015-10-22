@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Agip, Chirico Rosa",
+                "id": "20196",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CHIRICO ROSA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.663170590996744,
+                    38.17160302269721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore di carburanti IP",
+                "id": "23150",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SACCA' GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.72617819055199,
+                    38.21173104857418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VILLA S. GIOVANNI OVEST",
+                "id": "3651",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FAVASULI  LEO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.647573115296952,
+                    38.22840692687396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BELLANTONI",
+                "id": "16452",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BELLANTONI FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.71669218313946,
+                    38.252670402107974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TM03061",
+                "id": "31196",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CAMMARA ANTONINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.661811701899069,
+                    38.21017986638159
+                ]
+            }
+        }
+    ]
+}

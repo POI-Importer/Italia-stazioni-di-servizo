@@ -1,0 +1,342 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "API",
+                "id": "19971",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "AUTOSERVIZIO M.C. S.N.C. DI MARINI PASQUALE & CIANCAIONI PASQUALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.016968160867693,
+                    42.674300599872105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vulcangas Roseto",
+                "id": "24986",
+                "amenity": "fuel",
+                "operator": "SOCIETA' ITALIANA GAS LIQUIDI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.00281963164673,
+                    42.65280377367398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VOMANO OVEST",
+                "id": "3620",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "vomano ovest s.r.l."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.940557492065407,
+                    42.67023828480174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PA.CO.snc",
+                "id": "18032",
+                "amenity": "fuel",
+                "operator": "PA.CO. DI PAVONE CESARE E CORRADI SILVIO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.980220178621948,
+                    42.57952371300599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alonzo Gina",
+                "id": "22681",
+                "amenity": "fuel",
+                "operator": "ALONZO GINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.99960085749626,
+                    42.58350850148563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SANTONE SANTA",
+                "id": "19783",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SANTONE SANTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.905601501464847,
+                    42.63207696483036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gas Auto di Di Paolo Loredana",
+                "id": "27609",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DI PAOLO LOREDANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.976359243438763,
+                    42.65094862419604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VOMANO EST",
+                "id": "3543",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "vomano carburanti s.r.l."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.942376210975683,
+                    42.66911693959656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO - Mario Traini",
+                "id": "29104",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "TRAINI MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.978549540042877,
+                    42.57887524041637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI SHOP CAFE'",
+                "id": "21097",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "F.LLI DI FRANCESCO LUIGI & DOMENICO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.025087207555769,
+                    42.66382873783094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "7345 PINETO TERAMO",
+                "id": "26103",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI RETE OIL&NONOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.044137597084045,
+                    42.638122224979966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "17723",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "COLETTI GABRIELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.92213865219628,
+                    42.55956492640497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Staz. Agip S.Lucia di Roseto",
+                "id": "23503",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DEL GAONE GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.960277230653787,
+                    42.64620177352832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Roseto Carburanti snc",
+                "id": "8789",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ROSETO CARBURANTI S.N.C. DI ROSCIOLI LINO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.020739448410039,
+                    42.66883467429962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "API",
+                "id": "19970",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "AUTOSERVIZIO M.C. S.N.C. DI MARINI PASQUALE & CIANCAIONI PASQUALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.016968160867693,
+                    42.674300599872105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "di pietro snc",
+                "id": "21044",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DI PIETRO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.91805499792099,
+                    42.63542446508963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG FALA' FRANCO",
+                "id": "22084",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "FALA' FRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.018887774764607,
+                    42.67185748815538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "D'alonzo Piacentino e C snc",
+                "id": "23501",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AUTOLAVAGGIO D'ALONZO P. & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.985739946365356,
+                    42.65393982081101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PINETO S.S.16 KM 425+894",
+                "id": "8531",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.057157726983634,
+                    42.62099012599252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione IP",
+                "id": "16790",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IPPONE ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.012847617268562,
+                    42.660347653120404
+                ]
+            }
+        }
+    ]
+}

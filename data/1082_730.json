@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio agip valgonio marino",
+                "id": "13352",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VALGONIO  MARINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.22970890760928,
+                    45.722493695525664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione servizio \"Lodrino\"",
+                "id": "14011",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PEA FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.280931210268365,
+                    45.714789679176704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "24989",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MASTERCAR DI ANALOTTI ALESSANDRO E ZANARDELLI GIANBATTISTA SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.336484735369481,
+                    45.8098380340529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FROLA ROBERTA & C. SNC",
+                "id": "12614",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FROLA ROBERTA & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.23708560600312,
+                    45.739087844048456
+                ]
+            }
+        }
+    ]
+}

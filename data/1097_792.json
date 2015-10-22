@@ -1,0 +1,123 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IDC PARTANNA VIA CASTELVETRANO SP 15",
+                "id": "30649",
+                "amenity": "fuel",
+                "operator": "ADAMO IDROCARBURI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.885478287935255,
+                    37.70875540630661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "25814",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PETROL AGRICOLTURA  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.980978339910505,
+                    37.705916359938364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A. Di Benedetto srl Via del Serpente Menfi Ag",
+                "id": "23779",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ALFONSO DI BENEDETTO CARBURANTI LUBRIFICANTI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.958240324792543,
+                    37.60656371320964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "27408",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BONFANTE ANTONINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.972823083400726,
+                    37.59580305899636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ERG",
+                "id": "10827",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CAMMARATA FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.88694143295288,
+                    37.71444017474264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "scirotta s.a.s",
+                "id": "14967",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SCIROTTA  S.A.S. DI ACCIDENTI GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.991232425015369,
+                    37.70348584273863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "petroleum di Ingoglia Benedetto",
+                "id": "31004",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "INGOGLIA BENEDETTO SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.885322719812395,
+                    37.70665568109067
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "via aula 12  01010 Onano  VT",
+                "id": "19691",
+                "amenity": "fuel",
+                "operator": "FERRANTINI ROMOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.817027452698655,
+                    42.691458494131545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENERPETROLI",
+                "id": "14376",
+                "amenity": "fuel",
+                "operator": "MAZZUOLI ALGHERO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.866609203032908,
+                    42.742156046365764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tiber",
+                "id": "16324",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BARZI CARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.86603367328644,
+                    42.74137069169661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ACQUAPENDENTE CASSIA 131+975",
+                "id": "29706",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TIBER S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.86830148100853,
+                    42.74183912752046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "18493",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "AL.A.M.M. S.A.S. DI SERVOLI ALEANDRO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.905409842729568,
+                    42.68745921955823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOILCRESCENZI",
+                "id": "17105",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CRESCENZI MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.894282698631287,
+                    42.717686628685236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tiber",
+                "id": "16322",
+                "amenity": "fuel",
+                "operator": "BARZI CARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.86603367328644,
+                    42.74137069169661
+                ]
+            }
+        }
+    ]
+}

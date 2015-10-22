@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "18870",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MADONIE GAS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.201653003692625,
+                    37.78506710523204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Madonnuzza Petroli srl",
+                "id": "21130",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MADONNUZZA PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.106290973367662,
+                    37.79152503529075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DANIELE Calabrese",
+                "id": "17148",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CALABRESE DANIELE ALEX"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.096344001235934,
+                    37.7749415123777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ciuro anna & c. s.a.s.",
+                "id": "7905",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CIURO ANNA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2061148583889,
+                    37.79346894236089
+                ]
+            }
+        }
+    ]
+}

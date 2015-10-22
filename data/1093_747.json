@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "24042",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FRATELLI CRESTINI DI CRESTINI LEONARDO & C.S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.296020443688917,
+                    43.70719904118225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione API Galli Ilva",
+                "id": "25525",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GALLI ILVA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.187297940254211,
+                    43.70403046928737
+                ]
+            }
+        }
+    ]
+}

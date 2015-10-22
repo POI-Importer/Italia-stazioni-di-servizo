@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL P.V.3760",
+                "id": "29755",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PORTAS MARIA CARMINE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.386453539133074,
+                    39.20796959338348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ditta Marongiu Mario",
+                "id": "20616",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MARONGIU MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.385225087404251,
+                    39.20298766625639
+                ]
+            }
+        }
+    ]
+}

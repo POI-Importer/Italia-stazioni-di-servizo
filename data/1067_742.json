@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "25470",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CASTELLA PIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.669851965676117,
+                    44.32858556985558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "cn316",
+                "id": "17743",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MARRO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.62435718566644,
+                    44.3296619309053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EUROPAM-IV-NOVEMBRE5",
+                "id": "31079",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "EUROPAM S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.674343291015588,
+                    44.32518592143415
+                ]
+            }
+        }
+    ]
+}

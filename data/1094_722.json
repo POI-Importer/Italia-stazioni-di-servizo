@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "HAPPACHER LEO S.A.S.",
+                "id": "8817",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "HAPPACHER LEO KG - SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.326672471790289,
+                    46.71134662071791
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio esso di masia luigi michele",
+                "id": "18853",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO DI MASIA LUIGI M."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.411825895309448,
+                    40.82515188121169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BUTANGAS",
+                "id": "21721",
+                "amenity": "fuel",
+                "operator": "TITANIUM S.N.C. DI PISANO DANILO OVVERO IN SIGLA \"TITANIUM S.N.C.\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.40142160654068,
+                    40.82818816720582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "23765",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "COSSU GIOVANNI & FIGLI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.403610289096832,
+                    40.83170691886187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO PVF5903",
+                "id": "14834",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F.LLI ZIRULIA SNC DI ZIRULIA FRANCESCO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.404323756694794,
+                    40.838138335955016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CENTRO TAMOIL DI ZIDDA ALESSANDRO",
+                "id": "17491",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CENTRO TAMOIL DI ZIDDA ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.327121734619142,
+                    40.727941731779005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CONAD",
+                "id": "6874",
+                "brand": "CONAD",
+                "amenity": "fuel",
+                "operator": "TORRES SUPERSTORE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.413695394992828,
+                    40.83049958877549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni cafe",
+                "id": "6802",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CIDDA INES E GIAN FRANCA & C.  S.N.C. *"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.409996628761292,
+                    40.826259248629626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SASSARI S S 131 KM 224 03 CAMIONALE",
+                "id": "23102",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.416927456855774,
+                    40.774374174502356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MULAS GIOVANNI RETITALIA",
+                "id": "29708",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "MULAS GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.346813172101974,
+                    40.76319390092579
+                ]
+            }
+        }
+    ]
+}

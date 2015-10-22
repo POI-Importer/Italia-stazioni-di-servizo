@@ -1,0 +1,224 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ENI DI RAPOLLA LOREDANA & C. S.A.S.",
+                "id": "15173",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RAPOLLA LOREDANA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.305139884352684,
+                    41.219128132547375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZ.DI SERVIZIO ENI",
+                "id": "14738",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CARBURANTI CALDARONE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.294662411760328,
+                    41.2385878158415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Agip De Feo",
+                "id": "19289",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DE FEO S.A.S. DI LORENZO & ANNA DE FEO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.312274456869545,
+                    41.237113749871604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI/AGIP ZAGARIA CARBURANTI",
+                "id": "14510",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ZAGARIA CARBURANTI S.N.C. DI GIOVANNI E NICOLA ZAGARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33181244134903,
+                    41.203194655155656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG ANDRIA",
+                "id": "30141",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "NAPOLITANO VITTORIO DEI FRATELLI VINCENZO E GIOVANNI NAPOLITANO S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.308964010064752,
+                    41.23472870243298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA TOGLIATTI - ANDRIA",
+                "id": "29729",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.298135966062546,
+                    41.217027633629804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOIL ANDRIA",
+                "id": "21529",
+                "amenity": "fuel",
+                "operator": "TOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.276789605617523,
+                    41.220078187188825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LOVAGLIO CARBURANTI",
+                "id": "31809",
+                "amenity": "fuel",
+                "operator": "TOURIST SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.321658939123154,
+                    41.22452665604122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZ. AGIP DI TESSE RICCARDO",
+                "id": "19293",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAZ. AGIP DI TESSE RICCARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.322051882743835,
+                    41.20929206726525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ANDRIA SS.170 KM.19+957",
+                "id": "28948",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TOTALERG S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.294398307800293,
+                    41.24263616351404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "19720",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BUONOMO FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.309579610824585,
+                    41.21691262994412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "8202",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CARMINIO NUNZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.25253438949585,
+                    41.21197625383898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Staz.Serv.ESSO CAMPANA EMANUELLA",
+                "id": "21988",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CAMPANA EMANUELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.293021169905842,
+                    41.21009716698224
+                ]
+            }
+        }
+    ]
+}

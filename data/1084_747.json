@@ -1,0 +1,593 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BEYFIN",
+                "id": "7931",
+                "amenity": "fuel",
+                "operator": "SAUCHELLA PIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.605483949184418,
+                    43.66776683988457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PONTEDERA-VIA TOSCO ROMAGNOLA 237",
+                "id": "11767",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.64759807605742,
+                    43.666920293670934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "8300",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MARIANELLI IURI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.635519604368598,
+                    43.665703132451284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA SERVICE LA STRANIERA DI NANNETTI SILVIA & C. S.A.S.",
+                "id": "19201",
+                "amenity": "fuel",
+                "operator": "AREA SERVICE LA STRANIERA DI NANNETTI SILVIA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.688364878296852,
+                    43.68991857009533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PAPUCCI DINO",
+                "id": "15564",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PAPUCCI DINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.610134229063988,
+                    43.60882771322861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio De Bellis Luisa",
+                "id": "13387",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DE BELLIS LUISA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.580625236034393,
+                    43.66358674639336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO MANCINI ANDREA",
+                "id": "18441",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MANCINI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.605623424053192,
+                    43.62187776011212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SANTA MARIA A MONTE LOC.MONTECALVOLI",
+                "id": "6556",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.670400112867355,
+                    43.68558659621149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PONTEDERA S.G.C. FI-PI-LI KM 54+200 DIR PISA",
+                "id": "23942",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TOTALERG S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.616719722747803,
+                    43.641956750396005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE IP",
+                "id": "23391",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CACIORGNA PATRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.603287890553474,
+                    43.633565888708176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LARI-FZ.CEVOLI VIA DEL COMMERCIO 95",
+                "id": "11764",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.629673177909808,
+                    43.5814686603296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 SIRIS di Silvia Masini & C. Sas",
+                "id": "7751",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SIRIS DI MASINI SILVIA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.595814585685728,
+                    43.63279052994518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO FREGGIA MONICA",
+                "id": "28355",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FREGGIA MONICA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.62940489500761,
+                    43.62869070763087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CALCINAIA - VICARESE 2",
+                "id": "28435",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.606705264417997,
+                    43.68604347122242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PONTEDERA",
+                "id": "5958",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.631201046626986,
+                    43.65483064365684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "L'ELICA",
+                "id": "27769",
+                "amenity": "fuel",
+                "operator": "BAR L'ELICA DI MARSAVELA RODICA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.602148485705584,
+                    43.65659086301403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BEYFIN",
+                "id": "6888",
+                "amenity": "fuel",
+                "operator": "ELLESSE DI LENZI SILVIO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.602455735206604,
+                    43.70381407440522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "pratelli carburanti",
+                "id": "14242",
+                "amenity": "fuel",
+                "operator": "PRATELLI BALDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6762433052063,
+                    43.58522682130948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CALCINAIA",
+                "id": "5961",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.58004845767209,
+                    43.67455857980305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PONTEDERA",
+                "id": "15449",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "HIDRI & POLICASTRO S.A.S. DI TESTA ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.649976432323458,
+                    43.65338752517122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI PONTEDERA NORD",
+                "id": "4969",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ACHILLI SNC DI ACHILLI ALESSANDRO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.588926415780634,
+                    43.63435824384294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 53735",
+                "id": "24924",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.589350461959839,
+                    43.66979003713696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kerotris - Ponsacco",
+                "id": "13839",
+                "amenity": "fuel",
+                "operator": "BECOJL SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.616680160164833,
+                    43.617739328143394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VICO PISANO - LUGNANO",
+                "id": "29748",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.548105364418007,
+                    43.68483491351948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BIENTINA MARCO POLO 16",
+                "id": "6561",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.618641369311488,
+                    43.70758417731088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PONTEDERA - ROMA",
+                "id": "28314",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.632016851520575,
+                    43.655831049239325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RIFORNIMENTO GIANNINI",
+                "id": "26827",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "RIFORNIMENTO GIANNINI DI GIANNINI FRANCO  &  C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.641200244426726,
+                    43.615097829384986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PONTEDERA S.G.C. FI-PI-LI km 54+140",
+                "id": "23943",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TOTALERG S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.617814064025879,
+                    43.641729261780334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "26715",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SPADONI MARRICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.625782817623987,
+                    43.615671591202286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GIRASOLE S.R.L. CONAD",
+                "id": "9233",
+                "brand": "CONAD",
+                "amenity": "fuel",
+                "operator": "IL GIRASOLE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.629213452339172,
+                    43.5821636347685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PONTEDERA - I FABBRI",
+                "id": "31408",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.673164373016334,
+                    43.61962330096463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "QUATTROPETROLI - PONSACCO",
+                "id": "22297",
+                "amenity": "fuel",
+                "operator": "QUATTROPETROLI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.603405237197876,
+                    43.62928634268701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cascina Sud",
+                "id": "30850",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "P.S.A. PRESTAZIONI SERVIZI AUTOMOBILISTICI S.N.C. DI TRIPEPI NICO  DANIELE E MATTEO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.58691142573241,
+                    43.6340712867068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PONTEDERA - SP DI GELLO  35/A",
+                "id": "31171",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6032839067459,
+                    43.63356212151889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "fabrizio&david s.n.c.",
+                "id": "9357",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "FABRIZIO & DAVID S.N.C. DI ALBANO DAVID E FABRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.705696642398832,
+                    43.69474689276931
+                ]
+            }
+        }
+    ]
+}

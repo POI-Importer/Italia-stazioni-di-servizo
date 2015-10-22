@@ -1,0 +1,157 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio totalerg di brunetta milena",
+                "id": "30385",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BRUNETTA MILENA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.340563029050827,
+                    40.191228641368916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio totalerg",
+                "id": "30108",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DE.MO  DI MONTINARO DONATO E DE GIORGI GABRIELA  S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.335300534963608,
+                    40.28029833055087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "area multiservizi srl",
+                "id": "21171",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "AREA MULTISERVIZI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.298751413822174,
+                    40.29331929858089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA DI SERVIZIO TOTALERG",
+                "id": "10622",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SICURO LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.301476538181305,
+                    40.206270594433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "22915",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "MANGE' FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.299738358266495,
+                    40.29033913012298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "17016",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TROVE' GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.300570131807376,
+                    40.19461946540627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "oil service",
+                "id": "15070",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "OIL SERVICE DI PEDONE LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.387831376132226,
+                    40.29955292960545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL ERG",
+                "id": "26819",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DE MITRI GIUSEPPE ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4363554418087,
+                    40.25722762842614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAMASSA  GIUSEPPE ANTONIO",
+                "id": "14316",
+                "amenity": "fuel",
+                "operator": "CAMASSA GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.334934413433075,
+                    40.268728761956694
+                ]
+            }
+        }
+    ]
+}

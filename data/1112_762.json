@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SERRICCHIO CARBURANTI",
+                "id": "25247",
+                "amenity": "fuel",
+                "operator": "SERRICCHIO CARBURANTI DI SERRICCHIO ETTORE ANGELO & C. - S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.643050670623781,
+                    41.70971489149532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni ciavarella",
+                "id": "19120",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CIAVARELLA ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.634853169322014,
+                    41.711225837339015
+                ]
+            }
+        }
+    ]
+}

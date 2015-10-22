@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni imp.18522",
+                "id": "22313",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MACRI' GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.195825785398483,
+                    38.76005439273488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL FILADELFIA",
+                "id": "27559",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PELLEGRINO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.288213133811947,
+                    38.78574239958592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8-Zgas",
+                "id": "9701",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "A.P.A.M. S.A.S DI MARRAMAO ANTONIO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.210962649964927,
+                    38.77676908087988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ZETAGAS KUPIT",
+                "id": "30913",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ZETA GAS S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.211005747318268,
+                    38.77676785124199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "22661",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FRUCAR SOCIETA' IN ACCOMANDITA SEMPLICE DI FRUCI GIUSEPPE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.289460361003876,
+                    38.782269135390486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIZZO EST",
+                "id": "3646",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AUTOSOLE NAPITINA S.A.S. DI VINCI MICHELE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.193088591098785,
+                    38.750769956329
+                ]
+            }
+        }
+    ]
+}

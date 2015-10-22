@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE Q8 di MASCIA NATASCIA",
+                "id": "26829",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MASCIA NATASCIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.174052711639433,
+                    39.38286714884123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso Margiotta",
+                "id": "15389",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MARGIOTTA FRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.173662438988684,
+                    39.36986106175668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DOLIANOVA",
+                "id": "4196",
+                "brand": "Fiamma 2000",
+                "amenity": "fuel",
+                "operator": "SARDA IMPIANTI CARBURANTI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.157096728835997,
+                    39.39723229086128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Margiotta",
+                "id": "20763",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MARGIOTTA GIULIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.153991788625717,
+                    39.37743753012072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DONORI - IS ARENAS",
+                "id": "31340",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.14854597581973,
+                    39.42546195631308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL 8445",
+                "id": "10906",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MARRAS SNC DI DANIELA E ALESSANDRO MARRAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.174117743968964,
+                    39.371610060885686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Raf.Ton.",
+                "id": "9299",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "RAF.TON. S.N.C. DEI F.LLI SEDDA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.164830595254898,
+                    39.46550454172198
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GIACCHINO ELIO",
+                "id": "9522",
+                "amenity": "fuel",
+                "operator": "GIACCHINO ELIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.042037844657898,
+                    45.75460947461897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DORIGATTI LUCA E PAOLO SNC",
+                "id": "25337",
+                "amenity": "fuel",
+                "operator": "DORIGATTI LUCA E PAOLO S.N.C. IN SIGLA DORIGATTI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.031395042091504,
+                    45.75952758350444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ST. RHEMY EN BOSSES",
+                "id": "3750",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DESANDRE' EDY GIUSEPPINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.183505594730377,
+                    45.82381783482938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip angelini snc",
+                "id": "25401",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ANGELINI SNC DI ANGELINI MICHEL & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.096384763717651,
+                    45.724235940411326
+                ]
+            }
+        }
+    ]
+}

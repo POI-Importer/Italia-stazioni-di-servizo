@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COSTA JOSE",
+                "id": "31719",
+                "brand": "Loro",
+                "amenity": "fuel",
+                "operator": "COSTA JOSE' ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.528056661339177,
+                    45.88048057446793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DE GUI MARIELLA",
+                "id": "20956",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DE GUIO MARIELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.441200392213204,
+                    45.87414275290336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "3980 Asiago via Verdi",
+                "id": "29495",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI RETE OIL&NONOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.50518399381815,
+                    45.873619089339435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "roana",
+                "id": "4801",
+                "brand": "Oil Italia",
+                "amenity": "fuel",
+                "operator": "OIL ITALIA SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.475165143432603,
+                    45.865899366013636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FRIGO FRATELLI",
+                "id": "17075",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FRIGO F.LLI S.N.C. DI FRIGO DARIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.432169866886056,
+                    45.83715503699305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO di STEFANI BRUNO",
+                "id": "13348",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STEFANI BRUNO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.500645244988164,
+                    45.87184464910288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SOCOGAS ASIAGO",
+                "id": "24067",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SOCOGAS RETE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.49848501722522,
+                    45.870061074770334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio di Munari Alessandro Total ERG",
+                "id": "15301",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "AUTOLAVAGGIO STAZIONE DI SERVIZIO DI MUNARI ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.541966829118905,
+                    45.89101558382093
+                ]
+            }
+        }
+    ]
+}

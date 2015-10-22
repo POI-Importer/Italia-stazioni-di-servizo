@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CORVARO",
+                "id": "15830",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "S.I.C. - SOCIETA' IMPIANTI CARBURANTI A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.257412165403368,
+                    42.191789725765695
+                ]
+            }
+        }
+    ]
+}

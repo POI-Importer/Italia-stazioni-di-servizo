@@ -1,0 +1,104 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GESTIONE CARBURANTI SRL",
+                "id": "25786",
+                "amenity": "fuel",
+                "operator": "GESTIONE CARBURANTI S.R.L. SOCIETA' A RESPONSABILITA' LIMITATA A CAPITALE RIDOTTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.161985039274441,
+                    43.004914544100814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE RIFORNIMENTO LUCHINI ANDREA",
+                "id": "6951",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "LUCHINI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.296002507209778,
+                    43.06190901764247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TORRONI MAURIZIO",
+                "id": "6216",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TORRONI MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.144988775253296,
+                    43.0028473119745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV ENERPETROLI",
+                "id": "11135",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ENERPETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.214275598526003,
+                    43.03174273528316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIEGARO",
+                "id": "28840",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.170687214318718,
+                    42.97936914675364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OP Petroli",
+                "id": "26758",
+                "amenity": "fuel",
+                "operator": "OLIVI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.261232942364586,
+                    43.05540957210373
+                ]
+            }
+        }
+    ]
+}

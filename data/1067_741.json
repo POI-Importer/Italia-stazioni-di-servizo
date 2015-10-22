@@ -1,0 +1,205 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "31364",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "OGGERO PIERCARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.565002693254087,
+                    44.39474834170508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Arcobaleno sas",
+                "id": "27122",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ARCOBALENO DI GARRO DARIO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.700015902519227,
+                    44.414798852888055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Auchan",
+                "id": "7056",
+                "brand": "Auchan",
+                "amenity": "fuel",
+                "operator": "AUCHAN S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.585048377513886,
+                    44.39365290906825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "mercurio carburanti",
+                "id": "21144",
+                "amenity": "fuel",
+                "operator": "QUADRI SALA LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.67769616822818,
+                    44.37601853008452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TRACKY POINT CUNEO",
+                "id": "26294",
+                "amenity": "fuel",
+                "operator": "LA CONCHIGLIA DI MARCO MANDRILE E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.567576467990876,
+                    44.429959163913196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI 259",
+                "id": "6820",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "C.F.M. SAS DI MATTEO ROSSI & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.578731775283814,
+                    44.38918329029901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GAZZOLA DISTRIBUTORE SRL",
+                "id": "19774",
+                "amenity": "fuel",
+                "operator": "GAZZOLA DISTRIBUTORE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.722390890121461,
+                    44.42473146527483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg",
+                "id": "13863",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "F.LLI CAVALLO DI CAVALLO ALBERTO E ENZO & C. S.N.C.  -SIGLABILE \"F.LLI CAVALLO & C. S.N.C.\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.559262961149217,
+                    44.38688088178165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CUNEO-CIRCONVALLAZIONE BOVESANA N. 28",
+                "id": "11558",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.569467813491883,
+                    44.38677316483082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CENTRO CALOR CUNEO EST",
+                "id": "10531",
+                "amenity": "fuel",
+                "operator": "CENTRO CALOR S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.563630938529969,
+                    44.42627078494638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "18919",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DRIVE IN DI GAZZERA GIORGIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.663881182670594,
+                    44.45636633452648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DRAGONE IVANA",
+                "id": "11241",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DRAGONE IVANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.632960677146911,
+                    44.36928666316894
+                ]
+            }
+        }
+    ]
+}

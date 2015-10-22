@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Piombino",
+                "id": "30472",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.535110831260681,
+                    42.941199064933116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIOMBINO PRINCIPESSA 17 LOC.FABBRICIANE",
+                "id": "6566",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.531774163246155,
+                    42.97874169430303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "UNIONE GAS AUTO",
+                "id": "26777",
+                "amenity": "fuel",
+                "operator": "LE FABBRICIANE DI SPATARO G.  & C.  SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.533548399816935,
+                    42.98842106705455
+                ]
+            }
+        }
+    ]
+}

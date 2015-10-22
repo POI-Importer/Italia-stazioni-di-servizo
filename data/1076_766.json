@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "beyfin",
+                "id": "31243",
+                "amenity": "fuel",
+                "operator": "AD PETROLI DI SOTGIU MAURO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.312503635883331,
+                    41.16280453695842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione servizio Esso di Gianpiero Vitale",
+                "id": "14860",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "VITALE GIAMPIERO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.187361150979996,
+                    41.236462793041035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI LA VULTATA",
+                "id": "28071",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAZIONE ENI \" LA VULTATA \" DI AIELLO LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.185751242575067,
+                    41.23217143347277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO ESSO MANNONI FAUSTO",
+                "id": "18723",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MANNONI FAUSTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.268983453512192,
+                    41.1861836341008
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO Q8 TRE ERRE S.A.S.",
+                "id": "18451",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "TRE ERRE S.A.S. DI RAIMONDO TOMAS & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.803666770458225,
+                    38.14904389055258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pompa bianca",
+                "id": "32085",
+                "amenity": "fuel",
+                "operator": "CAMPO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.823925409648156,
+                    38.156696836630466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA SERVIZIO ENI",
+                "id": "6195",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SAGGIO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.842561483383179,
+                    38.15851701583461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP di Ricciardi Ferdinando",
+                "id": "20875",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "RICCIARDI FERDINANDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.890296757221224,
+                    38.17072307595176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "26395",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DESTRO PASTIZZARO NUNZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.845652729272844,
+                    38.1606724155139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Agip",
+                "id": "5610",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FRAPICAR  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.81400400400162,
+                    38.15419927600706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP di Scaccianoce Mario",
+                "id": "10886",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SCACCIANOCE MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.897157044876169,
+                    38.1773458272032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio eni",
+                "id": "25566",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "D. & D. S.A.S. DI DI LUCA LUTUPITTO DOMENICO NATO IL 24.09.1974"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.830834865570068,
+                    38.156090322352036
+                ]
+            }
+        }
+    ]
+}

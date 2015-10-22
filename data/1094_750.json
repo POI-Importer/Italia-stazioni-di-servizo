@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg di bistoni jacopo",
+                "id": "31547",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BISTONI JACOPO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.42822468280792,
+                    43.19814298783298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "24085",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "RAUSEO MANAGEMENTS S.A.S. DI RAUSEO GIUSEPPE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3237426055573,
+                    43.3055392446773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "UMBERTIDE SUD",
+                "id": "7660",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "OASI VERDE S.A.S. DI LUCONI GIANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.33364021379998,
+                    43.31636932905176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "23671",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ASSINGAS DI SPATOLONI E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.373842895030975,
+                    43.29171853278019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG PIAN D'ASSINO",
+                "id": "15276",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "RAUSEO MANAGEMENTS S.A.S. DI RAUSEO GIUSEPPE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.373834848403932,
+                    43.29170096203706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg di Ciaccasassi Massimo",
+                "id": "17568",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "S.I.M.E.P. IMPIANTI DI CIACCASASSI MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.428283691406248,
+                    43.197620918998766
+                ]
+            }
+        }
+    ]
+}

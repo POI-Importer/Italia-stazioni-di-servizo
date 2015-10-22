@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Garzino snc",
+                "id": "23151",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GARZINO S.N.C. DI GARZINO DAVIDE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.18467904501699,
+                    44.57888880243273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip",
+                "id": "27214",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BERNARDI GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.186481302466632,
+                    44.578359869196966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "erg",
+                "id": "11063",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BARALIS RENATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0663953181729084,
+                    44.484824266825115
+                ]
+            }
+        }
+    ]
+}

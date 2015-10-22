@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI 101",
+                "id": "27337",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BETTINELLI FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.05558830499649,
+                    45.605051320149045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil 8529",
+                "id": "14998",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "VERCELLOTTI RENATO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.056014776229858,
+                    45.606775397587974
+                ]
+            }
+        }
+    ]
+}

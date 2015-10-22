@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Deodato Pasqualina",
+                "id": "23607",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DEODATO PASQUALINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.40974670648575,
+                    38.705923786820215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "28241",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MAIDA ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.51472434401512,
+                    38.7807287768036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CORRADO MASSIMILIANO",
+                "id": "23575",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CORRADO MASSIMILIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.46000325679779,
+                    38.689410219651414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "staroil",
+                "id": "23218",
+                "amenity": "fuel",
+                "operator": "MAZZOTTA GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.424484103918076,
+                    38.72487768029566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "30681",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MANAFO' MARIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.50471031665802,
+                    38.74044998895002
+                ]
+            }
+        }
+    ]
+}

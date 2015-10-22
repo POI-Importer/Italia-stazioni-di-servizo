@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CRUCOLI TORRETTA SS 106 KM 292+46 LOC.TORRETTA",
+                "id": "17000",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.03712087605743,
+                    39.45264444596991
+                ]
+            }
+        }
+    ]
+}

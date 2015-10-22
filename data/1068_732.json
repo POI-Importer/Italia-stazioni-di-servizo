@@ -1,0 +1,207 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vargas",
+                "id": "22557",
+                "amenity": "fuel",
+                "operator": "VARGAS SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.865856885910034,
+                    45.47691775388745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "donato",
+                "id": "13479",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SELF PIES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.9074894773316355,
+                    45.52897839712404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Repsol di Grieco Vito",
+                "id": "23725",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "GRIECO VITO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.9059807876274135,
+                    45.48375416964881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IVREA-CORSO VERCELLI 25",
+                "id": "11853",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.894059416007963,
+                    45.46857900348341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ferrando alberto",
+                "id": "15122",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FERRANDO ALBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.857942766187533,
+                    45.51587118274286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE RIFONIMENTO FLLI BOVIO SNC",
+                "id": "16433",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F.LLI BOVIO S.N.C. DI BOVIO ENRICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.77911881216437,
+                    45.489760233559984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DALLE PETROLI",
+                "id": "4141",
+                "amenity": "fuel",
+                "operator": "DALLE S.A.S. DI DALLE ALBERTO  E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.843243328681181,
+                    45.533222773345756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "zancanella massimo",
+                "id": "6032",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ZANCANELLA MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.863144937434412,
+                    45.48590314364823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "15418",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "STIGLIO DAVIDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.891446501016617,
+                    45.468509020130114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SETTIMO VITTONE-S.S.26 KM 42+475 TRAV. INT.",
+                "id": "11881",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.834776857895236,
+                    45.54472987620788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil di mangaretto flavio",
+                "id": "19328",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "MANGARETTO FLAVIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.809237027890275,
+                    45.56313284860321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "campagnola di ferrando anna",
+                "id": "27354",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CAMPAGNOLA DI FERRANDO ANNA DOMENICA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.8575581312179565,
+                    45.499810926195
+                ]
+            }
+        }
+    ]
+}

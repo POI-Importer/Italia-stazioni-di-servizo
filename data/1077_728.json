@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO EREDI MALUGANI",
+                "id": "18616",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "EREDI DI MALUGANI GIANVITTORIO SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.380842301921803,
+                    46.032157470623844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "17059",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "AUTOFFICINA PASETTI S.N.C. DI PASETTI FABIO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.382432371029381,
+                    46.03111240988986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "21808",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE CARBURANTI DI SALA BRUNO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.369587749242783,
+                    46.01622090799514
+                ]
+            }
+        }
+    ]
+}

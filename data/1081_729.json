@@ -1,0 +1,173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Servizio Claudio Tomasoni",
+                "id": "9444",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TOMASONI CLAUDIO BORTOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.05262149624616,
+                    45.91393951417401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OCCHIO AL PREZZO",
+                "id": "30976",
+                "amenity": "fuel",
+                "operator": "OIL INVEST 2000 SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.14513973668818,
+                    45.845948538651214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI 01755",
+                "id": "5728",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "NODARI TIZIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.140295028686523,
+                    45.84079379310367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tagliaferri anna",
+                "id": "12168",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "TAGLIAFERRI ANNA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.18382728099823,
+                    45.888773737779644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "G.P. S.R.L. - TAMOIL 7256",
+                "id": "4626",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "G.P. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.134221912629073,
+                    45.8428412393285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ZENIA & GIUSY SNC",
+                "id": "6348",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ZENIA & GIUSY S.N.C. DI SIGNORINI ZENIA & RIBOLA GIUSEPPINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.181969352658825,
+                    45.88687975562246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SIRTEC WORK",
+                "id": "7849",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SIRTEC WORK S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.157824918899564,
+                    45.85737029342051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIAN CAMUNO",
+                "id": "5933",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.133683046627084,
+                    45.84325986849018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO",
+                "id": "11259",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO DI MARTINOLI SILVANO E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.122537193878202,
+                    45.84942444911793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "keropetrol",
+                "id": "21939",
+                "amenity": "fuel",
+                "operator": "RAVELLI CLEMENTINA ADALGISA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.14408705782705,
+                    45.89428721909475
+                ]
+            }
+        }
+    ]
+}

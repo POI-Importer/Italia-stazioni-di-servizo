@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "magliano impianto stradale",
+                "id": "21283",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CARBURANTI MAGLIANO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.373966097831726,
+                    40.00009948841264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area Merola Luigi Srl",
+                "id": "23590",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "AREA MEROLA LUIGI S.R.L. A SOCIO UNICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.31078398227692,
+                    40.039270330018674
+                ]
+            }
+        }
+    ]
+}

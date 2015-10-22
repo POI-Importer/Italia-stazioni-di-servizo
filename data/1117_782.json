@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO ESSO MANCUSO ANGELO",
+                "id": "25849",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MANCUSO ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.428667008876797,
+                    39.01327641315817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Imp. ENI 08539 di Colosimo MariaGiulia",
+                "id": "20733",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "COLOSIMO MARIA GIULIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.375692039728165,
+                    39.080467187210274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Imp. Distribuzione Carburanti Girolamo Talarico",
+                "id": "29805",
+                "amenity": "fuel",
+                "operator": "TALARICO GIROLAMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.45218931138515,
+                    39.05946946448182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SCARPINO ANGELA MARIA",
+                "id": "24711",
+                "amenity": "fuel",
+                "operator": "SCARPINO ANGELAMARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.455109273783588,
+                    39.05572724326824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "15241",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "NOTARO DANILO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.355454102158546,
+                    39.04760219992089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "20926",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SACCO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.478322744369507,
+                    39.0024729848928
+                ]
+            }
+        }
+    ]
+}

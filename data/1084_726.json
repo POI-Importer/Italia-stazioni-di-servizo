@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE CARBURANTI IP",
+                "id": "15790",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "AGOSTINI MARCELLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.691842569980167,
+                    46.29645276721823
+                ]
+            }
+        }
+    ]
+}

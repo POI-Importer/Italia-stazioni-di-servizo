@@ -1,0 +1,340 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "agip",
+                "id": "7834",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ASTOLFI PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.22330927848816,
+                    45.00024799890715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PORTO VIRO",
+                "id": "31613",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PENTA PETROLI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.243779897689821,
+                    45.04357820485719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "metano donada",
+                "id": "10188",
+                "amenity": "fuel",
+                "operator": "SOCIETA' METANO DONADA DI SANTE PANETTO & C. SOC. IN NOME COLLETTIVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.213317614749936,
+                    45.046227424117056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BLUPARK",
+                "id": "9201",
+                "brand": "BluPark",
+                "amenity": "fuel",
+                "operator": "BLUPARK S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.197694182395933,
+                    45.05766323272494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 3377",
+                "id": "25203",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.211553934918243,
+                    45.0055985856919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PETROL CALTEX",
+                "id": "28125",
+                "amenity": "fuel",
+                "operator": "RICAMBI SCHIESARO PIETRO DI PAOLO SCHIESARO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.225324304368542,
+                    45.019056081744026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORO F.LLI SPA",
+                "id": "29011",
+                "brand": "Loro",
+                "amenity": "fuel",
+                "operator": "LORO F.LLI-S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.255939330024717,
+                    44.98480036975831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BARTOLUCCI ANDREA",
+                "id": "27166",
+                "amenity": "fuel",
+                "operator": "BRIATTI LUCA \"METANO E CARBURANTI\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.199282050132751,
+                    45.00144208587683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "5387",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CRIVELLARI TERRY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.247593998908997,
+                    45.07497834362281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg",
+                "id": "13118",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PATTARO SANDRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.23247975111008,
+                    45.02084213081489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Unione gas auto",
+                "id": "23848",
+                "amenity": "fuel",
+                "operator": "ROSSI  MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.220905368339345,
+                    44.98899936243668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REPSOL 8502",
+                "id": "12476",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "BALLARIN LEONARDO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.217314072352563,
+                    45.01802213502003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "7092 totalerg",
+                "id": "13772",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BALLARIN ANTONELLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.218136638402937,
+                    45.019929807743004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ROSOLINA SS 309 ROMEA STAZ. Q8",
+                "id": "6474",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.250468963229423,
+                    45.08843174943126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "7975",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CAVALLARI MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.243923395872116,
+                    45.043540111970934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORO F.LLI SPA",
+                "id": "29013",
+                "brand": "Loro",
+                "amenity": "fuel",
+                "operator": "LORO F.LLI-S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.21255119510647,
+                    44.97780200744948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Loro",
+                "id": "15574",
+                "amenity": "fuel",
+                "operator": "ZETAER SNC DI ZANELLA TEDDY E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.22648741454168,
+                    45.064216056215365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "3998",
+                "id": "27084",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "T.D.M. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.191197872161865,
+                    45.059172340126615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore metano Grandi",
+                "id": "8599",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "METANO GRANDI S.N.C. DI GRANDI PAOLO, UMBERTO, MARIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.23185747861862,
+                    45.02012926115629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ROSOLINA-SS. 309 ROMEA VIA S.TERESA 19",
+                "id": "11826",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.246152311563494,
+                    45.07274740006237
+                ]
+            }
+        }
+    ]
+}

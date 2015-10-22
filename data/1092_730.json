@@ -1,0 +1,487 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTEBELLUNA-VIA PIAVE 15",
+                "id": "11896",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.053825364418003,
+                    45.77754851721699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EPOIL",
+                "id": "26434",
+                "amenity": "fuel",
+                "operator": "EP SERVICE OIL E FERRAMENTA DI POLLONI EMANUELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.974553523095551,
+                    45.80884317624046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ceron Renato - Esso",
+                "id": "19697",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CERON RENATO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.10718119510648,
+                    45.74983252152347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PELCINI FRANCESCO",
+                "id": "29272",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PELCINI FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.010418913345802,
+                    45.82628737307055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO DI CERON ENNIO",
+                "id": "11388",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CERON ENNIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.063417251898157,
+                    45.77942368222749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Repsol_Caerano San Marco_(TV001)",
+                "id": "7065",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "REPSOL ITALIA S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.993014728836101,
+                    45.76087384129935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "wugicar",
+                "id": "21518",
+                "amenity": "fuel",
+                "operator": "WUGICAR 2 DI FAVOTTO G. & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.050136476755142,
+                    45.75358914242187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GALOIL SRL",
+                "id": "21084",
+                "amenity": "fuel",
+                "operator": "GALOIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.070610823278798,
+                    45.72882766602296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "56205 T2Autoservice s.n.c.",
+                "id": "7721",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "T 2 AUTOSERVICE S.N.C. DI TRANQUILLO G. E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.036292254924774,
+                    45.82449483433461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 13612 Montebelluna Via Femprina",
+                "id": "30178",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI RETE OIL&NONOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.044607102870941,
+                    45.789332686851786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.S.348 KM 10+775 - TREVIGNANO",
+                "id": "29721",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.127395495772362,
+                    45.735998205709556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO DI POLONIATO GUIDO",
+                "id": "11973",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "POLONIATO GUIDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.034233601188587,
+                    45.7755976611065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COSTA CARBURANTI TREVIGNANO",
+                "id": "9663",
+                "amenity": "fuel",
+                "operator": "COSTA CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.064913987033153,
+                    45.742051523561486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DA RIVA LUCIANO Q8",
+                "id": "11269",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DA RIVA LUCIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.066515664031956,
+                    45.78005954394916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "15714",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO DI GAZZOLA ENRICO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.972408741712568,
+                    45.79305109428421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO DAMETTO",
+                "id": "11172",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DAMETTO ENRICO S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.01176881790161,
+                    45.821093305241774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Italoil",
+                "id": "13290",
+                "amenity": "fuel",
+                "operator": "FANTIN ITALO & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.960047781467438,
+                    45.75489749242933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "28130",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "POZZOBON MAJCOL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.964025497436523,
+                    45.73707820368376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Metano per auto",
+                "id": "17764",
+                "amenity": "fuel",
+                "operator": "BORDIN VANIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.994131934074176,
+                    45.79341367008255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Facin Fabrizio",
+                "id": "11030",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FACIN FABRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.993842928172283,
+                    45.787987368317985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTEBELLUNA",
+                "id": "5550",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.05410436441798,
+                    45.784782740906486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SEVENOIL",
+                "id": "24227",
+                "amenity": "fuel",
+                "operator": "SEVENOIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.083804900030486,
+                    45.71083477503913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OIL ITALIA CASELLE DI ALTIVOLE",
+                "id": "31267",
+                "brand": "Oil Italia",
+                "amenity": "fuel",
+                "operator": "OIL ITALIA SRL % OIL ITALIA GMBH"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.974882262104758,
+                    45.74633383310491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 03610 Montebelluna",
+                "id": "30180",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI RETE OIL&NONOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.019581281753517,
+                    45.780136925966374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "13604 T2Autoservice s.n.c.",
+                "id": "7666",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "T 2 AUTOSERVICE S.N.C. DI TRANQUILLO G. E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.121892273426054,
+                    45.71622937588399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GALOIL SRL",
+                "id": "21088",
+                "amenity": "fuel",
+                "operator": "GALOIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0064311245369,
+                    45.78503166022104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GALOIL SRL",
+                "id": "21089",
+                "amenity": "fuel",
+                "operator": "GALOIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.105018496513367,
+                    45.7774804549838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GALOIL SRL",
+                "id": "21083",
+                "amenity": "fuel",
+                "operator": "GALOIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.022940423651105,
+                    45.80701569759343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COSTA CARBURANTI SIGNORESSA",
+                "id": "9662",
+                "amenity": "fuel",
+                "operator": "COSTA CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.109301253967258,
+                    45.74850224710767
+                ]
+            }
+        }
+    ]
+}

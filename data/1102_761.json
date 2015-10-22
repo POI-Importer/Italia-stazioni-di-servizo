@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "20918",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SO.GE.P. SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.794065787341308,
+                    41.79564614807622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LA PAGLIARA",
+                "id": "22358",
+                "amenity": "fuel",
+                "operator": "FRATELLI D'ADDARIO DI ANNINO E GIUSEPPE D'ADDARIO - SOCIETA' IN NOME COLLETTIVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.786727263476562,
+                    41.836506129956696
+                ]
+            }
+        }
+    ]
+}

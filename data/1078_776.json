@@ -1,0 +1,190 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO IP",
+                "id": "19499",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PISANO LUIGI S.A.S. DI PISANO MARTINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.516363370418276,
+                    39.79331056123472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "4119",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MASIA ALBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.539152979850769,
+                    39.879644196524524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 DI NIEDDU ANDREA",
+                "id": "16293",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "NIEDDU ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.630924761295319,
+                    39.80634884834029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "alfredo mulas",
+                "id": "9567",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MULAS ALFREDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.54304687678814,
+                    39.876019213782556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 LOCERI",
+                "id": "9033",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "STEFANO PISTIS & MARCO SERRA S.A.S. CON SIGLA PISTIS & SERRA S.A. S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.573076541290675,
+                    39.854079257376576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Murino Alessandro",
+                "id": "16427",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MURINO ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.505273997783661,
+                    39.84824163195067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "17056",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PILIA EGIDIO E ALGIDE  S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.630938172340393,
+                    39.80635564798703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI s.p.a. BARI SARDO",
+                "id": "17716",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LOCCI ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6460419411045,
+                    39.8401802632847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Retitalia",
+                "id": "25000",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "PAGGIOLU FRANCESCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.650000631809235,
+                    39.90927876883088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "I.C.O. Ilbono Carburanti e Oli",
+                "id": "27679",
+                "amenity": "fuel",
+                "operator": "ILBONO CARBURANTI E OLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.54947318650818,
+                    39.89116646891974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO MELISSA",
+                "id": "19409",
+                "amenity": "fuel",
+                "operator": "MELISSA S.N.C. DI MELIS ANNA PAOLA & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.60817962884903,
+                    39.7904388657529
+                ]
+            }
+        }
+    ]
+}

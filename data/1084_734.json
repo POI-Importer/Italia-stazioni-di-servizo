@@ -1,0 +1,174 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio AGIP Ercoli Gilberto",
+                "id": "18142",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ERCOLI GILBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.574197322130203,
+                    45.26120767994371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione EGO",
+                "id": "14301",
+                "brand": "Ego",
+                "amenity": "fuel",
+                "operator": "BORGHINI ALEX"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.658842474222185,
+                    45.31655420456241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GOITO-SS. 236 GOITESE 349",
+                "id": "11714",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.670459121465685,
+                    45.254157855718425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Eni F.lli Ercoli",
+                "id": "26737",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ERCOLI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.659154862187279,
+                    45.31186522716427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione eni todeschi fratelli",
+                "id": "12749",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TODESCHI F.LLI GIUSEPPE & TOLMINO & C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.663615465164186,
+                    45.2578481766449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GOITO - MARSILETTI",
+                "id": "25067",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.689799999999991,
+                    45.24618309148825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PalazzinaPetroli",
+                "id": "14577",
+                "amenity": "fuel",
+                "operator": "BETTEGHELLA MIRCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.717511774419107,
+                    45.23152291475126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TENEDINI RICCARDO",
+                "id": "4254",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TENEDINI RICCARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.563794374465942,
+                    45.32753383027262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VOLTA MANTOVANA-VIA S.MARTINO 112",
+                "id": "11716",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.658394635581999,
+                    45.326137715646276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE ESSO",
+                "id": "26922",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "OASI 74 DI DE BERNARDO M. & ZICARO L. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.588625876721153,
+                    45.31640202388204
+                ]
+            }
+        }
+    ]
+}

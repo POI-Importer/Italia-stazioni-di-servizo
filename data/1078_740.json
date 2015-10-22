@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OIL ITALIA",
+                "id": "27920",
+                "amenity": "fuel",
+                "operator": "EFFECI DI MINOLI MARISA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.632368822090141,
+                    44.50210539235741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ENI di FERRARI LUCIANO",
+                "id": "9101",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FERRARI LUCIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.632939100265501,
+                    44.50143161671293
+                ]
+            }
+        }
+    ]
+}

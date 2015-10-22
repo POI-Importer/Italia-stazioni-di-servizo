@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "7803",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ESSEMME S.A.S. DI SPIGA TOMASO SANTINO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.792918175458908,
+                    40.10937883264635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OPPO & C. distrib. TAMOIL",
+                "id": "17951",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "OPPO & C. DI DEPALMAS E OPPO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.827116340398788,
+                    40.12042224305467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 ABBASANTA",
+                "id": "16372",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "USAI EUGENIO S.N.C. DI EMILIO USAI E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.81028950214386,
+                    40.12970923284904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni",
+                "id": "9864",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RUGGIU ERMINIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.842624872922896,
+                    40.12548941089565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP LOSA",
+                "id": "4480",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FUEL LOSA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.792155086994171,
+                    40.10954130305987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto Tamoil di Piras Domenico",
+                "id": "15509",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PIRAS DOMENICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.947705775499344,
+                    40.065989255447995
+                ]
+            }
+        }
+    ]
+}

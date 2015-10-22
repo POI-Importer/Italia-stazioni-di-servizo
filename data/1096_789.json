@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO IP MICHELE MAIORANA",
+                "id": "13589",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MAIORANA MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.716065943241123,
+                    38.01334478854665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "26603",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PELLEGRINO ANNA MARIA E CIPPONERI SEBASTIANA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.687253654003143,
+                    38.07555241449054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIRGILIO GIUSEPPE",
+                "id": "14471",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "VIRGILIO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.687094062566759,
+                    38.067234595693655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENICAFE'",
+                "id": "19946",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SANTORO ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.685355991125107,
+                    38.07029096347419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RMG Vacanze di Grammatico Rosaria & C. SAS",
+                "id": "16632",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "RMG VACANZE S.A.S. DI GRAMMATICO ROSARIA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.740307585319556,
+                    38.09754241871427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO IP",
+                "id": "26602",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MORICI FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.664841115474701,
+                    38.0797962659901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO Buseto Palizzolo",
+                "id": "23410",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "COMMERCIALE PETROLI TRAPANI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.713583494159822,
+                    38.03560581194606
+                ]
+            }
+        }
+    ]
+}

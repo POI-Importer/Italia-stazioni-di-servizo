@@ -1,0 +1,123 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stop&go di Vuovolo Antonio e c.sas",
+                "id": "17084",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STOP & GO DI VUOVOLO ANTONIO E C. - S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.89662939310074,
+                    41.63833364018396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MANFREDONIA - ALDO MORO 44",
+                "id": "31976",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.907345597553219,
+                    41.623376942227644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BASILE PETROLI",
+                "id": "12517",
+                "amenity": "fuel",
+                "operator": "TROIANO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.92180594801903,
+                    41.63819011365602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg di fiore",
+                "id": "14855",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO ERG DI DI FIORE ANGELO MIRKO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.899404501609412,
+                    41.61692180614018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GAS AUTO ESSO/2",
+                "id": "26342",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SCHIOPPA CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.880994738695335,
+                    41.603328499967205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore carburanti di Mele Luigi",
+                "id": "24623",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MELE LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.927096989116645,
+                    41.637143108743466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "30277",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PETROL VENETA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.848820409827452,
+                    41.59788769070963
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil Cappelloni Snc",
+                "id": "8068",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CAPPELLONI S.N.C. DI CAPPELLONI MASSIMO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.333485029430449,
+                    43.64718207006308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Gentili Luca",
+                "id": "27869",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO DI GENTILI LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.41326119991868,
+                    43.66719935878814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Diego Maggi",
+                "id": "10016",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MAGGI DIEGO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.407699536022617,
+                    43.66513128316925
+                ]
+            }
+        }
+    ]
+}

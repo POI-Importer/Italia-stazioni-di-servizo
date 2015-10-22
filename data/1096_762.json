@@ -1,0 +1,460 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ANGELONI FABIO - GENZANO",
+                "id": "20858",
+                "amenity": "fuel",
+                "operator": "ANGELONI FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.68399079192659,
+                    41.70920975974989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV5358",
+                "id": "8058",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MAESTRALE 6 DI RITA SAIN S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.781372368335724,
+                    41.691428350711696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "3 ci PETROLI",
+                "id": "10256",
+                "amenity": "fuel",
+                "operator": "MIGNUCCI FABRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.78528571128845,
+                    41.68428578985447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione TotalErg di RO.DAL",
+                "id": "21796",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "RO.DAL. S.N.C. DI DAL POZ ANTONELLA E DAL POZ LIBERALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.692657713491828,
+                    41.70149739205508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "27015",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "B.P. DI BRENCIO FABIO E C. - SOCIETA' IN NOME COLLETTIVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.777129222476217,
+                    41.69271487268825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto IP - Ariccia",
+                "id": "31630",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IPNA PETROLI SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.660162001848223,
+                    41.701431089708116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "27330",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ROMANI ALDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.679343819618227,
+                    41.71784126339243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributori carburanti IP",
+                "id": "28155",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PELLEGRINI MORENO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.796544283628462,
+                    41.69890156220227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Velletri",
+                "id": "4692",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.778561413288115,
+                    41.66681212695616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP CARLONI ROBERTO",
+                "id": "26921",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CARLONI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.72133246064186,
+                    41.69195561370705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALBANO LAZIALE VIA TRILUSSA N.141",
+                "id": "10801",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.658541947603226,
+                    41.720280355999606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE TOTALERG",
+                "id": "21039",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BONANNI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.778417851716426,
+                    41.683353336771006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rocca di papa",
+                "id": "8395",
+                "brand": "Oil Italia",
+                "amenity": "fuel",
+                "operator": "OIL ITALIA SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.706711316250678,
+                    41.76188031945909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TRIVELLONI IVAN",
+                "id": "25235",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TRIVELLONI IVAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.78217434883118,
+                    41.68588326518145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FUEL DISCOUNT",
+                "id": "30877",
+                "amenity": "fuel",
+                "operator": "GECOIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.821876406669618,
+                    41.693179868666604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni pv 57153",
+                "id": "8547",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LOMBARDI DOMENICO S.A.S. DI LOMBARDI DOMENICO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.656842768192291,
+                    41.647360338515696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LAURI FERNANDA",
+                "id": "14336",
+                "amenity": "fuel",
+                "operator": "LAURI FERNANDA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.665918638623,
+                    41.76882479703173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VELLETRI-VIA APPIA SUD 120",
+                "id": "11808",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.78376020491123,
+                    41.656685369145556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP LA SUPER SAS",
+                "id": "18574",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LA SUPER DI MIGNUCCI ANDREA & C. - S.A.S"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.776145413517948,
+                    41.68074275792153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ROCCA DI PAPA-VIA DEL TUFO",
+                "id": "11804",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.706361515378944,
+                    41.75588103643965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "36943 Lariano",
+                "id": "26843",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI RETE OIL&NONOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.829156190091453,
+                    41.72218670645645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP DI GIULIO GIOVANNI",
+                "id": "16591",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DI GIULIO GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.76799887418747,
+                    41.64545744873258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Genzano",
+                "id": "14302",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "D.C.G.DISTRIBUZIONE CARBURANTI GENZANO S.A.S. DI BARBACCI AMBROGI MARIO E DI STASIO DAVIDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.668157813491801,
+                    41.69612798895957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "shell di fabio paladini",
+                "id": "16390",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "PALADINI FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.704901918768885,
+                    41.68243346964025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZ.SERV.AGIP 07070 LENCI FABIO",
+                "id": "22824",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LENCI FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.779460062110157,
+                    41.687234796477995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "agip",
+                "id": "10213",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PELLEGRINI ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.785979062318804,
+                    41.69402346440758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tre esse s.n.c.",
+                "id": "22430",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TRE ESSE DI ARGENTI CINZIA E ANGELONI GIULIANO - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.743956893682483,
+                    41.69039544347307
+                ]
+            }
+        }
+    ]
+}

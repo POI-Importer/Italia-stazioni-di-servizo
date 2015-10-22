@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tarquinia ovest",
+                "id": "5052",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PANTANO OIL S.N.C. DI ANTIMI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.787697076797487,
+                    42.16837199640215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tuscia petroli",
+                "id": "19530",
+                "amenity": "fuel",
+                "operator": "GRANCANI GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.902285069227217,
+                    42.269828126951126
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,205 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV Acqui Terme",
+                "id": "25112",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BECCARIA S.R.L. - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.446408210528602,
+                    44.6757983508484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ACQUI TERME - MATTEOTTI",
+                "id": "30244",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.46631489981462,
+                    44.673086077785584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Berry Service & C S.n.C",
+                "id": "24087",
+                "amenity": "fuel",
+                "operator": "BERRY SERVICE DI PONZANO MAURIZIO LUIGI E C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.463236209717591,
+                    44.676320350040776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "3914",
+                "id": "29421",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "T.D.M. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.477373719215393,
+                    44.67313733632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ACQUI TERME CORSO DIVISIONE ACQUI 110",
+                "id": "6407",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.45972986389313,
+                    44.67636581251456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "25988",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FULL AND DRIVE S.A.S. DI NAVONE ANDREA VINCENZO, PERETTA FRANCO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.546451330184937,
+                    44.704961906334034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bragas - Strevi",
+                "id": "30281",
+                "amenity": "fuel",
+                "operator": "BRAGAS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.53238046169281,
+                    44.713546704685776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 51036",
+                "id": "27634",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.464691063823693,
+                    44.676577284118565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni di severino massimo",
+                "id": "4497",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SEVERINO MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.472873077909867,
+                    44.68021119744928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "31978",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BOTTER WALTER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.49929541349411,
+                    44.68067678652247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE HELP",
+                "id": "10022",
+                "amenity": "fuel",
+                "operator": "COLLINO E C.- S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.458921033065735,
+                    44.66895866438711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CENTRO CALOR STREVI",
+                "id": "10524",
+                "amenity": "fuel",
+                "operator": "CENTRO CALOR S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.532321453094482,
+                    44.71356042827085
+                ]
+            }
+        }
+    ]
+}

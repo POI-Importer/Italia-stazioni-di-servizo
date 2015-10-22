@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fuel di Sahlemariam Abraha Beyen e C. s.a.s.",
+                "id": "19036",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FUEL DI SAHLEMARIAM ABRAHA BEYEN E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.955557703971865,
+                    41.940523208008344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CARBURANTI IP di Castel Madama",
+                "id": "29417",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PUCELLA CRISTIAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.868485174811894,
+                    41.975976203155284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Forniti di Forniti Tiziana SaS",
+                "id": "13259",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FORNITI DI FORNITI TIZIANA E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.906459867954254,
+                    42.01844847179127
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "12847",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DORIGO ALESSANDRO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.289713414022913,
+                    45.96753276743481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Piccin Celeste",
+                "id": "15469",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PICCIN CELESTE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.300760860118887,
+                    45.990543000000024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "JET+",
+                "id": "14603",
+                "amenity": "fuel",
+                "operator": "JETOIL S.A.S. DI STEFFAN ALESSANDRO E LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.27760395915186,
+                    46.00674880065836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Erg",
+                "id": "21403",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ZANIN OTTORINO & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.180161923170088,
+                    45.97447570773822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VITTORIO VENETO - SAN FLORIANO",
+                "id": "30678",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.299313411045093,
+                    46.02702979694428
+                ]
+            }
+        }
+    ]
+}

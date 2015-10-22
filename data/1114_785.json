@@ -1,0 +1,192 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "carburanti service sas",
+                "id": "15171",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CARBURANTI SERVICE S.A.S. DI FRIGATO ARTURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.939034273855325,
+                    38.55442055013466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO TROPEA",
+                "id": "27512",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SCRUGLI ANTONINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.88646650314331,
+                    38.671383417905126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "26539",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "DE LUCA CONCETTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.85104390978813,
+                    38.63455354807206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "31568",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "AUTOELETTROSAT ENERGY - SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.892831001743275,
+                    38.6749322443699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8-ZGAS",
+                "id": "29616",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SOLANO LUIGI S. & FIGLI S.A.S.."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.923997312784193,
+                    38.5628940638769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio Q8",
+                "id": "10349",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO Q8 DI CASTAGNA GRAZIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9629788393554,
+                    38.55933867025667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 ZETAGAS",
+                "id": "26984",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "VARRA' FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.881969634350526,
+                    38.62488383167403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "29541",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SOLANO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.936208069324493,
+                    38.55442431045187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "filardi pasquale",
+                "id": "14880",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FILARDI PASQUALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.896951258182527,
+                    38.67460074359128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zanetta s.a.s. di Paparatto Giuseppina",
+                "id": "15711",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ZANETTA S.A.S DI PAPARATTO GIUSEPPINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.866062939167026,
+                    38.62378932116659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "26723",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IANNELLO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.864824954327332,
+                    38.66370664552949
+                ]
+            }
+        }
+    ]
+}

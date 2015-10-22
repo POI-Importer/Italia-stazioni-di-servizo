@@ -1,0 +1,173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.S.292 PER RIOLA KM 120+455 - NURACHI",
+                "id": "28306",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.53936776567616,
+                    39.981080071099136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "21269",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SECHI FABRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.535803630948067,
+                    40.00064808798956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ORISTANO - MASSAMA",
+                "id": "29940",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.600291195106479,
+                    39.94160822578977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN VERO MILIS - SP 9",
+                "id": "27899",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.597705364418061,
+                    40.00434658144757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO VIA CAGLIARI 36",
+                "id": "24474",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MG DI ROSAS GIANCARLO & TONI MARCO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5868239402771,
+                    39.91250256524579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 07558 Oristano",
+                "id": "30179",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI RETE OIL&NONOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.587656559524476,
+                    39.91209764006857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MARIO MAIORCA STAZIONE DI SERVIZIO AGIP",
+                "id": "7539",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MAIORCA MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.539718985557556,
+                    39.984243261875946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "21270",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SECHI FABRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.538574704368557,
+                    39.924273291068126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GP carburanti prodotti petroliferi",
+                "id": "22508",
+                "amenity": "fuel",
+                "operator": "PIREDDA GIUSEPPE & PIU' SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.532506525516508,
+                    39.9286337713657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BEYFIN",
+                "id": "12773",
+                "amenity": "fuel",
+                "operator": "GESTIONE ESERCIZI COMMERCIALI DI NICOLA SERUSI E FRANCESCO SERUSI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.574887746032687,
+                    39.92462660783538
+                ]
+            }
+        }
+    ]
+}

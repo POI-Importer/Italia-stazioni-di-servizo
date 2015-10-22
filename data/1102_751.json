@@ -1,0 +1,444 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "30349",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ERCOLANI UMBERTO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.727775067090986,
+                    43.156038168995536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "23064",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CO.DEL.CO. DI DEL MORO GABRIELE & C. S.N.C.*RIFORNIMENTO IP"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.799043372273445,
+                    43.167547300437086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PICENO EST",
+                "id": "24997",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PICENO EST DI NICOLA MEULI E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.844103440475468,
+                    43.07577225342901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSOSUD",
+                "id": "22566",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ESSOSUD DI CENSI MAURIZIO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.795767724514008,
+                    43.17450776027225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gaspetrol - Fermo",
+                "id": "26532",
+                "amenity": "fuel",
+                "operator": "SIMONETTI MARIO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.797992524725487,
+                    43.16243684776578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO NORD SNC DI MARZIALI ANTONELLO E BELLETTI FLAVIO",
+                "id": "8019",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ESSO NORD S.N.C. DI MARZIALI ANTONELLO E BELLETTI FLAVIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.791360542327878,
+                    43.18486388538839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio IP - Altidona",
+                "id": "31760",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SIMONETTI MARIO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.836100254111786,
+                    43.110762354801665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "officina e autorifornimento alesi enrico",
+                "id": "28560",
+                "amenity": "fuel",
+                "operator": "ALESI ENRICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.715616613626482,
+                    43.08816134814204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IM Valdete",
+                "id": "10232",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SO.GE.CAR. DI MIGNANI MARISA & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74587059020996,
+                    43.14200186633136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PORTO SAN GIORGIO - BORGO ANDREA COSTA",
+                "id": "24595",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.787311487102441,
+                    43.194743019138144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ip Moresco",
+                "id": "26868",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "EFFEMME SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.752642631661727,
+                    43.07200242512797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg Via Costa",
+                "id": "16040",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "EFFEMME SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.787216842174528,
+                    43.194055870923435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PICENO OVEST",
+                "id": "3733",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CORAZZI A.& C. sas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.842899999999997,
+                    43.0749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MARINA DI PORTO SAN GIORGIO S.P.A.",
+                "id": "22795",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MARINA DI PORTO SAN GIORGIO S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.811970912750212,
+                    43.16710453368264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COMETRA",
+                "id": "4425",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CO.ME.TRA. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.790492937609768,
+                    43.158216769782705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Punto G. Srl",
+                "id": "30814",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PUNTO G. SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.789831906745917,
+                    43.18862435511617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE IP EVANDRI SNC",
+                "id": "27676",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "EVANDRI SNC DI EVANDRI ANDREA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.752086609601974,
+                    43.17055090791201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO GIAMMARINI",
+                "id": "21107",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GIAMMARINI FEDERICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.838477092590326,
+                    43.09937818168063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni Station di Rogante Francesco & Roberta Snc",
+                "id": "24141",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ROGANTE FRANCESCO & ROBERTA S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.732144750015323,
+                    43.168970562712296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "METANO",
+                "id": "27633",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MULTICARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.832021802663803,
+                    43.10387695551941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil Valdete 0",
+                "id": "10231",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SO.GE.CAR. DI MIGNANI MARISA & C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.788812756538393,
+                    43.16173802890108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FERMO - VIA RESPIGHI",
+                "id": "24680",
+                "amenity": "fuel",
+                "operator": "METANAUTO GIULIANOVA SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.729916810989383,
+                    43.17010567756348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "_ENI_",
+                "id": "7144",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "F.LLI VINCENZI FAUSTO E GIUSEPPE & C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.84179744511312,
+                    43.096968414559946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZINE DI SERVIZIO VISI GIACOMO",
+                "id": "21325",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "VISI GIACOMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.835436254739761,
+                    43.096325193157085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP VALLASCIANI",
+                "id": "21980",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IMMOBILIARE PICENA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.836049139499664,
+                    43.11075772702791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil Pompeiana",
+                "id": "23014",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FERMANA CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.74537706375122,
+                    43.16013761390149
+                ]
+            }
+        }
+    ]
+}

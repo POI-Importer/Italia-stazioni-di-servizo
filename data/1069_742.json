@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio IP",
+                "id": "11390",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "VINAI CINZIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.021800991201417,
+                    44.24403533409805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BOLOGNA SILVANA",
+                "id": "16869",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BOLOGNA SILVANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.014251440763474,
+                    44.21416514564049
+                ]
+            }
+        }
+    ]
+}

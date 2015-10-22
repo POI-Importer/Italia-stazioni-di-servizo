@@ -1,0 +1,406 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Metanauto Zimella Srl",
+                "id": "30102",
+                "amenity": "fuel",
+                "operator": "METANAUTO ZIMELLA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.375989380395481,
+                    45.33760827290823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "12240",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CARBOGNIN MARIA LUIGIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.34633019566536,
+                    45.45688320499134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "12272",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MENEGHINI FULVIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.381970047950745,
+                    45.388780665926504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Agip GIULIA SNC",
+                "id": "13149",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GIULIA S.N.C. DI SIMONCELLO ANDREA & TESSARI VILMA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.273331707437137,
+                    45.4041833447731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di servizio Lonigo",
+                "id": "20482",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "PETROL-FIN S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.380147294742642,
+                    45.38127987883761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORO F.LLI SPA",
+                "id": "5666",
+                "brand": "Loro",
+                "amenity": "fuel",
+                "operator": "LORO F.LLI-S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.332821249961853,
+                    45.37010300374576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bon Gas",
+                "id": "14867",
+                "amenity": "fuel",
+                "operator": "BON GAS DI DE BONI ANNA MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.422562684952483,
+                    45.45797664102615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nicoletti Service",
+                "id": "19878",
+                "amenity": "fuel",
+                "operator": "NICOLETTI SERVICE - BOTTEGA DEL CAFFE' DI NICOLETTI IRICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.38106052513126,
+                    45.45270215876908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GODI SILVIA",
+                "id": "12826",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GODI SILVIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.286086440086367,
+                    45.36694668376339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "5101",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ALLEGRI S.N.C. DI CONFENTE AMELIA E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.276673196711727,
+                    45.40490841516184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FRIGOTTO CARBURANTI",
+                "id": "19896",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FRIGOTTO CARBURANTI S.N.C. DI FRIGOTTO MASSIMO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.334159672260283,
+                    45.42005867704472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORO F.LLI SPA",
+                "id": "5620",
+                "brand": "Loro",
+                "amenity": "fuel",
+                "operator": "LORO F.LLI-S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.401607629499836,
+                    45.37553492855056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto Verona Petroli - San Bonifacio",
+                "id": "12494",
+                "amenity": "fuel",
+                "operator": "BUSSINELLO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.273765712976457,
+                    45.38605941437099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NI010457- RONCA'",
+                "id": "22475",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CORO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.31700548213962,
+                    45.46008005544328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PRETO GIORGIO",
+                "id": "12984",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PRETO GIORGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.282374262809753,
+                    45.382867437483455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Metano Gas San Bonifacio",
+                "id": "5168",
+                "amenity": "fuel",
+                "operator": "METANO GAS *SAN BONIFACIO SOCIETA' A R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.264758855104446,
+                    45.40729736948806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "16405",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "FERRARI F.LLI DI FERRARI VITTORIO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.28188742380371,
+                    45.41536971418705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUZIONE CARBURANTI ALONTE SNC",
+                "id": "14631",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DISTRIBUZIONE CARBURANTI ALONTE DI GHIGI LUIGINO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.417708471417427,
+                    45.36236697444108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di servizio Dotto",
+                "id": "17994",
+                "amenity": "fuel",
+                "operator": "DOTTO CANDIDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.353321373462679,
+                    45.43189179067404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GOBBO GIOVANNI ERG",
+                "id": "15216",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GOBBO GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.414547493778967,
+                    45.43440496378552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Niero Mario ENI",
+                "id": "7457",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "NIERO MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.302260160446165,
+                    45.44649321129613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORO F.LLI SPA",
+                "id": "5577",
+                "brand": "Loro",
+                "amenity": "fuel",
+                "operator": "LORO F.LLI-S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.379159092903137,
+                    45.416393033641555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "WEGA PETROLI SAS",
+                "id": "17875",
+                "amenity": "fuel",
+                "operator": "WEGA PETROLI DI SOAVE DINO E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.252093433299251,
+                    45.3878180584133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "8082",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DECATUR S.N.C. DI DE CAO CLAUDIO E TURELLA MARIA CRISTINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.37935221195221,
+                    45.382385535805085
+                ]
+            }
+        }
+    ]
+}

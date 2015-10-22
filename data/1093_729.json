@@ -1,0 +1,390 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bioil",
+                "id": "8853",
+                "amenity": "fuel",
+                "operator": "BILIATO GIOVANNI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.159339294903587,
+                    45.870223526980716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Essebi S.n.c.",
+                "id": "30741",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ESSEBI SNC DI SECH ERVANO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.154807262565557,
+                    45.924801194498954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "agip",
+                "id": "21052",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TOMASI ITALO & VALTER S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.24330514669418,
+                    45.94016007696524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL di Villanova Sandro",
+                "id": "13993",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "VILLANOVA SANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.141770296295137,
+                    45.87764811203762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SMP CONEGLIANO, Viale Venezia",
+                "id": "5234",
+                "brand": "San Marco Petroli",
+                "amenity": "fuel",
+                "operator": "SAN MARCO PETROLI DISTRIBUZIONE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.278124212303169,
+                    45.87094011321883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TORMENA NICOLA",
+                "id": "30464",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ESSO STAZIONE DI SERVIZIO TORMENA NICOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.177711982803316,
+                    45.895386542107374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "7726",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BOCCIA GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.279490559524564,
+                    45.87249539068971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "metanotv6",
+                "id": "21119",
+                "amenity": "fuel",
+                "operator": "LA METANO TREVISO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.248807722615084,
+                    45.86955472293423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RUSSO SAS",
+                "id": "7345",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RUSSO S.A.S. DI RUSSO ANIELLO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.30305400793463,
+                    45.878182918543494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OIL ITALIA",
+                "id": "12193",
+                "amenity": "fuel",
+                "operator": "BENEDETTI LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.174155636811745,
+                    45.89894228299956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CONEGLIANO VIA LOURDES 44",
+                "id": "6487",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.296328074409075,
+                    45.89505128380133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ENERGYCA",
+                "id": "10848",
+                "brand": "Energyca",
+                "amenity": "fuel",
+                "operator": "SALVADOR ANGELO  &  C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.281546067459088,
+                    45.87410167454348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Energyca Rua di Feletto",
+                "id": "16587",
+                "brand": "Energyca",
+                "amenity": "fuel",
+                "operator": "CESCHIN GIGLIOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.252872612074041,
+                    45.91490629234348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STOP&GO",
+                "id": "13967",
+                "amenity": "fuel",
+                "operator": "POLLESEL CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.265923855225312,
+                    45.869736654832856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PINESE",
+                "id": "12269",
+                "amenity": "fuel",
+                "operator": "PINESE GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.226496078538958,
+                    45.83205924577309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SS13 Service di Cenedese Eugenia",
+                "id": "31280",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SS13 SERVICE DI  CENEDESE EUGENIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.27328687906265,
+                    45.86782846266702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Energyca Bagnolo",
+                "id": "12028",
+                "brand": "Energyca",
+                "amenity": "fuel",
+                "operator": "CARLO ALIPRANDI CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.276178333826467,
+                    45.9097367092137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Energyca Crevada",
+                "id": "12051",
+                "brand": "Energyca",
+                "amenity": "fuel",
+                "operator": "CIMA SERVIZI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.223682994204978,
+                    45.89262160086623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SUSEGANA CONEGLIANO 13",
+                "id": "9880",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.254239825725563,
+                    45.85352396370935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "G D P",
+                "id": "8942",
+                "amenity": "fuel",
+                "operator": "GRUPPO DISTRIBUZIONE PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.15758381349178,
+                    45.887790732965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CERVADA EST",
+                "id": "31107",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "LAGARDERE FOOD SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.304472923278809,
+                    45.9424662033267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "22615",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "DAL COL S.A.S. DI DAL COL LODOVICA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.180789560079571,
+                    45.86730700817993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENERGYCA",
+                "id": "18243",
+                "brand": "Energyca",
+                "amenity": "fuel",
+                "operator": "DE LUCA  STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.165471457672083,
+                    45.89790466621084
+                ]
+            }
+        }
+    ]
+}

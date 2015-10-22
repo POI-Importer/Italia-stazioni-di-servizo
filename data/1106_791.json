@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "G.P.S. PETROLI",
+                "id": "24639",
+                "amenity": "fuel",
+                "operator": "LUPO MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.506279813062973,
+                    37.80741979459476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FASCETTO TOMMASO SAS IMPIANTO DISTRIBUZIONE CARBURANTI E LUBRIFICANTI",
+                "id": "28103",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FASCETTO TOMMASO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47951912879944,
+                    37.84065164776234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO di MONASTRA MARILENA",
+                "id": "27696",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MONASTRA MARILENA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.587180316448213,
+                    37.78899200279087
+                ]
+            }
+        }
+    ]
+}

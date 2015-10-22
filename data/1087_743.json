@@ -1,0 +1,105 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EGO",
+                "id": "9818",
+                "amenity": "fuel",
+                "operator": "FONTANA SISTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.086486789549326,
+                    44.16929797273443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP Baragazza",
+                "id": "12644",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MARCHETTINI MARIA CESIRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.196252495700833,
+                    44.12956037781948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RONCOBILACCIO EST",
+                "id": "3571",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "Famiglietti & Di chiara snc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.231776618385311,
+                    44.11660757013437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aldrovandi Stazione di Servizio",
+                "id": "19722",
+                "amenity": "fuel",
+                "operator": "ALDROVANDI PIETRO DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.220350804893542,
+                    44.186647739668835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RONCOBILACCIO OVEST",
+                "id": "3621",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "Finauto Services srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.231188512897461,
+                    44.11662516563623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "officina castiglionese snc",
+                "id": "16426",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "OFFICINA CASTIGLIONESE - SOCIETA' IN NOME COLLETTIVO DI POLI CLODOVEO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.158515327249008,
+                    44.142694927024934
+                ]
+            }
+        }
+    ]
+}

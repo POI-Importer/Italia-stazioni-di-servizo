@@ -1,0 +1,780 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RAVENNA-FORNACE ZARATTINI VIA FAENTINA 173",
+                "id": "11795",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.15816588954931,
+                    44.42199233742212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE TAMOIL LUANA CARLINI",
+                "id": "13358",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CARLINI LUANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.210578218384628,
+                    44.407517751844416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zama Filippo",
+                "id": "21646",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ZAMA FILIPPO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.222889762565615,
+                    44.388889709189804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GAGLIARDI CARBURANTI S.R.L.",
+                "id": "21151",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GAGLIARDI CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.164904177188873,
+                    44.42371927740523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15647 RAVENNA",
+                "id": "5415",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "enirete oil&nonoil S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.201811468248254,
+                    44.36386989468323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gambi Ivano snc",
+                "id": "20807",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GAMBI IVANO S.N.C. DI GAMBI IVANO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.188096567988396,
+                    44.44866123170061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RAVENNA - FORNACE ZARATTINI",
+                "id": "22125",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.141300466270424,
+                    44.418685260436924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EUROPAM RAVENNA",
+                "id": "24248",
+                "amenity": "fuel",
+                "operator": "EUROPAM S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.24418759346008,
+                    44.40596521152477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Argenta Carburanti",
+                "id": "5589",
+                "amenity": "fuel",
+                "operator": "BONOMO MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.214050292968748,
+                    44.432729508921454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 54181",
+                "id": "25035",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.226678133010862,
+                    44.4067240097924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "29228",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MENGHI CRISTINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.22009775463107,
+                    44.413441026749055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AZZURRA DI VALTANCOLI GIUSEPPE E C. S.N.C.\\t",
+                "id": "21063",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AZZURRA DI VALTANCOLI GIUSEPPE E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.233068495988848,
+                    44.41606638561577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Repsol_Ravenna (RA008)",
+                "id": "26455",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "REPSOL ITALIA S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.17545598745346,
+                    44.40734253792763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto H6",
+                "id": "12388",
+                "amenity": "fuel",
+                "operator": "PETROL SERVICE SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.211209833621982,
+                    44.416734626390266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ravegnana carburanti snc",
+                "id": "14304",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RAVEGNANA CARBURANTI DI BROCCHI WUDI E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.195698546032645,
+                    44.386703606235564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "31157",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "OTTAVIANI PRIMO & FIGLI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.278092604756921,
+                    44.43529261352682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "area di servizio",
+                "id": "6383",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BELLELLI STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.20002350859829,
+                    44.426749413372725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SEGED SNC",
+                "id": "20467",
+                "amenity": "fuel",
+                "operator": "SE.GE.D RAVENNA SERVIZI GESTIONE DISTRIBUZIONE RAVENNA DI ELVIO FORMENTI E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.214598954631011,
+                    44.43120148520672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Landi Gabriele",
+                "id": "8321",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LANDI GABRIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.261647433042528,
+                    44.34699068534289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni",
+                "id": "25987",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "NANNELLI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.211936712265015,
+                    44.40247461252805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "avia",
+                "id": "13964",
+                "amenity": "fuel",
+                "operator": "CAPELLI CHRISTIAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.208556905487853,
+                    44.40692786883021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RAVENNA S.S.16 N. 180 LATO SUD",
+                "id": "24093",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.22339242696762,
+                    44.37554386018352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RAVENNA ESP",
+                "id": "5965",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.181919961971293,
+                    44.39653366817326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "21758",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "D'ABBRUZZO ALDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.205892354249954,
+                    44.38107117208587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "29377",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LA MENDOLA CARMELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.211368083953856,
+                    44.43740493419577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio EGO",
+                "id": "10124",
+                "brand": "Ego",
+                "amenity": "fuel",
+                "operator": "ATENA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.227458155958514,
+                    44.434677957700266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO IP DI GORACCI ANTONINO",
+                "id": "14015",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GORACCI ANTONINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.295962274074553,
+                    44.44200721657537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RAVENNA S.S.16 KM 155+78 LATO NORD",
+                "id": "24094",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.223405838012695,
+                    44.376113447418206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RAVENNA - MEZZANO",
+                "id": "30210",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.13997049570082,
+                    44.439444046688074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Total Erg",
+                "id": "31839",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CASADEI FILIPPO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.302729163476556,
+                    44.41207908606338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EniCafè 15621",
+                "id": "4139",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SAMORI' STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.24224701523781,
+                    44.43444941655187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio EGO",
+                "id": "10080",
+                "brand": "Ego",
+                "amenity": "fuel",
+                "operator": "MAESTRI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.209627406371055,
+                    44.405405797803304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Magas di Fiumana Ivo",
+                "id": "23489",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FIUMANA IVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.197137660713226,
+                    44.4036577498824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "calisesi e biondi srl",
+                "id": "9123",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CALISESI & BIONDI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.173224389553072,
+                    44.421702703166694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso Abis 2",
+                "id": "18386",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ABIS E PIRAS  DI ABIS LUCIANO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.213890701532364,
+                    44.425943615903066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Battistini Gabriele",
+                "id": "6211",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BATTISTINI GABRIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.152295112609863,
+                    44.430199735542686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RAVENNA VIA S. PERTINI",
+                "id": "23941",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TOTALERG S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.181061804294586,
+                    44.40565862345723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Q8 FABBRI SERGIO",
+                "id": "9513",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "FABBRI SERGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.177031964279193,
+                    44.42273518760752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NATALI GINO SRL",
+                "id": "4036",
+                "amenity": "fuel",
+                "operator": "NATALI GINO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.214044928550718,
+                    44.4327053762747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg Barboni Daniele",
+                "id": "13396",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BARBONI DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.198793555225391,
+                    44.406066545499684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI - RISTO PETROL SNC",
+                "id": "12746",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RISTO PETROL S.N.C. DI CASALINI LANFRANCO E RUSSO LORENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.196861862565584,
+                    44.40247894665888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso Abis 1",
+                "id": "16418",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ABIS E PIRAS  DI ABIS LUCIANO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.218137284130874,
+                    44.41932001465563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RAVENNA VIA NAVIGLIO N.22",
+                "id": "6887",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.186473312025441,
+                    44.43171496604866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAP",
+                "id": "28476",
+                "amenity": "fuel",
+                "operator": "CEMA DI MARCHETTI LOREDANA E MANCINI FELICE E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.227062876165748,
+                    44.40759614489111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MOLINARO",
+                "id": "18668",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MOLINARO GIAN CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.174688079956807,
+                    44.42342534742185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "10309",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SAMORI' PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.170001715421673,
+                    44.4149632352788
+                ]
+            }
+        }
+    ]
+}

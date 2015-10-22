@@ -1,0 +1,360 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "23099",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "POGGI GIULIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.922370299696922,
+                    44.477466634943326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "13581",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PARODI DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.902519879098463,
+                    44.47173474563223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Europam",
+                "id": "23005",
+                "amenity": "fuel",
+                "operator": "MONTEROSSO & FIGLI SNC DI BIAGIO MONTEROSSO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.8979582808023,
+                    44.48640781672671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "keropetrol busalla",
+                "id": "8091",
+                "amenity": "fuel",
+                "operator": "P. & P. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.949303365081732,
+                    44.56761070050024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI MANCINI",
+                "id": "16546",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MANCINI ALFREDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.905269205570221,
+                    44.46536464119649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "23461",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GOBBO VITTORIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.945959657430649,
+                    44.570277187821986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lagorio Daniele",
+                "id": "23060",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LAGORIO DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.954709023237228,
+                    44.567382284966094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione IES",
+                "id": "27976",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "EMMEGAS S.N.C. DI CAIRO MARIO E BERTULLACELLI MAURIZIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.897708757672149,
+                    44.485204943292466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "europam ceranesi",
+                "id": "31300",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "EUROPAM S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.894564509391785,
+                    44.50414998290673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip",
+                "id": "29459",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "RASO GRAZIELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.907348317671449,
+                    44.50430394137683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "23604",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CARMINATI ENRICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.90406687976224,
+                    44.4701245201814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ferraro roberto",
+                "id": "28330",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FERRARO ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.867716223655862,
+                    44.527322652403086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Q8",
+                "id": "9391",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PUCI LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.937651515007019,
+                    44.58886457189196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 55863",
+                "id": "26913",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.901589214801788,
+                    44.489696997657845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FRATTI FIORENZO",
+                "id": "14069",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FRATTI FIORENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.920306339859962,
+                    44.49440345010533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ROMAIRONE",
+                "id": "5943",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.901114139881201,
+                    44.47044574216909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "staz.di serv.TOTALERG di Casagrande Claudio",
+                "id": "18637",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CASAGRANDE CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.885984320272428,
+                    44.50925019559609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAMPORA EST",
+                "id": "3716",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CAMPORA EST SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.940341020832077,
+                    44.529867494198314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP - Busalla",
+                "id": "4034",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FM DI MAZZONI FABRIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.946129743724784,
+                    44.56959731266745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GENOVA VIA G. COLANO",
+                "id": "6387",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.90536978840828,
+                    44.466184305647396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg Serra Riccò",
+                "id": "28264",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CARMINATI ENRICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.922772045507827,
+                    44.49864200830591
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,376 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.PELAGIO OVEST",
+                "id": "3862",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI RETE OIL&NONOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.825741529464723,
+                    45.31577731437249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "pi.ta.gi di pivetta giorgio",
+                "id": "28067",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PI.TA.GI DI PIVETTA GIORGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.863191677909867,
+                    45.26646390213961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SELF AREA AGIP PERARO MARIANO",
+                "id": "13735",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PERARO MARIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.89100369811058,
+                    45.24166222920576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TEMPORIN NUNZIO",
+                "id": "12857",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "TEMPORIN NUNZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.833079491332228,
+                    45.21430406336788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rigato Umberto carburanti sas",
+                "id": "30410",
+                "brand": "Costantin",
+                "amenity": "fuel",
+                "operator": "RIGATO UMBERTO CARBURANTI S.A.S DI SARTORE GIANFRANCO E SALMASO SILVIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.905024945735931,
+                    45.335955274776715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Agip di Griggio Paolo",
+                "id": "20529",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GRIGGIO PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.932202507934564,
+                    45.2755686400796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Costantin Albignasego",
+                "id": "23855",
+                "brand": "Costantin",
+                "amenity": "fuel",
+                "operator": "COSTANTIN DISTRIBUZIONE E SERVIZI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.905099728836033,
+                    45.33541184634525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "23220",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CONFORTO S.N.C. DI CONFORTO ANDREA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.884617358446121,
+                    45.22026612235854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "P.V.42494 IP",
+                "id": "22348",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PERARO GIAMPAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.788236200809479,
+                    45.29345476153596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rigato Umberto carburanti sas",
+                "id": "30411",
+                "amenity": "fuel",
+                "operator": "RIGATO UMBERTO CARBURANTI S.A.S DI SARTORE GIANFRANCO E SALMASO SILVIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.905024945735931,
+                    45.335955274776715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "REPSOL",
+                "id": "21945",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "CONTIERO ERMANNO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.908444373016323,
+                    45.31195754501527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "smp",
+                "id": "11387",
+                "amenity": "fuel",
+                "operator": "COGNOLATO ALESSANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.863898512897547,
+                    45.32250307415457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Agip",
+                "id": "13637",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MIX S.N.C. DI BUSINARO LUCA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.814011847885125,
+                    45.29269102343213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "13932",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "D & G OIL SNC DI DE BENETTI ENRICA E GOBBIN CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.870712786912918,
+                    45.28875550704478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.PELAGIO EST",
+                "id": "29434",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "BELLUCO S.N.C. DI BELLUCO ANTONIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.827602982521057,
+                    45.31608475216657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Totalerg",
+                "id": "6933",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MANFRIN MIRCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.935513615608215,
+                    45.21442825450309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio LORO - San Pietro Viminario",
+                "id": "12350",
+                "amenity": "fuel",
+                "operator": "MASOLA S.N.C. DI MASOLA MATTEO E MIRKO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.81584892537842,
+                    45.2481397591493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil Bovolenta",
+                "id": "12311",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BDUEF SNC DI BRAGHETTO CRISTIAN E FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.929808121751423,
+                    45.280812724522356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BC duecarrare",
+                "id": "28480",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "ENERGIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.799256152114822,
+                    45.29581679266476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO di TOSON MIRKO",
+                "id": "16743",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TOSON MIRKO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.913964077830316,
+                    45.315101888417345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOP SERVICE",
+                "id": "19464",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "TOP SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.857525071966622,
+                    45.30031326718878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Q8",
+                "id": "7862",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MAZZINI CARBURANTI S.N.C. DI MAZZINI LIO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.863941550254822,
+                    45.32491976378781
+                ]
+            }
+        }
+    ]
+}

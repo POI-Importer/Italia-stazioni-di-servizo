@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "api -ip",
+                "id": "27324",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BERTUCCELLI PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3809778690338135,
+                    45.23892937114763
+                ]
+            }
+        }
+    ]
+}

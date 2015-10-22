@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALLESINA CARLO MARIO",
+                "id": "8016",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "ALLESINA CARLO MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.48675052684291,
+                    46.1303589574365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SOMMESE PETROLI",
+                "id": "13063",
+                "amenity": "fuel",
+                "operator": "RUGA DANIELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.458501058550155,
+                    46.13373266066611
+                ]
+            }
+        }
+    ]
+}

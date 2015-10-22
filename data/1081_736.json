@@ -1,0 +1,119 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "agip testa ennio",
+                "id": "5102",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TESTA ENNIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.035314708948135,
+                    44.971171436934604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ORSI PETROLI",
+                "id": "20448",
+                "amenity": "fuel",
+                "operator": "EREDI ORSI AMOS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.039712273645364,
+                    44.98100102763328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "KEROPETROL S.DANIELE PO",
+                "id": "15911",
+                "amenity": "fuel",
+                "operator": "KEROPETROL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.190098285675049,
+                    45.058747179446264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "KEROPETROL VILLANOVA",
+                "id": "31718",
+                "amenity": "fuel",
+                "operator": "KEROPETROL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.022076666355133,
+                    45.015023641625646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "KEROPETROL",
+                "id": "19855",
+                "amenity": "fuel",
+                "operator": "TRE CAPPA S.N.C. DI CAPPA CAMILLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.02207063138485,
+                    45.01500505971651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eredi Antonioli S.a.s.",
+                "id": "26066",
+                "amenity": "fuel",
+                "operator": "EREDI ANTONIOLI LUIGI S.A.S. DI ANTONIOLI ANDREA, ATTILIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.08535962930614,
+                    45.07348898800487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Antozzi Gianni snc",
+                "id": "32045",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "ANTOZZI GIANNI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.04398226737976,
+                    44.9727262783361
+                ]
+            }
+        }
+    ]
+}

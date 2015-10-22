@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "28176",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "FRA.SEB. SAS DI PORRU FRANCESCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.131049513816835,
+                    39.556851790085545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bosa & C. s.n.c.",
+                "id": "14412",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BOSA E C. - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.043838040079663,
+                    39.55996012069854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "spiga bruno",
+                "id": "16620",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SPIGA BRUNO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.131855517625809,
+                    39.53003710380345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AREA DI SERVIZIO IP",
+                "id": "12415",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "G.A.PLA  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.038506597280502,
+                    39.558602093159976
+                ]
+            }
+        }
+    ]
+}

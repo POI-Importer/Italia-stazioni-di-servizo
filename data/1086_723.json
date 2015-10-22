@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q82660",
+                "id": "22103",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "RAFFEINER DANIEL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.917266607284546,
+                    46.630826227441325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gapp Erika - Tankstelle",
+                "id": "8301",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GAPP ERIKA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.032196352505705,
+                    46.658530608024186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Repsol.",
+                "id": "30801",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "NISCHLER A. & FISSNEIDER A. SNC % NISCHLER A. & FISSNEIDER A. OHG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.043266057968141,
+                    46.66288283641047
+                ]
+            }
+        }
+    ]
+}

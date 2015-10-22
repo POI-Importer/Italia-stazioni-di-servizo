@@ -1,0 +1,122 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MIGLIORE METANAUTO",
+                "id": "30896",
+                "amenity": "fuel",
+                "operator": "MIGLIORE METANAUTO S.A.S. DI MIGLIORE MICHELE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.640085234605749,
+                    40.28823661874004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "7652",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SCARAMUZZO GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.55965542793274,
+                    40.226809959585886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP gruppo API",
+                "id": "7653",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SCARAMUZZO GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.556234794565173,
+                    40.245907395750095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO MARIO PETRIZZO PETROLI SRL",
+                "id": "30956",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MARIO PETRIZZO PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.643839240074156,
+                    40.299870573085606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "W517@CAFE",
+                "id": "31901",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SAL DI SAVINO BASILE E ROSSI ALBERTO S.R.L. (SAL S.R.L.)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.637729827270732,
+                    40.28109247009009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GAS AUTO DI D'Alessio Pietro",
+                "id": "30885",
+                "amenity": "fuel",
+                "operator": "D'ALESSIO PIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.64069118530574,
+                    40.29156604860816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO - CESARPETROIL",
+                "id": "8850",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CESARPETROIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.529182851314545,
+                    40.178960204611286
+                ]
+            }
+        }
+    ]
+}

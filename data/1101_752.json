@@ -1,0 +1,187 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Goldengas",
+                "id": "28637",
+                "amenity": "fuel",
+                "operator": "MATE' FAUSTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.582705110311506,
+                    42.99518963963566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ip amadio",
+                "id": "25467",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "AMADIO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.673418760299684,
+                    42.96922094808594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP - 136433 [ 0 ]",
+                "id": "27774",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "API VALMIR DI CEFOLA MAURO E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.68125684559345,
+                    43.04856674931336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAMELA BASILIO",
+                "id": "22564",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CAMELA BASILIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.609121228905448,
+                    42.98890674397313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vittori Cesare",
+                "id": "26556",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "VITTORI CESARE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.612014807548576,
+                    42.96763440763727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV2",
+                "id": "14354",
+                "brand": "D Amico",
+                "amenity": "fuel",
+                "operator": "GRUPPO D'AMICO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.63868951797485,
+                    43.04141023121029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IM Montalto",
+                "id": "31136",
+                "amenity": "fuel",
+                "operator": "FERMANA CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.582717180252075,
+                    42.99518414662755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aleanzi Ernesta",
+                "id": "21695",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ALEANZI ERNESTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.587716873027148,
+                    43.061983585073754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SELF SERVICE MONTEDINOVE",
+                "id": "29905",
+                "amenity": "fuel",
+                "operator": "MONTEDINOVE ENERGIA E FUTURO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.593017509965877,
+                    42.97487381477018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EUROFOX DI ROBERTI GIANCARLO",
+                "id": "12740",
+                "amenity": "fuel",
+                "operator": "EUROFOX DI ROBERTI GIANCARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.657831262315197,
+                    43.06809878079221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CC carburanti",
+                "id": "11009",
+                "amenity": "fuel",
+                "operator": "CONCETTI ALBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.694626986980436,
+                    43.03479359543426
+                ]
+            }
+        }
+    ]
+}

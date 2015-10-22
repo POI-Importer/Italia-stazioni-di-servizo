@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIOLA DONATO & C. S.A.S.",
+                "id": "24104",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "VIOLA DONATO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.041205322962243,
+                    46.19069999831912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "filippi sergio",
+                "id": "15015",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FILIPPI SERGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.064891368150711,
+                    46.088761619988034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI - ANESI VIGOLO BASELGA",
+                "id": "8373",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ANESI RENATO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.041157841682434,
+                    46.07994194759111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO ENI  GHEZZI LORENZO",
+                "id": "24183",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GHEZZI LORENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.004443764686584,
+                    46.167787302193055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO ITALIANA",
+                "id": "22433",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LEONARDI S.N.C. DI LEONARDI RENATO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.995976030826569,
+                    46.075675598588184
+                ]
+            }
+        }
+    ]
+}

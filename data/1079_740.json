@@ -1,0 +1,122 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gatti Gian Franco",
+                "id": "13930",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GATTI GIAN FRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.768044347778641,
+                    44.4870826663768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Contini Petroli",
+                "id": "22797",
+                "amenity": "fuel",
+                "operator": "CONTINI PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.734763797342907,
+                    44.47146081704407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "filiberti e leonardi snc",
+                "id": "12562",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FILIBERTI & LEONARDI S.N.C. DI FILIBERTI ROBERTA E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.67432424426079,
+                    44.49138327456153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Socogas",
+                "id": "24805",
+                "brand": "Socogas",
+                "amenity": "fuel",
+                "operator": "N.G.S. S.N.C.  DI NECCHI GHIRI FABRIZIO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.747452613630687,
+                    44.4783853075051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BORGO TARO VIA PRIMO BRINDANI",
+                "id": "6525",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.779504801372925,
+                    44.491504229862045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Contini Petroli",
+                "id": "22796",
+                "amenity": "fuel",
+                "operator": "CONTINI PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.734763797342907,
+                    44.47146081704407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio ENI di Calchini Carlo",
+                "id": "6886",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CALCHINI CARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.763522860713238,
+                    44.48774469040154
+                ]
+            }
+        }
+    ]
+}

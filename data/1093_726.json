@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PONTE NELLE ALPI",
+                "id": "3599",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "AREA DI SERVIZIO AGIP PIAN DI VEDOIA OVEST DI FABBIANE MARIO SAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.28869615211488,
+                    46.201264858668736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "repsol",
+                "id": "24168",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "GIOTTO SILVIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.297326773717714,
+                    46.24494632574098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LONGARONE - VILLANOVA",
+                "id": "24967",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.298532186508169,
+                    46.25591483666221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ENI DI PIETRO STILO",
+                "id": "31904",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO ENI DI PIETRO STILO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.298384308815002,
+                    46.24799023443439
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GRAN BOSCO SALBERTRAND EST",
+                "id": "28247",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "OK - GOL SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.893379092216492,
+                    45.07163397932248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore carburanti IP.",
+                "id": "16475",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "JANNIN CRISTIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.946555331352216,
+                    45.01896971876378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GRAN BOSCO SALBERTRAND OVEST",
+                "id": "3724",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "VIVOCAFFE' S.A.S. DI DAMIANO GIUSEPPE E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.891378164291382,
+                    45.07126346565214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAUZE D'OULZ",
+                "id": "22159",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SIRTAM S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.858386993408201,
+                    45.02957558178902
+                ]
+            }
+        }
+    ]
+}

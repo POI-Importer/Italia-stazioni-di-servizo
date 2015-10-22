@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "10321",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FRACCHIA GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.428419381380083,
+                    44.96505412912552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Tamoil di Guarlotti Mattia",
+                "id": "13713",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "GUARLOTTI MATTIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.393942266702652,
+                    45.00938186524488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTEMAGNO - JOLANDA 20",
+                "id": "31940",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.323184697997249,
+                    44.982140535475764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "deambrogi gianluca",
+                "id": "7916",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DEAMBROGI GIANLUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.278462439775467,
+                    45.06045272918674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil Service",
+                "id": "25486",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "FAA S.A.S. DI CAROSSO ALESSANDRO, CAROSSO ANDREA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.278847336769102,
+                    45.061083629509845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BARRERA MAURO",
+                "id": "14107",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BARRERA MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.268702551722527,
+                    45.04541629590936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONCALVO-LOC. QUADRIVIO REGIONE S. GIOVANNI",
+                "id": "11470",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.277583345770836,
+                    45.05900163204968
+                ]
+            }
+        }
+    ]
+}

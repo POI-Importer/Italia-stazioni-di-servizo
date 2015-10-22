@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SIMONETTI IMPIANTO TOTALERG",
+                "id": "12195",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SIMONETTI SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.59862548112869,
+                    42.364741324827556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IL CHIARONE DISTRIBUTORE IP",
+                "id": "10874",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IL CHIARONE - SOCIETA' COOPERATIVA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.497868299484253,
+                    42.401561090683614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Enerpetroli",
+                "id": "26560",
+                "amenity": "fuel",
+                "operator": "FRATINI MORENA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.495156586170197,
+                    42.39367890720361
+                ]
+            }
+        }
+    ]
+}

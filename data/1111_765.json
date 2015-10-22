@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "27160",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BISANTI SANTE ADRIANO ELISEO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.349340736865999,
+                    41.25476499270358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AQUILINO PASQUALE",
+                "id": "25969",
+                "amenity": "fuel",
+                "operator": "AQUILINO PASQUALE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.314630294204106,
+                    41.363902602855156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bovino",
+                "id": "10283",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "NUOVA FUEL CALOR S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.33838611428155,
+                    41.24915132736366
+                ]
+            }
+        }
+    ]
+}

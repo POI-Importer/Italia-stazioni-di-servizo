@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio e punto ristoro pau maria assunta",
+                "id": "20201",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "PAU MARIA ASSUNTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.650486782193184,
+                    40.536063770568354
+                ]
+            }
+        }
+    ]
+}

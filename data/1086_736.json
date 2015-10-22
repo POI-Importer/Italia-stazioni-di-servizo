@@ -1,0 +1,175 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "QUISTELLO",
+                "id": "31172",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "IES ITALIANA ENERGIA E SERVIZI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.005285978317263,
+                    44.99240388321923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "San Benedetto PO",
+                "id": "31612",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.927845239639284,
+                    45.04666818805187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "pompa bianca",
+                "id": "22996",
+                "brand": "Ego",
+                "amenity": "fuel",
+                "operator": "BERNARDELLI ALBERTO E MORENO & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.929875001311302,
+                    45.050291054258786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN BENEDETTO PO - ROMANA NORD 29",
+                "id": "31829",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.931332186508143,
+                    45.063828009266935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "agip confetta giovanna",
+                "id": "16986",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CONFETTA GIOVANNA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.915293842554094,
+                    45.08073694993625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORO F.LLI SPA",
+                "id": "5652",
+                "brand": "Loro",
+                "amenity": "fuel",
+                "operator": "LORO F.LLI-S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.071242271164008,
+                    45.00167041727288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto Retitalia Quistello",
+                "id": "25105",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "BRIXIA FINANZIARIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.981927055225356,
+                    45.009931896279426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Franco Maria Cristina",
+                "id": "9961",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "FRANCO MARIA CRISTINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.98151344047551,
+                    45.009819318972454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "5689",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BARATTI FRATELLI DI BARATTI ENZO E MAURO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.928767919540405,
+                    45.047196908127574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "QUINGENTOLE",
+                "id": "6956",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "IES ITALIANA ENERGIA E SERVIZI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.041745245456696,
+                    45.03694152022718
+                ]
+            }
+        }
+    ]
+}

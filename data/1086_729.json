@@ -1,0 +1,375 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NOGAREDO OVEST",
+                "id": "3568",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "NUOVA SIDAP  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.026323079841633,
+                    45.902326970951755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ROVERETO-VIA ABETONE 26",
+                "id": "11847",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.03310213051384,
+                    45.885341462270375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ROVERETO ABETONE LOC.LIZZANELLA",
+                "id": "6483",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.031543274868795,
+                    45.874987335374854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CURCIO ANTONIO",
+                "id": "23279",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CURCIO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.031264513731001,
+                    45.873246294259694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GALASSI MARCO",
+                "id": "15626",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GALASSI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.972189999999955,
+                    45.85167110058301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso carburanti",
+                "id": "9871",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "PETROLLI GIORGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.037423577909863,
+                    45.88112792604607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Q8",
+                "id": "12625",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GIORDANI MICHELE & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.036413013935089,
+                    45.91341961994844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "bevacqualuigi carburanti",
+                "id": "16148",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BEVACQUA LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.01805329322815,
+                    45.87123333568916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "3 G DI GALASSI SERGIO",
+                "id": "21001",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "3G DI GALASSI SERGIO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.978009253740312,
+                    45.85117723163547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Adami Franco",
+                "id": "19150",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ADAMI FRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.01134106516838,
+                    45.883482518495654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EMANUELLI FRANCO",
+                "id": "15729",
+                "amenity": "fuel",
+                "operator": "EMANUELLI  FRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.010415703058243,
+                    45.83573645757603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO Q8",
+                "id": "7078",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "OFFICINA VICENZI S.N.C. DI VICENZI DANILO E MAURIZIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.93268930912018,
+                    45.87597835440574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto Q8",
+                "id": "11449",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MICHELINI GIANFRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.05905190803662,
+                    45.88756965468384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NOGAREDO EST",
+                "id": "3631",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "FELLER CARBURANTI S.N.C. DI FELLER GIANNI & C. IN SIGLA:    'NOGA REDO EST S.N.C.'"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.027544519677576,
+                    45.90254742594875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ROVERETO",
+                "id": "28199",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.034146645755072,
+                    45.87898438139219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "H6 Rovereto",
+                "id": "23685",
+                "amenity": "fuel",
+                "operator": "LMC DI LUIGI NOTO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.001201424336159,
+                    45.86038559450169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GIGA FUEL",
+                "id": "23668",
+                "amenity": "fuel",
+                "operator": "GALVAGNI GIANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.021149850189204,
+                    45.91390335474465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore IP",
+                "id": "18053",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "M.C.M. SERVICE S.A.S. DI CIUFFA IOLANDA ROBERTA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.06858879327774,
+                    45.91777724119806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "metano rovereto",
+                "id": "15139",
+                "amenity": "fuel",
+                "operator": "METANO ROVERETO S.N.C. DI PERINA MASSIMO E ZERBINI ARMANDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.013732254505156,
+                    45.864327601441055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "bevacqualuigi carburanti",
+                "id": "16146",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BEVACQUA LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.01805329322815,
+                    45.87123333568916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione  servizio eni",
+                "id": "26050",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RAVAGNI DARIO & SILVANO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.036228152589501,
+                    45.88720265278641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ROVERETO BIVIO S. ILARIO STAZ. Q8",
+                "id": "6481",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.039564123032278,
+                    45.906384525878444
+                ]
+            }
+        }
+    ]
+}

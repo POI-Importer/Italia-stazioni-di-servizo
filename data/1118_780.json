@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Q8 San Giovanni in Fiore",
+                "id": "15119",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BAFARO BERNARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.691396757960323,
+                    39.25471244122406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "7467",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GARGA  S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.652709245681763,
+                    39.281887922289236
+                ]
+            }
+        }
+    ]
+}

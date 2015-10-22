@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "18534",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BARILE MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.021381616592407,
+                    41.20337062758117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP 41916",
+                "id": "9841",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CARBONE NICOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.07608099999993,
+                    41.226157086637166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "19364",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BARILE RICCARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.08993351459503,
+                    41.197510005730734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Area di Servizio TAMOIL di DI NUNNO Celastino",
+                "id": "15570",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "DI NUNNO CELESTINO DONATO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.07730969786644,
+                    41.20981509124048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "carburanti la stella s.n.c.",
+                "id": "18895",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CARBURANTI LA STELLA S.N.C. DI REGANO & LOSITO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.070765107870102,
+                    41.218063667721665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP 44605",
+                "id": "9842",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CARBONE NICOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.058631617166157,
+                    41.22735283533173
+                ]
+            }
+        }
+    ]
+}

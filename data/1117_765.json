@@ -1,0 +1,224 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO SANTONI ROSA",
+                "id": "24012",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SANTONI ROSA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.427725041039253,
+                    41.272086954011556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "area di servizio eni",
+                "id": "10989",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LORUSSO RAFFAELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.434619299475116,
+                    41.2683244078545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TRANI SS 378 USCITA PER CORATO",
+                "id": "28003",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.41998575952448,
+                    41.266073650485794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Agip di Castaldo Giuseppe",
+                "id": "19360",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CASTALDO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.393358409404755,
+                    41.27401435993156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "13729",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "LAGROIA SEBASTIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.416188031435013,
+                    41.27417764395457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "20062",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FRATELLI CARBONE S.N.C.  DI CARBONE LEONE & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.40943804431913,
+                    41.28140487538766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA SUPERGA TRANI",
+                "id": "25255",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.41357735966335,
+                    41.26927956582917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "P P ENERGY",
+                "id": "24228",
+                "amenity": "fuel",
+                "operator": "VR PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.41947105526924,
+                    41.26030312415563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "De Cillis Michele",
+                "id": "27949",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "DE CILLIS MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.40779808163643,
+                    41.27903564976111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORUSSO DOMENICO",
+                "id": "9550",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "LORUSSO DOMENICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.40613377094269,
+                    41.282039369397076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SANSONNE SALVATORE",
+                "id": "17131",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SANSONNE SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.42947569489479,
+                    41.27154691317733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO IP",
+                "id": "15637",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SIMONE ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.433102041482925,
+                    41.2695994993313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PORT-SERVICE SAS",
+                "id": "22875",
+                "amenity": "fuel",
+                "operator": "PORT- SERVICE DI DE TOMA FRANCESCO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.420506249851655,
+                    41.28139485153225
+                ]
+            }
+        }
+    ]
+}

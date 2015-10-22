@@ -1,0 +1,123 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO ESSO - GIARDINA AUTOMOBILI SAS",
+                "id": "21709",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GIARDINA AUTOMOBILI DI RICCARDO GIARDINA & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.75025533139706,
+                    37.58205127878793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IDROCARBURI CAMMARATA S.A.S.",
+                "id": "24760",
+                "amenity": "fuel",
+                "operator": "IDROCARBURI CAMMARATA & FIGLI DI CAMMARATA ANTONINO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.824247419834139,
+                    37.68739230337941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "23695",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CANALELLA GIUSEPPE S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.748952620504495,
+                    37.58405069998486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "8828",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "C.L.A.I - CARBURANTI LUBRIFICANTI AGRICOLI INDUSTRIALI - S.R.L"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.76922458410263,
+                    37.71333682354022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE Q8",
+                "id": "30329",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GIACCHI CARMELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.835169974704057,
+                    37.68349966884507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA PALERMO MUSSOMELI",
+                "id": "22987",
+                "brand": "Giap",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.750995562478238,
+                    37.58207114352494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 di Salvatore Scarlata",
+                "id": "29900",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SCARLATA SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.845432272169887,
+                    37.65455884993175
+                ]
+            }
+        }
+    ]
+}

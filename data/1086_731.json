@@ -1,0 +1,156 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BOSCO",
+                "id": "18776",
+                "brand": "Oil Italia",
+                "amenity": "fuel",
+                "operator": "OIL ITALIA SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.032233196484412,
+                    45.61360818173428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE ROVERE'",
+                "id": "21214",
+                "amenity": "fuel",
+                "operator": "TREVISANI ILDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.065747875101465,
+                    45.59315578303456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MAROGNA",
+                "id": "31082",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MAROGNA MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.951145177044737,
+                    45.627748127671275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "8289",
+                "id": "22644",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "T.D.M. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.035568660049421,
+                    45.62007240312934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "UGOLINI ERBEZZO",
+                "id": "6260",
+                "amenity": "fuel",
+                "operator": "UGOLINI PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.985824565606663,
+                    45.6276158141193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ADIGE EST",
+                "id": "3908",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "VANREN OIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.916671156883242,
+                    45.69517343127607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ADIGE OVEST",
+                "id": "3702",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "RENVAN OIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.911188721656798,
+                    45.692423128071134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI-Agip Chiodi Maria  13763",
+                "id": "9930",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CHIODI MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.90243935585022,
+                    45.65708581838741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO MAROGNA ANGELO",
+                "id": "30979",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MAROGNA ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.959282738510526,
+                    45.59542966678144
+                ]
+            }
+        }
+    ]
+}

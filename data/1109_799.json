@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DI ROSA ANGELO SAS",
+                "id": "31403",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DI ROSA ANGELO S.A.S. DEI FRATELLI PAOLO CORRADO E GIUSEPPE DI RO SA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0747549533844,
+                    36.71598055883563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 Costa Vincenzo P.V. 9170",
+                "id": "20402",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "COSTA VINCENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.081115947271085,
+                    36.71428712947034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Q8 di Caruso Salvatore",
+                "id": "9121",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO Q8 DI CARUSO SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.086653232574465,
+                    36.72627016539405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "impianto eni",
+                "id": "10157",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SPAGNOLO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.077164918184282,
+                    36.71540820466482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SP PACH-MARZAMEM",
+                "id": "5171",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.103376737434361,
+                    36.723551212141956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA PASCOLI PACH",
+                "id": "12258",
+                "brand": "Giap",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.077485442161557,
+                    36.71534585177692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "31405",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DI ROSA ANGELO S.A.S. DEI FRATELLI PAOLO CORRADO E GIUSEPPE DI RO SA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.087447166442873,
+                    36.719201315190276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Carburanti G.Rizza&C. s.n.c.",
+                "id": "14902",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CARBURANTI G. RIZZA & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.087695270776747,
+                    36.71986952994143
+                ]
+            }
+        }
+    ]
+}

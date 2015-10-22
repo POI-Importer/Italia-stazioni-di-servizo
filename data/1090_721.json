@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore IP Vandoies",
+                "id": "8349",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "HOTEL ALPENHOF KG DES LECHNER CHRISTOF & CO."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.721892547561309,
+                    46.814124834691384
+                ]
+            }
+        }
+    ]
+}

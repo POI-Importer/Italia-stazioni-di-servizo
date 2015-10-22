@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Q8 Mores",
+                "id": "29653",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "PINNA GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.832368882708352,
+                    40.54899782402572
+                ]
+            }
+        }
+    ]
+}

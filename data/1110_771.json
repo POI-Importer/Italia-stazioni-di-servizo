@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SERRE",
+                "id": "17554",
+                "amenity": "fuel",
+                "operator": "PETROLCHIMICA SUD - S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.151152312755588,
+                    40.576313918372286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg",
+                "id": "15053",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "MOTTOLA FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.262814153157478,
+                    40.57658462003189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore ip",
+                "id": "7565",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ROSOLIA GIUSEPPE CARMINE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.264519479968158,
+                    40.577262085352146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IL GIRASOLE SOC. COOP.",
+                "id": "13856",
+                "amenity": "fuel",
+                "operator": "IL GIRASOLE SOCIETA' COOPERATIVA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.131358567348572,
+                    40.5297395605536
+                ]
+            }
+        }
+    ]
+}

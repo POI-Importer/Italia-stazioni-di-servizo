@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Erg",
+                "id": "27692",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CICERO PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.074532030688486,
+                    37.02667642102781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.S. 287 KM 3+800 SX NOTO",
+                "id": "21856",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.966836273670197,
+                    37.03751764002398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "easy rent di agnello veronica",
+                "id": "27817",
+                "amenity": "fuel",
+                "operator": "EASY RENT DI AGNELLO VERONICA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.072167962789536,
+                    37.02821313759363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA CANALE, 74/B CANICATTINI BAGNI",
+                "id": "24580",
+                "brand": "Giap",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.05743315594259,
+                    37.03609325668858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Maremonti di Francesco Uccello",
+                "id": "26588",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "UCCELLO FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0797438621521,
+                    37.0258030524144
+                ]
+            }
+        }
+    ]
+}

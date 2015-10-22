@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GODIASCO",
+                "id": "20672",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.051194787025452,
+                    44.90261371306439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "27414",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "G.V. CARBURANTI SNC DI GIANGRASSI R. E VIOLA D."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.02594813491828,
+                    44.9249323854712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "V.LE EUROPA RIVA",
+                "id": "7685",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.012012813491767,
+                    44.942857161602525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CENTRO CALOR S.R.L.",
+                "id": "10041",
+                "amenity": "fuel",
+                "operator": "CENTRO CALOR S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.010403752326965,
+                    44.95513972966661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LUGANO DANIELE",
+                "id": "20605",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "LUGANO DANIELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.005210767922563,
+                    44.85599098912033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "bruggiq8",
+                "id": "12662",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "BRUGGI SERGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.982343822717667,
+                    44.91584772910386
+                ]
+            }
+        }
+    ]
+}

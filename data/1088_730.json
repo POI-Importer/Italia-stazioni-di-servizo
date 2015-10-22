@@ -1,0 +1,256 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Staz. F.lli Vianello S.r.l. Schio (VI) via Pio X 44",
+                "id": "12440",
+                "amenity": "fuel",
+                "operator": "VISONA' S.A.S. DI FABRIS DENI E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.353537947181849,
+                    45.706956135652746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BC SCHIO",
+                "id": "29632",
+                "amenity": "fuel",
+                "operator": "ENERGIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.416640281677246,
+                    45.72390338637873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gamma station carburanti",
+                "id": "25923",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GAMMA STATION CARBURANTI DI CHIAPPIN STEFANO E ALESSANDRO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.411846613769514,
+                    45.788964172597794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI ROSSETTO",
+                "id": "20690",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ROSSETTO S.N.C. DI ROSSETTO ANDREA GIOVANNI E DOPPIO ALESSANDRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.34555787684417,
+                    45.71480647147048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Oasi car snc",
+                "id": "17341",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "OASI CAR S.N.C. DI ZANELLA LORIS & C. SIGLA ABBREVIATA \"OASI CAR S.N.C.\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.38471394777298,
+                    45.731516431246256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI TORREBELVICINO",
+                "id": "14156",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CERISARA GIAMPIERO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.324177618200565,
+                    45.71733657899927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PETROLSBERZE",
+                "id": "28258",
+                "amenity": "fuel",
+                "operator": "SBERZE ALBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.260059721050764,
+                    45.7409244815862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MANTESE MORENO LUIGI",
+                "id": "16344",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MANTESE MORENO LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.39199519416502,
+                    45.717627448774344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COSTANTIN Gest. BELLAGAMBA SANDRO",
+                "id": "8914",
+                "brand": "Costantin",
+                "amenity": "fuel",
+                "operator": "BELLAGAMBA SANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.358966427172277,
+                    45.805677830930726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "broccardo stefano",
+                "id": "10747",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "BROCCARDO STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.385651431689892,
+                    45.73695935702257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SCHIO VIA ROVERETO 140",
+                "id": "6511",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.341600164067586,
+                    45.71580785628785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "03932",
+                "id": "14977",
+                "brand": "Costantin",
+                "amenity": "fuel",
+                "operator": "PIZZOLATO MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.262713787627717,
+                    45.73994723441777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "11395",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "F.LLI GRASSELLI S.N.C. DI GRASSELLI GIORGIO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.363589665637166,
+                    45.722437395787004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SCHIO",
+                "id": "10083",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.373284531740296,
+                    45.71130196117102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vicenza - Santorso",
+                "id": "17639",
+                "amenity": "fuel",
+                "operator": "BEYFIN S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.416444002837352,
+                    45.74226880425242
+                ]
+            }
+        }
+    ]
+}

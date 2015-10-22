@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "29847",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "S.T. SERVICE S.A.S. DI SCAMPUDDU TOMASO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.20410906001473,
+                    41.05532688113556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "29852",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SCAMPUDDU TOMASO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.25895467400551,
+                    41.105224721696594
+                ]
+            }
+        }
+    ]
+}

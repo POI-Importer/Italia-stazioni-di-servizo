@@ -1,0 +1,427 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TRE-GAS SRL",
+                "id": "30401",
+                "amenity": "fuel",
+                "operator": "TRE - GAS S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.77553430674584,
+                    45.44314317991373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NOVARA CORSO TRIESTE 56/A",
+                "id": "6548",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.641552414749867,
+                    45.449728431824745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO TOTALERG",
+                "id": "18212",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BARBAGLIA ROSSELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.739823177456856,
+                    45.43119779790033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CORNAREDO CARBURANTI S.R.L. ROMENTINO",
+                "id": "7172",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "CORNAREDO CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.713831901550293,
+                    45.45671331214679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "totalerg new world snc 7655",
+                "id": "24877",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "NEW WORLD S.N.C. DI QUAGLIOTTI CRISTIANO & C"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.66745174359437,
+                    45.44909589181586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "13247",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BIANCHI DANIELE - DISTRIBUTORE ERG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.789040371775627,
+                    45.445170122648044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VALLONI MASSIMILIANO",
+                "id": "11134",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "VALLONI MASSIMILIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.644624753303559,
+                    45.44449838086949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NOVARA - DELLA VITTORIA",
+                "id": "24659",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.624487171793021,
+                    45.45888588982089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO GHIRALDELLO S.",
+                "id": "13842",
+                "amenity": "fuel",
+                "operator": "GHIRALDELLO SILVANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.614516016007997,
+                    45.43493527781277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni 400",
+                "id": "26284",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AFCF SNC DI SPALENZA ROBERTO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.653930127620695,
+                    45.44307543554505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni 414 di Pizzo Emanuela",
+                "id": "18446",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PIZZO EMANUELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.749743146557648,
+                    45.43574493230847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NOVARA-CORSO MILANO 24/F",
+                "id": "11744",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.637042157077758,
+                    45.445719347804506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE CARBURANTI",
+                "id": "8772",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "SORRENTINO GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.78663286284484,
+                    45.446173402519115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni cravero giuseppe",
+                "id": "17237",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CRAVERO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.621445260574319,
+                    45.43477905631389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "impianto",
+                "id": "17396",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "EMMETI S.N.C. DI MARANGONI THOMAS E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.667249977588652,
+                    45.36044882119802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO IP",
+                "id": "30421",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PIERRE OIL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.71793091003417,
+                    45.43322092385514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ABBATE PIERA",
+                "id": "12768",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ABBATE PIERA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.617743104696274,
+                    45.45652573326131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso fortis rossella",
+                "id": "30380",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FORTIS ROSSELLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.707693666219711,
+                    45.43514310935193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IL GIGANTE SELF 24 H",
+                "id": "31457",
+                "amenity": "fuel",
+                "operator": "RIALTO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.730399906635286,
+                    45.44022204940769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "8007",
+                "id": "32041",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "T.D.M. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.64329919219017,
+                    45.450187232417605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI 460",
+                "id": "6337",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "OSELLA SANDRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.731845617294312,
+                    45.44256393681556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Esso di Bonalli Erica",
+                "id": "15480",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BONALLI ERICA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.633703621565246,
+                    45.43357889070276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "18304",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GRIMA S.A.S. DI GRILLI CRISTIANO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.635429590940475,
+                    45.4482733384797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ip gpl novara",
+                "id": "12428",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE CARBURANTI DI D'ANDREA PASQUALINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.64830285310745,
+                    45.41915537315796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE Q8",
+                "id": "30356",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "A. & D. S.N.C. DI ARIATTA ANGELO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.75147670507431,
+                    45.43948054438006
+                ]
+            }
+        }
+    ]
+}

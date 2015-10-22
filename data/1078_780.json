@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Autorifornimenti IP",
+                "id": "7837",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "COTZA CARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.499462760835172,
+                    39.23662945674758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO IP",
+                "id": "13740",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IESSE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.569982960820198,
+                    39.249264355271436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "30982",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "TRINCAS FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.499552881705995,
+                    39.23656956020313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "retitalia",
+                "id": "30656",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "LODDO ANNA MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.559588730335236,
+                    39.359102561385996
+                ]
+            }
+        }
+    ]
+}

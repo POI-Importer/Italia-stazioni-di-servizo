@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FELLA EST",
+                "id": "30294",
+                "brand": "San Marco Petroli",
+                "amenity": "fuel",
+                "operator": "SAN MARCO PETROLI DISTRIBUZIONE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.376667201519012,
+                    46.498691368976544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore agip di sabotha bruna",
+                "id": "7557",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SABOTHA BRUNA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.432642221450806,
+                    46.50633105037889
+                ]
+            }
+        }
+    ]
+}

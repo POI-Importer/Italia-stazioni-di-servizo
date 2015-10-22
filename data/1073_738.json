@@ -1,0 +1,208 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio totalerg",
+                "id": "13168",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "PELIZZA MASSIMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.788749352097511,
+                    44.769266394964035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE IP",
+                "id": "15242",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CAVALLARO GIANCARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.703911080956459,
+                    44.76953108240272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "keropetrol pozzolo f.",
+                "id": "8084",
+                "amenity": "fuel",
+                "operator": "P. & P. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.788045942783356,
+                    44.78766766059767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore IP",
+                "id": "12005",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FASCIOLO SIMONETTA MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.714392483234406,
+                    44.7691119616782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV04 - NOVI LIGURE",
+                "id": "4954",
+                "brand": "Ratti",
+                "amenity": "fuel",
+                "operator": "SO.GE.DI DI RATTI FRANCESCO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.76432172883608,
+                    44.773415575438655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "25978",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "FULL AND DRIVE S.A.S. DI NAVONE ANDREA VINCENZO, PERETTA FRANCO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.737317323684692,
+                    44.83470796081393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MARENGO SUD",
+                "id": "3688",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.751063644886015,
+                    44.80078442212024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NOVI LIGURE-C/O CENTRO COMMLE BENNET",
+                "id": "11458",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.77283411045073,
+                    44.77032567704747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MARENGO NORD",
+                "id": "3801",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "AUTOBAR DI GINETTI G. & C. SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.748666387557932,
+                    44.80064323481411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "San Pio V",
+                "id": "10266",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SPERIFERO ADRIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.681534829100087,
+                    44.83843898500424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Novi Ligure Via Mazzini , 56",
+                "id": "15868",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "F.P. - OIL S.N.C. DI VERDONA FABIO E PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.788593113422392,
+                    44.76882042248461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "repsol dimax",
+                "id": "17987",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "DIMAX DI MAX MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.748301758447269,
+                    44.7695612424459
+                ]
+            }
+        }
+    ]
+}

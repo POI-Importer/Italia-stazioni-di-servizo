@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "D'Aria Pietro",
+                "id": "22037",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "D'ARIA PIETRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.388972997665405,
+                    40.59764536914871
+                ]
+            }
+        }
+    ]
+}

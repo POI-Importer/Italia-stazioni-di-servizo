@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "impianto eni 17567",
+                "id": "14236",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GHIANI CINZIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.511625468730927,
+                    39.145582118217646
+                ]
+            }
+        }
+    ]
+}

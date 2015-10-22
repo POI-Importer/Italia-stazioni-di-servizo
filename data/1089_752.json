@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IES/ ITALIANA ENERGIA E SERVIZI",
+                "id": "27366",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "DUE EMME S.A.S. DI MEGALLI LUCIA E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.504190266132355,
+                    43.052373718292166
+                ]
+            }
+        }
+    ]
+}

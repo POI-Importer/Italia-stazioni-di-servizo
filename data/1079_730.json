@@ -1,0 +1,495 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "API",
+                "id": "16932",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "TOGNI LUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.745249226689339,
+                    45.78160799763797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BERGAMO VIA TREMANA",
+                "id": "30264",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "RETITALIA  S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.681949600000053,
+                    45.71345584669203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL F.LLI DENTELLA SNC",
+                "id": "6848",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "F.LLI DENTELLA - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.67058196137691,
+                    45.71196709528571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni",
+                "id": "20091",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GOTTI PIER GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.668586170500248,
+                    45.71287832162592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV0955",
+                "id": "13653",
+                "brand": "Ernesto Rondini",
+                "amenity": "fuel",
+                "operator": "PEZZOTTA GIORGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.770305284848064,
+                    45.74179383216035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO Q8 VIVIANI MARIA OLIVA",
+                "id": "8326",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "VIVIANI MARIA OLIVA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.829994576069339,
+                    45.75201698297699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO CP DI MENINI GIULIO",
+                "id": "25754",
+                "amenity": "fuel",
+                "operator": "MENINI GIULIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.749703129925932,
+                    45.736235035204885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione servizio Q8",
+                "id": "9481",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "GUSMINI & TULLO SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.839545131282875,
+                    45.797602350115724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BERGAMO CESARE CORRENTI 34",
+                "id": "21173",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.699472371827712,
+                    45.70667715384004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAN PELLEGRINO TERME S.S. 470 KM 21+760",
+                "id": "6426",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.673510597690893,
+                    45.82157388102827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "distributore carrara",
+                "id": "17256",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE CARRARA S.A.S. DI GIANANTONIO CARRARA & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.70202459444272,
+                    45.708790526669475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "area di servizio esso di sonzogni pietro francesco",
+                "id": "7195",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SONZOGNI PIETRO FRANCESCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.669459560241647,
+                    45.79738287549931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Punto Vendita Retitalia Alzano",
+                "id": "29289",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "BRIXIA FINANZIARIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.719752818346024,
+                    45.73804342582455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "10481",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MOROSINI ROBERTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.718352961971277,
+                    45.72424784602264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GAZZANIGA-VIA C.BATTISTI 78",
+                "id": "11480",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.829414263367653,
+                    45.79344364278869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso di Signorelli Roberto e c. snc",
+                "id": "20699",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ESSO DI SIGNORELLI ROBERTO E C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.724299777436954,
+                    45.73071493225296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "bazzana",
+                "id": "18642",
+                "amenity": "fuel",
+                "operator": "CICLI MOTO BAZZANA SAS DI BAZZANA WALTER E GIACOMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.823440197376158,
+                    45.78265659303021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA PROVINCIALE 10",
+                "id": "21829",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MANENTI OSVALDO  & COLLEONI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.798702457672107,
+                    45.75889704041111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "10087",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "AMISSINI ANGELO CARLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.79014739394188,
+                    45.75647323577957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ELETTRAUTO ACERBIS NEMBRO SNC",
+                "id": "16605",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ELETTRAUTO ACERBIS NEMBRO S.N.C. DI ACERBIS ALBERTO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.744566052149594,
+                    45.739341485294624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Retitalia Bergamo Fabriciano",
+                "id": "29067",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "BRIXIA FINANZIARIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.673039732397227,
+                    45.71591977076563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sia Fuel Ranica",
+                "id": "26163",
+                "brand": "Sia fuel",
+                "amenity": "fuel",
+                "operator": "S.I.A. ENGINEERING CONSTRUCTION S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.71491909325414,
+                    45.72129398870535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione eni",
+                "id": "19677",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BRUNNER LUCIANO E C. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.82584625482559,
+                    45.79047505472291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "autolavaggio BONZI",
+                "id": "13927",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO AGIP DI BONZI LEONARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.692650951472956,
+                    45.7079236321889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "cuter luigi",
+                "id": "19659",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CUTER LUIGI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.808917813491803,
+                    45.76601582927144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Api",
+                "id": "25853",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CARRARA TARCISIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.743543450771538,
+                    45.73886691238178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RANICA VIA MARCONI",
+                "id": "25156",
+                "amenity": "fuel",
+                "operator": "DITTA MORZENTI ANTONIO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.711794704198837,
+                    45.71930978066306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "masserini bruna & f.lli snc stazione esso",
+                "id": "27568",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MASSERINI BRUNA & F.LLI S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.831002608737208,
+                    45.794204282686586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "autolavaggio BONZI",
+                "id": "13929",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO AGIP DI BONZI LEONARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.692650951472956,
+                    45.7079236321889
+                ]
+            }
+        }
+    ]
+}

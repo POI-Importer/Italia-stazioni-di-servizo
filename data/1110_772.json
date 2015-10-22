@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vendita Carburanti Schiavo Urania",
+                "id": "9806",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "SCHIAVO URANIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.232919454574585,
+                    40.383259867066194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AMENDOLA GIOVANNI",
+                "id": "23502",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "AMENDOLA GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.256151870344295,
+                    40.44273176285596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trotta & C.",
+                "id": "15076",
+                "amenity": "fuel",
+                "operator": "TROTTA & C. DI TROTTA PASQUALE - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.24882632943195,
+                    40.335526836410594
+                ]
+            }
+        }
+    ]
+}

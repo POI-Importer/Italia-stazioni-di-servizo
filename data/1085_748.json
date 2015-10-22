@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONTAIONE-VIA MURA 45",
+                "id": "11586",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.889474898576736,
+                    43.574802101565744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "10429",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "FULCERI S.A.S. DI FULCERI FILIPPO &  C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.72684972454499,
+                    43.49942132364903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Crisante e Montagnani snc",
+                "id": "21174",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CRISANTE & MONTAGNANI - S.N.C. DI BAGNOLI MARCO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.82656905055046,
+                    43.45425947229611
+                ]
+            }
+        }
+    ]
+}

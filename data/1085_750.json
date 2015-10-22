@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Damiano di Righini Damiano & C. SAS",
+                "id": "31707",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DAMIANO DI RIGHINI DAMIANO E C. -SOCIETA' IN ACCOMANDITA SEMPLICE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.73449619114399,
+                    43.20369208871178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GARFAGNINI ALESSIO STAZIONE DI SERVIZIO IP",
+                "id": "9167",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GARFAGNINI ALESSIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.878304839134215,
+                    43.28916974583539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GAZZARRI MARCO STAZIONE DI SERVIZIO API",
+                "id": "9166",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO DI GAZZARRI MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.867199152708054,
+                    43.3007541029165
+                ]
+            }
+        }
+    ]
+}

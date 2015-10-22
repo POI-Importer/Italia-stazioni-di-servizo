@@ -1,0 +1,123 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SP ENERGIA SICILIANA di CRISCI MATTEO",
+                "id": "31416",
+                "brand": "SP Energia Siciliana",
+                "amenity": "fuel",
+                "operator": "CRISCI MATTEO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.536510705947878,
+                    37.71505549808439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "18580",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "RAELE SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.44584754959874,
+                    37.654039400993256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A. SCARDULLO & C. S.A.S",
+                "id": "12206",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "A. SCARDULLO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.534177456512001,
+                    37.70449685640026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "vito farò",
+                "id": "12553",
+                "amenity": "fuel",
+                "operator": "FARO' VITO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.422148019075394,
+                    37.62539449527443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA CIRCON.AGIRA",
+                "id": "20044",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52309461838536,
+                    37.657838914186705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Giannazzo Carmelo Maria  ESSO",
+                "id": "32134",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GIANNAZZO CARMELO MARIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.526320993900299,
+                    37.65797844449017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE IP",
+                "id": "10725",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GAGLIANO DOMENICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.526328369975092,
+                    37.65794319555865
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Il Caminetto Bar Ristorante Pizzeria",
+                "id": "24332",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SANTILLI GENERATION - S.A.S. DI SANTILLI DEBRA E F.LLI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.035938338761866,
+                    42.010954409448466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "pietre rege",
+                "id": "6233",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "OASITAM SRL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.94248455762863,
+                    42.017790083097815
+                ]
+            }
+        }
+    ]
+}

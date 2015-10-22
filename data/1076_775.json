@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IS CUBAS",
+                "id": "20371",
+                "amenity": "fuel",
+                "operator": "IS CUBAS DISTRIBUZIONE CARBURANTI SNC DI CASULA & ZEDDA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.233744591474531,
+                    40.04058867008095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distribuzione Carburanti Piras Riccardo Raimondo",
+                "id": "12686",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PIRAS RICCARDO RAIMONDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.169921427965166,
+                    40.02581810775817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Impianto ESSO",
+                "id": "19513",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "LOI GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.197127744555473,
+                    39.95843393811694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "belvì",
+                "id": "18998",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MELIS PAOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.184580766377167,
+                    39.96120992072374
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tugnoli davide",
+                "id": "7956",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "TUGNOLI DAVIDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.494569182395935,
+                    44.678281357951334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bragioto Carburanti srl",
+                "id": "8605",
+                "amenity": "fuel",
+                "operator": "BRAGIOTO CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.492908758895508,
+                    44.667074753798296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG DI CESARI VITALIANO",
+                "id": "10561",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CESARI VITALIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.541670223278745,
+                    44.65113535383051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "natali gino srl",
+                "id": "30448",
+                "amenity": "fuel",
+                "operator": "NATALI GINO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.426620110869408,
+                    44.70134640188506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "F.lli Michelini snc",
+                "id": "4080",
+                "amenity": "fuel",
+                "operator": "F.LLI MICHELINI S.N.C. DI MICHELINI LUIGI E SERGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.464055608989723,
+                    44.63486413177971
+                ]
+            }
+        }
+    ]
+}

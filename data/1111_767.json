@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CALAGGIO SUD",
+                "id": "3518",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "RAUSEO GESTIONI S.A.S. DI RAUSEO GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.314855568122878,
+                    41.06517482461935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA PILONE BISACCIA",
+                "id": "27701",
+                "brand": "Giap",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.382548496127125,
+                    41.00483796819589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GOIL",
+                "id": "28108",
+                "amenity": "fuel",
+                "operator": "DI CONZA ANGELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.428130626678465,
+                    41.05633038097359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CALAGGIO NORD",
+                "id": "21966",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "*PAGLIARULO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.31562758035659,
+                    41.066483822037156
+                ]
+            }
+        }
+    ]
+}

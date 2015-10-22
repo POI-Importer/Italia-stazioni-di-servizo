@@ -1,0 +1,292 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "castellin ilaria & c.snc",
+                "id": "8381",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CASTELLIN ILARIA & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.747886397483853,
+                    45.18188527968352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "cpl concordia",
+                "id": "30462",
+                "amenity": "fuel",
+                "operator": "CPL FUEL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.699001789093016,
+                    45.21054407185069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BASSAN MARCO",
+                "id": "31273",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BASSAN MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.72505408525467,
+                    45.18417503473001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "balotta e mardegan snc",
+                "id": "17218",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BALOTTA NICOLA E MARDEGAN MARCO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.763221919536592,
+                    45.127686443295126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COSTANTIN SANT'URBANO",
+                "id": "20543",
+                "brand": "Costantin",
+                "amenity": "fuel",
+                "operator": "MENANDRO ANGELO S.N.C. DI MENANDRO MAURO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.644912313241775,
+                    45.14724306890624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg F.lli Pastore s.n.c.",
+                "id": "26182",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "FRATELLI PASTORE DI PASTORE GIUSEPPE E LORENZO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.755894069905821,
+                    45.18059529677382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni Dueemme Service Snc",
+                "id": "16526",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DUEEMME SERVICE SNC DI TROVO' GIANNICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.74623670848996,
+                    45.20744380911013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "agip / eni gallana fratelli",
+                "id": "8195",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GALLANA F.LLI S.N.C. & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.755902171134949,
+                    45.196214367521776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CasaroL&beggiatoL",
+                "id": "21688",
+                "amenity": "fuel",
+                "operator": "CASARO L. & BEGGIATO L. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.764311310346558,
+                    45.1256740060199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "19447",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CASTELLIN ILARIA & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.621407633010902,
+                    45.19712843232952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORO F.LLI SPA",
+                "id": "29863",
+                "brand": "Loro",
+                "amenity": "fuel",
+                "operator": "LORO F.LLI-S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.676386743783953,
+                    45.21175984438388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VILLA ESTENSE",
+                "id": "4794",
+                "brand": "Ies",
+                "amenity": "fuel",
+                "operator": "IES ITALIANA ENERGIA E SERVIZI S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.664293233135254,
+                    45.169155820022965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MONSELICE",
+                "id": "25185",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.755421865081756,
+                    45.197558765036376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORO F.LLI SPA",
+                "id": "5655",
+                "brand": "Loro",
+                "amenity": "fuel",
+                "operator": "LORO F.LLI-S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.710843741893768,
+                    45.14884818313447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "6914",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "G.L. AUTOLAVAGGIO DI STELLA MASSIMO E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.776524754631055,
+                    45.11334671436861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "tamoil",
+                "id": "22342",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "TRAVAGLINI DENIS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.664813011884691,
+                    45.097262540298644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "COSTANTIN",
+                "id": "12738",
+                "brand": "Costantin",
+                "amenity": "fuel",
+                "operator": "FURLAN MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.71094298362732,
+                    45.188887671635634
+                ]
+            }
+        }
+    ]
+}

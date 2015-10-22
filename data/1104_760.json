@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP",
+                "id": "15651",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "AVENTINO S.N.C. DI PARENTE PASQUALE E CASCIATO SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.133676387696823,
+                    41.97883747360588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di ip di carozza antonio paolo",
+                "id": "23230",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CAROZZA ANTONIO PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.135578177909792,
+                    41.98633103781395
+                ]
+            }
+        }
+    ]
+}

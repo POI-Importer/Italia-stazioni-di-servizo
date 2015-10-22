@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio agnola mario",
+                "id": "16933",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "AGNOLA MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.301677846557597,
+                    46.500728689151586
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,188 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Total di Rocchetti Adriano",
+                "id": "18240",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ROCCHETTI ADRIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.765500266737487,
+                    42.79852400314683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE IP",
+                "id": "30728",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DI UBALDO GRAZIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.875274392532333,
+                    42.79413253806949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio di Cauti Ermanno",
+                "id": "7748",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO DI CAUTI ERMANNO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.798862993717192,
+                    42.795632502197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TERAMO",
+                "id": "4552",
+                "amenity": "fuel",
+                "operator": "METANO PUGLIA DI CARDINALI MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.776235433738181,
+                    42.688226205731056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EDILMARAL S.N.C. DI SPADA MARIO E C. DISTRIBUTORI API-IP",
+                "id": "22663",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "EDILMARAL S.N.C. DI SPADA MARIO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.780286014080046,
+                    42.7766408220924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore Carburanti Rossi Enrico",
+                "id": "21540",
+                "amenity": "fuel",
+                "operator": "ROSSI ENRICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.811436708489964,
+                    42.7411507227148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore carburanti CIUTTI GIOVANNI",
+                "id": "21752",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CIUTTI GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.73646100812857,
+                    42.75972847476624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni",
+                "id": "6300",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PETROLBITUMI - SOCIETA A RESPONSABILITA LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7385738524506,
+                    42.71884442282371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Val Tordino  nord",
+                "id": "29473",
+                "amenity": "fuel",
+                "operator": "CARGRILL SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.806648410609457,
+                    42.69472978175691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "A.&G. SRL stazione di servizio ESSO",
+                "id": "21125",
+                "amenity": "fuel",
+                "operator": "A. & G. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.782866299152374,
+                    42.69165738703262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni",
+                "id": "6299",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PETROLBITUMI - SOCIETA A RESPONSABILITA LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.739206853778116,
+                    42.71905724684758
+                ]
+            }
+        }
+    ]
+}

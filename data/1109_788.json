@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "METANO SINERGIE",
+                "id": "5613",
+                "amenity": "fuel",
+                "operator": "METANO SINERGIE S.R.L. IL REGISTRO IMPRESE NON GARANTISCE LA CORRISPONDENZA DEGLI ASSETTI PROPRIETARI CON LA REALE COMPAGINE SOCIALE,POICHE' LA SOCIETA' NON HA PROVVEDUTO ALL'AGGIORNAMENTO DATI PREVISTO DALLA L. 2 -28/01/2009 ART.16 CO.12 UNDECIES"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.996708035469055,
+                    38.13647302671467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "30819",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MODICA GIULIANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.967941343784329,
+                    38.139086861328906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO PATTI",
+                "id": "9346",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "GIOVE S.A.S. DI VITANZA NOTARO CALOGERO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.970600133660128,
+                    38.1405706000849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI cicerofuel & food",
+                "id": "5076",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CICERO FUEL & FOOD S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.980044086310384,
+                    38.14896581625488
+                ]
+            }
+        }
+    ]
+}

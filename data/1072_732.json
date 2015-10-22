@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 378 ENI",
+                "id": "6022",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MARATEA ETTORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.486273288726808,
+                    45.53597748295534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni",
+                "id": "13033",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MC4 S.N.C. DI CHIMIENTI MICHELE E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.599683999861101,
+                    45.4673056701289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "13608",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ALBERA GIACOMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.55895847082138,
+                    45.56952442270878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NOVARA V.LE EUROPA 100",
+                "id": "21704",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.609904590212977,
+                    45.46406929400045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Il sorriso snc",
+                "id": "25226",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "IL SORRISO SNC DI PRIONI DANIELA E CREPALDI MARILENA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.567710518836975,
+                    45.55435386681499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "olicarb",
+                "id": "12976",
+                "amenity": "fuel",
+                "operator": "DISTRIBUZIONE OLI-CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.597662346618677,
+                    45.5063938043699
+                ]
+            }
+        }
+    ]
+}

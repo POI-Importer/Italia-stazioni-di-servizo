@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI CARBURANTI di MOSSUCCA MICHELE",
+                "id": "25123",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MOSSUCCA MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.64777135848999,
+                    40.99057210568425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MELFI S.S. 655 LOC. S.NICOLA",
+                "id": "22967",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.71071211227263,
+                    41.06402987675574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SIRIO COSTRUZIONI SRL",
+                "id": "28729",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "SIRIO COSTRUZIONI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.790852457284926,
+                    41.047581832204465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CAPRIOLI GENNARO",
+                "id": "13354",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CAPRIOLI GENNARO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.785984247922896,
+                    41.04377476205437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Metanauto Lavello snc",
+                "id": "4830",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "METANAUTO LAVELLO DI BISCEGLIA GIUSEPPE E C. SOCIETA' IN NOME COLLETTIVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.773229002952576,
+                    41.037412700822436
+                ]
+            }
+        }
+    ]
+}

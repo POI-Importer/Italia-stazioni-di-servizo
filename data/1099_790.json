@@ -1,0 +1,72 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CASSARA",
+                "id": "8957",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CASSARA' CATERINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.192997574806215,
+                    37.97495984860892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Matoil di Matranga Antonino e Luciano s.n.c.",
+                "id": "22592",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MATOIL DI MATRANGA ANTONINO E LUCIANO S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.293888866901396,
+                    37.99197105292767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "S.S. PA/SCIACCA 624 KM 23+245",
+                "id": "22381",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.205119708984396,
+                    37.97531219644311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VECA SAS",
+                "id": "24381",
+                "amenity": "fuel",
+                "operator": "VE.CA. DI CAMARDA GIORGIO  E C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.283323645591734,
+                    37.9945558120839
+                ]
+            }
+        }
+    ]
+}

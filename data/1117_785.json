@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IDC Satriano",
+                "id": "25508",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "I.D.C. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.522260010242462,
+                    38.67907343205602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Agip",
+                "id": "23477",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CHIEFARI SALVATORE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.427855640649796,
+                    38.6817602610687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "8955",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "DA.CO. DI DE FAZIO DAMIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.384796058335834,
+                    38.64495465248884
+                ]
+            }
+        }
+    ]
+}

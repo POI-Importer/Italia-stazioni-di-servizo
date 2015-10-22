@@ -1,0 +1,326 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso di Laimer Roland & Arnold",
+                "id": "24781",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LAIMER ROLAND & ARNOLD SNC % LAIMER ROLAND & ARNOLD OHG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.16278310785924,
+                    46.66753043024816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MEBOSUD ESSO",
+                "id": "19000",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "M. ANGERER S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.214251518249512,
+                    46.564038881658476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lorenzetti",
+                "id": "8032",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "LORENZETTI C. & A. S.R.L. - G.M.B.H."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.169400237010109,
+                    46.60874589665489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Repsol",
+                "id": "23566",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "NISCHLER A. & FISSNEIDER A. SNC % NISCHLER A. & FISSNEIDER A. OHG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.177043914794922,
+                    46.646814188087035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kostner - Lana",
+                "id": "5321",
+                "brand": "Kostner",
+                "amenity": "fuel",
+                "operator": "KOSTNER SERVICE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.170455701966262,
+                    46.62868468037086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL MERANO",
+                "id": "29277",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CAR WASH RENT SAS DI TOSEVA BLAGICA & CO. % CAR WASH RENT KG DER TOSEVA BLAGICA & CO."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.168266342134986,
+                    46.656467693994465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GNP TESIMO",
+                "id": "4398",
+                "brand": "GNP",
+                "amenity": "fuel",
+                "operator": "GRUPPO NORD PETROLI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.161733865737917,
+                    46.575157139151614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SMP Holzner Christian",
+                "id": "18728",
+                "amenity": "fuel",
+                "operator": "HOLZNER CHRISTIAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.180624925270081,
+                    46.66901079718237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gander michel",
+                "id": "9525",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GANDER MICHEL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.07533723115921,
+                    46.67349016664657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE ENI 3170 DI THALER ROLAND",
+                "id": "19692",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "THALER ROLAND"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.149167716503143,
+                    46.676800228775186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV13041",
+                "id": "23887",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "PICHLER OLAF STEPHAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.219292879098477,
+                    46.64835871267128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "_SMP LAGUNDO",
+                "id": "5182",
+                "brand": "San Marco Petroli",
+                "amenity": "fuel",
+                "operator": "SAN MARCO PETROLI DISTRIBUZIONE S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.134865520169,
+                    46.671742437091375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8, PV2618",
+                "id": "23643",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "LANTHALER ANTON"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.145279297438265,
+                    46.656458550163165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO TANKSTELLE LANA",
+                "id": "21199",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "KARNUTSCH EGON"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.155414566409263,
+                    46.61338989704997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mebo Stop & Go",
+                "id": "4960",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "MEBO STOP & GO DES BRUNNER STEFAN  &  CO. KG"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.216000318527223,
+                    46.56239093753774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SMP - Tankstelle",
+                "id": "17826",
+                "amenity": "fuel",
+                "operator": "PFITSCHER FLORIAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.184482444458013,
+                    46.60947577785838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "R & R Agip",
+                "id": "24542",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "R  &  R DI RAVANELLI R. E RAICH R. SNC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.158395679813111,
+                    46.66627617843724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Auto Arquin d.Arquin Mike",
+                "id": "8638",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "AUTOARQUIN DES ARQUIN MIKE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.143415742327875,
+                    46.621111987161925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAFFIOTI Q8",
+                "id": "14021",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SAFFIOTI SNC DI SAFFIOTI MIRKO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.158716499336267,
+                    46.665377069055246
+                ]
+            }
+        }
+    ]
+}

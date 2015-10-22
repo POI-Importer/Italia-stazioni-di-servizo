@@ -1,0 +1,275 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO AGIP",
+                "id": "7102",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BRUNETTO GIULIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.341454803041074,
+                    44.168791212608674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Walter Basso",
+                "id": "7475",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BASSO WALTER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.417101800441742,
+                    44.20672867154375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "29286",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "WONDER CAR S.N.C.DI DI VENDRA S.& C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.34431215522534,
+                    44.17045311155342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di servizio esso",
+                "id": "16333",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "VI.DA DI VIGNOLO ROBERTO E DANIELA & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.30367721617222,
+                    44.15766364960674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "25932",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CARINGELLA S.A.S. DI CARINGELLA FEDERICO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.336710631847382,
+                    44.16485695920656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "esso",
+                "id": "14001",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NARI CARBURANTI DI NARI STEFANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.275939822196962,
+                    44.16670417310349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "3D-PIETRA LIGURE",
+                "id": "28690",
+                "amenity": "fuel",
+                "operator": "3D S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.269027769565582,
+                    44.1398755699861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "28326",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FAVARETTO MANUEL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.274371046209126,
+                    44.144936331121116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Servizio Esso di Rogato Fernanda",
+                "id": "11990",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ROGATO FERNANDA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.329991698265077,
+                    44.1749883323397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso",
+                "id": "25799",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "FALO' MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.325576782226562,
+                    44.21341861738225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VALENTE MAURO",
+                "id": "8108",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VALENTE MAURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.355759193254128,
+                    44.17141825755708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni 1362",
+                "id": "31466",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CASANOVA CLAUDIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.27725946903229,
+                    44.1466164484002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "race wars garage",
+                "id": "21904",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "RACE WARS GARAGE S.N.C. DI INCANDELA GABRIELE & D'AGNANO ANTONIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.288115288360586,
+                    44.15091879334925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV Calice Ligure",
+                "id": "10653",
+                "brand": "Shell",
+                "amenity": "fuel",
+                "operator": "BECCARIA S.R.L. - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.298282623291016,
+                    44.200544353028086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PIETRA LIGURE-SS. 1 AURELIA 90",
+                "id": "11843",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.271441757678986,
+                    44.14178308070917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gas Auto Finale Ligure S.a.s. di Gravellone Geom.Matteo & C.",
+                "id": "10129",
+                "amenity": "fuel",
+                "operator": "GAS AUTO FINALE L. S.A.S. DI GRAVELLONE GEOM. MATTEO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.306728899478912,
+                    44.186213517797164
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "piazza spada",
+                "id": "16286",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BECCARIA RICCARDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.294537206210408,
+                    44.3147594525295
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,971 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG VIALE PAPA PIO XII",
+                "id": "21202",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "FRATELLI LO PRESTI S.N.C. DI LO PRESTI LORENZO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8596022631209,
+                    41.10487490342131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PALO DEL COLLE  (S.P. PER BITONTO)",
+                "id": "22122",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.70534538161473,
+                    41.06197873139475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MURGE EST",
+                "id": "3853",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ENI RETE OIL&NONOIL S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.769009828567505,
+                    41.095891842989154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione eni",
+                "id": "17714",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "BRAGAZZI CESARE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.867776811122898,
+                    41.100697607420166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BARI",
+                "id": "5772",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TotalErg SpA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.85002404662703,
+                    41.10518016844281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Auchan",
+                "id": "4318",
+                "brand": "Auchan",
+                "amenity": "fuel",
+                "operator": "AUCHAN S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.76372319459915,
+                    41.09356645116086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Spagnoletti Cristian",
+                "id": "29872",
+                "amenity": "fuel",
+                "operator": "SPAGNOLETTI CRISTIAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.865273639559746,
+                    41.08818078334408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO NICAR",
+                "id": "25709",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "NICAR DI NITTI FRANCESCO & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.862844228744507,
+                    41.06945870700559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "23958",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SPAGNOLETTI CRISTIAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.869494765996933,
+                    41.08109760016331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Desomit Buozzi84",
+                "id": "28420",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DESOMIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.82871195463099,
+                    41.11135200432647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Modugno S.P. 54 KM 2+500",
+                "id": "25664",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "TOTALERG S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.77340865135193,
+                    41.107875684264485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BITONTO - ANNUNZIATA",
+                "id": "29918",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.702972419643398,
+                    41.11148383311335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BARI VIALE DE LAURENTIS",
+                "id": "20276",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.86493557242204,
+                    41.09864538262188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "eni",
+                "id": "31859",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PEDOTA GIOVANNI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.831113696098328,
+                    41.046668317178955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP Binetto",
+                "id": "16914",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "PALOMBELLA ROSA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.718142861245724,
+                    41.0282935912153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MURGE OVEST",
+                "id": "3895",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "martellotta philippe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.768999999999995,
+                    41.0951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8 Via Bruno Buozzi Bari",
+                "id": "20241",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "STELLACCI FRANCESCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.825875341892242,
+                    41.10966704958118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTAL ERG",
+                "id": "28210",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "VITALE FEDELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.87179744243622,
+                    41.10402279001901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Q8",
+                "id": "16835",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SANTE SCARANELLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.86745896935463,
+                    41.10595088229302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BITETTO - S.P. BITRITTO",
+                "id": "22882",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.765258822090118,
+                    41.04217695401424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tamoil",
+                "id": "17920",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "3 ERRE S.A.S. DI TACCOGNA MICHELE E LIBERIO LUIGI E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.78256370127201,
+                    41.08331769696121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio eni Mario Patano",
+                "id": "16188",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PATANO MARIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.85033039272912,
+                    41.09665308046684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Total Erg",
+                "id": "15708",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "RUTIGLIANO MARCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.870931406783143,
+                    41.097722849910404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DILL'S MODUGNO",
+                "id": "30958",
+                "brand": "Dill s",
+                "amenity": "fuel",
+                "operator": "MODI - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.797470748424526,
+                    41.092438089067194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ADELFIA OVEST",
+                "id": "30961",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "MODI - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.859437823295597,
+                    41.0014589842678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DILL'S BARI TANGENZIALE",
+                "id": "30503",
+                "brand": "Dill s",
+                "amenity": "fuel",
+                "operator": "MODI - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.862885802984238,
+                    41.08949803044924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DILL'S BITONTO V. MODUGNO",
+                "id": "26847",
+                "brand": "Dill s",
+                "amenity": "fuel",
+                "operator": "MODI - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.702861189842224,
+                    41.101359746939835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 9003",
+                "id": "30235",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.709787324070927,
+                    41.01801683934939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "30594",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ROMITO ENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.765785813331604,
+                    41.08151247141068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI",
+                "id": "27536",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "FRANCO VITO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.870512393254103,
+                    41.09535136335675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE MY EN GASAUTO",
+                "id": "18883",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "CARBURECO CALIA  SOCIETA' A RESPONSABILITA' LIMITATA IN SIGLA CARBURECO CALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.768280236401328,
+                    41.0823977198168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "stazione di rifornimento gas auto",
+                "id": "12426",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "DAVI S.N.C. DI VITO ADDARIO E DARIO PRANZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.848816275596622,
+                    41.030418741133275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DILL'S ADELFIA SUD",
+                "id": "30504",
+                "brand": "Dill s",
+                "amenity": "fuel",
+                "operator": "MODI - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.869531646370888,
+                    40.99786139958676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ACQUAVIVA DELLE FONTI",
+                "id": "5513",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.852480932540857,
+                    41.04823804917028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI CATALLUDDO 09168",
+                "id": "22158",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "CATALLUDDO PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.795558415313735,
+                    40.98410457377794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GATTI CARBURANTI SRL",
+                "id": "11003",
+                "brand": "Gatti carburanti",
+                "amenity": "fuel",
+                "operator": "GATTI CARBURANTI SOCIETA' A RESPONSABILITA' LIMITATA IN SIGLA: GATTI CARBURANTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.744870291509983,
+                    41.03348123323276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "30593",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "ROMITO ENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.792327612638474,
+                    41.096609314032484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "21093",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "SCHENA ROCCO & FIGLI S.A.S. DI SCHENA GIOVANNI E MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.870047107934624,
+                    41.092943716584436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE DI SERVIZIO DLK",
+                "id": "7927",
+                "amenity": "fuel",
+                "operator": "FRASONICO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.809014926464666,
+                    41.017472830682976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MODUGNO - SS 96",
+                "id": "23968",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.759916093254102,
+                    41.07784751457535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO MODUGNO",
+                "id": "31154",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "MODI - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.772381365299225,
+                    41.07476240108829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 38031",
+                "id": "25030",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.849701404571533,
+                    41.09686127090267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Coop Estense Bari",
+                "id": "17240",
+                "amenity": "fuel",
+                "operator": "COOP ESTENSE SOCIETA' COOPERATIVA, ABBREVIABILE NELLA SIGLA COOP ESTENSE ."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.84838724956819,
+                    41.10931659770523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO PALO DEL COLLE",
+                "id": "31148",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "C.T. CARBURANTI DI CUTRONE GIUSEPPE & C. S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.70744776725769,
+                    41.047082596652054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DILL'S SANNICANDRO",
+                "id": "30522",
+                "brand": "Dill s",
+                "amenity": "fuel",
+                "operator": "MODI - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.790751814842224,
+                    41.00496042855161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BITRITTO - VIA BARI",
+                "id": "22872",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.828672419643453,
+                    41.052738430708196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BITETTO S.P.90 BITETTO-SANNICANDRO",
+                "id": "6753",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA srl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.755262781614647,
+                    41.034100581668966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio Q8",
+                "id": "32100",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "DILISA SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.86746792327881,
+                    41.1059543848834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ESSO",
+                "id": "29314",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BELVISO ANTONIETTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.86407959800874,
+                    41.10691624213513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV 9133",
+                "id": "27844",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "GESTIONI INNOVATIVE ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.87036514282227,
+                    41.091905233392275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DILL'S ADELFIA V. CEGLIE",
+                "id": "26838",
+                "brand": "Dill s",
+                "amenity": "fuel",
+                "operator": "MODI - SOCIETA' A RESPONSABILITA' LIMITATA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.86334580183029,
+                    41.007940294935196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PALO DEL COLLE VIA BITONTO",
+                "id": "9881",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.703954187731597,
+                    41.0672959222282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SANNICANDRO",
+                "id": "17631",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.801789271163898,
+                    41.00619595180306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Forte Carlo & Figli sas",
+                "id": "7015",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "FORTE CARLO & FIGLI S.A.S."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.769142597913742,
+                    41.088577820029954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DILLS",
+                "id": "30692",
+                "brand": "Dill s",
+                "amenity": "fuel",
+                "operator": "CILIBERTI MICHELE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.784684658050534,
+                    41.0759137126629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "4861",
+                "id": "30818",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "T.D.M. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.715922206640244,
+                    41.05888915004012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AGIP",
+                "id": "17048",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "VOLPE INNOCENZO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.846965551376343,
+                    41.10086011112848
+                ]
+            }
+        }
+    ]
+}

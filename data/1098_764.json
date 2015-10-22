@@ -1,0 +1,375 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "giuseppe carpentieri",
+                "id": "20777",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "CARPENTIERI GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.174955695867542,
+                    41.48297175605622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "5131",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "BUGIA MAXIMILIEN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.045990991401707,
+                    41.497746509181525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIBUTORE CARBURANTI D'ALESSIO PATRIZIA",
+                "id": "23170",
+                "amenity": "fuel",
+                "operator": "D'ALESSIO PATRIZIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.152088522911072,
+                    41.39133682777247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SEZZENI003145",
+                "id": "31193",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CORO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.060594748548853,
+                    41.49964893651868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MARANGONI ANDREA",
+                "id": "7391",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MARANGONI ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.047946735981439,
+                    41.408814736475115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio Giorgi Massimiliano",
+                "id": "19335",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "GIORGI MASSIMILIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.058840185403824,
+                    41.50015352772922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "appiacarburanti",
+                "id": "14995",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "APPIA CARBURANTI DI TRULLI PAOLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.093059808015823,
+                    41.39286569681136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "edra",
+                "id": "29440",
+                "amenity": "fuel",
+                "operator": "NI.VA. SNC DI BATTISTA NICOLA E VALENTINA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.064305186271667,
+                    41.438048676259164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Distributore D'Alessio Salvatore e Figli sas",
+                "id": "21012",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "D'ALESSIO SALVATORE & FIGLI S.A.S. DI D'ALESSIO PAOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.174407184123995,
+                    41.42290576447932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VMSRL",
+                "id": "7042",
+                "amenity": "fuel",
+                "operator": "V.M. S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.04541438817978,
+                    41.4299551991939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DISTRIB. Retitalia LOC. SEZZE",
+                "id": "24070",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "PETROLIFERA ADRIATICA S.P.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.045738935470581,
+                    41.45796477172213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE IP di BONDI MARCELLO",
+                "id": "18544",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "BONDI MARCELLO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.045478651514259,
+                    41.40843872709248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TotalErg",
+                "id": "19888",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "LEVA QUINTILIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.06061499427449,
+                    41.49963171025971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SEZZE",
+                "id": "26774",
+                "amenity": "fuel",
+                "operator": "TIBER S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.064314529310652,
+                    41.50580679041353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PONTINIA",
+                "id": "30198",
+                "brand": "Repsol",
+                "amenity": "fuel",
+                "operator": "T. PETROL S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.03876425581973,
+                    41.415102471661285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Arcese",
+                "id": "6137",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ARCESE AUGUSTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.03431808948517,
+                    41.48710954821878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IP SEZZE Via Bassiano, 1",
+                "id": "10211",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "ROSELLA LOREDANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.055105921643076,
+                    41.50089431431843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "API",
+                "id": "26607",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "DI GIROLAMO ELISA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.155975043773651,
+                    41.39676235908273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SEZZE-LOC.SCALO SS. 156 KM.43+317",
+                "id": "11626",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.033253644180263,
+                    41.48547990694183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ANDREA PISA",
+                "id": "13120",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PISA ANDREA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.031963109970093,
+                    41.493064306271386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PV ENI 16748",
+                "id": "27218",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "LOMBARDI DOMENICO S.A.S. DI LOMBARDI DOMENICO & C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.16725775602947,
+                    41.47468673847357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SP SETINA SEZZE",
+                "id": "25568",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI E GESTIONI ZENIT S.R.L. IN SIGLA - ZENIT S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.041431298885525,
+                    41.49599612248012
+                ]
+            }
+        }
+    ]
+}

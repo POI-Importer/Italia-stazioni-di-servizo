@@ -1,0 +1,428 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZ DI SERVIZIO ESSO",
+                "id": "7228",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "ME.TA. DI GIANLUCA TASSELLI  & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.454780578613281,
+                    43.29167637403377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MM SNC DI MICHELE PAZZELLI",
+                "id": "6040",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "MM S.N.C. DI MICHELE PAZZELLI E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.446824821643075,
+                    43.29071946358643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Esso Bacaloni & Di Biagio",
+                "id": "7461",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "BACALONI E DI BIAGIO - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.484957367181778,
+                    43.27941367000115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIA CORCODIA 13",
+                "id": "29112",
+                "amenity": "fuel",
+                "operator": "FARABOLLINI SERGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.494724908984383,
+                    43.278098707610354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MACERATA - CLUENTINA",
+                "id": "29615",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.497232496738432,
+                    43.27545522418902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ENI MATTEI",
+                "id": "28400",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MATTEI GOFFREDO E C. S.N.C. DI MATTEI MARCO E CRISTIAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.437890135581936,
+                    43.296546192568094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IMPIANTO IP CORRADINI GIUSEPPE",
+                "id": "15523",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CORRADINI GIUSEPPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.503089770674707,
+                    43.238310117667986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STAZIONE SERVIZIO RETITALIA",
+                "id": "17089",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "PIGNANI GIORGIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.401566818356512,
+                    43.287350875526464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MACERATA",
+                "id": "28395",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "GESTIONI EUROPA - SOCIETA' PER AZIONI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.503905832767483,
+                    43.278161390975086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione Rifornimento IP CORRADINI ALFONSO",
+                "id": "25686",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CORRADINI ALFONSO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.469903989539944,
+                    43.22169676311937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "_5118 MACERATA",
+                "id": "8651",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "CORO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.443510532379149,
+                    43.26309062372329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MACERATA LOC.VILLA POTENZA SS 77 VAL DI CHIENTI KM 94+879",
+                "id": "24372",
+                "brand": "Q8",
+                "amenity": "fuel",
+                "operator": "SERVIZI & GESTIONI ITALIA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.426798028241706,
+                    43.32106921527076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "METANO PIEVE",
+                "id": "29019",
+                "amenity": "fuel",
+                "operator": "METANO PIEVE S.N.C. DI MASSACCESI ADRIANO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.428128063678745,
+                    43.272385303478984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Petrolchienti",
+                "id": "18215",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "PETROLCHIENTI S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.49213243469626,
+                    43.26343638957673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MACERATA - PIEDIRIPA",
+                "id": "24777",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "IP SERVICES S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.485322215938595,
+                    43.2749308406432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stramucci Luigi e C Snc",
+                "id": "23375",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STRAMUCCI LUIGI & C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.398459496411077,
+                    43.31635909351873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MATTEI GOFFREDO SNC",
+                "id": "10785",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "MATTEI GOFFREDO E C. S.N.C. DI MATTEI MARCO E CRISTIAN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.485642671585083,
+                    43.276357423311346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "corridonia nord",
+                "id": "24646",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "PETROL ESSE S.N.C. DI SCOPINI EMANUELE & ELISEI SIMONE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.438382148742678,
+                    43.25079813978633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eni Romoli Fabio",
+                "id": "10945",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "ROMOLI FABIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.384936451911926,
+                    43.246027687695225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "77carburanti snc",
+                "id": "16233",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "77 CARBURANTI S.N.C. DI PONTILLO CONTILLO PAOLO E POLCI ENZA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.421331346035007,
+                    43.2583261351521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di Servizio IP - Macerata",
+                "id": "25621",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SIMONETTI MARIO S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.425569650170925,
+                    43.27086491866652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Retitalia Piediripa Bema",
+                "id": "31914",
+                "brand": "Retitalia",
+                "amenity": "fuel",
+                "operator": "GRUPPO BEMA S.R.L."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.495085501297012,
+                    43.2773679048393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CORRADINI NELLO E C. SNC",
+                "id": "26865",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "CORRADINI NELLO SNC DI CORRADINI NELLO E C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.485304871648852,
+                    43.25529436866086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TOTALERG",
+                "id": "18213",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "CIURLANTI SIMONA E MARCHESINI GABRIELE - S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.387184143066404,
+                    43.20219659295619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "6770 MACERATA PANCALDUCCI",
+                "id": "5467",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "enirete oil&nonoil S.p.A."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.460018756608859,
+                    43.295448194014064
+                ]
+            }
+        }
+    ]
+}

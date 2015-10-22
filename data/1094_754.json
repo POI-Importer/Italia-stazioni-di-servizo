@@ -1,0 +1,122 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio ESSO di Ribeca Stefano e C. s.n.c.",
+                "id": "22866",
+                "brand": "Esso",
+                "amenity": "fuel",
+                "operator": "STAZIONE DI SERVIZIO ESSO DI RIBECA STEFANO E C. S.N.C."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.423969937434324,
+                    42.77681856243766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GIONTELLA S.R.L. - TODI",
+                "id": "29051",
+                "amenity": "fuel",
+                "operator": "GIONTELLA S.R.L"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.405420541763307,
+                    42.77797602050476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMOIL",
+                "id": "8318",
+                "brand": "Tamoil",
+                "amenity": "fuel",
+                "operator": "GALLETTI MASSIMILIANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.473350167274475,
+                    42.7340029003673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cascianelli",
+                "id": "7850",
+                "brand": "Agip Eni",
+                "amenity": "fuel",
+                "operator": "DISTRIBUTORE CARBURANTI CASCIANELLI FERRUCCIO DI CASCIANELLI LORE NA E C. SOCIETA' IN NOME COLLETTIVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.427810952067377,
+                    42.773829566320956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PERRI EUGENIO",
+                "id": "22539",
+                "amenity": "fuel",
+                "operator": "PERRI EUGENIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.309300899505615,
+                    42.757619288574254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stazione di servizio IP di Scassini Nicolò",
+                "id": "8374",
+                "brand": "Api-Ip",
+                "amenity": "fuel",
+                "operator": "SCASSINI NICOLO'"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.47601896524429,
+                    42.745465938300825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Totalerg di Venturi Giordano",
+                "id": "15782",
+                "brand": "Total Erg",
+                "amenity": "fuel",
+                "operator": "VENTURI GIORDANO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.414610740777107,
+                    42.77915038022757
+                ]
+            }
+        }
+    ]
+}
