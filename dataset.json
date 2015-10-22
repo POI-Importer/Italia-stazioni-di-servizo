@@ -7,8 +7,8 @@
 	"tagmatch":
 	[
 		{"key":"amenity", "algorithm":"equality"},
-		{"key":"name", "algorithm":"equalIgnoreCase"},
-		{"key":"brand", "algorithm":"equality"},
-		{"key":"operator", "algorithm":"equalIgnoreCase"}
+		{"key":"name", "algorithm":"substringIgnoreCase"},
+		{"key":"brand", "algorithm":"substringIgnoreCase"},
+		{"key":"operator", "algorithm":"substringIgnoreCase"}
 	]
 }
